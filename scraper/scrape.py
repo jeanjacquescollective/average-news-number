@@ -1,6 +1,6 @@
-"""Find new VRT NWS articles, count the numbers in them and update the daily stats.
+"""Count the numbers in VRT NWS front page headlines and articles; update the daily stats.
 
-Run it as often as you like: every article is processed exactly once.
+Run it as often as you like: every headline and every article is processed exactly once.
 
     python scraper/scrape.py                     # normal run
     python scraper/scrape.py --since 2026-10-01  # first run only: start the history earlier
@@ -207,6 +207,53 @@ class ArticlePageParser(HTMLParser):
         return "\n".join(lines)
 
 
+class FrontPageParser(HTMLParser):
+    """(key, headline) for every article teaser on the front page."""
+
+    BADGES = {"LIVE", "LIVEBLOG"}
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.key = None
+        self.depth = 0  # span nesting inside a headline; 0 = not in a headline
+        self.pieces = []
+        self.headlines = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "a":
+            m = LINK_RE.match(attrs.get("href") or "")
+            self.key = m.group(1) if m else None
+        elif tag == "span" and self.key:
+            if self.depth:
+                self.depth += 1
+            elif (attrs.get("class") or "").startswith("prose-h"):
+                self.depth, self.pieces = 1, []
+
+    def handle_endtag(self, tag):
+        if tag == "a":
+            self.key = None
+        elif tag == "span" and self.depth:
+            self.depth -= 1
+            if not self.depth:
+                headline = re.sub(r"[​-‏⁠﻿]", "", "".join(self.pieces))
+                headline = re.sub(r"\s+", " ", headline).strip()
+                if headline:
+                    self.headlines.append((self.key, headline))
+
+    def handle_data(self, data):
+        # Nested spans hold badges like "LIVEBLOG"; the headline itself is direct text.
+        if self.depth == 1 or (self.depth > 1 and data.strip() not in self.BADGES):
+            self.pieces.append(data)
+
+
+def front_page_headlines(page):
+    parser = FrontPageParser()
+    parser.feed(page)
+    parser.close()
+    return list(dict.fromkeys(parser.headlines))
+
+
 # --- articles -----------------------------------------------------------------
 
 def article_from_feed(key):
@@ -262,10 +309,11 @@ def iso_weeks(first, last):
 
 
 def discover(sitemap_weeks):
-    """All article keys (paths below /vrtnws/nl/) linked from the overview pages."""
-    sources = [FEED_URL, BASE + "net-binnen/", BASE]
+    """All article keys (paths below /vrtnws/nl/) linked from the overview pages,
+    plus the front page HTML (None if it could not be read)."""
+    sources = [BASE, FEED_URL, BASE + "net-binnen/"]
     sources += [SITEMAP_URL.format(year=y, week=w) for y, w in sitemap_weeks]
-    keys, working = set(), 0
+    keys, pages = set(), {}
     for url in sources:
         try:
             text = fetch(url)
@@ -274,12 +322,12 @@ def discover(sitemap_weeks):
             continue
         if text is None:
             continue  # weekly sitemaps only exist once the week is over
-        working += 1
+        pages[url] = text
         for m in LINK_RE.finditer(text):
             keys.add(m.group(1).removesuffix(".rss.xml"))
-    if working == 0:
+    if not pages:
         raise SystemExit("No overview page could be read; is the site down?")
-    return keys
+    return keys, pages.get(BASE)
 
 
 # --- storage ------------------------------------------------------------------
@@ -302,34 +350,42 @@ def day_path(day):
     return DATA / "days" / day[:4] / f"{day}.json"
 
 
-def add_article(day, record):
+def add_item(day, kind, record):
+    """Append a record to the "headlines" or "articles" list of a day file."""
     path = day_path(day)
-    data = read_json(path, {"date": day, "articles": []})
-    data["articles"].append(record)
-    data["articles"].sort(key=lambda a: a["published"] or a["first_seen"])
+    data = read_json(path, {"date": day})
+    data.setdefault("headlines", [])
+    data.setdefault("articles", [])
+    data[kind].append(record)
+    data[kind].sort(key=lambda a: a.get("published") or a["first_seen"])
     write_json(path, data)
+
+
+def item_stats(items):
+    refs = [
+        {"v": n["v"], "t": n["t"], "title": item["title"], "url": item["url"]}
+        for item in items for n in item["numbers"]
+    ]
+    values = [r["v"] for r in refs]
+    stats = {"count": len(items), "numbers": len(values)}
+    if values:
+        stats.update(
+            mean=round(statistics.fmean(values), 4),
+            median=statistics.median(values),
+            min=min(refs, key=lambda r: r["v"]),
+            max=max(refs, key=lambda r: r["v"]),
+        )
+    return stats
 
 
 def build_summary(tracking_start):
     days, updated_at = [], None
     for path in sorted((DATA / "days").glob("*/*.json")):
         day = read_json(path, None)
-        refs = [
-            {"v": n["v"], "t": n["t"], "title": a["title"], "url": a["url"]}
-            for a in day["articles"] for n in a["numbers"]
-        ]
-        values = [r["v"] for r in refs]
-        stats = {"date": day["date"], "articles": len(day["articles"]), "numbers": len(values)}
-        if values:
-            stats.update(
-                mean=round(statistics.fmean(values), 4),
-                median=statistics.median(values),
-                min=min(refs, key=lambda r: r["v"]),
-                max=max(refs, key=lambda r: r["v"]),
-            )
-        days.append(stats)
-        for a in day["articles"]:
-            updated_at = max(updated_at or a["first_seen"], a["first_seen"])
+        headlines, articles = day.get("headlines", []), day.get("articles", [])
+        days.append({"date": day["date"], "headlines": item_stats(headlines), "articles": item_stats(articles)})
+        for item in headlines + articles:
+            updated_at = max(updated_at or item["first_seen"], item["first_seen"])
     write_json(SUMMARY_FILE, {
         "source": BASE,
         "timezone": "Europe/Brussels",
@@ -362,10 +418,28 @@ def main():
         log("! --since is ignored: tracking already started on " + state["tracking_start"])
     tracking_start = dt.date.fromisoformat(state["tracking_start"])
     seen, ids, failures = state["seen"], state["ids"], state["failures"]
+    seen_headlines = state.setdefault("headlines", {})
 
     # Weekly sitemaps are a safety net for anything the overview pages no longer show.
     sitemap_from = tracking_start if first_run else max(tracking_start, today - dt.timedelta(days=8))
-    keys = discover(iso_weeks(sitemap_from, today))
+    keys, front_page = discover(iso_weeks(sitemap_from, today))
+
+    # Front page headlines count once, on the day they first appear. Liveblogs that
+    # run for days get a new headline with every development, and each one counts.
+    new_headlines = 0
+    for key, headline in front_page_headlines(front_page or ""):
+        if headline in seen_headlines:
+            continue
+        seen_headlines[headline] = today.isoformat()
+        numbers = extract_numbers(headline)
+        add_item(today.isoformat(), "headlines", {
+            "title": headline,
+            "url": f"{BASE}{key}/",
+            "first_seen": now.isoformat(),
+            "numbers": numbers,
+        })
+        new_headlines += 1
+        log(f"+ headline {len(numbers):2d} numbers  {headline[:80]}")
 
     def is_candidate(key):
         published = key_date(key)
@@ -400,7 +474,7 @@ def main():
             ids[article["id"]] = today.isoformat()
 
         numbers = extract_numbers(article["title"] + "\n" + article["body"])
-        add_article(day.isoformat(), {
+        add_item(day.isoformat(), "articles", {
             "id": article["id"],
             "url": f"{BASE}{key}/",
             "title": article["title"],
@@ -415,9 +489,10 @@ def main():
     state["seen"] = {k: v for k, v in sorted(seen.items()) if v >= cutoff}
     state["ids"] = {k: v for k, v in sorted(ids.items()) if v >= cutoff}
     state["failures"] = dict(sorted(failures.items()))
+    state["headlines"] = {k: v for k, v in sorted(seen_headlines.items()) if v >= cutoff}
     write_json(STATE_FILE, state)
     build_summary(state["tracking_start"])
-    log(f"Done: {added} new articles")
+    log(f"Done: {new_headlines} new headlines, {added} new articles")
 
 
 if __name__ == "__main__":
