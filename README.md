@@ -1,36 +1,47 @@
 # Average News Number
 
-Reads every new article on [VRT NWS](https://www.vrt.be/vrtnws/nl/), collects every number in it
-(digits *and* written-out Dutch/English numbers like "honderd" or "twenty-one"), and publishes the
-**mean** and **median** number of each day.
+Collects every number (digits *and* written-out Dutch/English numbers like "honderd" or
+"twenty-one") in the headlines on the [VRT NWS](https://www.vrt.be/vrtnws/nl/) front page, and
+publishes the **mean** and **median** number of each day. The full text of every article is counted
+too, as a separate total.
 
-- `index.html`: yesterday's mean (big), the median, and an ⓘ button that lists every article of that day
-  with the numbers found in it. `?date=YYYY-MM-DD` shows any other day.
+- **Front-page headlines** (the main number): each headline counts once, on the day it first appears
+  on the front page. Liveblogs that run for days get a new headline with every development; each new
+  headline counts again.
+- **Full articles** (the total): headline + body of every article published that day, read once.
+
+The site is in Dutch, with an NL/EN switch in the header (remembered per visitor).
+
+- `index.html`: yesterday's headline mean (big), the median, and an ⓘ button that lists every
+  headline and every article of that day with the numbers found in it. `?date=YYYY-MM-DD` shows any
+  other day.
 - `history.html`: highest/lowest mean, highest/lowest median, the biggest and smallest number ever
-  found, and a table of all days.
+  found, and a table of all days, both for the headlines and for the full articles.
 
 ## How it works
 
 ```
 scraper/scrape.py      finds new articles, extracts numbers, updates data/
 scraper/numextract.py  the number extraction (see the docstring for the exact rules)
-data/days/YYYY/*.json  every article with the numbers found in it, one file per day
+data/days/YYYY/*.json  every headline and article with the numbers found in it, one file per day
 data/summary.json      per-day stats; the website reads this
-data/state.json        which articles were already processed
+data/state.json        which headlines and articles were already processed
 site/                  the static website
 ```
 
 Each run (every 10 minutes on GitHub Actions):
 
-1. Collects article links from the Atom feed (~last 6 hours), the
+1. Reads the headlines on the front page and stores every headline it has not seen before.
+   (A headline that is on the front page for less than the 10 minutes between runs can be missed.)
+2. Collects article links from the Atom feed (~last 6 hours), the
    [net binnen](https://www.vrt.be/vrtnws/nl/net-binnen/) page (~last 24 hours), the homepage, and the
    weekly sitemaps (last 8 days). Overlapping sources mean an article is caught even if runs are
    skipped for hours.
-2. Skips anything already processed. Each article is processed **once**, using its text at that moment.
-3. Reads the full text from the article's own `.rss.xml` feed (or the page itself for liveblogs),
+3. Skips anything already processed. Each article is processed **once**, using its text at that moment.
+4. Reads the full text from the article's own `.rss.xml` feed (or the page itself for liveblogs),
    extracts the numbers from the headline and body, and files the article under its publication day
    (Belgian time).
-4. Recomputes `data/summary.json`. A day is shown as "complete" once it is over in Belgium. If an
+5. Recomputes `data/summary.json`. A day is shown as "complete" once it is over in Belgium. If an
    article from an earlier day turns up late (e.g. via the sitemaps), that day's stats update.
 
 Only standard-library Python 3.11+ is needed; there are no dependencies.

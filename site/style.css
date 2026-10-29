@@ -54,6 +54,21 @@ header.site a, footer.site a { text-decoration: none; }
 header.site a:hover, footer.site a:hover { color: var(--text); }
 .brand { font-weight: 600; color: var(--text); letter-spacing: 0.02em; }
 
+.header-links { display: flex; align-items: center; gap: 1rem; }
+
+.lang-toggle {
+  padding: 0.2rem 0.55rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: none;
+  color: var(--muted);
+  font: 600 0.75rem/1.4 inherit;
+  font-family: inherit;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+}
+.lang-toggle:hover, .lang-toggle:focus-visible { color: var(--text); border-color: var(--muted); }
+
 main {
   flex: 1;
   width: 100%;
@@ -162,8 +177,10 @@ dialog::backdrop { background: rgb(0 0 0 / 0.45); }
 
 .dialog-body { padding: 1rem 1.25rem 1.5rem; }
 .dialog-body > p { margin-top: 0; color: var(--muted); }
+.dialog-body > h3 { margin: 2rem 0 0.75rem; font-size: 1rem; }
+.dialog-body > h3 + p { margin-bottom: 0; }
 
-.articles { list-style: none; margin: 1.5rem 0 0; padding: 0; }
+.articles { list-style: none; margin: 1rem 0 0; padding: 0; }
 .articles li { padding: 0.9rem 0; border-top: 1px solid var(--line); }
 .articles .meta { font-size: 0.8rem; color: var(--muted); }
 .articles a.title { font-weight: 600; text-decoration: none; }
@@ -184,6 +201,10 @@ dialog::backdrop { background: rgb(0 0 0 / 0.45); }
 h1.page-title { font-size: clamp(1.75rem, 5vw, 2.5rem); margin: 1.5rem 0 0.25rem; }
 .lede { margin: 0 0 2rem; color: var(--muted); }
 
+section + section { margin-top: 4rem; }
+.section-title { margin: 0 0 1rem; font-size: 1.35rem; }
+.section-title + .lede { margin-top: -0.5rem; }
+
 .records {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
@@ -198,7 +219,7 @@ h1.page-title { font-size: clamp(1.75rem, 5vw, 2.5rem); margin: 1.5rem 0 0.25rem
   background: var(--surface);
   min-width: 0;
 }
-.record h2 {
+.record h3 {
   margin: 0;
   font-size: 0.8rem;
   font-weight: 600;

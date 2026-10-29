@@ -1,43 +1,40 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>News Number History</title>
-  <meta name="description" content="Records and day-by-day history of the average number in the VRT NWS news.">
+  <title>Nieuwsgetal Geschiedenis</title>
+  <meta name="description" content="Records en dag-per-dag geschiedenis van het gemiddelde getal in het nieuws van VRT NWS.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="site">
-    <a class="brand" href="./">Average News Number</a>
-    <a href="./">← Today’s number</a>
+    <a class="brand" href="./" data-i18n="brand">Gemiddeld Nieuwsgetal</a>
+    <div class="header-links">
+      <a href="./" data-i18n="backLink">← Terug naar het getal</a>
+      <button class="lang-toggle" id="lang" type="button">EN</button>
+    </div>
   </header>
 
   <main>
-    <h1 class="page-title">History</h1>
-    <p class="lede" id="lede">Loading…</p>
-    <section class="records" id="records" aria-label="Records"></section>
-    <div class="table-wrap">
-      <table id="table" hidden>
-        <thead>
-          <tr>
-            <th scope="col">Day</th>
-            <th scope="col">Articles</th>
-            <th scope="col">Numbers</th>
-            <th scope="col">Mean</th>
-            <th scope="col">Median</th>
-            <th scope="col">Smallest</th>
-            <th scope="col">Biggest</th>
-          </tr>
-        </thead>
-        <tbody></tbody>
-      </table>
-    </div>
+    <h1 class="page-title" data-i18n="historyTitle">Geschiedenis</h1>
+    <p class="lede" id="lede" data-i18n="loading">Laden…</p>
+    <section id="headlines" hidden>
+      <h2 class="section-title" data-i18n="headlinesHeading">Koppen op de voorpagina</h2>
+      <div class="records"></div>
+      <div class="table-wrap"><table></table></div>
+    </section>
+    <section id="articles" hidden>
+      <h2 class="section-title" data-i18n="articlesHeading">Volledige artikels</h2>
+      <p class="lede" id="articles-lede"></p>
+      <div class="records"></div>
+      <div class="table-wrap"><table></table></div>
+    </section>
   </main>
 
   <footer class="site">
-    <span>Numbers from <a href="https://www.vrt.be/vrtnws/nl/">VRT NWS</a> articles</span>
+    <span><span data-i18n="footerSource">Getallen uit de koppen en artikels van</span> <a href="https://www.vrt.be/vrtnws/nl/">VRT NWS</a></span>
   </footer>
 
   <script src="common.js"></script>
@@ -45,27 +42,72 @@
     const $ = (id) => document.getElementById(id);
     const shortDay = { weekday: "short", day: "numeric", month: "short", year: "numeric" };
 
-    function pick(days, field, compare) {
-      return days.reduce((best, d) => (best === null || compare(d[field], best[field]) ? d : best), null);
+    function pick(days, kind, field, better) {
+      return days.reduce((best, d) => (best === null || better(d[kind][field], best[kind][field]) ? d : best), null);
     }
 
-    function dayRecord(title, day, field) {
+    function dayRecord(title, day, kind, field) {
       return el("article", { class: "record" },
-        el("h2", {}, title),
-        el("p", { class: "value tabular" }, formatNumber(day[field])),
+        el("h3", {}, t(title)),
+        el("p", { class: "value tabular" }, formatNumber(day[kind][field])),
         el("p", { class: "context" }, el("a", { href: `./?date=${day.date}` }, formatDay(day.date, shortDay)),
-          ` · ${formatNumber(day.numbers)} numbers`),
+          ` · ${t("numbers", day[kind].numbers)}`),
       );
     }
 
-    function numberRecord(title, day, ref) {
+    function numberRecord(title, day, ref, fallbackTitle) {
       return el("article", { class: "record" },
-        el("h2", {}, title),
+        el("h3", {}, t(title)),
         el("p", { class: "value tabular" }, formatNumber(ref.v)),
-        el("p", { class: "context" }, `“${ref.t}” in `,
-          el("a", { href: ref.url, target: "_blank", rel: "noopener" }, ref.title || "an article"),
+        el("p", { class: "context" }, `“${ref.t}” ${t("inHeadline")} `,
+          el("a", { href: ref.url, target: "_blank", rel: "noopener" }, ref.title || t(fallbackTitle)),
           `, ${formatDay(day.date, shortDay)}`),
       );
+    }
+
+    // Records and a day-by-day table for one kind of stats ("headlines" or "articles").
+    function renderSection(section, allDays, kind, countColumn, fallbackTitle) {
+      const today = todayInBrussels();
+      const days = allDays.filter((d) => d[kind].numbers > 0);
+      section.hidden = days.length === 0;
+      if (!days.length) return;
+
+      const complete = days.filter((d) => d.date < today);
+      const higher = (a, b) => a > b;
+      const lower = (a, b) => a < b;
+      const records = complete.length
+        ? [
+            dayRecord("highestMean", pick(complete, kind, "mean", higher), kind, "mean"),
+            dayRecord("lowestMean", pick(complete, kind, "mean", lower), kind, "mean"),
+            dayRecord("highestMedian", pick(complete, kind, "median", higher), kind, "median"),
+            dayRecord("lowestMedian", pick(complete, kind, "median", lower), kind, "median"),
+          ]
+        : [];
+      const biggest = days.reduce((best, d) => (!best || d[kind].max.v > best[kind].max.v ? d : best), null);
+      const smallest = days.reduce((best, d) => (!best || d[kind].min.v < best[kind].min.v ? d : best), null);
+      records.push(
+        numberRecord("biggest", biggest, biggest[kind].max, fallbackTitle),
+        numberRecord("smallest", smallest, smallest[kind].min, fallbackTitle),
+      );
+      if (!complete.length) records.push(el("p", { class: "record context" }, t("recordsLater")));
+      section.querySelector(".records").replaceChildren(...records);
+
+      const columns = ["colDay", countColumn, "colNumbers", "colMean", "colMedian", "colSmallest", "colBiggest"];
+      const head = el("thead", {}, el("tr", {}, ...columns.map((c) => el("th", { scope: "col" }, t(c)))));
+      const rows = [...days].reverse().map((d) => {
+        const s = d[kind];
+        const partial = d.date >= today;
+        return el("tr", { class: partial ? "partial" : null },
+          el("td", {}, el("a", { href: `./?date=${d.date}` }, formatDay(d.date, shortDay)), partial ? t("soFar") : ""),
+          el("td", { class: "tabular" }, formatNumber(s.count)),
+          el("td", { class: "tabular" }, formatNumber(s.numbers)),
+          el("td", { class: "tabular" }, formatNumber(s.mean)),
+          el("td", { class: "tabular" }, formatNumber(s.median)),
+          el("td", { class: "tabular", title: s.min.t }, formatNumber(s.min.v)),
+          el("td", { class: "tabular", title: s.max.t }, formatNumber(s.max.v)),
+        );
+      });
+      section.querySelector("table").replaceChildren(head, el("tbody", {}, ...rows));
     }
 
     async function render() {
@@ -73,59 +115,22 @@
       try {
         summary = await loadSummary();
       } catch {
-        $("lede").textContent = "No data yet. Check back after the first run.";
+        $("lede").textContent = t("noData");
         return;
       }
 
-      const today = todayInBrussels();
-      const days = summary.days.filter((d) => d.numbers > 0);
-      const complete = days.filter((d) => d.date < today);
-      const totalArticles = summary.days.reduce((sum, d) => sum + d.articles, 0);
-      const totalNumbers = days.reduce((sum, d) => sum + d.numbers, 0);
-      $("lede").textContent = days.length
-        ? `${formatNumber(totalNumbers)} numbers from ${formatNumber(totalArticles)} articles since ${formatDay(summary.tracking_start, shortDay)}.`
-        : "No data yet. Check back after the first run.";
-      if (!days.length) return;
+      const total = (kind, field) => summary.days.reduce((sum, d) => sum + d[kind][field], 0);
+      const since = formatDay(summary.tracking_start, shortDay);
+      $("lede").textContent = total("headlines", "numbers")
+        ? t("historyLede", t("numbers", total("headlines", "numbers")), total("headlines", "count"), since)
+        : t("noData");
+      $("articles-lede").textContent = t("articlesLede", t("numbers", total("articles", "numbers")), total("articles", "count"));
 
-      const records = [];
-      if (complete.length) {
-        const higher = (a, b) => a > b;
-        const lower = (a, b) => a < b;
-        records.push(
-          dayRecord("Highest mean", pick(complete, "mean", higher), "mean"),
-          dayRecord("Lowest mean", pick(complete, "mean", lower), "mean"),
-          dayRecord("Highest median", pick(complete, "median", higher), "median"),
-          dayRecord("Lowest median", pick(complete, "median", lower), "median"),
-        );
-      }
-      const biggest = days.reduce((best, d) => (!best || d.max.v > best.max.v ? d : best), null);
-      const smallest = days.reduce((best, d) => (!best || d.min.v < best.min.v ? d : best), null);
-      records.push(
-        numberRecord("Biggest number", biggest, biggest.max),
-        numberRecord("Smallest number", smallest, smallest.min),
-      );
-      if (!complete.length) {
-        records.push(el("p", { class: "record context" }, "Mean and median records appear once the first full day is done."));
-      }
-      $("records").replaceChildren(...records);
-
-      const rows = [...days].reverse().map((d) => {
-        const partial = d.date >= today;
-        return el("tr", { class: partial ? "partial" : null },
-          el("td", {}, el("a", { href: `./?date=${d.date}` }, formatDay(d.date, shortDay)), partial ? " (so far)" : ""),
-          el("td", { class: "tabular" }, formatNumber(d.articles)),
-          el("td", { class: "tabular" }, formatNumber(d.numbers)),
-          el("td", { class: "tabular" }, formatNumber(d.mean)),
-          el("td", { class: "tabular" }, formatNumber(d.median)),
-          el("td", { class: "tabular", title: d.min.t }, formatNumber(d.min.v)),
-          el("td", { class: "tabular", title: d.max.t }, formatNumber(d.max.v)),
-        );
-      });
-      $("table").tBodies[0].replaceChildren(...rows);
-      $("table").hidden = false;
+      renderSection($("headlines"), summary.days, "headlines", "colHeadlines", "aHeadline");
+      renderSection($("articles"), summary.days, "articles", "colArticles", "anArticle");
     }
 
-    render();
+    setupLanguage(render);
   </script>
 </body>
 </html>
