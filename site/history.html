@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>News Number History</title>
+  <meta name="description" content="Records and day-by-day history of the average number in the VRT NWS news.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site">
+    <a class="brand" href="./">Average News Number</a>
+    <a href="./">← Today’s number</a>
+  </header>
+
+  <main>
+    <h1 class="page-title">History</h1>
+    <p class="lede" id="lede">Loading…</p>
+    <section class="records" id="records" aria-label="Records"></section>
+    <div class="table-wrap">
+      <table id="table" hidden>
+        <thead>
+          <tr>
+            <th scope="col">Day</th>
+            <th scope="col">Articles</th>
+            <th scope="col">Numbers</th>
+            <th scope="col">Mean</th>
+            <th scope="col">Median</th>
+            <th scope="col">Smallest</th>
+            <th scope="col">Biggest</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer class="site">
+    <span>Numbers from <a href="https://www.vrt.be/vrtnws/nl/">VRT NWS</a> articles</span>
+  </footer>
+
+  <script src="common.js"></script>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const shortDay = { weekday: "short", day: "numeric", month: "short", year: "numeric" };
+
+    function pick(days, field, compare) {
+      return days.reduce((best, d) => (best === null || compare(d[field], best[field]) ? d : best), null);
+    }
+
+    function dayRecord(title, day, field) {
+      return el("article", { class: "record" },
+        el("h2", {}, title),
+        el("p", { class: "value tabular" }, formatNumber(day[field])),
+        el("p", { class: "context" }, el("a", { href: `./?date=${day.date}` }, formatDay(day.date, shortDay)),
+          ` · ${formatNumber(day.numbers)} numbers`),
+      );
+    }
+
+    function numberRecord(title, day, ref) {
+      return el("article", { class: "record" },
+        el("h2", {}, title),
+        el("p", { class: "value tabular" }, formatNumber(ref.v)),
+        el("p", { class: "context" }, `“${ref.t}” in `,
+          el("a", { href: ref.url, target: "_blank", rel: "noopener" }, ref.title || "an article"),
+          `, ${formatDay(day.date, shortDay)}`),
+      );
+    }
+
+    async function render() {
+      let summary;
+      try {
+        summary = await loadSummary();
+      } catch {
+        $("lede").textContent = "No data yet. Check back after the first run.";
+        return;
+      }
+
+      const today = todayInBrussels();
+      const days = summary.days.filter((d) => d.numbers > 0);
+      const complete = days.filter((d) => d.date < today);
+      const totalArticles = summary.days.reduce((sum, d) => sum + d.articles, 0);
+      const totalNumbers = days.reduce((sum, d) => sum + d.numbers, 0);
+      $("lede").textContent = days.length
+        ? `${formatNumber(totalNumbers)} numbers from ${formatNumber(totalArticles)} articles since ${formatDay(summary.tracking_start, shortDay)}.`
+        : "No data yet. Check back after the first run.";
+      if (!days.length) return;
+
+      const records = [];
+      if (complete.length) {
+        const higher = (a, b) => a > b;
+        const lower = (a, b) => a < b;
+        records.push(
+          dayRecord("Highest mean", pick(complete, "mean", higher), "mean"),
+          dayRecord("Lowest mean", pick(complete, "mean", lower), "mean"),
+          dayRecord("Highest median", pick(complete, "median", higher), "median"),
+          dayRecord("Lowest median", pick(complete, "median", lower), "median"),
+        );
+      }
+      const biggest = days.reduce((best, d) => (!best || d.max.v > best.max.v ? d : best), null);
+      const smallest = days.reduce((best, d) => (!best || d.min.v < best.min.v ? d : best), null);
+      records.push(
+        numberRecord("Biggest number", biggest, biggest.max),
+        numberRecord("Smallest number", smallest, smallest.min),
+      );
+      if (!complete.length) {
+        records.push(el("p", { class: "record context" }, "Mean and median records appear once the first full day is done."));
+      }
+      $("records").replaceChildren(...records);
+
+      const rows = [...days].reverse().map((d) => {
+        const partial = d.date >= today;
+        return el("tr", { class: partial ? "partial" : null },
+          el("td", {}, el("a", { href: `./?date=${d.date}` }, formatDay(d.date, shortDay)), partial ? " (so far)" : ""),
+          el("td", { class: "tabular" }, formatNumber(d.articles)),
+          el("td", { class: "tabular" }, formatNumber(d.numbers)),
+          el("td", { class: "tabular" }, formatNumber(d.mean)),
+          el("td", { class: "tabular" }, formatNumber(d.median)),
+          el("td", { class: "tabular", title: d.min.t }, formatNumber(d.min.v)),
+          el("td", { class: "tabular", title: d.max.t }, formatNumber(d.max.v)),
+        );
+      });
+      $("table").tBodies[0].replaceChildren(...rows);
+      $("table").hidden = false;
+    }
+
+    render();
+  </script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+name: Scrape and publish
+
+on:
+  schedule:
+    # Every 10 minutes, off the busy :00 mark (GitHub delays schedules at the top of the hour).
+    # The "net binnen" page covers ~24 hours, so even long delays don't lose articles.
+    - cron: "7,17,27,37,47,57 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["site/**", "scraper/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Never run two scrapes at once: they would process the same articles twice.
+concurrency:
+  group: scrape-and-publish
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Test number extraction
+        run: python -m unittest discover -s tests
+
+      - name: Scrape new articles
+        run: python scraper/scrape.py
+
+      - name: Commit data
+        id: commit
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update news numbers $(TZ=Europe/Brussels date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: scrape
+    if: needs.scrape.outputs.changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref }}  # the branch head, including the data just committed
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site/data
+          cp -r site/. _site/
+          cp -r data/days data/summary.json _site/data/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

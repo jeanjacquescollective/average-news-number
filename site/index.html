@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Average News Number</title>
+  <meta name="description" content="The average of every number mentioned in the VRT NWS news, day by day.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site">
+    <a class="brand" href="./">Average News Number</a>
+    <a href="history.html">History →</a>
+  </header>
+
+  <main>
+    <section class="hero" aria-live="polite">
+      <p class="label" id="label">Loading…</p>
+      <div class="number-row">
+        <p class="big-number tabular" id="mean"></p>
+        <button class="info-button" id="info" type="button" aria-label="Where does this number come from?" title="Where does this number come from?" hidden>i</button>
+      </div>
+      <p class="median" id="median"></p>
+      <nav class="day-nav" aria-label="Other days" id="day-nav" hidden>
+        <a id="prev" href="#">‹ previous day</a>
+        <a id="next" href="#">next day ›</a>
+      </nav>
+      <p class="today-note" id="today-note"></p>
+    </section>
+  </main>
+
+  <footer class="site">
+    <span>Numbers from <a href="https://www.vrt.be/vrtnws/nl/">VRT NWS</a> articles</span>
+    <span id="updated"></span>
+  </footer>
+
+  <dialog id="dialog" aria-labelledby="dialog-title">
+    <div class="dialog-head">
+      <h2 id="dialog-title">Where does this number come from?</h2>
+      <button class="close-button" id="close" type="button" aria-label="Close">×</button>
+    </div>
+    <div class="dialog-body" id="dialog-body"></div>
+  </dialog>
+
+  <script src="common.js"></script>
+  <script>
+    const $ = (id) => document.getElementById(id);
+
+    function dayLink(day) {
+      return day ? `?date=${day.date}` : "#";
+    }
+
+    function setNav(anchor, day) {
+      anchor.href = dayLink(day);
+      anchor.setAttribute("aria-disabled", day ? "false" : "true");
+      anchor.tabIndex = day ? 0 : -1;
+    }
+
+    function explanation(day, isPartial) {
+      return el("p", {},
+        `Every news article published on VRT NWS ${isPartial ? "so far today" : `on ${formatDay(day.date)}`} is read once, as soon as it appears. ` +
+        "Every number in its headline and text is collected: digits (12, 10.000, 3,5), Dutch and English number words " +
+        "(drie, tweeëntwintig, honderd, twenty-one) and amounts such as “2 miljard”. ",
+        el("strong", {}, `${formatNumber(day.numbers)} numbers from ${day.articles} articles`),
+        ` give a mean (sum ÷ count) of ${formatNumber(day.mean)} and a median (the middle value) of ${formatNumber(day.median)}.`,
+      );
+    }
+
+    async function openInfo(day, isPartial) {
+      const body = $("dialog-body");
+      body.replaceChildren(explanation(day, isPartial), el("p", {}, "Loading articles…"));
+      $("dialog").showModal();
+      try {
+        const data = await loadDay(day.date);
+        const list = el("ol", { class: "articles" });
+        for (const article of data.articles) {
+          const chips = el("div", { class: "chips" });
+          if (article.numbers.length === 0) chips.append(el("span", { class: "chip none" }, "no numbers"));
+          for (const n of article.numbers) {
+            chips.append(el("span", { class: "chip", title: formatNumber(n.v) }, n.t));
+          }
+          list.append(el("li", {},
+            el("div", { class: "meta" }, `${article.published ? formatTime(article.published) : ""} · ${article.numbers.length} numbers`),
+            el("a", { class: "title", href: article.url, target: "_blank", rel: "noopener" }, article.title || article.url),
+            chips,
+          ));
+        }
+        body.replaceChildren(explanation(day, isPartial), list);
+      } catch (error) {
+        body.lastChild.textContent = "Could not load the articles for this day.";
+      }
+    }
+
+    async function render() {
+      let summary;
+      try {
+        summary = await loadSummary();
+      } catch {
+        $("label").textContent = "No data yet. Check back after the first run.";
+        return;
+      }
+
+      const today = todayInBrussels();
+      const days = summary.days.filter((d) => d.numbers > 0);
+      const requested = new URLSearchParams(location.search).get("date");
+      const complete = days.filter((d) => d.date < today);
+      const day = days.find((d) => d.date === requested) || complete.at(-1) || days.at(-1);
+
+      if (!day) {
+        $("label").textContent = "No data yet. Check back after the first run.";
+        return;
+      }
+
+      const isPartial = day.date >= today;
+      const isLatest = day === complete.at(-1);
+      $("label").textContent = isPartial
+        ? "The average number in today’s VRT NWS news, so far"
+        : `The average number in the VRT NWS news ${isLatest ? "yesterday, " : "on "}${formatDay(day.date)}`;
+
+      const meanText = formatNumber(day.mean);
+      $("mean").textContent = meanText;
+      $("mean").style.setProperty("--big-size", `min(13rem, ${Math.round(150 / Math.max(meanText.length, 5))}vw)`);
+      $("median").replaceChildren("median ", el("strong", { class: "tabular" }, formatNumber(day.median)));
+      document.title = `${meanText} · Average News Number`;
+
+      const index = days.indexOf(day);
+      setNav($("prev"), days[index - 1]);
+      setNav($("next"), days[index + 1]);
+      $("day-nav").hidden = days.length < 2;
+
+      const todayStats = days.find((d) => d.date === today);
+      if (!isPartial && todayStats) {
+        $("today-note").replaceChildren("Today so far: ", el("a", { href: `?date=${today}` }, formatNumber(todayStats.mean)));
+      }
+
+      $("info").hidden = false;
+      $("info").onclick = () => openInfo(day, isPartial);
+      if (summary.updated_at) {
+        $("updated").textContent = `Last new article ${formatDay(summary.updated_at.slice(0, 10), { day: "numeric", month: "short" })}, ${formatTime(summary.updated_at)}`;
+      }
+    }
+
+    $("close").onclick = () => $("dialog").close();
+    $("dialog").addEventListener("click", (event) => {
+      if (event.target === $("dialog")) $("dialog").close();
+    });
+    render();
+  </script>
+</body>
+</html>

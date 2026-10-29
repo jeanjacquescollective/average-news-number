@@ -1,0 +1,27 @@
+{
+ "source": "https://www.vrt.be/vrtnws/nl/",
+ "timezone": "Europe/Brussels",
+ "tracking_start": "2026-10-29",
+ "updated_at": "2026-10-29T20:27:13+01:00",
+ "days": [
+  {
+   "date": "2026-10-29",
+   "articles": 76,
+   "numbers": 699,
+   "mean": 198856578.2307,
+   "median": 19,
+   "min": {
+    "v": -30,
+    "t": "-30",
+    "title": "Nieuwe verkeersbelasting in Vlaanderen: check hier welke voordeligst is",
+    "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vergelijker-toont-vlaming-voordeligste-verkeersbelasting/"
+   },
+   "max": {
+    "v": 75280000000,
+    "t": "75,28 miljard",
+    "title": "Miljardenverlies voor Volkswagen",
+    "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/miljardenverlies-voor-volkswagen/"
+   }
+  }
+ ]
+}
