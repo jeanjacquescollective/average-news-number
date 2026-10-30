@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-29",
- "updated_at": "2026-10-30T09:11:57+01:00",
+ "updated_at": "2026-10-30T09:16:16+01:00",
  "days": [
   {
    "date": "2026-10-30",
@@ -25,10 +25,10 @@
     }
    },
    "articles": {
-    "count": 17,
-    "numbers": 197,
-    "mean": 177289013.5619,
-    "median": 31,
+    "count": 19,
+    "numbers": 200,
+    "mean": 174629678.5435,
+    "median": 30.0,
     "min": {
      "v": 1,
      "t": "één",
