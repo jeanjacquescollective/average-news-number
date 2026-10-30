@@ -335,6 +335,39 @@
    "first_seen": "2026-10-30T12:40:29+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Na grootste hack in geschiedenis van crypto: hoe 'safu' zijn beurzen als Binance?",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/na-de-grootste-hack-in-de-geschiedenis-van-crypto-hoe-safu-is-c/",
+   "first_seen": "2026-10-30T13:26:24+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Brug te ver\": OCMW's verbaasd over omzendbrief Van Bossuyt over activeren leefloners",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ocmw-s-verbaasd-over-omzendbrief-van-bossuyt-over-leefloners-i/",
+   "first_seen": "2026-10-30T13:26:24+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Van Ian McKellen en Hugh Jackman tot William Shatner: collega's rouwen om Patrick Stewart",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/patrick-stewart-overleden-reacties/",
+   "first_seen": "2026-10-30T13:26:24+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Shakespeare-vedette die sciencefictionlegende werd: Patrick Stewart (86) overleden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/obit-patrick-stewart-captain-picard-professor-x/",
+   "first_seen": "2026-10-30T13:26:24+01:00",
+   "numbers": [
+    {
+     "v": 86,
+     "t": "86"
+    }
+   ],
+   "money": []
   }
  ],
  "articles": [
@@ -2842,6 +2875,194 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.M9mJ16YyO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ocmw-s-verbaasd-over-omzendbrief-van-bossuyt-over-leefloners-i/",
+   "title": "\"Brug te ver\": OCMW's verbaasd over omzendbrief Van Bossuyt over activeren leefloners",
+   "published": "2026-10-30T13:02:17+01:00",
+   "first_seen": "2026-10-30T13:26:24+01:00",
+   "numbers": [
+    {
+     "v": 100000,
+     "t": "100.000"
+    },
+    {
+     "v": 53,
+     "t": "53"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8kbxW8m",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/fusie-az-glorieux-oudenaarde-ronse-vertraging/",
+   "title": "Fusieziekenhuis AZ Oudenaarde en AZ Glorieux Ronse start niet op 1 januari: \"Startdatum is onhaalbaar\"",
+   "published": "2026-10-30T13:05:07+01:00",
+   "first_seen": "2026-10-30T13:26:24+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLq0QRm7o",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/na-de-grootste-hack-in-de-geschiedenis-van-crypto-hoe-safu-is-c/",
+   "title": "Na grootste hack in geschiedenis van cryptomunten: hoe 'safu' zijn beurzen als Binance?",
+   "published": "2026-10-30T13:10:06+01:00",
+   "first_seen": "2026-10-30T13:26:24+01:00",
+   "numbers": [
+    {
+     "v": 6300000000,
+     "t": "6,3 miljard"
+    },
+    {
+     "v": 5600000000,
+     "t": "5,6 miljard"
+    },
+    {
+     "v": 6300000000,
+     "t": "6,3 miljard"
+    },
+    {
+     "v": 5600000000,
+     "t": "5,6 miljard"
+    },
+    {
+     "v": 3000000000,
+     "t": "3 miljard"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5500000000,
+     "t": "5 en een half miljard"
+    },
+    {
+     "v": 5500000000,
+     "t": "5 en een half miljard"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    },
+    {
+     "v": 48,
+     "t": "48"
+    },
+    {
+     "v": 3000000000,
+     "t": "3 miljard"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 6000000000,
+     "t": "6 miljard"
+    },
+    {
+     "v": 100000,
+     "t": "100.000"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    }
+   ],
+   "money": [
+    {
+     "eur": 5418000000,
+     "t": "6,3 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "gestolen",
+     "how": "sentence",
+     "ctx": "Hackers hebben bij cryptobeurs Binance, de grootste ter wereld, voor ongeveer 6,3 miljard dollar (5,6 miljard euro) gestolen."
+    },
+    {
+     "eur": 2580000000,
+     "t": "3 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "hack",
+     "how": "title",
+     "ctx": "Op die manier zou zo'n 3 miljard dollar bevroren zijn."
+    },
+    {
+     "eur": 1290000000,
+     "t": "1,5 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "hack",
+     "how": "title",
+     "ctx": "Daarbij werd vorig jaar 1,5 miljard dollar aan cryptomunten buitgemaakt."
+    },
+    {
+     "eur": 860000000,
+     "t": "1 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "hack",
+     "how": "title",
+     "ctx": "In deze grote spaarpot zit voor omgerekend 1 miljard dollar, volledig in Bitcoin, nog altijd de goudstandaard in de cryptowereld."
+    },
+    {
+     "eur": 100000,
+     "t": "100.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "hack",
+     "how": "title",
+     "ctx": "Daarbij wordt je geld bij de bank met een maximumplafond van 100.000 euro per bank gegarandeerd."
+    }
+   ]
   }
  ]
 }

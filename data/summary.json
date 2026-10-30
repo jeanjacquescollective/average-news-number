@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-10-30T12:40:29+01:00",
+ "updated_at": "2026-10-30T13:26:24+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -617,10 +617,10 @@
   {
    "date": "2026-10-30",
    "headlines": {
-    "count": 31,
-    "numbers": 14,
-    "mean": 442868970.3571,
-    "median": 44.0,
+    "count": 35,
+    "numbers": 15,
+    "mean": 413344378.0667,
+    "median": 64,
     "min": {
      "v": 2,
      "t": "2",
@@ -635,10 +635,10 @@
     }
    },
    "articles": {
-    "count": 46,
-    "numbers": 427,
-    "mean": 122177070.1433,
-    "median": 33,
+    "count": 49,
+    "numbers": 455,
+    "mean": 225208398.2598,
+    "median": 40,
     "min": {
      "v": 1,
      "t": "1",
