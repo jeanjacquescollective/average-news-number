@@ -5,7 +5,8 @@
    "title": "CM betaalt uitkering per ongeluk dubbel uit: \"Terugbetalen is wettelijk verplicht\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/meer-dan-1-400-cm-leden-kregen-uitkering-per-vergissing-dubbel/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "Antonio en Daniel, machinisten bij de Spaanse treinramp: 2 jonge dertigers, gepassioneerd door het spoor",
@@ -16,13 +17,15 @@
      "v": 2,
      "t": "2"
     }
-   ]
+   ],
+   "money": []
   },
   {
    "title": "Australische Hyrox-atlete na diarree-incident: \"Ik maakte een fout, maar verdiende die storm aan kritiek niet\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/hyrox-atlete-geeft-toe-dat-ze-anderen-in-gevaar-bracht-door-diar/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
@@ -33,13 +36,25 @@
      "v": 5000000000,
      "t": "5 miljard"
     }
+   ],
+   "money": [
+    {
+     "eur": 5000000000,
+     "t": "5 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "cyberaanval",
+     "how": "sentence",
+     "ctx": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance"
+    }
    ]
   },
   {
    "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/raad-van-state-beperking-geboortepremie-eerste-kind/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "Ruim 80 keer de oppervlakte van België: natuurherstel komt wereldwijd op gang, met China als voorbeeld",
@@ -50,7 +65,8 @@
      "v": 80,
      "t": "80"
     }
-   ]
+   ],
+   "money": []
   },
   {
    "title": "Van 24 euro in Hasselt tot 64 euro in Zandhoven: VRT NWS duikt in de prijzen van laadpalen",
@@ -65,13 +81,34 @@
      "v": 64,
      "t": "64"
     }
+   ],
+   "money": [
+    {
+     "eur": 24,
+     "t": "24 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Van 24 euro in Hasselt tot 64 euro in Zandhoven: VRT NWS duikt in de prijzen van laadpalen"
+    },
+    {
+     "eur": 64,
+     "t": "64 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Van 24 euro in Hasselt tot 64 euro in Zandhoven: VRT NWS duikt in de prijzen van laadpalen"
+    }
    ]
   },
   {
    "title": "De verborgen kosten van de laadpalen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/waarom-grote-prijsverschillen-laadpalen/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "Proces tegen Radja Nainggolan en 15 andere verdachten vandaag van start",
@@ -82,31 +119,36 @@
      "v": 15,
      "t": "15"
     }
-   ]
+   ],
+   "money": []
   },
   {
    "title": "Australische vrouw die familieleden vergiftigde met paddenstoelen verliest beroep en kan nu nooit meer vrijkomen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/australische-paddenstoelenmoordenares-verliest-beroep-en-krijgt/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "Van Ian McKellen en Hugh Jackman tot William Shatner: collega's rouwen na overlijden van Patrick Stewart",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/patrick-stewart-overleden-reacties/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "\"Ik wil de vrijheid om te spreken over wat mij nauw aan het hart ligt\": waarom Christine Lagarde stopt als voorzitter van ECB",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/christine-lagarde-stopt-voorzitter-van-de-europese-centrale-bank/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "Alle stemmen zijn geteld: geen enkel blok haalt meerderheid, coalitie Netanyahu is het grootst",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/alle-stemmen-zijn-geteld-geen-enkel-blok-haalt-meerderheid-coa~1793076564841/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "Stukje van snelweg E40 2 weekends gesloten voor bouw van fietsbrug in Heverlee",
@@ -117,7 +159,8 @@
      "v": 2,
      "t": "2"
     }
-   ]
+   ],
+   "money": []
   },
   {
    "title": "In Kazerne Dossin in Mechelen weerklinken voortaan de namen van 25.843 slachtoffers die gedeporteerd werden",
@@ -128,19 +171,170 @@
      "v": 25843,
      "t": "25.843"
     }
-   ]
+   ],
+   "money": []
   },
   {
    "title": "Mijnen op wegen naar Olesjky zijn weggehaald: hulpkonvooi met bussen en ziekenwagens staat klaar om dorp binnen te rijden",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/mijnen-op-wegen-naar-olesjky-zijn-weggehaald-hulpkonvooi-met-bu~1789060001669/",
    "first_seen": "2026-10-30T10:00:57+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
   },
   {
    "title": "\"We zijn te laks geweest\": Minister Van Bossuyt vraagt aan OCMW's om strenger op te treden tegen leefloners die job of opleiding zouden weigeren",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/omzendbrief-van-bossuyt-leefloon/",
    "first_seen": "2026-10-30T10:55:01+01:00",
-   "numbers": []
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Parket vraagt 2 jaar cel voor voetballer Radja Nainggolan wegens witwaspraktijken",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/proces-drugsbende-radja-nainggolan/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Paus Leo XIV vraagt poststem aan voor midterms in VS",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/paus-leo-xiv-vraagt-poststem-aan-voor-midterms-in-vs~1792770744209/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Stad Antwerpen betaalt nog half jaar 139.000 euro per maand voor leegstaand hotel",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/stad-antwerpen-betaalt-nog-half-jaar-139-000-euro-per-maand-voor/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 139000,
+     "t": "139.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 139000,
+     "t": "139.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Stad Antwerpen betaalt nog half jaar 139.000 euro per maand voor leegstaand hotel"
+    }
+   ]
+  },
+  {
+   "title": "Hyrox-atleet Joanna Wietrzyk (24) reageert op diarree-incident: \"Ik maakte fout, maar verdiende storm aan kritiek niet\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/hyrox-atlete-geeft-toe-dat-ze-anderen-in-gevaar-bracht-door-diar/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Uitslaande brand in magazijn in Melsele: rookpluim te zien tot in Beveren",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/melsele-brand-magazijn-grote-rookpluim/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"We lopen geen sprints op het werk, we lopen marathons\": waarom we blijven werken tot we erbij neervallen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/we-lopen-geen-sprints-op-het-werk-we-lopen-marathons-waarom/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Valt niet uit te leggen dat je niet weet hoeveel je betaalt\": minister Beenders wil eenvoudigere regels voor laadpalen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/beenders-elektrische-laadpalen/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Hulpkonvooi rijdt Olesjky binnen en evacueert eerste burgers: 527 mensen willen richting Oekraïens gecontroleerd gebied",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/hulpkonvooi-rijdt-olesjky-binnen-en-evacueert-eerste-burgers-52~1789060001669/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 527,
+     "t": "527"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"We zijn gedood\": Novaja Gazeta stopt, een van laatste onafhankelijke media in Rusland",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/russische-krant-novaja-gazeta-stopt/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Antonio en Daniel, machinisten bij treinramp Urda: 2 jonge dertigers, gepassioneerd door spoor",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/treingeluk-toledo-spanje-portret-machinisten/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Ahold Delhaize koopt Tesco-winkels in Tsjechië en Slovakije voor ongeveer 1,2 miljard euro",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ahold-delhaize-neemt-supermarktketen-in-tsjechie-en-slovakije-ov/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 1200000000,
+     "t": "1,2 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1200000000,
+     "t": "1,2 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Ahold Delhaize koopt Tesco-winkels in Tsjechië en Slovakije voor ongeveer 1,2 miljard euro"
+    }
+   ]
+  },
+  {
+   "title": "\"Ik wil vrijheid om te spreken over wat mij na aan het hart ligt\": waarom Christine Lagarde stopt als voorzitter van ECB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/christine-lagarde-stopt-voorzitter-van-de-europese-centrale-bank/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Raad van State wijst Vlaamse regering op mogelijk probleem met beperking geboortepremie tot eerste kind",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/raad-van-state-beperking-geboortepremie-eerste-kind/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "OCMW’s zien geen meerwaarde in vraag van minister Van Bossuyt om strenger op te treden tegen leefloners die job of opleiding weigeren",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/omzendbrief-van-bossuyt-leefloon/",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
  "articles": [
@@ -1835,6 +2029,819 @@
      "ctx": "De activiteiten zorgen voor 3,5 miljard euro omzet en meer dan 14.000 werknemers."
     }
    ]
+  },
+  {
+   "id": "p.QAbal0b09",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/beenders-elektrische-laadpalen/",
+   "title": "\"Valt niet uit te leggen dat je niet weet hoeveel je betaalt\": minister Beenders wil eenvoudigere regels voor laadpalen",
+   "published": "2026-10-30T11:01:30+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Wkj9DlnPp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/frituur-frittie-halloween-nijlen/",
+   "title": "Uitbaters bouwen frituur in Nijlen om tot griezeldorp voor Halloween: \"Het moet een echte belevenis zijn\"",
+   "published": "2026-10-30T11:01:48+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "honderd"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5wawJdM0Z",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/we-lopen-geen-sprints-op-het-werk-we-lopen-marathons-waarom/",
+   "title": "\"We lopen geen sprints op het werk, we lopen marathons\": waarom we blijven werken tot we erbij neervallen",
+   "published": "2026-10-30T11:08:31+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Wkj9DGM67",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/munitie-aangetroffen-tijdens-werkzaamheden-in-heilig-hart-wijk-h/",
+   "title": "Werkmannen vinden munitie bij werken in Heilig Hartwijk Hasselt: 1 fosforbom gaat af, gevaar is geweken",
+   "published": "2026-10-30T11:13:16+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 11,
+     "t": "11.55"
+    },
+    {
+     "v": 55,
+     "t": "11.55"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.6KpMO0kpv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/twee-twintigers-aangehouden-voor-reeks-inbraken-en-diefstallen/",
+   "title": "Twee twintigers aangehouden voor reeks inbraken en diefstallen in Zonhoven",
+   "published": "2026-10-30T11:16:59+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYObjVq1",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/berlaar-arrestatie-2-winkeldieven-nijlen-2-000-euro/",
+   "title": "Politie arresteert 2 winkeldieven in Berlaar: \"Wellicht voor meer dan 2.000 euro aan chocolade en noten gestolen\"",
+   "published": "2026-10-30T11:18:02+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 2000,
+     "t": "2.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "gestolen",
+     "how": "sentence",
+     "ctx": "Politie arresteert 2 winkeldieven in Berlaar: \"Wellicht voor meer dan 2.000 euro aan chocolade en noten gestolen\""
+    }
+   ]
+  },
+  {
+   "id": "p.bDo87BnaK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/proces-drugsbende-radja-nainggolan/",
+   "title": "Parket vraagt 2 jaar cel voor voetballer Radja Nainggolan wegens witwaspraktijken",
+   "published": "2026-10-30T11:24:26+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 105000,
+     "t": "105.000"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 100000,
+     "t": "100.000"
+    },
+    {
+     "v": 15,
+     "t": "vijftien"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 105000,
+     "t": "105.000"
+    },
+    {
+     "v": 105000,
+     "t": "105.000"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 800000,
+     "t": "800.000"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    }
+   ],
+   "money": [
+    {
+     "eur": 105000,
+     "t": "105.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "geldboete",
+     "how": "sentence",
+     "ctx": "Het Brusselse parket eist 2 jaar cel en een geldboete van 105.000 euro tegen voetballer Radja Nainggolan, die zich voor de correctionele rechtbank moet verantwoorden in de marge van een internationale cocaïnetrafiek."
+    },
+    {
+     "eur": 100000,
+     "t": "100.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "gekregen",
+     "how": "sentence",
+     "ctx": "De gewezen international kwam in het vizier van de speurders nadat hij op enkele maanden tijd meer dan 100.000 euro had gekregen van Nasr-Eddine Sekkaki, de jongere broer van de beruchte crimineel Ashraf Sekkaki."
+    },
+    {
+     "eur": 800000,
+     "t": "800.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "sentence",
+     "ctx": "Tegen de vermoedelijke kopstukken van de drugsbende vordert het parket celstraffen tot 14 jaar cel en boetes tot 800.000 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.xZYblYjXA",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/russische-krant-novaja-gazeta-stopt/",
+   "title": "\"We zijn gedood\": Novaja Gazeta zet alle activiteiten stop, een van laatste onafhankelijke media in Rusland",
+   "published": "2026-10-30T11:25:01+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 2006,
+     "t": "2006"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2,
+     "t": "Twee"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGkGddXo0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/de-grote-schijn-rivierenhof-biodiversiteit-dieren-mireille-colso/",
+   "title": "De Grote Schijn houdt rekening met dieren in Rivierenhof in Deurne: \"Geen negatieve impact vastgesteld\"",
+   "published": "2026-10-30T11:26:32+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.43pYOM0P6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/opvangcentrum-asielzoekers-fedasil-koksijde-definitief-dicht/",
+   "title": "Asielcentrum in Koksijde is definitief dicht: Gemeente verhuist werkplaatsen naar site en Defensie investeert 180 miljoen",
+   "published": "2026-10-30T11:34:15+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 180000000,
+     "t": "180 miljoen"
+    },
+    {
+     "v": 180000000,
+     "t": "180 miljoen"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 180000000,
+     "t": "180 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 245,
+     "t": "245"
+    }
+   ],
+   "money": [
+    {
+     "eur": 180000000,
+     "t": "180 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeert",
+     "how": "sentence",
+     "ctx": "De site is militair domein en Defensie investeert nu 180 miljoen euro om onder andere de landingsbaan te vernieuwen."
+    }
+   ]
+  },
+  {
+   "id": "p.PqOKDp1Aa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/stad-antwerpen-betaalt-nog-half-jaar-139-000-euro-per-maand-voor/",
+   "title": "Stad Antwerpen betaalt nog half jaar 139.000 euro per maand voor leegstaand hotel, Groen: \"Dit krijg je niet uitgelegd\"",
+   "published": "2026-10-30T11:44:34+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 139000,
+     "t": "139.000"
+    },
+    {
+     "v": 139000,
+     "t": "139.000"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 180,
+     "t": "180"
+    },
+    {
+     "v": 1666818,
+     "t": "1.666.818"
+    },
+    {
+     "v": 139000,
+     "t": "139.000"
+    },
+    {
+     "v": 3400,
+     "t": "3.400"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 1670000,
+     "t": "1,67 miljoen"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    }
+   ],
+   "money": [
+    {
+     "eur": 139000,
+     "t": "139.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "verspilling",
+     "how": "article",
+     "ctx": "Stad Antwerpen betaalt nog half jaar 139.000 euro per maand voor leegstaand hotel, Groen: \"Dit krijg je niet uitgelegd\""
+    },
+    {
+     "eur": 1666818,
+     "t": "1.666.818 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "verspilling",
+     "how": "article",
+     "ctx": "De huur bedroeg 1.666.818 euro per jaar, of zo'n 139.000 euro per maand."
+    }
+   ]
+  },
+  {
+   "id": "p.nwvl1evRN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/gent-actieplan-netheid-sluikstort-zwerfvuil-proefproject-vuilnis/",
+   "title": "Hogere boetes, meer controles, andere vuilnisbakken en opruimzones rond horecazaken: zo wil Gent netter worden",
+   "published": "2026-10-30T11:57:06+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 46,
+     "t": "46"
+    },
+    {
+     "v": 1300000,
+     "t": "1,3 miljoen"
+    },
+    {
+     "v": 2000000,
+     "t": "2 miljoen"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 4000000,
+     "t": "4 miljoen"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1300000,
+     "t": "1,3 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "sentence",
+     "ctx": "De stad voorziet 1,3 miljoen euro per jaar en krijgt 2 miljoen (en vanaf 2027 zelfs 4 miljoen) uit het Vlaamse zwerfvuilfonds."
+    }
+   ]
+  },
+  {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/melsele-brand-magazijn-grote-rookpluim/",
+   "title": "Uitslaande brand in magazijn in Melsele: rookpluim te zien tot in Beveren",
+   "published": "2026-10-30T11:59:15+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.kQOo1v361",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/nieuwe-recyclagefabriek-in-lommel/",
+   "title": "Nieuwe recyclagefabriek voor plastic in Lommel opent na investering van 30 miljoen euro",
+   "published": "2026-10-30T12:14:28+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 30000000,
+     "t": "30 miljoen"
+    },
+    {
+     "v": 30000000,
+     "t": "30 miljoen"
+    },
+    {
+     "v": 40000,
+     "t": "40.000"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 51,
+     "t": "51"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 30000000,
+     "t": "30 miljoen"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    }
+   ],
+   "money": [
+    {
+     "eur": 30000000,
+     "t": "30 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investering",
+     "how": "sentence",
+     "ctx": "Nieuwe recyclagefabriek voor plastic in Lommel opent na investering van 30 miljoen euro"
+    }
+   ]
+  },
+  {
+   "id": "p.43pYAB7Zk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/na-jarenlange-juridische-procedures-nu-toch-groen-licht-voor-lei/",
+   "title": "Na jarenlange juridische procedures nu toch groen licht voor Leiewerken in Menen",
+   "published": "2026-10-30T12:14:48+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8930,
+     "t": "8930"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5XDyOVy",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/de-waregemsesteenweg-de-brug-over-de-e17-blijft-langer-afgeslot/",
+   "title": "Brug over E17 in Waregem te zwaar beschadigd voor renovatie: brug moet vervangen worden",
+   "published": "2026-10-30T12:36:13+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 1972,
+     "t": "1972"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 1.5,
+     "t": "anderhalf"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoQ8qw8D",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/vrijwilligers-poetsen-graven-oudenaarde-meuleman/",
+   "title": "Vrijwilligers poetsen oude begraafplaats in Oudenaarde op voor Allerheiligen",
+   "published": "2026-10-30T12:37:52+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.0YpvwBNXe",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/sint-pieters-leeuw-dorpsplein-de-rink-ontmoeting-oud-gemeentehui/",
+   "title": "Sint-Pieters-Leeuw krijgt nieuw verkeersvrij dorpsplein: \"Ons dorpsleven versterken\"",
+   "published": "2026-10-30T12:37:53+01:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 39,
+     "t": "39"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
   }
  ]
 }

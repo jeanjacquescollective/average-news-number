@@ -6,7 +6,8 @@
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/poetin-heeft-geen-interesse-in-kort-staakthetvuren-en-herhaa~1789060001669/",
    "first_seen": "2026-10-23T01:09:51+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "CD&V-voorzitter Mahdi begrijpt niet waarom Vooruit nu dwarsligt, nieuwe deadline voor begrotingsakkoord is 3 november",
@@ -18,21 +19,24 @@
      "t": "3"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Een complete schande\": Amerikaans president Donald Trump haalt uit naar LeBron James na beweging tijdens volkslied",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/hij-toont-geen-respect-voor-ons-land-amerikaans-president-don/",
    "first_seen": "2026-10-23T01:09:51+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Storm Austen en niet Adam: zo krijgen stormen hun naam",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/naam-storm-waarom/",
    "first_seen": "2026-10-23T01:09:51+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Zeker 16 doden en 32 gewonden bij aardbeving in Tibet",
@@ -48,7 +52,8 @@
      "t": "32"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Acteur Tom Skerritt (93), bekend van 'Top gun' en 'Alien', overleden",
@@ -60,14 +65,16 @@
      "t": "93"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Deelsteps en -fietsen vrijdag en zaterdag verboden in Brusselse Vijfhoek, musea in Parijs zaterdag gesloten",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/deelsteps-en-fietsen-vrijdag-en-zaterdag-verboden-in-brusselse-~1792507723130/",
    "first_seen": "2026-10-23T01:09:51+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Duiker spuit 12 dagen lang vet uit riool onder Molenpoort in Hasselt: \"Eerste keer dat we dit doen\"",
@@ -79,21 +86,24 @@
      "t": "12"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Militaire carrière voor prins Gabriël? Niet-gedoteerde royals mogen binnenkort in het leger",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/leden-koninklijke-familie-leger/",
    "first_seen": "2026-10-23T01:09:51+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Miran Scheers wordt Brussels drugscommissaris",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/miranda-scheers-wordt-brussels-drugscommissaris/",
    "first_seen": "2026-10-23T01:09:51+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Schilderij 'Iris' van Monet brengt 50 miljoen euro op en breekt Frans veilingrecord",
@@ -105,14 +115,26 @@
      "t": "50 miljoen"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": [
+    {
+     "eur": 50000000,
+     "t": "50 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Schilderij 'Iris' van Monet brengt 50 miljoen euro op en breekt Frans veilingrecord"
+    }
+   ]
   },
   {
    "title": "Energieprijzen op recordhoogtes, maar kunnen we vanaf januari ook zonder Russisch gas?",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/energieprijzen-op-recordhoogtes-maar-kunnen-we-vanaf-januari-oo~1774343778229/",
    "first_seen": "2026-10-23T01:09:51+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "KMI verwacht krachtige windstoten, 161.000 gezinnen zonder stroom in Frankrijk",
@@ -124,14 +146,16 @@
      "t": "161.000"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "AI-posters zijn overal, maar grafisch ontwerpers maken zich (nog) geen zorgen: \"We worden net meer gewaardeerd\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/hoe-ai-gegenereerde-posters-het-werk-van-grafisch-ontwerpers-bei/",
    "first_seen": "2026-10-23T08:41:36+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Arnaud De Decker na bijna 5 jaar oorlogsverslaggeving in Oekraïne: \"Ik herkende mezelf niet meer\"",
@@ -143,7 +167,8 @@
      "t": "5"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Britse zangeres Raye (28) wint prestigieuze Mercury-prijs met album 'This music may contain hope'",
@@ -155,7 +180,8 @@
      "t": "28"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Vertragen of net versnellen? Dit zijn onze 5 weekendtips",
@@ -167,35 +193,40 @@
      "t": "5"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Nawal Farih (CD&V): \"Hardwerkende middenklasse kan niet enige groep zijn die gevolgen draagt\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/nawal-farih-cdv-hardwerkende-middenklasse-kan-niet-enige-gr~1790599460224/",
    "first_seen": "2026-10-23T08:41:36+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Hoofdpijn door pieken in de Schumannresonanties? TikTok-video's beweren van wel, geen bewijs zeggen experts",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/schumannresonantie-en-hoofdpijn/",
    "first_seen": "2026-10-23T08:41:36+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "'Sander tegen de tijd' opnieuw van start: zullen 'black-outs' en winteruur het experiment moeilijker maken?",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/sander-tegen-de-tijd-2026-winteruur-blackouts/",
    "first_seen": "2026-10-23T08:41:36+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Franse stad Limoges verbiedt manifestaties, na algemene aanbeveling van Macron om geen demonstraties toe te staan",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/franse-stad-limoges-verbiedt-manifestaties-na-algemene-aanbevel~1792507723130/",
    "first_seen": "2026-10-23T08:41:36+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Iedereen vrijuit in groot Limburgs drugsproces omdat procedure te lang duurde: \"Bijna 5 jaar niet-verklaarbare stilstand\"",
@@ -207,7 +238,8 @@
      "t": "5"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Loonkloof te groot bij kwart van bedrijven: vrouwen verdienen 5 procent minder dan mannen",
@@ -219,7 +251,8 @@
      "t": "5"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Einde aan bijna 170 jaar oude traditie: New York verbiedt paardenkoetsen in Central Park",
@@ -231,7 +264,8 @@
      "t": "170"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Volvo Cars schrapt wereldwijd 2.500 jobs om kosten te drukken, fabriek in Gent onderzoekt impact",
@@ -243,14 +277,16 @@
      "t": "2.500"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Raad van State schorst toewijzing strandbarconcessies in Knokke-Heist, chaos lijkt compleet",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/strandbars-geschorst-knokke-heist/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Strandbaruitbater in Blankenberge moet na 34 jaar weg: \"Het voelde als een trap op mijn hart\"",
@@ -262,7 +298,8 @@
      "t": "34"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Eerste schadegevallen door krachtige wind, in Frankrijk al 288.000 gezinnen zonder stroom",
@@ -274,7 +311,8 @@
      "t": "288.000"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Man schiet in het wilde weg in Trappes bij Parijs: 1 dode en 4 gewonden, schutter opgepakt",
@@ -290,63 +328,72 @@
      "t": "4"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Republikeinse politicus voert moeder van Democratische tegenstander op in campagnespot: \"Dit is verachtelijk\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/ophef-over-republikeinse-campagnespot-met-moeder-van-democratisc/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "De relatie tussen VS en Rusland was nog nooit zo goed: \"Midterms spelen cruciale rol\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/wat-is-de-link-tussen-rusland-en-verenigde-staten-poetin-en-trum/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Een whisky op uw gezondheid, meneer de minister\": whatsapp-berichten tussen directeur Staatsveiligheid en Didier Reynders uitgelekt",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/reynders-staatsveiligheid/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Verhuisblunder bij minister Hegseth: medewerkers beschadigen historische wereldbol van generaal Eisenhower",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/hegseth-eisenhower-wereldbol-laten-vallen/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Nederland hackt telefoon van Trump-schoonzoon Jared Kushner en ontdekt geheime financiële constructies van miljarden\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/vs-verenigde-staten-jared-kushner-donald-trump-princes-and-thiev/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Netanyahu eist \"volledige blokkade\" van de bezette Westelijke Jordaanoever na schietpartij in Hebron",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/netanyahu-eist-volledige-blokkade-van-de-bezette-westelijke-jo~1787143375321/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Regering verhoogt deze winter tussenkomst Sociaal Verwarmingsfonds",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/regering-verhoogt-deze-winter-tussenkomst-sociaal-verwarmingsfon/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Omstreden dirigent Lahav Shani veroordeelt dan toch Israëlisch geweld tegen Palestijnen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/dirigent-lahav-shani-veroordeelt-geweld-israel-tegen-palestijnen/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Loonkloof te groot bij kwart van bedrijven: vrouwen verdienen zeker 5 procent minder dan mannen in dezelfde functie",
@@ -358,7 +405,8 @@
      "t": "5"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Gasprijzen alweer gestegen: hoogste peil sinds eind 2022",
@@ -370,14 +418,16 @@
      "t": "2022"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Bosbranden brengen oudste grotschilderingen in Indonesië in gevaar",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/bosbranden-brengen-oudste-grotschilderingen-in-indonesie-in-geva/",
    "first_seen": "2026-10-23T14:31:47+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Alle 60 werknemers van rederij Maersk in Willebroek staken: \"We vragen zelfde bonus als bedienden\"",
@@ -389,7 +439,8 @@
      "t": "60"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Politie onderzoekt schietincident in Frankrijk als mogelijke terreurdaad: meisje van 12 werd 8 keer geraakt",
@@ -405,56 +456,64 @@
      "t": "8"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Netanyahu eist \"volledige blokkade\" van de bezette Westelijke Jordaanoever na dodelijke schietpartij in Hebron",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/netanyahu-eist-volledige-blokkade-van-de-bezette-westelijke-jo~1787143375321/",
    "first_seen": "2026-10-23T15:06:19+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Deel van dak gaat vliegen bij bedrijf in Hemiksem, trein botst op boom tussen Ruisbroek en Puurs-Sint-Amands",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/deel-van-dak-gaat-vliegen-bij-bedrijf-in-hemiksem-trein-botst-o~1792663198457/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Waarom 'weerbom' Austen bijzonder is (en ook weer niet)",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/wat-maakt-weerbom-austen-zo-bijzonder/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Vincent Kompany zakt ineen na training bij Bayern München en is naar ziekenhuis gebracht",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/opnieuw-zorgen-om-vincent-kompany-bayern-coach-naar-het-zieken/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Welk energiecontract kies ik het beste? En gaan prijzen nog stijgen? Luc Pauwels beantwoordt jouw energievragen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/vragen-en-antwoorden-over-gasprijs-elektriciteitsprijs-energiepr/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Trump spant nu al rechtszaak aan om verkiezingsuitslag in Alaska tegen te houden als Republikein verliest",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-spant-nu-al-rechtszaak-aan-om-verkiezingsuitslag-in-alaska~1792770744209/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Republikein voert moeder Democratische tegenstander op in campagnespot",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/ophef-over-republikeinse-campagnespot-met-moeder-van-democratisc/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Kringloopwinkel in Mortsel verkoopt menselijke botten voor 50 euro: \"Dringend wettelijk kader nodig\"",
@@ -466,7 +525,18 @@
      "t": "50"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": [
+    {
+     "eur": 50,
+     "t": "50 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Kringloopwinkel in Mortsel verkoopt menselijke botten voor 50 euro: \"Dringend wettelijk kader nodig\""
+    }
+   ]
   },
   {
    "title": "Meghan Markle wist sinds 2018 van beschuldiging dat haar vader beelden van kindermisbruik had",
@@ -478,42 +548,48 @@
      "t": "2018"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Neen, vrouwen zijn niet slechter in opslag vragen: \"Ze worden wel sneller als agressief of 'de bitch' gezien\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/vrouwen-onderhandelen-loon-katia-tieleman/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Ik kom opvallend veel condooms tegen\": Michael duikt in riool in Hasselt om aangekoekt vet weg te spuiten",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/duiker-michael-de-ruyter-over-rioleringswerken-hasselt/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Conner Rousseau: \"Ik vraag een beetje redelijkheid aan iedereen aan tafel\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/conner-rousseau-ik-vraag-een-beetje-redelijkheid-aan-iedereen-~1790599460224/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "'Most wanted'-voortvluchtige die enkelband had doorgeknipt geeft zichzelf aan bij gerecht",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/voortvluchtige-enkelband-most-wanted/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Melania Trump helpt tijdelijk bestand in zwaargetroffen dorpje in Oekraïne te onderhandelen, claimt Witte Huis",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/melania-trump-helpt-tijdelijk-bestand-in-zwaargetroffen-dorpje-i~1789060001669/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Minstens 6 doden bij schietpartij in kerk in Jordanië",
@@ -525,35 +601,40 @@
      "t": "6"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Whisky op uw gezondheid\": whatsapp-berichten tussen directeur Staatsveiligheid en Reynders uitgelekt",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/reynders-staatsveiligheid/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Vlaamse regering roept belangenconflict in na nieuw vliegplan voor Brussels Airport",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/vlaamse-regering-roept-belangenconflict-in-in-verband-met-vlucht/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Felle brand in magazijn in Kortrijk: \"Buurtbewoners hoorden grote explosie\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/felle-brand-in-magazijn-in-kortrijk-buurbewoners-hoorden-grote/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Ook school in Gent zet Go Church buiten, terwijl op hoofdlocatie in Merksem zondagdienst gewoon lijkt door te gaan",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/go-church-gent-brugge/",
    "first_seen": "2026-10-23T19:29:32+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   }
  ],
  "articles": [
@@ -4033,6 +4114,112 @@
     {
      "v": 3,
      "t": "3"
+    },
+    {
+     "v": 20000,
+     "t": "20.000"
+    },
+    {
+     "v": 20000,
+     "t": "20.000"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 3.75,
+     "t": "3,75"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 20000,
+     "t": "20.000"
+    },
+    {
+     "v": 20000,
+     "t": "20.000"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 200000,
+     "t": "200.000"
+    },
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/paus-leo-xiv-vraagt-poststem-aan-voor-midterms-in-vs~1792770744209/",
+   "title": "LIVE Paus Leo XIV vraagt poststem aan voor midterms in VS",
+   "published": "2026-10-23T18:05:52+02:00",
+   "first_seen": "2026-10-30T12:40:29+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 8,
+     "t": "acht"
+    },
+    {
+     "v": 71,
+     "t": "71"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
     },
     {
      "v": 20000,
