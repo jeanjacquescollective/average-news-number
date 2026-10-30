@@ -2,14 +2,14 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-29",
- "updated_at": "2026-10-30T00:35:16+01:00",
+ "updated_at": "2026-10-30T09:11:57+01:00",
  "days": [
   {
    "date": "2026-10-30",
    "headlines": {
-    "count": 10,
-    "numbers": 5,
-    "mean": 33.7,
+    "count": 23,
+    "numbers": 13,
+    "mean": 384617400.1154,
     "median": 28,
     "min": {
      "v": 1.5,
@@ -18,15 +18,29 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/ontsnapte-gevangene-hoogstraten-opgepakt-wommelgem/"
     },
     "max": {
-     "v": 86,
-     "t": "86",
-     "title": "De Shakespeare-vedette die sciencefictionlegende werd: acteur Patrick Stewart (86) overleden",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/obit-patrick-stewart-captain-picard-professor-x/"
+     "v": 5000000000,
+     "t": "5 miljard",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 17,
+    "numbers": 197,
+    "mean": 177289013.5619,
+    "median": 31,
+    "min": {
+     "v": 1,
+     "t": "één",
+     "title": "De verborgen kosten van de laadpalen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/waarom-grote-prijsverschillen-laadpalen/"
+    },
+    "max": {
+     "v": 6300000000,
+     "t": "6,3 miljard",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
+    }
    }
   }
  ]
