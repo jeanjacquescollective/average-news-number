@@ -1,0 +1,2335 @@
+{
+ "date": "2026-10-17",
+ "headlines": [
+  {
+   "title": "Zelensky tegen Europese regeringsleiders: moeten geblokkeerde Russische tegoeden \"kunnen gebruiken\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/zelensky-tegen-europese-regeringsleiders-moeten-geblokkeerde-ru~1789060001669/",
+   "first_seen": "2026-10-17T06:03:22+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Federale topministers zitten straks weer samen over begroting",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/federale-topministers-zitten-straks-weer-samen-over-begroting~1790599460224/",
+   "first_seen": "2026-10-17T06:03:22+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Trump pauzeert sancties tegen Rusland, Zelensky tegen Europa: \"Gebruik Russische tegoeden\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-pauzeert-sancties-tegen-rusland-zelensky-tegen-europa-g~1789060001669/",
+   "first_seen": "2026-10-17T07:04:03+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Is breuk tussen Trump en Zelensky nog te lijmen? \"Er is hoop, maar het blijft uitstel van executie\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/donald-trump-volodymy-zelensky-relatie-dieptepunt-vladimir-poeti/",
+   "first_seen": "2026-10-17T07:04:03+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "\"Als ze van mij geen medicatie krijgen, zoeken ze andere manier\": psychiater over uitzichtloze situatie in gevangenis Mechelen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/psychiater-gevangenis-mechelen-pano/",
+   "first_seen": "2026-10-17T07:04:03+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Steeds meer AI-boeken op de markt, Vlaamse Auteursvereniging roept op tot label",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/ai-boeken-steeds-meer-echte-auteurs-markt-andries-waries-standaa/",
+   "first_seen": "2026-10-17T07:04:03+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Katie Zacharia stopt als woordvoerster Witte Huis, nadat Trump had aangeraden \"om job te heroverwegen\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/trump-kritiek-zacharia/",
+   "first_seen": "2026-10-17T08:01:18+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Komt Frankrijk terecht in perfecte storm van protest? Gele hesjes en scholieren komen samen op straat",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/komt-frankrijk-terecht-in-perfecte-storm-van-protest-gele-hesje/",
+   "first_seen": "2026-10-17T08:01:18+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Met Frankrijk als voorbeeld: Brussel maakt zich op voor protesten (zonder toelating)",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/met-frankrijk-als-voorbeeld-brussel-maakt-zich-op-voor-jonge-e/",
+   "first_seen": "2026-10-17T08:01:18+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Kevin Janssens kijkt in 'Breendonk' voorbij helden en schurken: \"1942 was grijze zone\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/fictiereeks-breendonk-kevin-janssens-bevangen-door-verhalen/",
+   "first_seen": "2026-10-17T09:00:08+02:00",
+   "numbers": [
+    {
+     "v": 1942,
+     "t": "1942"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Dierenpark Pakawi in Olmen trekt naar Raad van State tegen sluiting 16 dierenverblijven",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/pakawi-trekt-naar-raad-van-state/",
+   "first_seen": "2026-10-17T09:00:08+02:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Komt Frankrijk terecht in perfecte storm van protest? Gele hesjes en scholieren samen op straat",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/komt-frankrijk-terecht-in-perfecte-storm-van-protest-gele-hesje/",
+   "first_seen": "2026-10-17T09:00:08+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Jean-Romy Manzila is nieuwe Ketnet-wrapper: \"Luisterend oor zijn voor Ketnetters\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/jean-romy-manzila-is-de-nieuwe-ketnet-wrapper/",
+   "first_seen": "2026-10-17T09:00:08+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Supertanker met 2 miljoen vaten ruwe olie vaart op zeemijn en vat vuur, beweert Iran",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/supertanker-met-2-miljoen-vaten-ruwe-olie-vaart-op-zeemijn-en-va~1784611610051/",
+   "first_seen": "2026-10-17T09:00:08+02:00",
+   "numbers": [
+    {
+     "v": 2000000,
+     "t": "2 miljoen"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Time Magazine noemt Kempense fietsairbag 1 van beste uitvindingen van 2026",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/aerobag-turnhout-airbag-fiets-beste-uitvinding-lijst-time-magazi/",
+   "first_seen": "2026-10-17T09:00:08+02:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Confrontaties tussen politie en betogers in Frankrijk, jongeren verzamelen aan Centraal Station in Brussel",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/confrontaties-tussen-politie-en-betogers-in-frankrijk-jongeren-~1780566651393/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Wie te hard rijdt met smartphone in de hand riskeert dubbele boete",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/hardrijders-met-smartphone-achter-het-stuur-riskeren-dubbele-boe/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Gloednieuw bushokje pronkt in Wuustwezel, maar buslijn is intussen geschrapt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/nieuw-bushokje-bus-wuustwezel-leeg/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Acteur en regisseur Kevin Janssens over 'Breendonk': \"Elke ochtend ging ik naar executieplaats, bij muur van slachtoffers toestemming vragen\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/fictiereeks-breendonk-kevin-janssens-bevangen-door-verhalen/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Rusland is tevreden dat Donald Trump sanctiepakket pauzeert: \"Historisch moment\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/rusland-is-tevreden-dat-donald-trump-sanctiepakket-pauzeert-hi~1789060001669/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Singapore beschuldigt 7 Indonesische bedrijven: \"Ze steken bewust grote stukken bos in brand\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/indonesie-branden-natuur-bos-el-nino-klimaat-rook/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "\"Als ze van mij geen pillen krijgen, zoeken ze andere manier\": psychiater over uitzichtloze situatie in gevangenis Mechelen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/psychiater-gevangenis-mechelen-pano/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Waarom kijken we al 25 jaar naar bergen en stranden op VRT? Het verhaal achter de seizoensbeelden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/waarom-de-vrt-seizoensbeelden-uitzendt/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Federale topministers zitten weer samen over begroting en hullen zich voorlopig in stilzwijgen",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/federale-topministers-zitten-weer-samen-over-begroting-en-hullen~1790599460224/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Sean 'Diddy' Combs overgeplaatst naar andere gevangenis na verhalen over decadent en storend gedrag",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/sean-p-diddy-combs-overgeplaatst-naar-andere-gevangenis/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "\"Van stoflong naar groene long\": hoe de mijn van Waterschei uitgroeide tot innovatief energiepark en natuurpoort",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/08/13/van-stoflong-naar-groene-long-waterschei/",
+   "first_seen": "2026-10-17T11:03:29+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "E25-autosnelweg in beide richtingen versperd in Sprimont: gewapende chauffeur dreigt ermee auto op te blazen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/e25-autosnelweg-in-beide-richtingen-versperd-in-sprimont-door-ge/",
+   "first_seen": "2026-10-17T13:04:16+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Man (22) zit uur gekneld in wrak in Langemark tot voorbijganger hem opmerkt en hulpdiensten belt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/ieper-gekneld-uur-wrak-ongeval-zwaargewond-langemark/",
+   "first_seen": "2026-10-17T13:04:16+02:00",
+   "numbers": [
+    {
+     "v": 22,
+     "t": "22"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Mysterieuze klant laat bijzondere tekening achter op servet van restaurant in Poperinge",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/poperinge-tekening-kunstwerk-klant-restaurant/",
+   "first_seen": "2026-10-17T13:04:16+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Traangas ingezet bij protest in Brussel, confrontaties tussen politie en betogers in Frankrijk",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/traangas-ingezet-bij-protest-in-brussel-confrontaties-tussen-po~1780566651393/",
+   "first_seen": "2026-10-17T13:04:16+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Klanten van Delhaize kunnen weer online bestellen na IT-incident van vorige zondag",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/klanten-van-delhaize-kunnen-weer-online-bestellen/",
+   "first_seen": "2026-10-17T13:04:16+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "E25-autosnelweg in beide richtingen versperd in Sprimont: gewapende chauffeur dreigde ermee auto op te blazen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/e25-autosnelweg-in-beide-richtingen-versperd-in-sprimont-door-ge/",
+   "first_seen": "2026-10-17T14:04:32+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Federale topministers verlaten piste van 'schuldenrem' en praten morgen voort over een meerjarenbegroting",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/federale-topministers-verlaten-piste-van-schuldenrem-en-praten~1790599460224/",
+   "first_seen": "2026-10-17T14:04:32+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Protest in Frankrijk loopt uit de hand, kat- en muisspel in Brussel",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/protest-in-frankrijk-loopt-uit-de-hand-kat-en-muisspel-in-brus~1780566651393/",
+   "first_seen": "2026-10-17T15:03:58+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Gewapende bestuurder die auto dreigde op te blazen op E25 in Sprimont heeft zich overgegeven",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/e25-autosnelweg-in-beide-richtingen-versperd-in-sprimont-door-ge/",
+   "first_seen": "2026-10-17T15:03:58+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Protest in Frankrijk loopt uit de hand, openbaar vervoer in Brussel in de knoop",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/protest-in-frankrijk-loopt-uit-de-hand-openbaar-vervoer-in-brus~1780566651393/",
+   "first_seen": "2026-10-17T16:07:12+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Duizenden mensen geëvacueerd voor natuurbranden in Californië",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/duizenden-mensen-geevacueerd-voor-natuurbranden-in-californie/",
+   "first_seen": "2026-10-17T16:07:12+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Protesten in Frankrijk en Brussel lopen uit de hand, openbaar vervoer in Brussel in de knoop",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/protesten-in-frankrijk-en-brussel-lopen-uit-de-hand-openbaar-ve~1780566651393/",
+   "first_seen": "2026-10-17T17:07:40+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "10 arrestaties na uit de hand gelopen protesten in Brussel, openbaar vervoer nog altijd grotendeels verstoord",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/10-arrestaties-na-uit-de-hand-gelopen-protesten-in-brussel-open~1780566651393/",
+   "first_seen": "2026-10-17T20:16:54+02:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Europese delegatie met Belgische diplomaten aangevallen door Israëlische kolonisten op Westelijke Jordaanoever",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/belgische-poolse-en-franse-diplomatische-delegatie-aangevallen/",
+   "first_seen": "2026-10-17T20:16:54+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Meisje (4) valt van tweede verdieping in Borgerhout en verkeert in levensgevaar",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/vierjarig-meisje-levensgevaar-val-borgerhout/",
+   "first_seen": "2026-10-17T20:16:54+02:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Vandaal op de fiets bekogelt auto's in Ieper, dashcam filmt moment waarop dader toeslaat",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/vandaal-ieper-auto-steen-fiets/",
+   "first_seen": "2026-10-17T20:16:54+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Torenspits van brandende stadhuis in Franse stad Limoges is ingestort, in Brussel is rust weergekeerd",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/stadhuis-van-franse-stad-limoges-staat-in-brand-na-protesten-in~1780566651393/",
+   "first_seen": "2026-10-17T22:52:17+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "'La gradiva' van Franse regisseur Marine Atlan wint Grand Prix op Film Fest Gent",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/winnaars-film-fest-gent/",
+   "first_seen": "2026-10-17T22:52:17+02:00",
+   "numbers": [],
+   "archived": true
+  }
+ ],
+ "articles": [
+  {
+   "id": "p.E1X7wOdej",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/psychiater-gevangenis-mechelen-pano/",
+   "title": "\"Als ze van mij geen pillen krijgen, zoeken ze andere\nmanier\": psychiater over uitzichtloze situatie in gevangenis Mechelen",
+   "published": "2026-10-17T05:47:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.OvXll9ObJ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/donald-trump-volodymy-zelensky-relatie-dieptepunt-vladimir-poeti/",
+   "title": "Is breuk tussen Trump en Zelensky nog te lijmen? \"Er is hoop, maar het blijft uitstel van executie\"",
+   "published": "2026-10-17T05:48:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.M9X5aDw6Z",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/ai-boeken-steeds-meer-echte-auteurs-markt-andries-waries-standaa/",
+   "title": "Steeds meer AI-boeken op de markt, Vlaamse Auteursvereniging roept op tot label",
+   "published": "2026-10-17T05:49:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2804,
+     "t": "2.804"
+    },
+    {
+     "v": 1048,
+     "t": "1.048"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1000000,
+     "t": "een miljoen"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KKXxRqZ1m",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/komt-frankrijk-terecht-in-perfecte-storm-van-protest-gele-hesje/",
+   "title": "Komt Frankrijk terecht in perfecte storm van protest? Gele hesjes en scholieren samen op straat",
+   "published": "2026-10-17T06:51:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 70000,
+     "t": "70.000"
+    },
+    {
+     "v": 140000,
+     "t": "140.000"
+    },
+    {
+     "v": 1400,
+     "t": "1.400"
+    },
+    {
+     "v": 70000,
+     "t": "70.000"
+    },
+    {
+     "v": 140000,
+     "t": "140.000"
+    },
+    {
+     "v": 1400,
+     "t": "1.400"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 40000,
+     "t": "40.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.LNDXl8Mw4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/fictiereeks-breendonk-kevin-janssens-bevangen-door-verhalen/",
+   "title": "Acteur en regisseur Kevin Janssens over 'Breendonk': \"Elke ochtend ging ik naar executieplaats, bij muur van slachtoffers toestemming vragen\"",
+   "published": "2026-10-17T07:59:21+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 301,
+     "t": "301"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 1942,
+     "t": "1942"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 301,
+     "t": "301"
+    },
+    {
+     "v": 3600,
+     "t": "3.600"
+    },
+    {
+     "v": 1947,
+     "t": "1947"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGywxQa6k",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/pakawi-trekt-naar-raad-van-state/",
+   "title": "Dierenpark Pakawi in Olmen trekt naar Raad van State tegen sluiting 16 dierenverblijven",
+   "published": "2026-10-17T08:13:11+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KKXaaJ5wk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/waarom-de-vrt-seizoensbeelden-uitzendt/",
+   "title": "Waarom kijken we al 25 jaar naar bergen en stranden op VRT? Het verhaal achter de seizoensbeelden",
+   "published": "2026-10-17T08:48:06+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2001,
+     "t": "2001"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2001,
+     "t": "2001"
+    },
+    {
+     "v": 360,
+     "t": "360"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KKXaxN8Mo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/leuven-24-urenloop-apolloon-vtk-training-winst-studenten/",
+   "title": "\"Feestjes overslaan om te trainen\": Leuvense\nsportstudenten zijn gebrand om 24-urenloop opnieuw te winnen",
+   "published": "2026-10-17T09:03:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1.25,
+     "t": "1,25"
+    },
+    {
+     "v": 520,
+     "t": "520"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 5000,
+     "t": "5.000"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43NJl5j11",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/hardrijders-met-smartphone-achter-het-stuur-riskeren-dubbele-boe/",
+   "title": "Wie te hard rijdt met smartphone in de hand riskeert dubbele boete",
+   "published": "2026-10-17T09:14:50+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 200,
+     "t": "200"
+    }
+   ],
+   "money": [
+    {
+     "eur": 200,
+     "t": "200 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Een boete voor bellen achter het stuur bedraagt, inclusief administratiekosten, iets meer dan 200 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.7n5Vj4NdO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/historische-brandweerwagen-uit-1975-gerestaureerd-in-tongeren-bo/",
+   "title": "Tongeren-Borgloon restaureert iconische brandweerwagen uit 1975: \"Veel inwoners kennen deze auto nog\"",
+   "published": "2026-10-17T09:15:53+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 1975,
+     "t": "1975"
+    },
+    {
+     "v": 1975,
+     "t": "1975"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.8eXKMOZYK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/heerstraat-in-maasmechelen-na-een-jaar-terug-open/",
+   "title": "Heirstraat in Maasmechelen na een jaar weer open",
+   "published": "2026-10-17T09:29:28+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 5500000,
+     "t": "5,5 miljoen"
+    },
+    {
+     "v": 1500000,
+     "t": "1,5 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 5500000,
+     "t": "5,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "kreeg",
+     "how": "article",
+     "ctx": "De werken kostten 5,5 miljoen euro."
+    },
+    {
+     "eur": 1500000,
+     "t": "1,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kostprijs",
+     "how": "sentence",
+     "ctx": "Van de totale kostprijs betaalt de gemeente 1,5 miljoen euro zelf."
+    }
+   ]
+  },
+  {
+   "id": "p.ewPpLkQGE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/nieuw-bushokje-bus-wuustwezel-leeg/",
+   "title": "Gloednieuw bushokje pronkt in Wuustwezel, maar buslijn is intussen geschrapt",
+   "published": "2026-10-17T10:03:33+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 68,
+     "t": "68"
+    },
+    {
+     "v": 68,
+     "t": "68"
+    },
+    {
+     "v": 68,
+     "t": "68"
+    },
+    {
+     "v": 680,
+     "t": "680"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 68,
+     "t": "68"
+    },
+    {
+     "v": 68,
+     "t": "68"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.YbyeOYJLw",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/indonesie-branden-natuur-bos-el-nino-klimaat-rook/",
+   "title": "Singapore beschuldigt 7 Indonesische bedrijven: \"Ze steken bewust grote stukken bos in brand\"",
+   "published": "2026-10-17T10:45:55+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 900000,
+     "t": "900.000"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1000000,
+     "t": "een miljoen"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 1000000,
+     "t": "een miljoen"
+    },
+    {
+     "v": 1000000,
+     "t": "een miljoen"
+    },
+    {
+     "v": 50,
+     "t": "vijftig"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.0YJ4N9pmL",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/sean-p-diddy-combs-overgeplaatst-naar-andere-gevangenis/",
+   "title": "Sean 'Diddy' Combs overgeplaatst naar andere gevangenis na verhalen over decadent en storend gedrag",
+   "published": "2026-10-17T10:49:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 56,
+     "t": "56"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 4200,
+     "t": "4.200"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lOl0JDbQk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/poperinge-tekening-kunstwerk-klant-restaurant/",
+   "title": "Mysterieuze klant laat bijzondere tekening achter op servet van restaurant in Poperinge",
+   "published": "2026-10-17T10:56:14+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KKXx53oym",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/klanten-van-delhaize-kunnen-weer-online-bestellen/",
+   "title": "Klanten van Delhaize kunnen weer online bestellen na IT-incident van vorige zondag",
+   "published": "2026-10-17T11:00:02+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.WkXY5OlZ1",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/ron-wood-keith-richards-kunst-ronse-expo-stones-sonic-youth-te-k/",
+   "title": "Kunst van de Rolling Stones en Fleetwood Mac komt naar Ronse: \"En het meeste is ook te koop\"",
+   "published": "2026-10-17T11:03:01+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 400,
+     "t": "400"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    }
+   ],
+   "money": [
+    {
+     "eur": 15000,
+     "t": "15.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "opbrengst",
+     "how": "article",
+     "ctx": "\"De werken schommelen tussen de 400 en 15.000 euro”, zegt Pascal Vanovermeiren van het Midsummer Festival."
+    }
+   ]
+  },
+  {
+   "id": "p.43NJMbZXO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/ieper-gekneld-uur-wrak-ongeval-zwaargewond-langemark/",
+   "title": "Man (22) zit uur gekneld in wrak in Langemark tot voorbijganger hem opmerkt en hulpdiensten belt",
+   "published": "2026-10-17T11:23:23+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 4,
+     "t": "4.30"
+    },
+    {
+     "v": 30,
+     "t": "4.30"
+    },
+    {
+     "v": 5,
+     "t": "5.30"
+    },
+    {
+     "v": 30,
+     "t": "5.30"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.93XEY6O87",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/politie-puurs-sint-amands-vrachtwagens-boetes/",
+   "title": "Open vloer, rode mazout en geen documenten: vrachtwagenchauffeur krijgt zware boete in Puurs-Sint-Amands",
+   "published": "2026-10-17T11:58:54+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 3800,
+     "t": "3.800"
+    },
+    {
+     "v": 6450,
+     "t": "6.450"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 2500,
+     "t": "2.500"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 891,
+     "t": "891"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 2343,
+     "t": "2.343"
+    },
+    {
+     "v": 1452,
+     "t": "1.452"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 816,
+     "t": "816"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1700,
+     "t": "1.700"
+    },
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 191,
+     "t": "191"
+    }
+   ],
+   "money": [
+    {
+     "eur": 3800,
+     "t": "3.800 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "sentence",
+     "ctx": "Bij een Bulgaarse lichte vrachtauto stelden ze de meeste inbreuken vast, met boetes van meer dan 3.800 euro."
+    },
+    {
+     "eur": 6450,
+     "t": "6.450 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "De totale boete bedroeg 6.450 euro."
+    },
+    {
+     "eur": 2500,
+     "t": "2.500 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "title",
+     "ctx": "Omdat de lading beperkt was (minder dan 1.000 liter), ging het bedrag naar het maximum van 2.500 euro."
+    },
+    {
+     "eur": 891,
+     "t": "891 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "title",
+     "ctx": "Daarvoor inden de diensten 891 euro."
+    },
+    {
+     "eur": 500,
+     "t": "500 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Daarvoor kreeg de chauffeur een extra boete van 500 euro."
+    },
+    {
+     "eur": 1452,
+     "t": "1.452 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "sentence",
+     "ctx": "Ze kregen boetes van 2.343 en 1.452 euro."
+    },
+    {
+     "eur": 1000,
+     "t": "1.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "title",
+     "ctx": "De chauffeur van een Nederlandse lichte vrachtauto had geen vrachtbrief opgesteld en betaalde 1.000 euro."
+    },
+    {
+     "eur": 1700,
+     "t": "1.700 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "title",
+     "ctx": "Samen betaalden die chauffeurs 1.700 euro."
+    },
+    {
+     "eur": 191,
+     "t": "191 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Zij kregen elk een onmiddellijke boete van 191 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.ewPpjNdQM",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/e25-autosnelweg-in-beide-richtingen-versperd-in-sprimont-door-ge/",
+   "title": "Gewapende bestuurder die auto dreigde op te blazen op E25 in Sprimont heeft zich overgegeven",
+   "published": "2026-10-17T12:04:28+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "Eén"
+    },
+    {
+     "v": 13,
+     "t": "13.40"
+    },
+    {
+     "v": 40,
+     "t": "13.40"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/vlaams-brabantse-okan-scholen-begeleidden-in-10-jaar-bijna-6-000/",
+   "title": "Vlaams-Brabantse OKAN-scholen begeleidden in 10 jaar bijna 6.000 anderstalige nieuwkomers",
+   "published": "2026-10-17T12:25:57+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 6000,
+     "t": "6.000"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 6000,
+     "t": "6.000"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 897,
+     "t": "897"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 216,
+     "t": "216"
+    },
+    {
+     "v": -24.1,
+     "t": "-24,1"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 681,
+     "t": "681"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 70.7,
+     "t": "70,7"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 77,
+     "t": "77"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 85,
+     "t": "85"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 76,
+     "t": "76"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5wjq9epWl",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/etienne-80-keert-terug-naar-het-kasteel-in-halle-waar-hij-zi/",
+   "title": "Etienne (80) keert terug naar het 'kasteel' in Halle waar hij zijn vader verloor",
+   "published": "2026-10-17T12:31:46+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGywj88Wa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/loppe-tweedehandswinkel-maldegem-verkoop/",
+   "title": "Eerste tweedehandssupermarkt van het land geopend in Maldegem: \"Jij huurt een rek, wij verkopen je spullen\"",
+   "published": "2026-10-17T12:50:17+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 600,
+     "t": "600"
+    },
+    {
+     "v": 400,
+     "t": "400"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 400,
+     "t": "400"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": [
+    {
+     "eur": 12,
+     "t": "12 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Een winkelrek huren kost 12 euro per week, de uitbaters krijgen 10% commissie op verkochte artikels."
+    },
+    {
+     "eur": 400,
+     "t": "400 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kwijt",
+     "how": "sentence",
+     "ctx": "\"Als ik dit nieuw had moeten kopen, was ik zeker 300 of 400 euro kwijt, en nu maar 60 euro."
+    },
+    {
+     "eur": 60,
+     "t": "60 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kwijt",
+     "how": "sentence",
+     "ctx": "\"Als ik dit nieuw had moeten kopen, was ik zeker 300 of 400 euro kwijt, en nu maar 60 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.LNDjGyD9V",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/poperinge-de-gilde-ontwikkelaar-stad-gebreke/",
+   "title": "Stad Poperinge koopt zaal De Gilde om te slopen, slapende werf ernaast heeft gebouw instabiel gemaakt",
+   "published": "2026-10-17T13:14:37+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 660000,
+     "t": "660.000"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": [
+    {
+     "eur": 660000,
+     "t": "660.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "schade",
+     "how": "article",
+     "ctx": "De stad Poperinge gaat de oude zaal De Gilde aankopen voor 660.000 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.vL4xeM9jj",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/dag-tegen-armoede-lier-protest-actie-ons-gedacht/",
+   "title": "Armoedevereniging Ons Gedacht in Lier laat mensen rugzak vol stenen dragen, maar vreest voor toekomst",
+   "published": "2026-10-17T14:23:02+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 40000,
+     "t": "40.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    }
+   ],
+   "money": [
+    {
+     "eur": 40000,
+     "t": "40.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "subsidie",
+     "how": "sentence",
+     "ctx": "Een van hen werd betaald met de subsidie van het lokaal bestuur, volgens de vereniging 40.000 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.5wjqRo78w",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/fietstunnel-in-tongeren-borgloon-krijgt-kleurrijke-streetart-ove/",
+   "title": "Fietstunnel in Tongeren-Borgloon krijgt kleurrijke streetart over historisch Fruitspoor",
+   "published": "2026-10-17T14:31:15+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 129,
+     "t": "129"
+    },
+    {
+     "v": 107,
+     "t": "107"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APX0xE8o1",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/gewonde-bij-steekincident-in-de-aarschotstraat/",
+   "title": "Gewonde bij steekincident in de Aarschotstraat",
+   "published": "2026-10-17T14:48:49+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 23,
+     "t": "23.00"
+    },
+    {
+     "v": 0,
+     "t": "23.00"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JNGvG5EVo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/sint-joris-nieuwspoort-arbeider-onwel-ammoniak/",
+   "title": "Jonge arbeider die put met visafval reinigt onwel geworden in Sint-Joris, bedrijf even geëvacueerd",
+   "published": "2026-10-17T15:51:29+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 14,
+     "t": "14"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43NJNvloQ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/cartamundi-jobdag-turnhout-speelkaarten/",
+   "title": "Speelkaartenproducent Cartamundi in Turnhout zoekt 100 nieuwe medewerkers en houdt een jobdag",
+   "published": "2026-10-17T15:54:37+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 590,
+     "t": "590"
+    },
+    {
+     "v": 470,
+     "t": "470"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.pAMRMjWx9",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/duizenden-mensen-geevacueerd-voor-natuurbranden-in-californie/",
+   "title": "Duizenden mensen geëvacueerd voor natuurbranden in Californië",
+   "published": "2026-10-17T15:58:35+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 16000,
+     "t": "16.000"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 4600,
+     "t": "4.600"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.PqXy9aQ46",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/leuven-opent-nieuwe-stadswijk-burenberg-met-publieke-parktuin/",
+   "title": "Leuven opent nieuwe stadswijk Burenberg met publieke parktuin",
+   "published": "2026-10-17T16:12:36+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 127,
+     "t": "127"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 67,
+     "t": "67"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ZWyLGVnAE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/vrouw-onder-boom-in-bilzen-hoeselt-kritiek/",
+   "title": "Vrouw kritiek door omvallende boom in Park Haffmans in Bilzen: park voorlopig afgesloten",
+   "published": "2026-10-17T16:16:34+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 61,
+     "t": "61"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLyERq04e",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/vierjarig-meisje-levensgevaar-val-borgerhout/",
+   "title": "Meisje (4) valt van tweede verdieping in Borgerhout en verkeert in levensgevaar",
+   "published": "2026-10-17T16:28:27+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11vWvDWpW",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/trouwstoet-kortrijk-lawaai-rookbom-politie/",
+   "title": "Trouwstoet loopt even uit de hand in Kortrijk: feestvierders blokkeren kruispunt en steken rookbommen af",
+   "published": "2026-10-17T16:28:29+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.8eXK0PexG",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/vandaal-ieper-auto-steen-fiets/",
+   "title": "Vandaal op de fiets bekogelt auto's in Ieper, dashcam filmt moment waarop dader toeslaat",
+   "published": "2026-10-17T16:46:15+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.M9X56VWDO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/piramidebrug-evergem-opening-volksfeest/",
+   "title": "3.000 buurtbewoners vieren opening van Piramidebrug in Evergem: \"Indrukwekkend, fier dat we dit hier kunnen maken\"",
+   "published": "2026-10-17T16:51:04+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1900,
+     "t": "1900"
+    },
+    {
+     "v": 106,
+     "t": "106"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2600,
+     "t": "2.600"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.nwYdvJev7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/34ste-jeneverfeesten-hasselt-komt-rustig-op-gang-ik-kom-speciaa/",
+   "title": "34e Jeneverfeesten Hasselt komen rustig op gang: “Ik kom speciaal vanuit Kopenhagen”",
+   "published": "2026-10-17T16:55:12+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 34,
+     "t": "34"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.8eXKXjZMG",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/nieuwe-jeugdbeweging-voor-kinderen-met-autisme-en-adhd-gestart-i/",
+   "title": "Nieuwe jeugdbeweging voor kinderen met autisme en ADHD gestart in Lommel: \"Hier kunnen ze zichzelf zijn\"",
+   "published": "2026-10-17T17:30:10+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Ybye5lZeD",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/funcross-meulebeke/",
+   "title": "Dertien recreanten wagen zich aan 1e 'funcross' op parcours van Berencross in Meulebeke",
+   "published": "2026-10-17T17:42:08+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 13,
+     "t": "Dertien"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 13,
+     "t": "Dertien"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.QAX9yGnj5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/bewaking-security-poperinge-jeugdbewegingen-vechtpartijen-fuif-f/",
+   "title": "Na noodkreet van jeugdbewegingen: stad Poperinge betaalt kosten voor bewakingsagent grotendeels terug",
+   "published": "2026-10-17T18:04:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 600,
+     "t": "600"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 750,
+     "t": "750"
+    }
+   ],
+   "money": [
+    {
+     "eur": 600,
+     "t": "600 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "\"We zouden toen 50 procent van de kosten terugbetalen, met een maximum van 600 euro."
+    },
+    {
+     "eur": 750,
+     "t": "750 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "title",
+     "ctx": "De tussenkomst is nu ook 60 procent, met een maximumbedrag van 750 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.WkXY7y7Vp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/peer-grote-brogel-pieter-bruegel-standbeeld/",
+   "title": "Grote-Brogel viert 500e verjaardag van Pieter Bruegel: \"Wij zijn zeker dat hij een Limburger was\"",
+   "published": "2026-10-17T18:15:29+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 1604,
+     "t": "1604"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLyEwxMlN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/botsing-met-vrachtwagen-op-e40-in-veurne-bestuurder-zegt-dat-el/",
+   "title": "Botsing met vrachtwagen op E40 in Veurne: bestuurder zegt dat elektrische auto \"plots op hol sloeg\"",
+   "published": "2026-10-17T18:18:03+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.QAX9bW5M4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/belgische-poolse-en-franse-diplomatische-delegatie-aangevallen/",
+   "title": "Europese delegatie met Belgische diplomaten aangevallen door Israëlische kolonisten op Westelijke Jordaanoever",
+   "published": "2026-10-17T18:50:33+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 170,
+     "t": "170"
+    },
+    {
+     "v": 4,
+     "t": "vier"
+    },
+    {
+     "v": 100,
+     "t": "honderd"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.8eXKDN804",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/winnaars-film-fest-gent/",
+   "title": "'La gradiva' van Franse regisseur Marine Atlan wint Grand Prix op Film Fest Gent",
+   "published": "2026-10-17T20:36:47+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 53,
+     "t": "53"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ewPpkJv9Y",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/kleine-aardbeving-genk-as/",
+   "title": "Bewoners in As en Genk opgeschrikt door kleine aardbeving",
+   "published": "2026-10-17T22:43:54+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2.1,
+     "t": "2,1"
+    },
+    {
+     "v": 2.1,
+     "t": "2,1"
+    },
+    {
+     "v": 20,
+     "t": "20.22"
+    },
+    {
+     "v": 22,
+     "t": "20.22"
+    },
+    {
+     "v": 1.9,
+     "t": "1,9"
+    },
+    {
+     "v": 3.1,
+     "t": "3,1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGywqjW5k",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/protest-regering-albanie-dag-5/",
+   "title": "5e dag op rij gewelddadig protest tegen regering in Albanië, politie gebruikt voor het eerst rubberkogels",
+   "published": "2026-10-17T23:00:02+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  }
+ ]
+}

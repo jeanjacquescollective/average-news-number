@@ -1,0 +1,748 @@
+{
+ "source": "https://www.vrt.be/vrtnws/nl/",
+ "timezone": "Europe/Brussels",
+ "tracking_start": "2026-10-16",
+ "updated_at": "2026-10-30T10:00:57+01:00",
+ "days": [
+  {
+   "date": "2026-10-16",
+   "headlines": {
+    "count": 97,
+    "numbers": 43,
+    "mean": 1159972.7442,
+    "median": 16,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Time Magazine noemt Kempense fietsairbag 1 van beste uitvindingen van 2026: \"Voelt als Parijs-Roubaix winnen\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/aerobag-turnhout-airbag-fiets-beste-uitvinding-lijst-time-magazi/"
+    },
+    "max": {
+     "v": 29800000,
+     "t": "29,8 miljoen",
+     "title": "'Compositie III' van Piet Mondriaan haalt 29,8 miljoen euro op veiling in Londen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/15/mondriaan-compositie-iii-veiling-christie-s/"
+    }
+   },
+   "articles": {
+    "count": 72,
+    "numbers": 624,
+    "mean": 19640782.8359,
+    "median": 22.0,
+    "min": {
+     "v": 0,
+     "t": "0",
+     "title": "Beersel zoekt al voor 3e keer uitbater voor leegstaand kinderdagverblijf Kriebelbos in Alsemberg",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/kinderdagverblijf-in-alsemberg-staat-al-maanden-leeg-gemeente-z/"
+    },
+    "max": {
+     "v": 10000000000,
+     "t": "10 miljard",
+     "title": "Astronomen ontdekken eerste groene ster: \"Voelt als iets uit sciencefictionfilm\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/eerste-groene-ster-ontdekt/"
+    }
+   },
+   "money": {
+    "count": 28,
+    "lost": 647090956.6,
+    "biggest_lost": {
+     "eur": 411000000,
+     "t": "411 miljoen euro",
+     "title": "Duitsland legt pensioenfundament voor elk kind: overheid stort maandelijks 10 euro op spaarrekening",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/duitsland-pensioenen-pensioensparen-10-euro-per-maand-voor-elk-k/"
+    },
+    "gained": 1388867534,
+    "biggest_gained": {
+     "eur": 1000000000,
+     "t": "een miljard euro",
+     "title": "Duitsland legt pensioenfundament voor elk kind: overheid stort maandelijks 10 euro op spaarrekening",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/duitsland-pensioenen-pensioensparen-10-euro-per-maand-voor-elk-k/"
+    },
+    "neutral": 0,
+    "net": 741776577.4
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "headlines": {
+    "count": 44,
+    "numbers": 10,
+    "mean": 200405.3,
+    "median": 19.0,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Time Magazine noemt Kempense fietsairbag 1 van beste uitvindingen van 2026",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/aerobag-turnhout-airbag-fiets-beste-uitvinding-lijst-time-magazi/"
+    },
+    "max": {
+     "v": 2000000,
+     "t": "2 miljoen",
+     "title": "Supertanker met 2 miljoen vaten ruwe olie vaart op zeemijn en vat vuur, beweert Iran",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/supertanker-met-2-miljoen-vaten-ruwe-olie-vaart-op-zeemijn-en-va~1784611610051/"
+    }
+   },
+   "articles": {
+    "count": 46,
+    "numbers": 331,
+    "mean": 43035.6467,
+    "median": 24,
+    "min": {
+     "v": -24.1,
+     "t": "-24,1",
+     "title": "Vlaams-Brabantse OKAN-scholen begeleidden in 10 jaar bijna 6.000 anderstalige nieuwkomers",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/vlaams-brabantse-okan-scholen-begeleidden-in-10-jaar-bijna-6-000/"
+    },
+    "max": {
+     "v": 5500000,
+     "t": "5,5 miljoen",
+     "title": "Heirstraat in Maasmechelen na een jaar weer open",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/heerstraat-in-maasmechelen-na-een-jaar-terug-open/"
+    }
+   },
+   "money": {
+    "count": 20,
+    "lost": 2180506,
+    "biggest_lost": {
+     "eur": 1500000,
+     "t": "1,5 miljoen euro",
+     "title": "Heirstraat in Maasmechelen na een jaar weer open",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/heerstraat-in-maasmechelen-na-een-jaar-terug-open/"
+    },
+    "gained": 5555000,
+    "biggest_gained": {
+     "eur": 5500000,
+     "t": "5,5 miljoen euro",
+     "title": "Heirstraat in Maasmechelen na een jaar weer open",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/heerstraat-in-maasmechelen-na-een-jaar-terug-open/"
+    },
+    "neutral": 0,
+    "net": 3374494
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "headlines": {
+    "count": 52,
+    "numbers": 23,
+    "mean": 123.0435,
+    "median": 6,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "6 verdachten opgepakt voor moord op politieagent Nordine El Talbi: 1 in Frankrijk, 3 in Spanje en 2 in België",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/persconferetie-moinil/"
+    },
+    "max": {
+     "v": 1200,
+     "t": "1.200",
+     "title": "Zeker 1.200 mensen opgepakt in Frankrijk, burgemeester van Limoges reageert razend na brand in stadhuis",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/zeker-1200-mensen-opgepakt-in-frankrijk-burgemeester-van-limog~1780566651393/"
+    }
+   },
+   "articles": {
+    "count": 45,
+    "numbers": 339,
+    "mean": 210490.6165,
+    "median": 16,
+    "min": {
+     "v": 0,
+     "t": "14.00",
+     "title": "Groot gat in hek van luchthaven Leipzig in Duitsland: onderzoek levert voorlopig niets op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/duitsland-leipzig-gat-in-hek/"
+    },
+    "max": {
+     "v": 70000000,
+     "t": "70 miljoen",
+     "title": "Sonja zoekt haar plek, Haakon draait overuren: Noorse royals pikken de draad weer op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/het-leven-trekt-zich-op-gang-na-de-dood-van-harald-aan-het-noors/"
+    }
+   },
+   "money": {
+    "count": 7,
+    "lost": 70125390,
+    "biggest_lost": {
+     "eur": 70000000,
+     "t": "70 miljoen euro",
+     "title": "Sonja zoekt haar plek, Haakon draait overuren: Noorse royals pikken de draad weer op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/het-leven-trekt-zich-op-gang-na-de-dood-van-harald-aan-het-noors/"
+    },
+    "gained": 17500,
+    "biggest_gained": {
+     "eur": 12000,
+     "t": "12.000 euro",
+     "title": "Huis gekocht met verborgen gebreken: wanneer kun je de verkoper aansprakelijk stellen?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/huis-kopen-bescherming-garantie-advocaat-vastgoedrecht0/"
+    },
+    "neutral": 0,
+    "net": -70107890
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "headlines": {
+    "count": 57,
+    "numbers": 33,
+    "mean": 325.0909,
+    "median": 18,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Project 1 van De Warmste Week: voor kerst samen een clubhuis met skatepark bouwen bij vzw Adem in Bierbeek",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/project-1-van-de-warmste-week-samen-een-clubhuis-met-skatepark/"
+    },
+    "max": {
+     "v": 6000,
+     "t": "6.000",
+     "title": "Minnelijke schikking van 6.000 euro voor man die met provocerend T-shirt werd opgepakt tijdens herdenking neergeschoten agent",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/man-met-provocerend-t-shirt-opgepakt-tijdens-herdenking-van-dood/"
+    }
+   },
+   "articles": {
+    "count": 94,
+    "numbers": 836,
+    "mean": 2262947441.3257,
+    "median": 21.5,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Realitycheck op VN-top: 22 van de 23 biodiversiteitsdoelen liggen niet op schema",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/16/biodiversiteitstop-in-jerevan-armenie-wat-staat-er-op-het-spel-w/"
+    },
+    "max": {
+     "v": 900000000000,
+     "t": "900 miljard",
+     "title": "\"Het eerste van vele\": Elon Musk wil elk kind in VS 1 aandeel van SpaceX schenken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/musk-wil-elk-kind-in-vs-aandeel-spacex-geven/"
+    }
+   },
+   "money": {
+    "count": 34,
+    "lost": 4000044945,
+    "biggest_lost": {
+     "eur": 4000000000,
+     "t": "4 miljard euro",
+     "title": "Eerste minister De Wever speelt alles of niets",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/18/eerste-minister-de-wever-speelt-alles-of-niets/"
+    },
+    "gained": 839728977084.11,
+    "biggest_gained": {
+     "eur": 774000000000,
+     "t": "900 miljard dollar",
+     "title": "\"Het eerste van vele\": Elon Musk wil elk kind in VS 1 aandeel van SpaceX schenken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/musk-wil-elk-kind-in-vs-aandeel-spacex-geven/"
+    },
+    "neutral": 0,
+    "net": 835728932139.11
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "headlines": {
+    "count": 56,
+    "numbers": 28,
+    "mean": 41039.0464,
+    "median": 32.5,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Afschaffing van ziektebriefje leidt tot ruim de helft meer ziekmeldingen voor 1 dag",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/afschaffing-ziektebriefje-leidt-tot-ruim-de-helft-meer-ziekmeldi/"
+    },
+    "max": {
+     "v": 800000,
+     "t": "800.000",
+     "title": "Vlaamse regering stopt campagne van 800.000 euro rond podcast 'Het Wassalon'",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/omstreden-podcast-het-wassalon-wordt-stopgezet/"
+    }
+   },
+   "articles": {
+    "count": 108,
+    "numbers": 989,
+    "mean": 270730031.9498,
+    "median": 31,
+    "min": {
+     "v": 0,
+     "t": "17.00",
+     "title": "Brugge voert nieuw parkeerbeleid en zone voor bestemmingsverkeer in: \"Blijven zoeken naar parkeersplaats in binnenstad ontmoedigen\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/brugge-nieuw-parkeerplan/"
+    },
+    "max": {
+     "v": 200000000000,
+     "t": "200 miljard",
+     "title": "Documentaire 'You can see everything' breekt records, wie is de Amerikaanse fraudeur Elizabeth Holmes?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/elizabeth-holmes-theranos-docu-you-can-see-everything/"
+    }
+   },
+   "money": {
+    "count": 45,
+    "lost": 1904443095.88,
+    "biggest_lost": {
+     "eur": 1000000000,
+     "t": "1 miljard euro",
+     "title": "Sint-Laureins mag van Vlaanderen minder sociale huurwoningen bouwen dan het oorspronkelijk moest: \"Te weinig ruimte\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/sint-laureins-minder-sociale-huurwoningen-bouwen/"
+    },
+    "gained": 51663877506,
+    "biggest_gained": {
+     "eur": 16340000000,
+     "t": "19 miljard dollar",
+     "title": "SpaceX verdubbelt omzet en boekt meer dan 4 miljard dollar winst dankzij AI en Starlink",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/spacex-voert-omzet-flink-op-dankzij-ai-tak-en-groei-bij-starlink/"
+    },
+    "neutral": 0,
+    "net": 49759434410.12
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "headlines": {
+    "count": 66,
+    "numbers": 17,
+    "mean": 1705882538.2824,
+    "median": 26,
+    "min": {
+     "v": 2.8,
+     "t": "2,8",
+     "title": "VN waarschuwt in aanloop naar nieuwe klimaatconferentie: wereld stevent af op opwarming van 2,8 graden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/un-emissions-gap-report-wereld-gaat-voorbij-1-5-graden-opwarming/"
+    },
+    "max": {
+     "v": 25000000000,
+     "t": "25 miljard",
+     "title": "Meta moet boete van 25 miljard dollar betalen in privacyzaak Cambridge Analytica",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/meta-boete-cambridge-analytica/"
+    }
+   },
+   "articles": {
+    "count": 102,
+    "numbers": 857,
+    "mean": 1140966076.4574,
+    "median": 25,
+    "min": {
+     "v": 0,
+     "t": "0.35",
+     "title": "Voorbijgangers voorkomen zware brand in overbevolkt flatgebouw in Brusselse Dansaertstraat",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/voorbijgangers-voorkomen-zware-brand-in-overbevolkt-flatgebouw-i/"
+    },
+    "max": {
+     "v": 219500000000,
+     "t": "219,5 miljard",
+     "title": "Meta moet boete van 25 miljard dollar betalen in privacyzaak Cambridge Analytica",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/meta-boete-cambridge-analytica/"
+    }
+   },
+   "money": {
+    "count": 40,
+    "lost": 245089175679,
+    "biggest_lost": {
+     "eur": 188770000000,
+     "t": "219,5 miljard dollar",
+     "title": "Meta moet boete van 25 miljard dollar betalen in privacyzaak Cambridge Analytica",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/meta-boete-cambridge-analytica/"
+    },
+    "gained": 389008477440,
+    "biggest_gained": {
+     "eur": 185000000000,
+     "t": "185 miljard euro",
+     "title": "Premier De Wever \"zeker\" dat Europese Commissie debat over Russische activa niet zal heropenen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/premier-de-wever-zeker-dat-europese-commissie-debat-over-russi/"
+    },
+    "neutral": 0,
+    "net": 143919301761
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "headlines": {
+    "count": 47,
+    "numbers": 25,
+    "mean": 22034363.48,
+    "median": 15,
+    "min": {
+     "v": 2,
+     "t": "Twee",
+     "title": "Twee doden nadat drone neerstort boven olieveld in Saoedi-Arabië",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-doden-nadat-drone-neerstort-boven-olieveld-in-saoediarabie~1784611610051/"
+    },
+    "max": {
+     "v": 400000000,
+     "t": "400 miljoen",
+     "title": "Gent mikt op 150 miljoen nieuwe besparingen en 400 miljoen minder investeringen: \"We moeten keuzes kunnen maken\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/gent-besparing-begroting-vlaanderen-federale-regering-sanering-i/"
+    }
+   },
+   "articles": {
+    "count": 99,
+    "numbers": 1447,
+    "mean": 25781661.1056,
+    "median": 29,
+    "min": {
+     "v": 0,
+     "t": "8.00",
+     "title": "\"Te veel auto's tussen wandelaars\": district Antwerpen gaat verkeer tellen in Lange Koepoortstraat na klachten",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/lange-koepoortstraat-antwerpen-verkeer-tellingen/"
+    },
+    "max": {
+     "v": 14000000000,
+     "t": "14 miljard",
+     "title": "Waarom de machtigste man van China bijna alleen aan tafel zit",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/waarom-de-machtigste-man-van-china-bijna-alleen-aan-tafel-zit/"
+    }
+   },
+   "money": {
+    "count": 38,
+    "lost": 603836650,
+    "biggest_lost": {
+     "eur": 550000000,
+     "t": "550 miljoen euro",
+     "title": "Vrachtwagenchauffeurs blokkeren Italiaanse snelwegen vanwege dieselprijzen: pasta- en mozzarellatekorten dreigen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/italie-blokkades-vrachtwagens-tekorten/"
+    },
+    "gained": 13238471200,
+    "biggest_gained": {
+     "eur": 12040000000,
+     "t": "14 miljard dollar",
+     "title": "Waarom de machtigste man van China bijna alleen aan tafel zit",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/waarom-de-machtigste-man-van-china-bijna-alleen-aan-tafel-zit/"
+    },
+    "neutral": 0,
+    "net": 12634634550
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "headlines": {
+    "count": 61,
+    "numbers": 26,
+    "mean": 1940619.0,
+    "median": 22.0,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Man schiet in het wilde weg in Trappes bij Parijs: 1 dode en 4 gewonden, schutter opgepakt",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/schietpartij-in-trappes-bij-parijs-een-dode-en-vier-gewonden0/"
+    },
+    "max": {
+     "v": 50000000,
+     "t": "50 miljoen",
+     "title": "Schilderij 'Iris' van Monet brengt 50 miljoen euro op en breekt Frans veilingrecord",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/iris-monet-50-miljoen-euro-parijs-veiling/"
+    }
+   },
+   "articles": {
+    "count": 83,
+    "numbers": 690,
+    "mean": 15674208.4793,
+    "median": 20.5,
+    "min": {
+     "v": -8,
+     "t": "-8",
+     "title": "Einde aan bijna 170 jaar oude traditie: New York verbiedt paardenkoetsen in Central Park",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/na-jarenlange-discussie-new-york-verbiedt-paardenkoetsen-in-cen/"
+    },
+    "max": {
+     "v": 2000000000,
+     "t": "2 miljard",
+     "title": "\"Nederland hackt telefoon van Trump-schoonzoon Jared Kushner en ontdekt geheime financiële constructies van miljarden\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/vs-verenigde-staten-jared-kushner-donald-trump-princes-and-thiev/"
+    }
+   },
+   "money": {
+    "count": 39,
+    "lost": 635755501.48,
+    "biggest_lost": {
+     "eur": 450000000,
+     "t": "450 miljoen euro",
+     "title": "Volvo Cars schrapt wereldwijd 2.500 jobs om kosten te drukken, fabriek in Gent onderzoekt impact",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/volvo-schrapt-2500-jobs-zweden/"
+    },
+    "gained": 3993135825,
+    "biggest_gained": {
+     "eur": 1720000000,
+     "t": "2 miljard dollar",
+     "title": "\"Nederland hackt telefoon van Trump-schoonzoon Jared Kushner en ontdekt geheime financiële constructies van miljarden\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/vs-verenigde-staten-jared-kushner-donald-trump-princes-and-thiev/"
+    },
+    "neutral": 0,
+    "net": 3357380323.52
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "headlines": {
+    "count": 8,
+    "numbers": 2,
+    "mean": 863.5,
+    "median": 863.5,
+    "min": {
+     "v": 5,
+     "t": "5",
+     "title": "Na wachttijden tot 5 uur investeert Brussels Airport in bijkomende grenscontroleposten",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/luchthaven-zaventem-brussels-airport-wachttijden-grenscontrole/"
+    },
+    "max": {
+     "v": 1722,
+     "t": "1722",
+     "title": "Gloednieuw dak van huis gewaaid in Waltwilder, telefoonnummer 1722 overbelast",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/gloednieuw-dak-van-huis-gewaaid-in-waltwilder-telefoonnummer-17~1792663198457/"
+    }
+   },
+   "articles": {
+    "count": 49,
+    "numbers": 466,
+    "mean": 4422950.5139,
+    "median": 14.0,
+    "min": {
+     "v": 0.8,
+     "t": "0,8",
+     "title": "Testaankoop pleit voor oogstjaar op flessen olijfolie: \"Na verloop van tijd verliest olie zijn kwaliteit\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/olijfolie-na-verloop-van-tijd-lagere-kwaliteit/"
+    },
+    "max": {
+     "v": 1000000000,
+     "t": "1 miljard",
+     "title": "Na maanden van protest gaan Serviërs naar de stembus: is dit het einde van het tijdperk-Vucic?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/servie-verkiezingen-studenten-protestbeweging-vucic/"
+    }
+   },
+   "money": {
+    "count": 22,
+    "lost": 41847422,
+    "biggest_lost": {
+     "eur": 25000000,
+     "t": "25 miljoen euro",
+     "title": "Zelzate legt symbolische 1e steen van nieuwe school Sint-Laurens",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/start-bouw-nieuwe-school-zelzate-sint-laurens/"
+    },
+    "gained": 1003307731.63,
+    "biggest_gained": {
+     "eur": 1000000000,
+     "t": "1 miljard euro",
+     "title": "Na maanden van protest gaan Serviërs naar de stembus: is dit het einde van het tijdperk-Vucic?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/servie-verkiezingen-studenten-protestbeweging-vucic/"
+    },
+    "neutral": 0,
+    "net": 961460309.63
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "headlines": {
+    "count": 0,
+    "numbers": 0
+   },
+   "articles": {
+    "count": 46,
+    "numbers": 421,
+    "mean": 171044866.9384,
+    "median": 24,
+    "min": {
+     "v": 0,
+     "t": "00.40",
+     "title": "Storm Boelo: brandweer voert meer dan 60 interventies uit in Brussels gewest, tram 44 weer onderbroken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/storm-boelo-brandweer-voert-meer-dan-60-interventies-uit-tram/"
+    },
+    "max": {
+     "v": 72000000000,
+     "t": "72 miljard",
+     "title": "Oliedollars geen garantie voor veiligheid: waarom Saudi-Arabië kansloos is tegen aanvallen van Houthi-rebellen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/saudi-arabie-houthi-s-rebellen-defensie-aanvallen-leger-riyadh-l/"
+    }
+   },
+   "money": {
+    "count": 9,
+    "lost": 0,
+    "gained": 72001056789.99,
+    "biggest_gained": {
+     "eur": 72000000000,
+     "t": "72 miljard euro",
+     "title": "Oliedollars geen garantie voor veiligheid: waarom Saudi-Arabië kansloos is tegen aanvallen van Houthi-rebellen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/saudi-arabie-houthi-s-rebellen-defensie-aanvallen-leger-riyadh-l/"
+    },
+    "neutral": 0,
+    "net": 72001056789.99
+   }
+  },
+  {
+   "date": "2026-10-27",
+   "headlines": {
+    "count": 0,
+    "numbers": 0
+   },
+   "articles": {
+    "count": 1,
+    "numbers": 90,
+    "mean": 6748.1367,
+    "median": 26.5,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "LIVE Alle stemmen zijn geteld: geen enkel blok haalt meerderheid, coalitie Netanyahu is het grootst",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/alle-stemmen-zijn-geteld-geen-enkel-blok-haalt-meerderheid-coa~1793076564841/"
+    },
+    "max": {
+     "v": 600000,
+     "t": "600.000",
+     "title": "LIVE Alle stemmen zijn geteld: geen enkel blok haalt meerderheid, coalitie Netanyahu is het grootst",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/alle-stemmen-zijn-geteld-geen-enkel-blok-haalt-meerderheid-coa~1793076564841/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "headlines": {
+    "count": 0,
+    "numbers": 0
+   },
+   "articles": {
+    "count": 1,
+    "numbers": 34,
+    "mean": 1176652.6176,
+    "median": 30.5,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "LIVE Autoriteiten stellen dodental van treinramp weer naar beneden bij, 51 buitenlanders betrokken",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/autoriteiten-stellen-dodental-van-treinramp-weer-naar-beneden-bi~1793178600996/"
+    },
+    "max": {
+     "v": 40000000,
+     "t": "40 miljoen",
+     "title": "LIVE Autoriteiten stellen dodental van treinramp weer naar beneden bij, 51 buitenlanders betrokken",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/autoriteiten-stellen-dodental-van-treinramp-weer-naar-beneden-bi~1793178600996/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "headlines": {
+    "count": 34,
+    "numbers": 16,
+    "mean": 62539942514.6562,
+    "median": 41.5,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Nieuwe heffing op pakjes van Temu, Shein en AliExpress: dit verandert vanaf 1 november",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vanaf-1-november-nieuwe-pakjestaks-wat-betekent-dat-voor-jou/"
+    },
+    "max": {
+     "v": 500000000000,
+     "t": "500 miljard",
+     "title": "Beleggers vrezen impact van AI op advertenties: 500 miljard dollar beurswaarde verdampt bij Google in enkele minuten",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/beleggers-vrezen-impact-van-ai-op-advertenties-500-miljard-doll~1776671241366/"
+    }
+   },
+   "articles": {
+    "count": 58,
+    "numbers": 610,
+    "mean": 89402084.0941,
+    "median": 25.0,
+    "min": {
+     "v": -30,
+     "t": "-30",
+     "title": "Nieuwe verkeersbelasting in Vlaanderen: check hier welke voordeligst is",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vergelijker-toont-vlaming-voordeligste-verkeersbelasting/"
+    },
+    "max": {
+     "v": 10000000000,
+     "t": "10 miljard",
+     "title": "LIVE Kernkabinet weer uiteen, morgenmiddag komen ze opnieuw bijeen over de begroting",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-weer-uiteen-morgenmiddag-komen-ze-opnieuw-bijeen-ov~1793247532380/"
+    }
+   },
+   "money": {
+    "count": 39,
+    "lost": 3272501406.87,
+    "biggest_lost": {
+     "eur": 2500000000,
+     "t": "2,5 miljard euro",
+     "title": "\"Lastig parket, maar vooral insinuaties\": hoe positie Annelies Verlinden (voorlopig) niet in gevaar komt in i-Police-debacle",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/positie-annelies-verlinden/"
+    },
+    "gained": 16123150922.99,
+    "biggest_gained": {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "title": "LIVE Kernkabinet weer uiteen, morgenmiddag komen ze opnieuw bijeen over de begroting",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-weer-uiteen-morgenmiddag-komen-ze-opnieuw-bijeen-ov~1793247532380/"
+    },
+    "neutral": 0,
+    "net": 12850649516.12
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "headlines": {
+    "count": 16,
+    "numbers": 8,
+    "mean": 625003253.75,
+    "median": 44.0,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "Antonio en Daniel, machinisten bij de Spaanse treinramp: 2 jonge dertigers, gepassioneerd door het spoor",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/treingeluk-toledo-spanje-portret-machinisten/"
+    },
+    "max": {
+     "v": 5000000000,
+     "t": "5 miljard",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
+    }
+   },
+   "articles": {
+    "count": 27,
+    "numbers": 281,
+    "mean": 156324633.9064,
+    "median": 30,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Dit zijn onze 5 weekendtips",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/weekendtips-31-oktober-1-november-bourgondisch-tafelen-boektopia/"
+    },
+    "max": {
+     "v": 6300000000,
+     "t": "6,3 miljard",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
+    }
+   },
+   "money": {
+    "count": 24,
+    "lost": 8870357744.3,
+    "biggest_lost": {
+     "eur": 5000000000,
+     "t": "5 miljard euro",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
+    },
+    "gained": 50708262,
+    "biggest_gained": {
+     "eur": 50000000,
+     "t": "50 miljoen euro",
+     "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/raad-van-state-beperking-geboortepremie-eerste-kind/"
+    },
+    "neutral": 0,
+    "net": -8819649482.3
+   }
+  }
+ ]
+}

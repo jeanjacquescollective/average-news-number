@@ -1,0 +1,2632 @@
+{
+ "date": "2026-10-24",
+ "headlines": [
+  {
+   "title": "Gloednieuw dak van huis gewaaid in Waltwilder, telefoonnummer 1722 overbelast",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/gloednieuw-dak-van-huis-gewaaid-in-waltwilder-telefoonnummer-17~1792663198457/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [
+    {
+     "v": 1722,
+     "t": "1722"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Ratingbureau S&P behoudt kredietscore van België, maar verwacht opnieuw vertraging voor begroting",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/ratingbureau-sp-behoudt-kredietscore-van-belgie-maar-verwacht-~1790599460224/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Politie onderzoekt schietpartij in Trappes als racistische terreurdaad: \"Keerpunt voor Frankrijk\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/schietpartij-in-trappes-bij-parijs-een-dode-en-vier-gewonden0/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "'Most wanted'-voortvluchtige die enkelband had doorgeknipt, geeft zichzelf aan bij gerecht",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/voortvluchtige-enkelband-most-wanted/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Welk energiecontract kies ik het beste? En gaan prijzen nog stijgen? Luc Pauwels beantwoordt jouw vragen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/vragen-en-antwoorden-over-gasprijs-elektriciteitsprijs-energiepr/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "\"Opvallend veel condooms\": Michael duikt riool om aangekoekt vet weg te spuiten",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/duiker-michael-de-ruyter-over-rioleringswerken-hasselt/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [],
+   "archived": true
+  },
+  {
+   "title": "Na wachttijden tot 5 uur investeert Brussels Airport in bijkomende grenscontroleposten",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/luchthaven-zaventem-brussels-airport-wachttijden-grenscontrole/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "archived": true
+  },
+  {
+   "title": "Nicolas Baise gaat Bpost leiden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/bpost-nicolas-baise/",
+   "first_seen": "2026-10-24T01:06:53+02:00",
+   "numbers": [],
+   "archived": true
+  }
+ ],
+ "articles": [
+  {
+   "id": "p.kQOKBx1NO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/10-jaar-vrt-nws-pano-reportages/",
+   "title": "\"Basis van onderzoeksjournalistiek verandert niet, de context wel\": terugblik op 10 jaar VRT NWS Pano",
+   "published": "2026-10-24T06:04:09+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 148,
+     "t": "148"
+    },
+    {
+     "v": 5736,
+     "t": "5736"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 148,
+     "t": "148"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.8epRQWA5o",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/olijfolie-na-verloop-van-tijd-lagere-kwaliteit/",
+   "title": "Testaankoop pleit voor oogstjaar op flessen olijfolie: \"Na verloop van tijd verliest olie zijn kwaliteit\"",
+   "published": "2026-10-24T06:04:43+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 0.8,
+     "t": "0,8"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4a8ellQ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/wintertijd-bioritme-inge-declercq/",
+   "title": "Waarom wintertijd beter aansluit bij ons natuurlijke ritme",
+   "published": "2026-10-24T06:05:04+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.7nXQZOx83",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/belgodyssee-ana-dekoning/",
+   "title": "Fairouz (31) pleit voor meer verbinding met de natuur: \"De natuur\ndiscrimineert niemand\"",
+   "published": "2026-10-24T06:05:22+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2005,
+     "t": "2005"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLRvvv7BY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/grote-brand-in-voormalig-theehuis-van-hitler-politie-pakt-verda/",
+   "title": "Brand voormalig buitenverblijf Hitler vannacht opnieuw opgelaaid",
+   "published": "2026-10-24T06:32:21+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 21,
+     "t": "21.15"
+    },
+    {
+     "v": 15,
+     "t": "21.15"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 1834,
+     "t": "1.834"
+    },
+    {
+     "v": 21,
+     "t": "21.52"
+    },
+    {
+     "v": 52,
+     "t": "21.52"
+    },
+    {
+     "v": 1834,
+     "t": "1.834"
+    },
+    {
+     "v": 1937,
+     "t": "1937"
+    },
+    {
+     "v": 1938,
+     "t": "1938"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Nv3l5ARdl",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/het-gelaat-van-assisen-hoe-dean-jairon-ona-en-maud-jaren-na-h/",
+   "title": "Hoe Dean, Jairon, Ona en Maud jaren na hun dood eindelijk een stem kregen in assisen",
+   "published": "2026-10-24T08:01:49+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.E1dqelEAe",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/directeur-instituut-voor-natuurwetenschappen-onder-vuur-in-open/",
+   "title": "30 medewerkers beschuldigen directeur Instituut Natuurwetenschappen in Brussel van toxisch gedrag",
+   "published": "2026-10-24T08:32:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 400,
+     "t": "400"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.0YpXYV93Y",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/auto-belandt-in-gracht-in-zonnebeke/",
+   "title": "Auto belandt in gracht langs A19 in Zonnebeke, bestuurder uit wrak bevrijd",
+   "published": "2026-10-24T08:59:19+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 17,
+     "t": "17.45"
+    },
+    {
+     "v": 45,
+     "t": "17.45"
+    },
+    {
+     "v": 6,
+     "t": "zes"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.nwv5w7NwN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/onttrekkingsverbod-in-oost-vlaanderen-op-drie-plaatsen-opgeheven/",
+   "title": "Onttrekkingsverbod in Oost-Vlaanderen op 3 plaatsen opgeheven, droogte blijft zorgwekkend",
+   "published": "2026-10-24T09:11:07+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.3BwYB7YBP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/brand-in-loods-in-kortrijk-onder-controle-2-brandweerlui-lichtg/",
+   "title": "Brand in Kortrijkse loods onder controle: synthetisch drugslab ontdekt",
+   "published": "2026-10-24T09:16:13+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb53bxEoa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/_noord-koreaanse-leider-kim-jong-un-aangekomen-in-china-via-nieu/",
+   "title": "\"Noord-Koreaanse leider Kim Jong-un aangekomen in China via nieuwe brug\"",
+   "published": "2026-10-24T09:25:37+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2014,
+     "t": "2014"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.DYMK3JZeX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/wat-zou-verkiezing-flavio-bolsonaro-betekenen-voor-amazonewoud/",
+   "title": "Wat zou overwinning van Flávio Bolsonaro in Brazilië betekenen voor het Amazonewoud?",
+   "published": "2026-10-24T09:35:17+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 1988,
+     "t": "1988"
+    },
+    {
+     "v": 47,
+     "t": "47"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 275000,
+     "t": "275.000"
+    },
+    {
+     "v": 245000,
+     "t": "245.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 236500,
+     "t": "275.000 dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "ontbossingsboetes",
+     "how": "sentence",
+     "ctx": "Daniel Santos stapelde alleen al in 2024 275.000 dollar (245.000 euro) aan ontbossingsboetes op."
+    }
+   ]
+  },
+  {
+   "id": "p.w7067Yl6e",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/asse-hoogspanningscabine-brand-elektriciteitsuitval-fluvius-bran/",
+   "title": "Brand in hoogspanningscabine in Asse zorgt voor ontploffingen en stroompanne in hele wijk",
+   "published": "2026-10-24T09:50:44+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 22,
+     "t": "22.56"
+    },
+    {
+     "v": 56,
+     "t": "22.56"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.DYMvNxvv0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/rousseau-begroting-taboes/",
+   "title": "Rousseau over begroting: \"Als 'iedereen het zal voelen', moet je ook zeggen hoe miljonairs het zullen voelen\"",
+   "published": "2026-10-24T09:52:07+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.xZYqbdPB0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/historische-begraafplaats-van-bokrijk-opgeknapt-kruisbeeld-gere/",
+   "title": "Historische privébegraafplaats van Bokrijk opgeknapt, kruisbeeld gerestaureerd",
+   "published": "2026-10-24T10:03:09+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1911,
+     "t": "1911"
+    },
+    {
+     "v": 221,
+     "t": "221"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 57,
+     "t": "57"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYWOnado",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/sint-pieters-leeuw-stormausten-leeuwbrucom-voetbaltribune-rukwin/",
+   "title": "Storm blaast tribune-overkapping van voetbalclub Leeuw-Brucom in Sint-Pieters-Leeuw los",
+   "published": "2026-10-24T10:06:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.nwv5ldLpb",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/update-vincent-kompany/",
+   "title": "Bayern geeft update over Kompany: coach weken buiten strijd, toestand wel stabiel",
+   "published": "2026-10-24T10:20:54+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ZWKJ9LwPE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/werkstraffen-voor-3-jongeren-na-helpdeskfraude-in-maasmechelen/",
+   "title": "Werkstraffen voor 3 jongeren na helpdeskfraude in Maasmechelen",
+   "published": "2026-10-24T10:40:55+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 1600,
+     "t": "1.600"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 76,
+     "t": "76"
+    },
+    {
+     "v": 6900,
+     "t": "6.900"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 23000,
+     "t": "23.000"
+    },
+    {
+     "v": 9000,
+     "t": "9.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 55422,
+     "t": "55.422"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1600,
+     "t": "1.600 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "sentence",
+     "ctx": "De jongeren kregen werkstraffen tot 200 uur of een gevangenisstraf van 12 maanden, en boetes tot 1.600 euro."
+    },
+    {
+     "eur": 6900,
+     "t": "6.900 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kwijt",
+     "how": "sentence",
+     "ctx": "Een 76-jarige vrouw raakte niet alleen 6.900 euro kwijt, maar ook haar juwelen."
+    },
+    {
+     "eur": 23000,
+     "t": "23.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "opgelicht",
+     "how": "article",
+     "ctx": "Ze betaalde via haar bankrekening een nieuwe Mercedes van 23.000 euro voor haar zoon."
+    },
+    {
+     "eur": 9000,
+     "t": "9.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "opgelicht",
+     "how": "article",
+     "ctx": "Hij had haar daarvoor een voorschot van 9.000 euro cash gegeven."
+    },
+    {
+     "eur": 55422,
+     "t": "55.422 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "opgelicht",
+     "how": "article",
+     "ctx": "De rechter verklaarde in totaal ook 55.422 euro verbeurd."
+    }
+   ]
+  },
+  {
+   "id": "p.XEVj9MVoj",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/start-bouw-nieuwe-school-zelzate-sint-laurens/",
+   "title": "Zelzate legt symbolische 1e steen van nieuwe school Sint-Laurens",
+   "published": "2026-10-24T10:46:30+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 8500,
+     "t": "8.500"
+    },
+    {
+     "v": 55000,
+     "t": "55.000"
+    },
+    {
+     "v": 31000,
+     "t": "31.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 25000000,
+     "t": "25 miljoen"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 1300,
+     "t": "1.300"
+    }
+   ],
+   "money": [
+    {
+     "eur": 25000000,
+     "t": "25 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "In totaal kost het project zo'n 25 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.VLN89p4ZA",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/meise-sluikstorten-zwerfvuil-gasboete-incovo-handhaving/",
+   "title": "Meise stelt 2 Incovo-medewerkers aan als GAS-vaststellers tegen sluikstorten en zwerfvuil",
+   "published": "2026-10-24T10:53:57+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqnk9ROo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/gent-stefanie-vermeire-acv-zoon-victor-de-roeck-raad-van-bestuur/",
+   "title": "Moeder en zoon zetelen samen in bestuursorganen UGent: \"Engagement over generaties heen\"",
+   "published": "2026-10-24T11:00:00+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lObdwvLEq",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/denemarken-stopt-met-nertsen-fokken-voor-bont/",
+   "title": "Denemarken stopt met nertsen fokken voor bont: \"Volstaat niet dat een industrie al oud is, om ze te houden\"",
+   "published": "2026-10-24T11:10:25+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 85,
+     "t": "85"
+    },
+    {
+     "v": 4.3,
+     "t": "4,3"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLRvBD75e",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/dodelijk-ongeval-e34-kallo-onder-invloed/",
+   "title": "Dronken bestuurder rijdt wagen aan op E34 in Kallo: Duitse vrouw (69) komt om het leven",
+   "published": "2026-10-24T11:14:22+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 48,
+     "t": "48"
+    },
+    {
+     "v": 6,
+     "t": "6.30"
+    },
+    {
+     "v": 30,
+     "t": "6.30"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 13,
+     "t": "13.50"
+    },
+    {
+     "v": 50,
+     "t": "13.50"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.7nXL4E9xP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/steenhuffel-londerzeel-mosselfestijn-bpost-uitnodigingen-postbed/",
+   "title": "Door fout bij Bpost 600 uitnodigingen mosselfestijn Steenhuffel niet verstuurd: \"Dan blijven we met een enorme mosselberg zitten\"",
+   "published": "2026-10-24T11:15:05+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 600,
+     "t": "600"
+    },
+    {
+     "v": 600,
+     "t": "600"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 600,
+     "t": "600"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 1.63,
+     "t": "1,63"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 600,
+     "t": "600"
+    },
+    {
+     "v": 48,
+     "t": "48"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 100,
+     "t": "honderd"
+    }
+   ],
+   "money": [
+    {
+     "eur": 800,
+     "t": "800 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Voor de verzending betaalden de vrijwilligers bijna 800 euro."
+    },
+    {
+     "eur": 1.63,
+     "t": "1,63 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "\"De bestemmelingen krijgen een briefje in de bus dat ze 1,63 euro moeten betalen om hun brief af te halen\", zegt Roelands."
+    }
+   ]
+  },
+  {
+   "id": "p.w70Rnd7Bp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/spacewalk-ruimtetuigen-antwerpen-juergen-ingels/",
+   "title": "Replica's van maanlanders en raketten van Jürgen Ingels tentoongesteld in Antwerpse straten",
+   "published": "2026-10-24T11:29:31+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 4.5,
+     "t": "4,5"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.6KpoLBdjX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/vuurwerkverbod-wetteren-wichelen-laarne-nieuwjaar/",
+   "title": "Vuurwerk nu ook bij jaarwisseling verboden in Wetteren, Laarne en Wichelen: gemeenten passen politiereglement aan",
+   "published": "2026-10-24T11:31:17+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.93po4AJwN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/umicore-in-hoboken-en-brandweerzone-rivierenland-houden-noodplan/",
+   "title": "Umicore en brandweer oefenen op chemisch incident in Hoboken: \"Hoe beter voorbereid, hoe sneller we kunnen optreden\"",
+   "published": "2026-10-24T11:49:45+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 17,
+     "t": "17"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.xZYqBQB59",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/aannemer-henri-24-uit-poelkapelle-start-crowdfunding-na-2e-inb/",
+   "title": "Aannemer Henri (24) uit Poelkapelle start crowdfunding na 2e inbraak in zijn bestelwagen in 2 maanden",
+   "published": "2026-10-24T11:52:31+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3.20"
+    },
+    {
+     "v": 20,
+     "t": "3.20"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5000,
+     "t": "5.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 7000,
+     "t": "7.000"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 8000,
+     "t": "8.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 5000,
+     "t": "5.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "waard",
+     "how": "sentence",
+     "ctx": "De buit is minstens 5.000 euro waard."
+    },
+    {
+     "eur": 7000,
+     "t": "7.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "verliest",
+     "how": "sentence",
+     "ctx": "Aannemer Kenneth Goudeseune (40) verliest voor 7.000 euro aan materiaal uit zijn bestelwagen in de Brugseweg in het centrum van Sint-Juliaan."
+    },
+    {
+     "eur": 8000,
+     "t": "8.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "inbraak",
+     "how": "title",
+     "ctx": "\"Maar ik moet een verbouwing doen van 8.000 euro om mijn bestelwagen erin te krijgen."
+    }
+   ]
+  },
+  {
+   "id": "p.ZWKJXekex",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/aanleg-van-bedrijvenpark-de-nieuwe-bunders-in-opgrimbie-is-gesta/",
+   "title": "Aanleg van bedrijvenpark Nieuwe Bunders in Opgrimbie is gestart",
+   "published": "2026-10-24T11:57:45+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8jWObQk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/halle-november-wereldmaand-vrijwilligers-solidariteit-diversitei/",
+   "title": "November Wereldmaand in Halle gaat toch door zonder stadssteun: vrijwilligers organiseren 20 activiteiten",
+   "published": "2026-10-24T12:16:39+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 1380,
+     "t": "1.380"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1380,
+     "t": "1.380 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "projectsubsidie",
+     "how": "sentence",
+     "ctx": "\"Gelukkig kregen we nog een projectsubsidie van 1.380 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.XEVjA86R0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/vrouw-27-zwaargewond-na-aanrijding-tegen-boom-in-genk/",
+   "title": "Vrouw (27) zwaargewond na aanrijding tegen boom in Genk",
+   "published": "2026-10-24T12:30:10+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.WkjNx0y9R",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/vader-die-schutter-wist-uit-te-schakelen-op-basisschool-in-orego/",
+   "title": "Vader die schutter kon uitschakelen op school in Oregon getuigt: \"Lerares die met hem vocht, is echte held\"",
+   "published": "2026-10-24T12:41:36+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.XEVjOl6WM",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/israel-voert-raids-uit-op-steden-en-dorpen-op-de-bezette-westeli/",
+   "title": "Israël jaagt honderden mensen uit hun huizen op Westelijke Jordaanoever: \"Een collectieve bestraffing\"",
+   "published": "2026-10-24T12:47:50+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1967,
+     "t": "1967"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 1200,
+     "t": "1.200"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APQqnepp4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/straatverlichting-niet-langer-gedoofd-denderleeuw/",
+   "title": "Denderleeuw dooft straatverlichting 's nachts niet meer, maar dimt ze",
+   "published": "2026-10-24T13:02:16+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.DYMv5mp97",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/restauratie-van-districtshuis-in-borgerhout-start-maandag-werke/",
+   "title": "Borgerhout restaureert districtshuis voor meer dan 3 miljoen euro: \"Een icoon dat deel moet blijven uitmaken van de skyline\"",
+   "published": "2026-10-24T13:05:35+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 1886,
+     "t": "1886"
+    },
+    {
+     "v": 1889,
+     "t": "1889"
+    },
+    {
+     "v": 1974,
+     "t": "1974"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 47,
+     "t": "47"
+    },
+    {
+     "v": 5500,
+     "t": "5.500"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 300000,
+     "t": "300.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 3000000,
+     "t": "3 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "steun",
+     "how": "article",
+     "ctx": "Borgerhout restaureert districtshuis voor meer dan 3 miljoen euro: \"Een icoon dat deel moet blijven uitmaken van de skyline\""
+    },
+    {
+     "eur": 3000000,
+     "t": "3 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "Ze zullen ruim 3 miljoen euro kosten."
+    },
+    {
+     "eur": 300000,
+     "t": "300.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premie",
+     "how": "sentence",
+     "ctx": "Vlaanderen kent via het agentschap Onroerend Erfgoed een premie van 300.000 euro toe."
+    }
+   ]
+  },
+  {
+   "id": "p.jGkQlPx7k",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/beatrijsvannazareth-tienen-mystiek-middelnederlands-erfgoed-tent/",
+   "title": "Tiense mystica krijgt opnieuw plek in schijnwerpers: \"Veel mensen kennen Beatrijs niet meer\"",
+   "published": "2026-10-24T13:16:46+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 1200,
+     "t": "1200"
+    },
+    {
+     "v": 1268,
+     "t": "1268"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.mRJyQnmO9",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/het-adelaarsnest-het-fotogenieke-buitenverblijf-van-hitler-waa/",
+   "title": "Het Adelaarsnest: het fotogenieke buitenverblijf van Hitler, waar hij liever niet naartoe ging",
+   "published": "2026-10-24T13:39:21+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 88,
+     "t": "88"
+    },
+    {
+     "v": 1937,
+     "t": "1937"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 1938,
+     "t": "1938"
+    },
+    {
+     "v": 1945,
+     "t": "1945"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 1940,
+     "t": "1940"
+    },
+    {
+     "v": 272,
+     "t": "272"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pl8DmKW",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/google-kapt-illegaal-honderdduizenden-bomen-voor-2-datacentra-in/",
+   "title": "Google kapt illegaal honderdduizenden bomen voor 2 datacentra in Finland",
+   "published": "2026-10-24T14:12:17+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 530,
+     "t": "530"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 530,
+     "t": "530"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 400000,
+     "t": "400.000"
+    },
+    {
+     "v": 145,
+     "t": "145"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.E1dq8ojbL",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/kampenhout-halloweentocht-stormweer-hellebos-sijsselbos-jiujitsu/",
+   "title": "Halloweentocht door bos in Kampenhout uitgesteld door stormweer: \"Veiligheid gaat voor\"",
+   "published": "2026-10-24T14:18:17+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 75,
+     "t": "75"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.XEVj04jJO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/dierenverzorgster-gewond-geraakt-in-panterverblijf-van-dierenpar/",
+   "title": "Toestand van dierenverzorgster na panteraanval in Beekse Bergen is verslechterd: \"Kans op herstel heel klein\"",
+   "published": "2026-10-24T14:43:43+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8jlBOml",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/oosterweelverbinding-antwerpse-ringdag-richt-blik-op-toekomst/",
+   "title": "Toekomstvisies voor zuidelijke Antwerpse ring en omgeving station Berchem voorgesteld op 8e Ringdag",
+   "published": "2026-10-24T14:56:08+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2.25,
+     "t": "2,25"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5wael7G0d",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/servie-verkiezingen-studenten-protestbeweging-vucic/",
+   "title": "Na maanden van protest gaan Serviërs naar de stembus: is dit het einde van het tijdperk-Vucic?",
+   "published": "2026-10-24T15:07:56+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1.5,
+     "t": "Anderhalf"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 300,
+     "t": "300 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "gekregen",
+     "how": "sentence",
+     "ctx": "In augustus hebben alle gepensioneerden, zoals Dobrovije, een eenmalige uitbetaling gekregen van 300 euro."
+    },
+    {
+     "eur": 200,
+     "t": "200 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "gekregen",
+     "how": "sentence",
+     "ctx": "Ook families en veteranen hebben een bonus gekregen van 200 euro, en alle andere volwassenen 50 euro."
+    },
+    {
+     "eur": 50,
+     "t": "50 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "gekregen",
+     "how": "sentence",
+     "ctx": "Ook families en veteranen hebben een bonus gekregen van 200 euro, en alle andere volwassenen 50 euro."
+    },
+    {
+     "eur": 1000000000,
+     "t": "1 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "article",
+     "ctx": "\"In totaal waren die uitbetalingen goed voor 1 miljard euro\", zegt Rasa Nedeljkov van CRTA, een organisatie die aan verkiezingswaarneming doet."
+    }
+   ]
+  },
+  {
+   "id": "p.LNWm0EOpv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/audiotour-muurschildering-daknam-lokeren/",
+   "title": "Lokeren stelt Reynaert-audiotour en nieuwe muurschildering voor in Daknam: \"Zelf uitmaken of de vos schurk of held is\"",
+   "published": "2026-10-24T15:18:16+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pleVJal",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/cafe-de-valk-in-het-centrum-ieper-moet-een-maand-sluiten-na-klac/",
+   "title": "Café De Valk in centrum Ieper moet een maand sluiten na klachten over overlast",
+   "published": "2026-10-24T15:51:27+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "Six"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.LNWm9oDlE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/mechelen-toont-plannen-voor-groene-oevers-en-nieuwe-straten-lang/",
+   "title": "Mechelen toont plannen voor groene oevers en nieuwe straten langs de Binnendijle: \"Een van de grootste projecten van deze legislatuur\"",
+   "published": "2026-10-24T16:23:24+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 11000000,
+     "t": "11 miljoen"
+    },
+    {
+     "v": 2500000,
+     "t": "2.5 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 11000000,
+     "t": "11 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "De 3 projecten zullen in totaal 11 miljoen euro kosten, waarvan de stad Mechelen bijna 2.5 miljoen euro voor haar rekening neemt."
+    },
+    {
+     "eur": 2500000,
+     "t": "2.5 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "De 3 projecten zullen in totaal 11 miljoen euro kosten, waarvan de stad Mechelen bijna 2.5 miljoen euro voor haar rekening neemt."
+    }
+   ]
+  },
+  {
+   "id": "p.lObdG36JW",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/london-batman-deelt-gratis-brandstof-kip-en-chocolade-uit/",
+   "title": "De 'Batman van Londen' haalt zwerfvuil op en betaalt je brandstof... maar waarom, dat weet niemand",
+   "published": "2026-10-24T16:40:05+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 9000000,
+     "t": "9 miljoen"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 4000,
+     "t": "4.000"
+    },
+    {
+     "v": 87,
+     "t": "87"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLq8pnZBY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/studenten-uhasselt-pleiten-in-oefening-voor-kapot-koffiezetappar/",
+   "title": "Studenten UHasselt pleiten in oefening voor kapot koffiezetapparaat",
+   "published": "2026-10-24T16:56:15+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "Eén"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb537wXmx",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/paard-op-restaurant/",
+   "title": "\"Onverwachte gast zonder reservatie\": plots staat er een paard naast je tafel in een vijfsterrenhotel",
+   "published": "2026-10-24T20:58:58+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 13,
+     "t": "13.40"
+    },
+    {
+     "v": 40,
+     "t": "13.40"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDevKjdaa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/24/storm-boelo-trekt-over-het-land/",
+   "title": "Storm Boelo trekt stilaan weg, maar aan zee blijft code geel voor wind van kracht",
+   "published": "2026-10-24T21:27:06+02:00",
+   "first_seen": "2026-10-30T10:00:57+01:00",
+   "numbers": [
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 64,
+     "t": "64"
+    },
+    {
+     "v": 39,
+     "t": "39"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": []
+  }
+ ]
+}
