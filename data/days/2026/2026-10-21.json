@@ -6,7 +6,8 @@
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-houdt-bilaterale-gesprekken-na-moeizame-begrotingsonder~1790599460224/",
    "first_seen": "2026-10-21T00:57:27+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Christina Applegate heeft dan toch geen MS: \"Studies wijzen op bijna 20 procent foute diagnoses\"",
@@ -18,14 +19,16 @@
      "t": "20"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Steven uit Aarschot vindt Chinese wolhandkrab in zijn kelder: \"Misschien is ze via de riolering binnengekomen\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/steven/",
    "first_seen": "2026-10-21T00:57:27+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "SpaceX verdubbelt omzet en boekt meer dan 4 miljard dollar winst dankzij AI en Starlink",
@@ -37,21 +40,34 @@
      "t": "4 miljard"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": [
+    {
+     "eur": 3440000000,
+     "t": "4 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "winst",
+     "how": "sentence",
+     "ctx": "SpaceX verdubbelt omzet en boekt meer dan 4 miljard dollar winst dankzij AI en Starlink"
+    }
+   ]
   },
   {
    "title": "Beelden tonen hoe politie in Spanje binnenvalt bij verdachten in zaak rond gedode politieagent in Jette",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/beelden-tonen-hoe-politie-in-spanje-binnenvalt-bij-verdachten-in~1791870783608/",
    "first_seen": "2026-10-21T00:57:27+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Parlement in Polen keurt wet goed die abortusregels versoepelt, maar president kan nog veto stellen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/parlement-in-polen-keurt-versoepelde-abortusregels-goed/",
    "first_seen": "2026-10-21T00:57:27+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Rome stuurt 500 militairen naar Milaan, Carrefour verlaagt verwachtingen door onrust in Frankrijk",
@@ -63,14 +79,16 @@
      "t": "500"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Begrotingsoverleg afgelopen zonder akkoord, premier moest overschakelen op bilaterale gesprekken",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/begrotingsoverleg-afgelopen-zonder-akkoord-premier-moest-oversc~1790599460224/",
    "first_seen": "2026-10-21T04:04:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "100 hotelgasten geëvacueerd na brand in luxehotel Botanic Sanctuary in Antwerpen",
@@ -82,35 +100,40 @@
      "t": "100"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Straks wellicht nieuw overleg over begroting, Bart Verhulst: \"Ze schuiven dichter en dichter\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/straks-wellicht-nieuw-overleg-over-begroting-bart-verhulst-ze~1790599460224/",
    "first_seen": "2026-10-21T07:42:40+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Is 'Generation Z' echt ongemotiveerd om te werken?",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/mentaliteit-gen-z-horeca/",
    "first_seen": "2026-10-21T07:42:40+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Sam Fender keert terug naar Rock Werchter: aankondiging met spectaculaire 'Lord of the rings'-teaser",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/sam-fender-rock-werchter-2027/",
    "first_seen": "2026-10-21T07:42:40+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Minister Vandenbroucke houdt terugbetaling obesitasmedicijn Mounjaro tegen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/minister-vandenbroucke-houdt-terugbetaling-obesitasmedicijn-moun/",
    "first_seen": "2026-10-21T07:42:40+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Comité P kreeg al 26 klachten binnen over politieoptreden bij jongerenprotesten in Brussel",
@@ -122,14 +145,16 @@
      "t": "26"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Hevige zolderbrand in historisch pand in centrum Elversele",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/hevige-zolderbrand-in-historisch-pand-in-centrum-elversele/",
    "first_seen": "2026-10-21T07:42:40+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "20 studententeams aan start van Leuvense 24 urenloop: VTK en Apolloon strijden opnieuw om de zege",
@@ -145,21 +170,24 @@
      "t": "24"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Amerikaans gezant Witkoff landt in Sint-Petersburg om te onderhandelen met president Poetin",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/amerikaans-gezant-witkoff-landt-in-sintpetersburg-om-te-onderha~1789060001669/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Wie is Stephan Hubbard, de Amerikaanse leraar die Trump uit een Russische cel wil halen?",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/portret-stephen-hubbard/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "100 hotelgasten, onder wie schaaklegende Garry Kasparov, geëvacueerd na brand in Antwerps luxehotel Botanic Sanctuary",
@@ -171,49 +199,56 @@
      "t": "100"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Vanavond wellicht nieuw overleg en ook D-day? Bart Verhulst: \"Je voelt dat de premier wil doorduwen\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/vanavond-wellicht-nieuw-overleg-en-ook-dday-bart-verhulst-je~1790599460224/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Gruwelijk of creatief? Halloweenversiering in Erps-Kwerps verdeelt buurt: \"Vroeg me af of ik moest helpen\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/kortenberg-erps-kwerps-halloween-halloweenversiering/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Vlaamse Dominique De Groen maakt kans op Boekenbon Literatuurprijs met roman 'Corpus Britney'",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/20/boekenbon-literatuurprijs-shortlist/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Dansen op 'Can't take my eyes off you': Julia Stiles herdenkt Heath Ledger met emotionele reünie",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/julia-stiles-eerbetoon-heath-ledger-reunie-10-thing-i-hate-abou/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Parket Brussel: \"Op dit moment onmogelijk om exacte rol van verdachten vast te stellen\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/parket-brussel-op-dit-moment-onmogelijk-om-exacte-rol-van-verd~1791870783608/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Na fraude met lonen in provinciaal onderwijs: directeur APP-school Munsterbilzen ontslagen, algemeen directeur verliest ambt",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/directeurs-provinciale-scholen-ontslagen-na-tuchtonderzoek/",
    "first_seen": "2026-10-21T10:41:03+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Italië neemt strenge maatregelen tegen rellen en stuurt 500 militairen naar Milaan",
@@ -225,21 +260,24 @@
      "t": "500"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Wereldwijde cyberaanvallen na lekken in populaire programmeertaal PHP, DPG Media en Nederlandse overheid halen aantal websites tijdelijk offline",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/cyberbeveiliger-ziet-eerste-aanvallen-rond-kwetsbaarheden-in-pop/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Premier De Wever hoopt morgen begrotingsakkkoord te kunnen voorleggen aan het parlement",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-hoopt-morgen-begrotingsakkkoord-te-kunnen-voorl~1790599460224/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "VN waarschuwt in aanloop naar nieuwe klimaatconferentie: wereld stevent af op opwarming van 2,8 graden",
@@ -251,91 +289,104 @@
      "t": "2,8"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "E17 Snack in Waasmunster verdwijnt: parking met bekend meisje op reclamebord wordt helemaal vernieuwd",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/e17-snack-waasmunster-meisje-met-hamburger-verdwijnt-nieuwe-conc/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Kremlin: \"We bekijken Amerikaans voorstel, maar veel hangt af van Oekraïne\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/kremlin-we-bekijken-amerikaans-voorstel-maar-veel-hangt-af-va~1789060001669/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Rusland laat Amerikaanse oud-leraar Stephen Hubbard vrij",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/portret-stephen-hubbard/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Premier De Wever \"zeker\" dat Europese Commissie debat over Russische activa niet zal heropenen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/premier-de-wever-zeker-dat-europese-commissie-debat-over-russi/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Vlaamse overheid wil verplicht diploma voor redders in zwembaden schrappen: \"Compleet onverantwoord\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/lago-kortrijk-regels-redders-zwemmers/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Verbod op steps in 'hotspots' en mogelijkheid tot avondklok: nieuwe maatregelen tegen drugsgeweld in Brussel",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/plan-voor-aanpak-drugsgeweld-brussels-gewest/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Europese Commissie opent onderzoek: doet Booking.com genoeg tegen fraude?",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/europese-commissie-opent-onderzoek-naar-booking-com/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Britse regering zet licht op groen voor omstreden ontginning van Jackdaw-gasveld in Noordzee",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/nieuw-gasveld-verenigd-koninkrijk-energie-klimaat/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Lukas Dhont verlegt zijn grenzen met 'Coward': een oorlogsfilm vol romantiek",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/19/lukas-dhont-verlegt-zijn-grenzen-met-coward-een-oorlogsfilm-v/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Ook in Griekenland komen studenten en scholieren op straat: \"Onvrede bij bevolking is bijzonder groot\"",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/protest-in-griekenland/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Nieuw voor kinderen van vliegtuigspotters Zaventem: houten vliegtuig met glijbaan",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/speeltuig-in-vorm-van-vliegtuigje-aan-spottersplatform-luchthave/",
    "first_seen": "2026-10-21T13:27:50+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Storm op komst\": Ecofix verhoogt voorschotten gasfactuur met kwart, onze energie-expert ziet alarmbellen afgaan",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/storm-op-komst-ecofix-verhoogt-voorschotten-gasfactuur-met-kw~1774343778229/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Lek sluimderde al 14 jaar bij PHP, tot AI het opspoorde: \"Als hackers zo'n lek ontdekken, hebben we groter probleem\"",
@@ -347,35 +398,40 @@
      "t": "14"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Hackers vinden makkelijker lekken door AI\", steeds meer websites weer online",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/hackers-vinden-makkelijker-lekken-door-ai-steeds-meer-website~1792586431409/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Een van zwaarste online beveiligingsproblemen\": waarom lek bij PHP zoveel onrust zaait",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/php-lek-data-wat-is-het/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Longkanker van Leo XIV is niet uitgezaaid, paus heeft geen verdere behandeling nodig",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/paus-kanker-niet-uitgezaaid/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Morgen een begroting? \"Het simpele antwoord is 'neen', Vooruit zegt dat het niet gaat gebeuren\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/morgen-een-begroting-het-simpele-antwoord-is-neen-vooruit-z~1790599460224/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Nummer 1722 geactiveerd voor risico op storm of wateroverlast",
@@ -387,56 +443,64 @@
      "t": "1722"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Ik ben jaar lang wekelijks verkracht en legde schuld bij mij\": Anna getuigt over seksueel misbruik door pastor Go Church",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/go-church-pano-seksueel-misbruik/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Manipulatie, controle én financiële uitbuiting: hoe Go Church leven van minderjarigen overneemt",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/vrt-nws-pano-onderzoekt-go-church/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Sánchez is smerige dictator\": Milei mengt zich in kiescampagne in Spanje",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/spanje-argentinie-sanchez-milei-dictator/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Regering-Trump mag van Hooggerechtshof geen transgender vrouwen naar mannengevangenissen sturen",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/trump-transgender-mensen-gevangenissen/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Rusland en Oekraïne zeggen klaar te zijn om samen te onderhandelen met VS: \"Zo snel mogelijk\"",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/rusland-en-oekraine-zeggen-klaar-te-zijn-om-samen-te-onderhandel~1789060001669/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Rusland laat oud-leraar Stephen Hubbard uit VS vrij",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/portret-stephen-hubbard/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Van oud klooster tot luxehotel voor wereldsterren: dit is The Botanic Sanctuary, waar brand uitbrak",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/portret-luxehotel-botanic-sanctuary-in-antwerpen/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Meta moet boete van 25 miljard dollar betalen in privacyzaak Cambridge Analytica",
@@ -448,28 +512,42 @@
      "t": "25 miljard"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": [
+    {
+     "eur": 21500000000,
+     "t": "25 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Meta moet boete van 25 miljard dollar betalen in privacyzaak Cambridge Analytica"
+    }
+   ]
   },
   {
    "title": "Politica Helen Haines verliest beide benen na aanrijding door auto in Australië",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/australische-politica-verliest-beide-benen-na-aanrijding-met-aut/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "\"Nieuwe elementen dat AI is gebruikt bij 'C'était ça ou mourir'\", zegt uitgeverij van Thélyson Orélien",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/thelyson-orelien-uitgeverij-bevestigt-ai/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Parkeerautomaat defect? Dan hoef je niet op zoek te gaan naar een andere, zegt Hof van Cassatie",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/parkeerautomaten-cassatie-uitspraak/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "'Cultuurpaus', poëzie-ambassadeur en stichter Ons Erfdeel: Jozef Deleu (89) overleden",
@@ -481,21 +559,24 @@
      "t": "89"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Tijd om je verwarming op te zetten? \"Start je installatie op wanneer het nog niet ijskoud is\"",
    "url": "https://www.vrt.be/vrtnws/nl/2024/09/27/wanneer-verwarming-aanzetten-periodieke-controle-ketel-techlink/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Wrakingsverzoek verworpen: assisenproces tegen Nicolas Ullens kan begin november hervatten",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/assisenproces-nicolas-ullens-cassatie/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Nieuwe nationale betoging op 23 november, melden 3 grote vakbonden samen",
@@ -511,21 +592,24 @@
      "t": "3"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Studentenbetogingen in Parijs en Lyon verboden, avondklok voor minderjarigen in Toulon zaterdag",
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/studentenbetogingen-in-parijs-en-lyon-verboden-avondklok-voor-m~1792507723130/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Noord-Korea zet luidsprekers met propaganda bij grens met Zuid-Korea weer aan",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/noord-korea-zet-luidsprekers-met-propaganda-weer-aan-bij-grens/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Arrest niet verbroken: Falzone definitief veroordeeld voor 7-voudige doodslag",
@@ -537,14 +621,16 @@
      "t": "7"
     }
    ],
-   "archived": true
+   "archived": true,
+   "money": []
   },
   {
    "title": "Huiszoekingen in Europees Parlement in onderzoek naar voormalige uiterst rechtse fractie ID",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/21/huiszoekingen-europees-parlement/",
    "first_seen": "2026-10-21T22:40:57+02:00",
    "numbers": [],
-   "archived": true
+   "archived": true,
+   "money": []
   }
  ],
  "articles": [
