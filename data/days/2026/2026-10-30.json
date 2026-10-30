@@ -1,0 +1,991 @@
+{
+ "date": "2026-10-30",
+ "headlines": [
+  {
+   "title": "Van 24 euro in Hasselt tot 64 euro in Zandhoven: VRT NWS duikt in de prijzen van laadpalen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/prijsverschillen-tot-260-toeslagen-tot-100-kost-van-publiek/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 64,
+     "t": "64"
+    }
+   ]
+  },
+  {
+   "title": "De verborgen kosten van de laadpalen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/waarom-grote-prijsverschillen-laadpalen/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 5000000000,
+     "t": "5 miljard"
+    }
+   ]
+  },
+  {
+   "title": "Antonio en Daniel: jonge dertigers, gepassioneerd door het spoor en de machinisten bij de Spaanse treinramp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/treingeluk-toledo-spanje-portret-machinisten/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/raad-van-state-beperking-geboortepremie-eerste-kind/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Ruim 80 keer de oppervlakte van België: natuurherstel komt wereldwijd op gang, met China als voorbeeld",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/252-miljoen-hectare-natuurherstel/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 80,
+     "t": "80"
+    }
+   ]
+  },
+  {
+   "title": "Australische vrouw die familieleden vergiftigde met paddenstoelen verliest beroep en kan nu nooit meer vrijkomen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/australische-paddenstoelenmoordenares-verliest-beroep-en-krijgt/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Proces tegen Radja Nainggolan en 15 andere verdachten vandaag van start",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/proces-tegen-radja-nainggolan-en-vijftien-andere-verdachten-vrij/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ]
+  },
+  {
+   "title": "Van Ian McKellen en Hugh Jackman tot William Shatner: collega's rouwen na overlijden van Patrick Stewart",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/patrick-stewart-overleden-reacties/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "De Shakespeare-vedette die sciencefictionlegende werd: acteur Patrick Stewart (86) overleden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/obit-patrick-stewart-captain-picard-professor-x/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 86,
+     "t": "86"
+    }
+   ]
+  },
+  {
+   "title": "Acteur Mathias Sercu na verlies van zoon Tore: \"We zouden meer moeten praten over de dood\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/matthias-sercu-over-tore-afspraak-rouw-dood-praten/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "\"Ik wil de vrijheid om te spreken over wat mij nauw aan het hart ligt\": waarom Christine Lagarde stopt als voorzitter van ECB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/christine-lagarde-stopt-voorzitter-van-de-europese-centrale-bank/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Frankrijk gaat komende zaterdag 70.000 agenten inzetten tijdens verwachte betogingen",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/frankrijk-gaat-komende-zaterdag-70000-agenten-inzetten-tijdens-~1792507723130/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 70000,
+     "t": "70.000"
+    }
+   ]
+  },
+  {
+   "title": "Dit zijn onze 5 weekendtips",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/weekendtips-31-oktober-1-november-bourgondisch-tafelen-boektopia/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ]
+  },
+  {
+   "title": "Alle stemmen zijn geteld: geen enkel blok haalt meerderheid, coalitie Netanyahu is het grootst",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/alle-stemmen-zijn-geteld-geen-enkel-blok-haalt-meerderheid-coa~1793076564841/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Stukje van snelweg E40 2 weekends gesloten voor bouw van fietsbrug in Heverlee",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/leuven-heverlee-e40-snelweg-brug-fietsers-file-afsluiten/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ]
+  },
+  {
+   "title": "In Kazerne Dossin in Mechelen weerklinken voortaan de namen van 25.843 slachtoffers die gedeporteerd werden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/kazerne-dossin-elke-naam-telt-memoriaal-mechelen/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 25843,
+     "t": "25.843"
+    }
+   ]
+  },
+  {
+   "title": "Vlaamse Lindsay ontwikkelt slimme ketting die vrouwen beschermt wanneer date foutloopt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/date-datewatch-noodknop-app-onveiligheid/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Beleggers vrezen impact van AI op advertenties: 500 miljard dollar beurswaarde bij Google in enkele minuten verdampt",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/beleggers-vrezen-impact-van-ai-op-advertenties-500-miljard-doll~1776671241366/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 500000000000,
+     "t": "500 miljard"
+    }
+   ]
+  },
+  {
+   "title": "Explosies in Oekraïense hoofdstad Kiev: \"Aanval met Russische ballistische raketten\", zegt burgemeester",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/explosies-in-oekraiense-hoofdstad-kiev-aanval-met-russische-ba~1789060001669/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Nieuwe verkeersbelasting in Vlaanderen: check hier welke voordeligst is",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vergelijker-toont-vlaming-voordeligste-verkeersbelasting/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  },
+  {
+   "title": "Wie is ontwerpster Ebru Sari (32), die bekend Vlaanderen van galajurken en kleding voorziet?",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/wie-is-ebru-sari-ontwerper-van-bv-s/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 32,
+     "t": "32"
+    }
+   ]
+  },
+  {
+   "title": "Overval op juwelierszaak Ebru Sari in Gent, verdachten vluchten terwijl politie hen onder schot neemt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/gent-overval-juwelier-sleepstraat-diamanten-juwelen-buit-politie/",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": []
+  }
+ ],
+ "articles": [
+  {
+   "id": "p.Yb5XVe9wR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/",
+   "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+   "published": "2026-10-30T06:22:13+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 5000000000,
+     "t": "5 miljard"
+    },
+    {
+     "v": 6300000000,
+     "t": "6,3 miljard"
+    },
+    {
+     "v": 5400000000,
+     "t": "5,4 miljard"
+    },
+    {
+     "v": 3000000000,
+     "t": "3 miljard"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 6300000000,
+     "t": "6,3 miljard"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5500000000,
+     "t": "5 en een half miljard"
+    },
+    {
+     "v": 5500000000,
+     "t": "5 en een half miljard"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    },
+    {
+     "v": 3000000000,
+     "t": "3 miljard"
+    },
+    {
+     "v": 48,
+     "t": "48"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 78000,
+     "t": "78.000"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": [
+    {
+     "eur": 5000000000,
+     "t": "5 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "steelt",
+     "ctx": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance"
+    },
+    {
+     "eur": 2580000000,
+     "t": "3 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "gestolen",
+     "ctx": "Binance heeft uit veiligheid alle transacties op het platform opgeschort en heeft al 3 miljard dollar van het gestolen bedrag bevroren."
+    },
+    {
+     "eur": 1290000000,
+     "t": "1,5 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "buit",
+     "ctx": "In 2025 konden Noord-Koreaanse hackers een digitale overval plegen op cryptobeurs Bybit met een buit van 1,5 miljard dollar."
+    },
+    {
+     "eur": 67080,
+     "t": "78.000 dollar",
+     "cur": "USD",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "De waarde van bitcoin (BTC) ging met ruim 4 procent omlaag en daalde tot onder 78.000 dollar."
+    }
+   ]
+  },
+  {
+   "id": "p.qEN1PqK14",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/rotonde-bonaparte-eke-vroeger-open/",
+   "title": "Werken aan rotonde Bonaparte in Nazareth-De Pinte vroeger klaar",
+   "published": "2026-10-30T06:23:17+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.qEN1PmV6b",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/bouwgroep-verelst-uit-putte-failliet-maar-maakt-gedeeltelijk-do/",
+   "title": "Bouwgroep Verelst uit Putte failliet, maar maakt gedeeltelijke doorstart: niet alle jobs behouden",
+   "published": "2026-10-30T06:44:40+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 129,
+     "t": "129"
+    },
+    {
+     "v": 74,
+     "t": "74"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2008,
+     "t": "2008"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5XVBolR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/treingeluk-toledo-spanje-portret-machinisten/",
+   "title": "Antonio en Daniel: jonge dertigers, gepassioneerd door het spoor en de machinisten bij de Spaanse treinramp",
+   "published": "2026-10-30T06:48:15+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 2080,
+     "t": "2080"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2080,
+     "t": "2080"
+    },
+    {
+     "v": 6076,
+     "t": "6076"
+    },
+    {
+     "v": 544,
+     "t": "544"
+    },
+    {
+     "v": 397,
+     "t": "397"
+    },
+    {
+     "v": 147,
+     "t": "147"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ZWK9dbbo3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/politie-ronse-zet-voor-het-eerst-drone-in-en-pakt-verdachte-op-i/",
+   "title": "Politie Ronse zet voor het eerst drone in en pakt verdachte op in drugsonderzoek",
+   "published": "2026-10-30T06:50:20+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.w70AOpQMy",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/australische-paddenstoelenmoordenares-verliest-beroep-en-krijgt/",
+   "title": "Australische vrouw die familieleden vergiftigde met paddenstoelen verliest beroep en kan nu nooit meer vrijkomen",
+   "published": "2026-10-30T07:12:00+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 52,
+     "t": "52"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.7nXdmpQZR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ex-bestuurslid-kvdo-verbod-rechtbank/",
+   "title": "Ex-bestuurder van KVDO mag geen beschuldigingen meer verspreiden over club en bestuur, beslist rechtbank",
+   "published": "2026-10-30T07:31:03+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 50000,
+     "t": "50.000"
+    },
+    {
+     "v": 250000,
+     "t": "250.000"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 50000,
+     "t": "50.000"
+    },
+    {
+     "v": 250000,
+     "t": "250.000"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    }
+   ],
+   "money": [
+    {
+     "eur": 250000,
+     "t": "250.000 euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "Als hij zich daar niet aan houdt, riskeert hij 50.000 tot 250.000 euro te moeten betalen."
+    }
+   ]
+  },
+  {
+   "id": "p.lObwPPlRB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/nieuw-uitvaartcentrum-pues-kessel-lo-legt-nadruk-op-buitenervari/",
+   "title": "\"Mensen in rouw willen vaker natuur nabij\": nieuw uitvaartcentrum in Kessel-Lo biedt plechtigheid in openlucht aan",
+   "published": "2026-10-30T07:32:13+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDed4xMAO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/leuven-heverlee-e40-snelweg-brug-fietsers-file-afsluiten/",
+   "title": "Stukje van snelweg E40 2 weekends gesloten voor\nbouw van fietsbrug in Heverlee",
+   "published": "2026-10-30T08:14:30+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 923,
+     "t": "923"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.qEN15B80K",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/proces-tegen-radja-nainggolan-en-vijftien-andere-verdachten-vrij/",
+   "title": "Proces tegen Radja Nainggolan en 15 andere verdachten vandaag van start",
+   "published": "2026-10-30T08:17:06+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 100,
+     "t": "honderd"
+    },
+    {
+     "v": 116522,
+     "t": "116.522"
+    },
+    {
+     "v": 40000,
+     "t": "40.000"
+    },
+    {
+     "v": 330430,
+     "t": "330.430"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 360000,
+     "t": "360.000"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 2.7,
+     "t": "2,7"
+    },
+    {
+     "v": 14,
+     "t": "veertien"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 100000,
+     "t": "100.000"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 116522,
+     "t": "116.522 euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "In hun hotelkamer stootte de politie op honderd gouden munten voor een totale waarde van 116.522 euro, 40.000 euro cash en een plastic zak met cocaïne."
+    },
+    {
+     "eur": 40000,
+     "t": "40.000 euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "In hun hotelkamer stootte de politie op honderd gouden munten voor een totale waarde van 116.522 euro, 40.000 euro cash en een plastic zak met cocaïne."
+    },
+    {
+     "eur": 330430,
+     "t": "330.430 euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "Daarnaast namen de speurders nog 330.430 euro cash, meerdere luxehorloges, waaronder twee horloges van elk ongeveer 360.000 euro, juwelen, luxeartikelen, twee kogelwerende vesten, meerdere wapens, waaronder drie vuurwapens, 2,7 kilo cocaïne en veertien voertuigen in beslag."
+    },
+    {
+     "eur": 100000,
+     "t": "100.000 euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "Nainggolan werd nooit verdacht van betrokkenheid bij de drugshandel, maar kwam in het vizier van de speurders toen bleek dat hij op enkele maanden tijd meer dan 100.000 euro had gekregen van Nasr-Eddine Sekkaki, de jongere broer van de beruchte crimineel Ashraf Sekkaki, die zelf ook al verschille…"
+    }
+   ]
+  },
+  {
+   "id": "p.DYMNLk4RX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/raad-van-state-beperking-geboortepremie-eerste-kind/",
+   "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
+   "published": "2026-10-30T09:01:39+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 1310,
+     "t": "1.310"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 50000000,
+     "t": "50 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1310,
+     "t": "1.310 euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "Dat startbedrag bedraagt 1.310 euro."
+    },
+    {
+     "eur": 50000000,
+     "t": "50 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparing",
+     "ctx": "Volgens Rutten komt daarmee ook de geplande besparing van 50 miljoen euro per jaar op het startbedrag op losse schroeven te staan."
+    }
+   ]
+  },
+  {
+   "id": "p.8epnEvo1l",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/omzendbrief-van-bossuyt-leefloon/",
+   "title": "\"We zijn te laks geweest\": Minister Van Bossuyt vraagt aan OCMW's om strenger op te treden tegen leefloners die job of opleiding zouden weigeren",
+   "published": "2026-10-30T09:13:15+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.93pL1oNY3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/oppositie-wil-oude-vergunningen-strandbars-verlengen-knokke-heis/",
+   "title": "Oppositie Knokke-Heist wil huidige strandconcessies met een jaar verlengen: \"Geeft tijd om met degelijk plan af te komen\"",
+   "published": "2026-10-30T09:13:42+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 6,
+     "t": "Six"
+    },
+    {
+     "v": 6,
+     "t": "Six"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Wkj91a7Zx",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/lanaken-maasmechelen-maastricht-overlast-jongeren-aanpakken/",
+   "title": "Jongeren veroorzaken overlast in het Maasland: Lanaken, Maasmechelen en Maastricht willen probleem samen aanpakken",
+   "published": "2026-10-30T09:29:39+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 120000,
+     "t": "120.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 120000,
+     "t": "120.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "subsidieaanvraag",
+     "ctx": "Voor het SAFI-project is een subsidieaanvraag van 120.000 euro ingediend bij de Vlaamse overheid."
+    }
+   ]
+  },
+  {
+   "id": "p.ew4KJlV7E",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/herstel-van-de-dendervallei-krijgt-europees-geld-we-moeten-wat/",
+   "title": "Herstel van de Dendervallei krijgt Europees geld: \"We moeten water opnieuw genoeg ruimte geven\"",
+   "published": "2026-10-30T09:36:46+01:00",
+   "first_seen": "2026-10-30T09:40:13+01:00",
+   "numbers": [
+    {
+     "v": 26000000,
+     "t": "26 miljoen"
+    },
+    {
+     "v": 9000000,
+     "t": "9 miljoen"
+    },
+    {
+     "v": 2032,
+     "t": "2032"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 25800000,
+     "t": "25,8 miljoen"
+    },
+    {
+     "v": 8450000,
+     "t": "8,45 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 26000000,
+     "t": "26 miljoen euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "Het totale budget daarvoor is bijna 26 miljoen euro, en Europa betaalt daarvan een kleine 9 miljoen."
+    },
+    {
+     "eur": 8450000,
+     "t": "8,45 miljoen euro",
+     "cur": "EUR",
+     "dir": "neutral",
+     "kw": null,
+     "ctx": "Daarvan komt 8,45 miljoen euro uit het Europese LIFE-programma."
+    }
+   ]
+  }
+ ]
+}

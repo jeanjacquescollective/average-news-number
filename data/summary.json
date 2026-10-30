@@ -1,0 +1,66 @@
+{
+ "source": "https://www.vrt.be/vrtnws/nl/",
+ "timezone": "Europe/Brussels",
+ "tracking_start": "2026-10-30",
+ "updated_at": "2026-10-30T09:40:13+01:00",
+ "days": [
+  {
+   "date": "2026-10-30",
+   "headlines": {
+    "count": 23,
+    "numbers": 12,
+    "mean": 42083341345.9167,
+    "median": 72.0,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "Stukje van snelweg E40 2 weekends gesloten voor bouw van fietsbrug in Heverlee",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/leuven-heverlee-e40-snelweg-brug-fietsers-file-afsluiten/"
+    },
+    "max": {
+     "v": 500000000000,
+     "t": "500 miljard",
+     "title": "Beleggers vrezen impact van AI op advertenties: 500 miljard dollar beurswaarde bij Google in enkele minuten verdampt",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/beleggers-vrezen-impact-van-ai-op-advertenties-500-miljard-doll~1776671241366/"
+    }
+   },
+   "articles": {
+    "count": 15,
+    "numbers": 130,
+    "mean": 320161839.9669,
+    "median": 30.0,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
+    },
+    "max": {
+     "v": 6300000000,
+     "t": "6,3 miljard",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
+    }
+   },
+   "money": {
+    "count": 14,
+    "lost": 8870000000,
+    "biggest_lost": {
+     "eur": 5000000000,
+     "t": "5 miljard euro",
+     "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
+    },
+    "gained": 50120000,
+    "biggest_gained": {
+     "eur": 50000000,
+     "t": "50 miljoen euro",
+     "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/raad-van-state-beperking-geboortepremie-eerste-kind/"
+    },
+    "neutral": 35355342,
+    "net": -8819880000
+   }
+  }
+ ]
+}
