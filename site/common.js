@@ -29,19 +29,10 @@ const STRINGS = {
     headlinesTotals: (numbers, count) => `${numbers} in ${count === 1 ? "1 kop" : `${formatNumber(count)} koppen`}`,
     statsSentence: (mean, median) => `: gemiddelde ${mean}, mediaan ${median}.`,
     headlinesHeading: "Koppen",
-    articlesHeading: "Artikels (totaal)",
-    articlesExplained: (count, numbers, mean, median) =>
-      `Kop en tekst van ${count === 1 ? "1 artikel" : `${formatNumber(count)} artikels`}: ${numbers}, gemiddelde ${mean}, mediaan ${median}. ` +
-      "Telt niet mee voor het nieuwsgetal.",
-    articlesNone: "Geen artikels.",
     loadingDay: "Laden…",
     loadError: "Kon deze dag niet laden.",
     historyTitle: "Geschiedenis",
     historyLede: (numbers, count, since) => `${numbers} in ${count === 1 ? "1 kop" : `${formatNumber(count)} koppen`} sinds ${since}.`,
-    articlesLede: (numbers, count) =>
-      `${numbers} in ${count === 1 ? "1 artikel" : `${formatNumber(count)} artikels`} (kop en tekst). Telt niet mee voor het nieuwsgetal.`,
-    colArticles: "Artikels",
-    anArticle: "een artikel",
     highestMean: "Hoogste gemiddelde",
     lowestMean: "Laagste gemiddelde",
     highestMedian: "Hoogste mediaan",
@@ -64,23 +55,22 @@ const STRINGS = {
     navCharts: "Grafieken",
     navMoney: "Financial Time",
     navHistory: "Geschiedenis",
-    theme: { auto: "◐ Auto", light: "☀ Licht", dark: "☾ Donker" },
-    themeLabel: "Kleurmodus: automatisch, licht of donker",
+    theme: { dark: "● Zwart", light: "○ Wit" },
+    themeLabel: "Kleur: zwart of wit",
     chartsTitle: "Grafieken",
     chartsLede: "Elk getal van de dag, en hoe het nieuwsgetal evolueert.",
     scatterTitle: "Elk getal in de koppen",
     scatterNote: "Op het moment dat de kop verscheen. Logaritmische schaal.",
     scatterHidden: (n) => ` ${n} getal(len) van 0 of minder niet getoond.`,
     magnitudeTitle: "Hoe groot zijn de getallen?",
-    magnitudeNote: "Aandeel van de getallen per grootteorde.",
+    magnitudeNote: "Aandeel van de getallen in de koppen per grootteorde.",
     benfordTitle: "Het eerste cijfer",
-    benfordNote: "In de artikels, naast de wet van Benford: in echte cijfers begint bijna een derde met een 1.",
+    benfordNote: "In de koppen, naast de wet van Benford: in echte cijfers begint bijna een derde met een 1.",
     trendTitle: "Gemiddelde en mediaan per dag",
     trendNote: "Koppen op de voorpagina. Logaritmische schaal.",
     countTitle: "Getallen per dag",
     countNote: "In de koppen op de voorpagina.",
     seriesHeadlines: "Koppen",
-    seriesArticles: "Artikels",
     seriesBenford: "Wet van Benford",
     seriesMean: "Gemiddelde",
     seriesMedian: "Mediaan",
@@ -90,11 +80,10 @@ const STRINGS = {
     notEnough: "Nog te weinig gegevens.",
     moneyTitle: "Financial Time",
     moneyLede:
-      "Elk bedrag in de artikels: negatief als het geld verloren ging (gestolen, verlies, boete, kost…), " +
-      "positief als het binnenkwam (winst, budget, in beslag genomen, gekregen…). Zonder signaalwoord in de zin " +
-      "beslist de kop, dan het artikel; anders telt het als positief. Andere munten zijn bij benadering omgerekend naar euro.",
+      "Elk bedrag in de koppen op de voorpagina: negatief als het geld verloren ging (gestolen, verlies, boete, kost…), " +
+      "positief als het binnenkwam (winst, budget, in beslag genomen, gekregen…). Zonder signaalwoord in de kop " +
+      "telt het als positief. Andere munten zijn bij benadering omgerekend naar euro.",
     howTitle: (kw) => `via de kop: “${kw}”`,
-    howArticle: (kw) => `via het artikel: “${kw}”`,
     howDefault: "geen signaalwoord: telt als positief",
     lost: "Verloren",
     gained: "Gewonnen",
@@ -135,19 +124,10 @@ const STRINGS = {
     headlinesTotals: (numbers, count) => `${numbers} in ${count === 1 ? "1 headline" : `${formatNumber(count)} headlines`}`,
     statsSentence: (mean, median) => `: mean ${mean}, median ${median}.`,
     headlinesHeading: "Headlines",
-    articlesHeading: "Articles (total)",
-    articlesExplained: (count, numbers, mean, median) =>
-      `Headline and text of ${count === 1 ? "1 article" : `${formatNumber(count)} articles`}: ${numbers}, mean ${mean}, median ${median}. ` +
-      "Not part of the news number.",
-    articlesNone: "No articles.",
     loadingDay: "Loading…",
     loadError: "Could not load this day.",
     historyTitle: "History",
     historyLede: (numbers, count, since) => `${numbers} in ${count === 1 ? "1 headline" : `${formatNumber(count)} headlines`} since ${since}.`,
-    articlesLede: (numbers, count) =>
-      `${numbers} in ${count === 1 ? "1 article" : `${formatNumber(count)} articles`} (headline and text). Not part of the news number.`,
-    colArticles: "Articles",
-    anArticle: "an article",
     highestMean: "Highest mean",
     lowestMean: "Lowest mean",
     highestMedian: "Highest median",
@@ -170,23 +150,22 @@ const STRINGS = {
     navCharts: "Charts",
     navMoney: "Financial Time",
     navHistory: "History",
-    theme: { auto: "◐ Auto", light: "☀ Light", dark: "☾ Dark" },
-    themeLabel: "Colour mode: automatic, light or dark",
+    theme: { dark: "● Black", light: "○ White" },
+    themeLabel: "Colour: black or white",
     chartsTitle: "Charts",
     chartsLede: "Every number of the day, and how the news number evolves.",
     scatterTitle: "Every number in the headlines",
     scatterNote: "At the moment the headline appeared. Logarithmic scale.",
     scatterHidden: (n) => ` ${n} number(s) of 0 or less not shown.`,
     magnitudeTitle: "How big are the numbers?",
-    magnitudeNote: "Share of the numbers per order of magnitude.",
+    magnitudeNote: "Share of the headline numbers per order of magnitude.",
     benfordTitle: "The first digit",
-    benfordNote: "In the articles, next to Benford’s law: in real-world figures almost a third start with a 1.",
+    benfordNote: "In the headlines, next to Benford’s law: in real-world figures almost a third start with a 1.",
     trendTitle: "Mean and median per day",
     trendNote: "Front page headlines. Logarithmic scale.",
     countTitle: "Numbers per day",
     countNote: "In the front page headlines.",
     seriesHeadlines: "Headlines",
-    seriesArticles: "Articles",
     seriesBenford: "Benford’s law",
     seriesMean: "Mean",
     seriesMedian: "Median",
@@ -196,11 +175,10 @@ const STRINGS = {
     notEnough: "Not enough data yet.",
     moneyTitle: "Financial Time",
     moneyLede:
-      "Every amount in the articles: negative when the money was lost (stolen, loss, fine, cost…), " +
-      "positive when it came in (profit, budget, seized, received…). Without a signal word in the sentence, " +
-      "the headline decides, then the article; otherwise it counts as positive. Other currencies are converted to euro approximately.",
+      "Every amount in the front page headlines: negative when the money was lost (stolen, loss, fine, cost…), " +
+      "positive when it came in (profit, budget, seized, received…). Without a signal word in the headline, " +
+      "it counts as positive. Other currencies are converted to euro approximately.",
     howTitle: (kw) => `from the headline: “${kw}”`,
-    howArticle: (kw) => `from the article: “${kw}”`,
     howDefault: "no signal word: counts as positive",
     lost: "Lost",
     gained: "Gained",
@@ -288,7 +266,7 @@ function recordValue(text) {
   return el("p", { class: "value", style: `--chars: ${Math.max(text.length, 4)}` }, text);
 }
 
-// The numbers found in a headline or article, as text with real separators so
+// The numbers found in a headline, as text with real separators so
 // they never run together (also when copied).
 function numberList(numbers) {
   if (!numbers.length) return el("p", { class: "nums none" }, t("noNumbers"));
@@ -308,9 +286,9 @@ const PAGES = [
   ["money", "financial-time.html", "navMoney"],
   ["history", "history.html", "navHistory"],
 ];
-const THEMES = ["auto", "light", "dark"];
+const THEMES = ["dark", "light"];
 
-let theme = "auto";
+let theme = "dark";
 try {
   if (THEMES.includes(localStorage.getItem("theme"))) theme = localStorage.getItem("theme");
 } catch {}
@@ -322,8 +300,7 @@ function remember(key, value) {
 }
 
 function applyTheme() {
-  if (theme === "auto") delete document.documentElement.dataset.theme;
-  else document.documentElement.dataset.theme = theme;
+  document.documentElement.dataset.theme = theme;
 }
 
 function renderMasthead(redraw) {
@@ -354,8 +331,8 @@ function renderMasthead(redraw) {
 }
 
 // Draws the masthead and every [data-i18n] text, then calls `render` for the
-// page's own content. Runs again after a language or colour mode switch, and when
-// the system switches between light and dark (charts read their colours from CSS).
+// page's own content. Runs again after a language or colour switch (charts read
+// their colours from CSS).
 function setupPage(render) {
   const redraw = () => {
     document.documentElement.lang = lang;
@@ -368,6 +345,5 @@ function setupPage(render) {
     render();
   };
   applyTheme();
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => theme === "auto" && render());
   redraw();
 }

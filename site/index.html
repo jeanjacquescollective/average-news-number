@@ -7,7 +7,6 @@
   <meta name="description" content="Dagelijks gemiddeld nieuwsgetal.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
   <script>try { var m = localStorage.getItem("theme"); if (m === "light" || m === "dark") document.documentElement.dataset.theme = m; } catch (e) {}</script>
-  <link rel="stylesheet" href="fonts.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body data-page="index">
@@ -61,7 +60,7 @@
       anchor.tabIndex = day ? 0 : -1;
     }
 
-    // One <li> per headline or article: time, link, and the numbers found in it.
+    // One <li> per headline: time, link, and the numbers found in it.
     function itemList(items, timeField) {
       const list = el("ol", { class: "articles" });
       for (const item of items) {
@@ -76,9 +75,9 @@
       return list;
     }
 
+    // Only the headlines: the news number is computed from them alone.
     async function openInfo(day, isPartial) {
       const h = day.headlines;
-      const a = day.articles;
       const body = $("dialog-body");
       const status = el("p", {}, t("loadingDay"));
       body.replaceChildren(
@@ -94,15 +93,9 @@
       $("dialog").showModal();
       try {
         const data = await loadDay(day.date);
-        const articles = a.numbers
-          ? [el("p", {}, t("articlesExplained", a.count, t("numbers", a.numbers), formatNumber(a.mean), formatNumber(a.median))),
-             itemList(data.articles || [], "published")]
-          : [el("p", {}, t("articlesNone"))];
         status.replaceWith(
           el("h3", {}, t("headlinesHeading")),
           itemList(data.headlines || [], "first_seen"),
-          el("h3", {}, t("articlesHeading")),
-          ...articles,
         );
       } catch {
         status.textContent = t("loadError");

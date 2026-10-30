@@ -1,5 +1,5 @@
 // Chart.js helpers shared by the charts and Financial Time pages. Colours come
-// from the CSS variables, so charts follow the light/dark mode; pages redraw
+// from the CSS variables, so charts follow the black/white choice; pages redraw
 // their charts whenever the mode changes.
 
 function cssVar(name) {
@@ -28,11 +28,11 @@ const logTicks = {
   maxTicksLimit: 10,
 };
 
-// (Re)draws a chart on a canvas with the newspaper look.
+// (Re)draws a chart on a canvas in the black-and-white house style.
 function drawChart(canvas, config) {
   Chart.getChart(canvas)?.destroy();
   const c = palette();
-  Chart.defaults.font.family = "'Libre Franklin', 'Helvetica Neue', Arial, sans-serif";
+  Chart.defaults.font.family = "'Helvetica Neue', Helvetica, Arial, sans-serif";
   Chart.defaults.font.size = 12;
   Chart.defaults.color = c.ink2;
   Chart.defaults.borderColor = c.grid;
@@ -63,7 +63,7 @@ function drawChart(canvas, config) {
           cornerRadius: 0,
           padding: 10,
           boxPadding: 4,
-          titleFont: { family: "'Source Serif 4', Georgia, serif", weight: "700", size: 14 },
+          titleFont: { family: "Georgia, 'Times New Roman', serif", weight: "700", size: 14 },
           ...plugins.tooltip,
         },
       },

@@ -7,7 +7,6 @@
   <meta name="description" content="Grafieken van het dagelijks gemiddeld nieuwsgetal.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
   <script>try { var m = localStorage.getItem("theme"); if (m === "light" || m === "dark") document.documentElement.dataset.theme = m; } catch (e) {}</script>
-  <link rel="stylesheet" href="fonts.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body data-page="charts">
@@ -121,29 +120,28 @@
           labels: exponents.map((e) => (e < 0 ? "< 1" : `${formatCompact(10 ** e)}${e === 9 ? "+" : ""}`)),
           datasets: [
             { label: t("seriesHeadlines"), data: shares(data.headlines), backgroundColor: c.series1, borderRadius: 4, borderSkipped: "start" },
-            { label: t("seriesArticles"), data: shares(data.articles), backgroundColor: c.series2, borderRadius: 4, borderSkipped: "start" },
           ],
         },
         options: {
           interaction: { mode: "index", intersect: false },
           datasets: { bar: { categoryPercentage: 0.8, barPercentage: 0.9 } },
           scales: { x: { grid: { display: false } }, y: { ticks: { callback: (v) => percent(v) } } },
-          plugins: { tooltip: { callbacks: { label: (item) => ` ${item.dataset.label}: ${percent(item.raw)}` } } },
+          plugins: { legend: { display: false }, tooltip: { callbacks: { label: (item) => ` ${item.dataset.label}: ${percent(item.raw)}` } } },
         },
       });
     }
 
-    // First significant digit of every article number, next to Benford's law.
+    // First significant digit of every headline number, next to Benford's law.
     function drawBenford(data) {
       const c = palette();
-      const digits = data.articles.flatMap((a) => a.numbers.map((n) => /[1-9]/.exec(String(Math.abs(n.v)))?.[0]).filter(Boolean));
+      const digits = data.headlines.flatMap((h) => h.numbers.map((n) => /[1-9]/.exec(String(Math.abs(n.v)))?.[0]).filter(Boolean));
       const shares = [1, 2, 3, 4, 5, 6, 7, 8, 9].map((d) => (digits.length ? digits.filter((x) => x === String(d)).length / digits.length : 0));
       drawChart($("benford"), {
         type: "bar",
         data: {
           labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
           datasets: [
-            { label: t("seriesArticles"), data: shares, backgroundColor: c.series1, borderRadius: 4, borderSkipped: "start", order: 2 },
+            { label: t("seriesHeadlines"), data: shares, backgroundColor: c.series1, borderRadius: 4, borderSkipped: "start", order: 2 },
             { type: "line", label: t("seriesBenford"), data: BENFORD, borderColor: c.series2, backgroundColor: c.series2, borderWidth: 2, pointRadius: 4, order: 1 },
           ],
         },
@@ -210,7 +208,6 @@
       try {
         const data = await loadDay(day.date);
         data.headlines ||= [];
-        data.articles ||= [];
         drawScatter(data, day.headlines);
         drawMagnitude(data);
         drawBenford(data);

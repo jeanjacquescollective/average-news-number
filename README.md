@@ -2,29 +2,31 @@
 
 Collects every number (digits *and* written-out Dutch/English numbers like "honderd" or
 "twenty-one") in the headlines on the [VRT NWS](https://www.vrt.be/vrtnws/nl/) front page, and
-publishes the **mean** and **median** number of each day. The full text of every article is counted
-too, as a separate total.
+publishes the **mean** and **median** number of each day. Only the headlines count: the site shows
+nothing from the article texts.
 
 - **Front-page headlines** (the main number): each headline counts once, on the day it first appears
   on the front page. Liveblogs that run for days get a new headline with every development; each new
   headline counts again.
-- **Full articles** (the total): headline + body of every article published that day, read once.
+- **Full articles**: the scraper still stores headline + body of every article (in `data/days`), but
+  the site does not use them.
 
-The site is styled like a news site (FT salmon for Financial Time). It is in Dutch with an NL/EN switch, and follows the system's
-light/dark mode unless the reader picks one (Auto → Licht → Donker); both choices are remembered per
-visitor. Pages (all accept `?date=YYYY-MM-DD`):
+The site follows the house style of [Jean-Jacques Collective](https://www.jeanjacquescollective.org/):
+black and white, Helvetica, and big outlined Georgia titles that fill in on hover. It is in Dutch with an
+NL/EN switch, and black unless the reader switches to white (Zwart → Wit); both choices are remembered
+per visitor. Pages (all accept `?date=YYYY-MM-DD`):
 
 - `index.html` (**Het getal**): yesterday's headline mean (big), the median, and an ⓘ button that
-  lists every headline and every article of that day with the numbers found in it.
+  lists every headline of that day with the numbers found in it.
 - `charts.html` (**Grafieken**): every headline number of the day over time with the mean and median,
-  the numbers per order of magnitude, the first digits next to Benford's law, and the mean, median and
-  count per day.
-- `financial-time.html` (**Financial Time**): every amount of money in the day's articles, marked as
-  lost/negative (gestolen, verlies, boete, kost…) or gained/positive (winst, budget, in beslag genomen,
-  gekregen…) by the nearest signal word in its sentence; without one, the headline decides, then the
-  article, and otherwise it counts as positive. With the totals, the balance, and charts per day.
+  the headline numbers per order of magnitude, their first digits next to Benford's law, and the mean,
+  median and count per day.
+- `financial-time.html` (**Financial Time**): every amount of money in the day's front page headlines,
+  marked as lost/negative (gestolen, verlies, boete, kost…) or gained/positive (winst, budget, in beslag
+  genomen, gekregen…) by the nearest signal word in the headline; without one it counts as positive.
+  With the totals, the balance, and charts per day.
 - `history.html` (**Geschiedenis**): highest/lowest mean, highest/lowest median, the biggest and
-  smallest number ever found, and a table of all days, both for the headlines and for the full articles.
+  smallest headline number ever found, and a table of all days.
 
 ## How it works
 
@@ -35,7 +37,7 @@ scraper/money.py       amounts of money and whether they were lost or gained (se
 data/days/YYYY/*.json  every headline and article with the numbers found in it, one file per day
 data/summary.json      per-day stats; the website reads this
 data/state.json        which headlines and articles were already processed
-site/                  the static website (fonts are served locally from site/fonts/)
+site/                  the static website (system fonts: Helvetica and Georgia)
 ```
 
 Each run (every 10 minutes on GitHub Actions):

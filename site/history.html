@@ -7,7 +7,6 @@
   <meta name="description" content="Records en geschiedenis van het dagelijks gemiddeld nieuwsgetal.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
   <script>try { var m = localStorage.getItem("theme"); if (m === "light" || m === "dark") document.documentElement.dataset.theme = m; } catch (e) {}</script>
-  <link rel="stylesheet" href="fonts.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body data-page="history">
@@ -18,12 +17,6 @@
     <p class="lede" id="lede" data-i18n="loading">Laden…</p>
     <section id="headlines" hidden>
       <h2 class="section-title" data-i18n="headlinesHeading">Koppen op de voorpagina</h2>
-      <div class="records"></div>
-      <div class="table-wrap"><table></table></div>
-    </section>
-    <section id="articles" hidden>
-      <h2 class="section-title" data-i18n="articlesHeading">Volledige artikels</h2>
-      <p class="lede" id="articles-lede"></p>
       <div class="records"></div>
       <div class="table-wrap"><table></table></div>
     </section>
@@ -57,7 +50,7 @@
       );
     }
 
-    // Records and a day-by-day table for one kind of stats ("headlines" or "articles").
+    // Records and a day-by-day table for one kind of stats ("headlines").
     function renderSection(section, allDays, kind, countColumn, fallbackTitle) {
       const today = todayInBrussels();
       const days = allDays.filter((d) => d[kind].numbers > 0);
@@ -116,10 +109,8 @@
       $("lede").textContent = total("headlines", "numbers")
         ? t("historyLede", t("numbers", total("headlines", "numbers")), total("headlines", "count"), since)
         : t("noData");
-      $("articles-lede").textContent = t("articlesLede", t("numbers", total("articles", "numbers")), total("articles", "count"));
 
       renderSection($("headlines"), summary.days, "headlines", "colHeadlines", "aHeadline");
-      renderSection($("articles"), summary.days, "articles", "colArticles", "anArticle");
     }
 
     setupPage(render);

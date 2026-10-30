@@ -411,11 +411,11 @@ def item_stats(items):
     return stats
 
 
-def money_stats(articles):
+def money_stats(headlines):
     """Euro totals per direction, plus the biggest lost and gained amount of the day."""
     amounts = [
-        {**m, "title": a["title"], "url": a["url"]}
-        for a in articles for m in a.get("money", [])
+        {**m, "title": h["title"], "url": h["url"]}
+        for h in headlines for m in h.get("money", [])
     ]
     stats = {"count": len(amounts)}
     for direction in ("lost", "gained", "neutral"):
@@ -433,11 +433,16 @@ def build_summary(tracking_start):
     for path in sorted((DATA / "days").glob("*/*.json")):
         day = read_json(path, None)
         headlines, articles = day.get("headlines", []), day.get("articles", [])
+        missing = [h for h in headlines if "money" not in h]
+        for h in missing:  # headlines stored before they had their own amounts
+            h["money"] = find_money(h["title"])
+        if missing:
+            write_json(path, day)
         days.append({
             "date": day["date"],
             "headlines": item_stats(headlines),
             "articles": item_stats(articles),
-            "money": money_stats(articles),
+            "money": money_stats(headlines),
         })
         for item in headlines + articles:
             updated_at = max(updated_at or item["first_seen"], item["first_seen"])
@@ -484,7 +489,8 @@ def main():
                 continue
             seen_headlines[headline] = moment.date().isoformat()
             numbers = extract_numbers(headline)
-            record = {"title": headline, "url": f"{BASE}{key}/", "first_seen": moment.isoformat(), "numbers": numbers}
+            record = {"title": headline, "url": f"{BASE}{key}/", "first_seen": moment.isoformat(),
+                      "numbers": numbers, "money": find_money(headline)}
             if archived:
                 record["archived"] = True
             add_item(moment.date().isoformat(), "headlines", record)
