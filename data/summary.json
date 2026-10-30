@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-10-30T13:26:24+01:00",
+ "updated_at": "2026-10-30T17:39:09+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 84,
-    "numbers": 714,
-    "mean": 15147750.9194,
+    "count": 85,
+    "numbers": 740,
+    "mean": 14615927.7476,
     "median": 21.0,
     "min": {
      "v": -8,
@@ -583,9 +583,9 @@
     }
    },
    "articles": {
-    "count": 58,
-    "numbers": 610,
-    "mean": 89402084.0941,
+    "count": 59,
+    "numbers": 628,
+    "mean": 136998847.2351,
     "median": 25.0,
     "min": {
      "v": -30,
@@ -617,10 +617,10 @@
   {
    "date": "2026-10-30",
    "headlines": {
-    "count": 35,
-    "numbers": 15,
-    "mean": 413344378.0667,
-    "median": 64,
+    "count": 47,
+    "numbers": 22,
+    "mean": 282917668.1818,
+    "median": 44.0,
     "min": {
      "v": 2,
      "t": "2",
@@ -635,10 +635,10 @@
     }
    },
    "articles": {
-    "count": 49,
-    "numbers": 455,
-    "mean": 225208398.2598,
-    "median": 40,
+    "count": 75,
+    "numbers": 721,
+    "mean": 142405140.9326,
+    "median": 38,
     "min": {
      "v": 1,
      "t": "1",
@@ -653,7 +653,7 @@
     }
    },
    "money": {
-    "count": 5,
+    "count": 7,
     "lost": 5000000000,
     "biggest_lost": {
      "eur": 5000000000,
@@ -661,7 +661,7 @@
      "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
     },
-    "gained": 1200139088,
+    "gained": 1224160088,
     "biggest_gained": {
      "eur": 1200000000,
      "t": "1,2 miljard euro",
@@ -669,7 +669,7 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ahold-delhaize-neemt-supermarktketen-in-tsjechie-en-slovakije-ov/"
     },
     "neutral": 0,
-    "net": -3799860912
+    "net": -3775839912
    }
   }
  ]

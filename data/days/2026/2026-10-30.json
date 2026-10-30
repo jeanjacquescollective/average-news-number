@@ -368,6 +368,144 @@
     }
    ],
    "money": []
+  },
+  {
+   "title": "21.000 euro voor dienstreizen van Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over?",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/verlinden-dienstreis/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 21000,
+     "t": "21.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 21000,
+     "t": "21.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "21.000 euro voor dienstreizen van Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over?"
+    }
+   ]
+  },
+  {
+   "title": "\"Nog geen moment zonder pijn geweest\": Christa Pike reageert voor het eerst op mislukte executie",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/christa-pike-reageert-voor-het-eerst-na-mislukte-executie/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Onrust in station Leuven door gewapende militair: \"Hij was op zoek naar de kazerne\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/gewapende-militair-vindt-weg-niet-naar-kazerne-en-zorgt-voor-onr/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "CEO van chipreus Nvidia had jaar lang \"nauwe band\" met Chinese spion, meldt The New York Times",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ceo-nvidia-mogelijk-bespioneerd-door-china/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Elektriciteitsproductie in België daalt naar laagste niveau in bijna 20 jaar",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/elektriciteitsproductie-in-belgie-daalt-naar-laagste-niveau-in-b~1774343778229/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Student Aaron poetst grafzerken in Boom voor families die dat zelf niet kunnen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/studenten-poetsen-grafzerken-begraafplaats-boom-studentenjob-all/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Unicum in 2.000 jaar katholieke kerk: paus Leo XIV heeft per post gestemd voor midterms in VS",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/unicum-in-2000-jaar-katholieke-kerk-paus-leo-xiv-heeft-per-pos~1792770744209/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2000,
+     "t": "2.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Belfort in Brugge, Citadel in Diest of Rubenshuis in Antwerpen: in deze 5 'erfgoedparels' pompt Vlaanderen 24 miljoen euro",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vlaamse-regering-investeert-in-5-monumenten/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 24000000,
+     "t": "24 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 24000000,
+     "t": "24 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Belfort in Brugge, Citadel in Diest of Rubenshuis in Antwerpen: in deze 5 'erfgoedparels' pompt Vlaanderen 24 miljoen euro"
+    }
+   ]
+  },
+  {
+   "title": "Kernkabinet zit sinds vanmiddag weer bijeen over de begroting",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-zit-sinds-vanmiddag-weer-bijeen-over-de-begroting~1793247532380/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Parket vraagt 2 jaar cel voor Radja Nainggolan wegens witwaspraktijken",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/proces-drugsbende-radja-nainggolan/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Humanitaire missie in Olesjky afgelopen, konvooi met geëvacueerde burgers komt aan in Krim: \"Zonder problemen verlopen\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/humanitaire-missie-in-olesjky-afgelopen-konvooi-met-geevacueerd~1789060001669/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Familie Ebru Sari reageert na overval op juwelierszaak: \"Wat jaren is opgebouwd, is in 2 minuten zwaar beschadigd\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/familie-ebru-sari-gent-overval-reactie-instagram/",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
   }
  ],
  "articles": [
@@ -3063,6 +3201,1562 @@
      "ctx": "Daarbij wordt je geld bij de bank met een maximumplafond van 100.000 euro per bank gegarandeerd."
     }
    ]
+  },
+  {
+   "id": "p.qEN194K7l",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/valse-bankmedewerkers-opgepakt-in-diest-en-kortenaken/",
+   "title": "Valse bankmedewerkers opgepakt die man van 85 uit Kortenaken probeerden op te lichten",
+   "published": "2026-10-30T13:35:53+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 85,
+     "t": "85"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 85,
+     "t": "85"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 101,
+     "t": "101"
+    },
+    {
+     "v": 32,
+     "t": "0032"
+    },
+    {
+     "v": 78,
+     "t": "78"
+    },
+    {
+     "v": 170,
+     "t": "170"
+    },
+    {
+     "v": 170,
+     "t": "170"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.LNWNqLlBB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vlaamse-regering-investeert-in-5-monumenten/",
+   "title": "Belfort in Brugge, Citadel in Diest of Rubenshuis in Antwerpen: in deze 5 'erfgoedparels' pompt Vlaanderen 24 miljoen euro",
+   "published": "2026-10-30T14:00:00+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 24000000,
+     "t": "24 miljoen"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 24000000,
+     "t": "24 miljoen"
+    },
+    {
+     "v": 24000000,
+     "t": "24 miljoen"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5500000,
+     "t": "5,5 miljoen"
+    },
+    {
+     "v": 5250000,
+     "t": "5,25 miljoen"
+    },
+    {
+     "v": 4910000,
+     "t": "4,91 miljoen"
+    },
+    {
+     "v": 4690000,
+     "t": "4,69 miljoen"
+    },
+    {
+     "v": 3610000,
+     "t": "3,61 miljoen"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 83,
+     "t": "83"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1280,
+     "t": "1280"
+    },
+    {
+     "v": 1493,
+     "t": "1493"
+    },
+    {
+     "v": 1741,
+     "t": "1741"
+    },
+    {
+     "v": 1741,
+     "t": "1741"
+    },
+    {
+     "v": 366,
+     "t": "366"
+    },
+    {
+     "v": 5500000,
+     "t": "5,5 miljoen"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 1439,
+     "t": "1439"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 236,
+     "t": "236"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 5250000,
+     "t": "5,25 miljoen"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 2011,
+     "t": "2011"
+    },
+    {
+     "v": 4910000,
+     "t": "4,91 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1856,
+     "t": "1856"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1917,
+     "t": "1917"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1960,
+     "t": "1960"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 4690000,
+     "t": "4,69 miljoen"
+    },
+    {
+     "v": 1610,
+     "t": "1610"
+    },
+    {
+     "v": 1640,
+     "t": "1640"
+    },
+    {
+     "v": 1937,
+     "t": "1937"
+    },
+    {
+     "v": 1946,
+     "t": "1946"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2031,
+     "t": "2031"
+    },
+    {
+     "v": 3610000,
+     "t": "3,61 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 24000000,
+     "t": "24 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparingen",
+     "how": "article",
+     "ctx": "Belfort in Brugge, Citadel in Diest of Rubenshuis in Antwerpen: in deze 5 'erfgoedparels' pompt Vlaanderen 24 miljoen euro"
+    },
+    {
+     "eur": 5500000,
+     "t": "5,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "sentence",
+     "ctx": "Het Belfort krijgt het meeste geld (5,5 miljoen euro), gevolgd door het Leuvense stadhuis (5,25 miljoen euro), de Citadel van Diest (4,91 miljoen euro), Kasteel De Lovie (4,69 miljoen euro) en het Rubenshuis (3,61 miljoen euro)."
+    },
+    {
+     "eur": 4910000,
+     "t": "4,91 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "sentence",
+     "ctx": "Het Belfort krijgt het meeste geld (5,5 miljoen euro), gevolgd door het Leuvense stadhuis (5,25 miljoen euro), de Citadel van Diest (4,91 miljoen euro), Kasteel De Lovie (4,69 miljoen euro) en het Rubenshuis (3,61 miljoen euro)."
+    },
+    {
+     "eur": 3610000,
+     "t": "3,61 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "sentence",
+     "ctx": "Het Belfort krijgt het meeste geld (5,5 miljoen euro), gevolgd door het Leuvense stadhuis (5,25 miljoen euro), de Citadel van Diest (4,91 miljoen euro), Kasteel De Lovie (4,69 miljoen euro) en het Rubenshuis (3,61 miljoen euro)."
+    }
+   ]
+  },
+  {
+   "id": "p.DYMN1ydMX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/langwerkende-rilatine-terugbetaling/",
+   "title": "Langwerkende Rilatine vanaf 1 november niet langer terugbetaald",
+   "published": "2026-10-30T14:28:00+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 6.12,
+     "t": "6,12"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 3.38,
+     "t": "3,38"
+    }
+   ],
+   "money": [
+    {
+     "eur": 6.12,
+     "t": "6,12 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "terugbetaald",
+     "how": "title",
+     "ctx": "Wie Rilatine MR 20 mg kocht, betaalde 6,12 euro per pakje, voor Equasym 20mg is dat met 3,38 euro bijna de helft."
+    },
+    {
+     "eur": 3.38,
+     "t": "3,38 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "terugbetaald",
+     "how": "title",
+     "ctx": "Wie Rilatine MR 20 mg kocht, betaalde 6,12 euro per pakje, voor Equasym 20mg is dat met 3,38 euro bijna de helft."
+    }
+   ]
+  },
+  {
+   "id": "p.43pYxBvD1",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/motorfiets-in-beslag-genomen-in-as-na-gevaarlijk-rijgedrag/",
+   "title": "Motorrijder (23) rijdt op één wiel en springt op bushalte in Genk: rijbewijs en motor in beslag genomen",
+   "published": "2026-10-30T14:42:09+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pA5o8Aq",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/viswinkel-abdijstraat-kiel-sluiting-burgemeester-gezondheid-veil/",
+   "title": "Viswinkel in Abdijstraat op Antwerpse Kiel moet 3 maanden dicht: \"Vuile werkoppervlakken, ongedierte en onaangename geuren\"",
+   "published": "2026-10-30T14:56:10+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYO0Q5O3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/studenten-poetsen-grafzerken-begraafplaats-boom-studentenjob-all/",
+   "title": "Student Aaron poetst grafzerken in Boom voor families die dat zelf niet kunnen: \"Job die veel voldoening geeft\"",
+   "published": "2026-10-30T15:02:06+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 1.5,
+     "t": "anderhalf"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 5500,
+     "t": "5.500"
+    }
+   ],
+   "money": [
+    {
+     "eur": 20,
+     "t": "20 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Een zerk poetsen duurt ongeveer een uur en kost zo'n 20 euro."
+    },
+    {
+     "eur": 20,
+     "t": "20 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "gevonden",
+     "how": "article",
+     "ctx": "Student Aaron Dien Andrade naast de grafzerk die hij poetst voor zo'n 20 euro.Foto: VRT NWS"
+    }
+   ]
+  },
+  {
+   "id": "p.PqOKkm47x",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/familie-ebru-sari-gent-overval-reactie-instagram/",
+   "title": "Familie van Ebru Sari reageert na overval op juwelierszaak in Gent: \"Wat jarenlang is opgebouwd, is in 2 minuten zwaar beschadigd\"",
+   "published": "2026-10-30T15:05:38+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.kQOo6lbPW",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/recyclage-sterilisatiedoeken-ziekenhuis-provincie-blauwe-doeken/",
+   "title": "Vlaams-Brabant investeert in recyclage van gebruikte sterilisatiedoeken uit operatiezalen",
+   "published": "2026-10-30T15:08:55+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 36000,
+     "t": "36.000"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": [
+    {
+     "eur": 36000,
+     "t": "36.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeert",
+     "how": "sentence",
+     "ctx": "De provincie Vlaams-Brabant investeert 36.000 euro in dit initiatief, en hoopt het verder te laten uitgroeien tot een ruimer circulair ecosysteem voor de zorgsector, met mogelijkheden voor bijkomende zorginstellingen in Halle-Vilvoorde en Brussel."
+    }
+   ]
+  },
+  {
+   "id": "p.vLlwJd8Ym",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/kinderopvang-beerse-kasterlee-lille-oud-turnhout-turnhout-vossel/",
+   "title": "Meer dan 200 extra plaatsen in kinderopvang op komst in 6 Kempense gemeenten: \"Historische inhaalbeweging\"",
+   "published": "2026-10-30T15:16:01+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 214,
+     "t": "214"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 106,
+     "t": "106"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 56,
+     "t": "56"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 56,
+     "t": "56"
+    },
+    {
+     "v": 214,
+     "t": "214"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.kQOoNRKRA",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/actiegroep-geerdegemvaart-verzameld-11-568-handtekeningen-refere/",
+   "title": "Actiegroep verzamelt ruim 11.000 handtekeningen tegen sluiting Mechels zwembad Geerdegemvaart: \"Hopen op een referendum\"",
+   "published": "2026-10-30T15:21:25+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 11000,
+     "t": "11.000"
+    },
+    {
+     "v": 11568,
+     "t": "11.568"
+    },
+    {
+     "v": 11568,
+     "t": "11.568"
+    },
+    {
+     "v": 9000,
+     "t": "9.000"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43pY5XBMo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/reactie-brugge-blij-belfort-geld-renovatie-ben-wetys-tevreden/",
+   "title": "Brugge juicht Vlaamse investeringen in Belfort toe: \"Monument bepaalt mee uitzicht van onze stad\"",
+   "published": "2026-10-30T15:21:52+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 5500000,
+     "t": "5,5 miljoen"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 24000000,
+     "t": "24 miljoen"
+    },
+    {
+     "v": 5500000,
+     "t": "5,5 miljoen"
+    },
+    {
+     "v": 83,
+     "t": "83"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 215000,
+     "t": "215.000"
+    },
+    {
+     "v": 366,
+     "t": "366"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 5500000,
+     "t": "5,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeert",
+     "how": "sentence",
+     "ctx": "Het stadsbestuur van Brugge is heel blij dat de Vlaamse regering 5,5 miljoen euro investeert in de restauratie van het Belfort."
+    },
+    {
+     "eur": 24000000,
+     "t": "24 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeringen",
+     "how": "title",
+     "ctx": "In die 5 monumenten pompt de Vlaamse regering extra geld, in totaal 24 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.kQOoVnpKO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/verlinden-dienstreis/",
+   "title": "21.000 euro voor dienstreizen van Annelies Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over?",
+   "published": "2026-10-30T15:26:37+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 21000,
+     "t": "21.000"
+    },
+    {
+     "v": 21000,
+     "t": "21.000"
+    },
+    {
+     "v": 21000,
+     "t": "21.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 21000,
+     "t": "21.000"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 49000,
+     "t": "49.000"
+    },
+    {
+     "v": 17000,
+     "t": "17.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 21000,
+     "t": "21.000"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 49000,
+     "t": "49.000"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 45000,
+     "t": "45.000"
+    },
+    {
+     "v": 50000,
+     "t": "50.000"
+    },
+    {
+     "v": 200000,
+     "t": "200.000"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    }
+   ],
+   "money": [
+    {
+     "eur": 21000,
+     "t": "21.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "jaarbudget",
+     "how": "article",
+     "ctx": "21.000 euro voor dienstreizen van Annelies Verlinden van Brussel over New York naar Abu Dhabi: waar gaat dit over?"
+    },
+    {
+     "eur": 15000,
+     "t": "15.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "jaarbudget",
+     "how": "article",
+     "ctx": "Verlinden liet de administratie van de FOD Justitie 15.000 euro bijpassen, ondanks een negatief advies van Inspectie Financiën."
+    },
+    {
+     "eur": 49000,
+     "t": "49.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "budget",
+     "how": "sentence",
+     "ctx": "Voor minister Verlinden kwam dat concreet neer op 49.000 euro minder budget."
+    },
+    {
+     "eur": 17000,
+     "t": "17.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "jaarbudget",
+     "how": "sentence",
+     "ctx": "Bleef over voor haar kabinet: een jaarbudget van 17.000 euro."
+    },
+    {
+     "eur": 200000,
+     "t": "200.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "jaarbudget",
+     "how": "article",
+     "ctx": "Hij spendeerde meer dan 200.000 euro in 2025."
+    }
+   ]
+  },
+  {
+   "id": "p.oLq0Q76oo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/nieuwe-methode-ku-leuven-kan-meer-virussen-opsporen-in-rioolwate/",
+   "title": "Onderzoekers KU Leuven vinden honderden virussen in 1 staal rioolwater met nieuwe methode: \"Vroeger opsporen is infecties voorkomen\"",
+   "published": "2026-10-30T15:28:19+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 339,
+     "t": "339"
+    },
+    {
+     "v": 715,
+     "t": "715"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoQR0DqP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/bestuurder-dodelijk-ongeval-kallo-vrij-onder-voorwaarden/",
+   "title": "Bestuurder (29) dodelijk ongeval in Kallo vrij onder voorwaarden",
+   "published": "2026-10-30T15:38:13+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.3Bw05XZdP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/fraude-oplichting-liberty-geraardsbergen-rechtszaak/",
+   "title": "Proces gestart tegen Liberty in Geraardsbergen: 191 mensen opgelicht met valse verzekeringen",
+   "published": "2026-10-30T15:42:08+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 191,
+     "t": "191"
+    },
+    {
+     "v": 191,
+     "t": "191"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 190,
+     "t": "190"
+    },
+    {
+     "v": 2345000,
+     "t": "2,345 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 50000,
+     "t": "50.000"
+    },
+    {
+     "v": 23000,
+     "t": "23.000"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    }
+   ],
+   "money": [
+    {
+     "eur": 2345000,
+     "t": "2,345 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "opgelicht",
+     "how": "sentence",
+     "ctx": "In totaal hebben de 4 verdachten zeker 190 mensen opgelicht voor in totaal 2,345 miljoen euro."
+    },
+    {
+     "eur": 50000,
+     "t": "50.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "opgelicht",
+     "how": "title",
+     "ctx": "Hij vroeg haar 50.000 euro te lenen om een autohandel op te starten."
+    },
+    {
+     "eur": 23000,
+     "t": "23.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "opgelicht",
+     "how": "title",
+     "ctx": "Bij de hoofdbeklaagde moest ze een schuldsaldoverzekering van 23.000 euro betalen."
+    },
+    {
+     "eur": 2000,
+     "t": "2.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Voor de hoofdbeklaagde vroeg de procureur de maximumstraf van 5 jaar cel, een boete van 2.000 euro en een bestuurdersverbod van 10 jaar."
+    }
+   ]
+  },
+  {
+   "id": "p.M9mJey67Z",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/christa-pike-reageert-voor-het-eerst-na-mislukte-executie/",
+   "title": "\"Sinds die nacht nog geen moment zonder pijn\": Christa Pike reageert voor het eerst op mislukte executie",
+   "published": "2026-10-30T16:07:28+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 1995,
+     "t": "1995"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLq0yXKq6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ronse-rechtbank-oudenaarde-lichtere-straf/",
+   "title": "Man uit Ronse krijgt 38 maanden cel voor familiaal geweld en druggebruik: lichtere straf dan de gevraagde 9 jaar",
+   "published": "2026-10-30T16:20:25+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 38,
+     "t": "38"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYO3MYwo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/noord-zuid-limburg-zet-volgende-stap-in-de-inrichting-boven-op-d/",
+   "title": "Vlaamse regering klopt plannen af voor groen en ontmoetingsplekken boven Noord-Zuidtunnels in Houthalen-Helchteren",
+   "published": "2026-10-30T16:24:29+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.M9mJeD8MB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/gewapende-militair-vindt-weg-niet-naar-kazerne-en-zorgt-voor-onr/",
+   "title": "Onrust in station Leuven door gewapende militair: \"Hij was op zoek naar de kazerne\"",
+   "published": "2026-10-30T16:53:25+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.LNWa1YOWE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/de-haan-bereikt-overeenkomst-met-brandweerzone-over-jaarlijkse-b/",
+   "title": "De Haan bereikt overeenkomst met brandweerzone over jaarlijkse bijdrage: \"besparen ruim 160.000 euro per jaar\"",
+   "published": "2026-10-30T16:55:29+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 160000,
+     "t": "160.000"
+    },
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 12000,
+     "t": "12.000"
+    },
+    {
+     "v": 22000,
+     "t": "22.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3.2,
+     "t": "3,2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 160000,
+     "t": "160.000"
+    },
+    {
+     "v": 1000000,
+     "t": "één miljoen"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    }
+   ],
+   "money": [
+    {
+     "eur": 160000,
+     "t": "160.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "article",
+     "ctx": "De Haan bereikt overeenkomst met brandweerzone over jaarlijkse bijdrage: \"besparen ruim 160.000 euro per jaar\""
+    },
+    {
+     "eur": 1000000,
+     "t": "1 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "De gemeente De Haan bespaart deze legislatuur bijna 1 miljoen euro aan kosten voor brandweer en ambulance."
+    }
+   ]
+  },
+  {
+   "id": "p.y31bWvPk5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/de-lovie-kasteel-poperinge-renovatie-geld-budget-4-6-miljoen-eur/",
+   "title": "De Lovie in Poperinge wil met Vlaamse subsidie van 4,7 miljoen binnenkant van kasteel aanpakken: \"Dromen ook van uitkijkpunt op dak\"",
+   "published": "2026-10-30T16:57:00+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 4700000,
+     "t": "4,7 miljoen"
+    },
+    {
+     "v": 4700000,
+     "t": "4,7 miljoen"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 24000000,
+     "t": "24 miljoen"
+    },
+    {
+     "v": 5500000,
+     "t": "5,5 miljoen"
+    },
+    {
+     "v": 4690000,
+     "t": "4,69 miljoen"
+    },
+    {
+     "v": 1850,
+     "t": "1850"
+    }
+   ],
+   "money": [
+    {
+     "eur": 4700000,
+     "t": "4,7 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "subsidie",
+     "how": "sentence",
+     "ctx": "De Lovie in Poperinge juicht de Vlaamse subsidie van 4,7 miljoen euro toe voor de renovatie van het gelijknamige kasteel in Poperinge."
+    },
+    {
+     "eur": 24000000,
+     "t": "24 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "subsidie",
+     "how": "title",
+     "ctx": "In die 5 monumenten pompt de Vlaamse regering extra geld, in totaal 24 miljoen euro."
+    },
+    {
+     "eur": 5500000,
+     "t": "5,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "budget",
+     "how": "sentence",
+     "ctx": "Het grootste budget is voorzien voor het Belfort, namelijk 5,5 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.lObwx0aJZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/tienen-watertoren-watergroep-bezoekers-renovatie-drinkwatervoorz/",
+   "title": "Gerenoveerde Tiense watertoren nu ook toegankelijk voor bezoekers: \"Prachtig uitzicht vanop 46 meter hoogte\"",
+   "published": "2026-10-30T17:04:46+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 46,
+     "t": "46"
+    },
+    {
+     "v": 46,
+     "t": "46"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.VLN9mBP4V",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/politie-waarschuwt-voor-overstekende-everzwijnen-aanrijdingen/",
+   "title": "Vier everzwijnen aangereden op 1 dag in Geel: politie waarschuwt voor overstekend wild",
+   "published": "2026-10-30T17:12:40+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "Vier"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 30000,
+     "t": "30.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4k000mk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/stad-antwerpen-uitvaart-op-de-schelde-as-uitstrooien/",
+   "title": "Antwerpen biedt voortaan ook uitvaarten op de Schelde aan: \"Voor eeuwig verbonden met de stad\"",
+   "published": "2026-10-30T17:22:00+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.BlYOPknp1",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ceo-nvidia-mogelijk-bespioneerd-door-china/",
+   "title": "CEO van chipreus Nvidia had jaar lang \"nauwe band\" met Chinese spion, meldt The New York Times",
+   "published": "2026-10-30T17:31:51+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2025,
+     "t": "2025"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.0Ypvq8aEx",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/vergunning-fietsostrade-f11-vernietigd-raad-voor-vergunningsbetw/",
+   "title": "Vergunning voor omstreden fietsostrade F11 in Berchem vernietigd: \"Provincie mocht die zelf niet verlenen\"",
+   "published": "2026-10-30T17:38:50+01:00",
+   "first_seen": "2026-10-30T17:39:09+01:00",
+   "numbers": [
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    }
+   ],
+   "money": []
   }
  ]
 }
