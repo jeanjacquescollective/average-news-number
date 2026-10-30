@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-29",
- "updated_at": "2026-10-29T20:45:51+01:00",
+ "updated_at": "2026-10-30T00:35:16+01:00",
  "days": [
   {
    "date": "2026-10-29",
@@ -25,10 +25,10 @@
     }
    },
    "articles": {
-    "count": 78,
-    "numbers": 712,
-    "mean": 239467348.8894,
-    "median": 20.0,
+    "count": 84,
+    "numbers": 754,
+    "mean": 226128338.6051,
+    "median": 19.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -41,6 +41,31 @@
      "title": "Miljardenverlies voor Volkswagen",
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/miljardenverlies-voor-volkswagen/"
     }
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "headlines": {
+    "count": 10,
+    "numbers": 5,
+    "mean": 33.7,
+    "median": 28,
+    "min": {
+     "v": 1.5,
+     "t": "1,5",
+     "title": "Gevangene (28) die 1,5 jaar geleden uit gevangenis van Hoogstraten ontsnapte, opgepakt op bus in Wommelgem",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/ontsnapte-gevangene-hoogstraten-opgepakt-wommelgem/"
+    },
+    "max": {
+     "v": 86,
+     "t": "86",
+     "title": "De Shakespeare-vedette die sciencefictionlegende werd: acteur Patrick Stewart (86) overleden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/obit-patrick-stewart-captain-picard-professor-x/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
    }
   }
  ]
