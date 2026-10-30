@@ -56,6 +56,15 @@ class DutchWordTests(unittest.TestCase):
         self.assertEqual(values("twee miljoen vijfhonderdduizend"), [2_500_000])
         self.assertEqual(values("honderd duizend"), [100_000])
 
+    def test_halves(self):
+        self.assertEqual(values("anderhalf miljoen euro en anderhalf jaar"), [1_500_000, 1.5])
+        self.assertEqual(values("bijna een half miljard"), [500_000_000])
+        self.assertEqual(extract_numbers("bijna een half miljard")[0]["t"], "een half miljard")
+        self.assertEqual(values("een half uur"), [])
+        self.assertEqual(values("bijna 5 en een half miljard euro"), [5_500_000_000])
+        self.assertEqual(values("twee en een half miljoen"), [2_500_000])
+        self.assertEqual(values("3 en een half miljoen"), [3_500_000])
+
     def test_ten_is_dutch_not_english(self):
         self.assertEqual(values("Ten minste vier mensen ten noorden van Gent."), [4])
 

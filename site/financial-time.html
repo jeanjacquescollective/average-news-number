@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Financial Time</title>
+  <meta name="description" content="Hoeveel geld er in het nieuws verloren of gewonnen werd, dag per dag.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>€</text></svg>">
+  <script>try { var m = localStorage.getItem("theme"); if (m === "light" || m === "dark") document.documentElement.dataset.theme = m; } catch (e) {}</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;900&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="money">
+  <header class="masthead" id="masthead"></header>
+
+  <main>
+    <h1 class="page-title" data-i18n="moneyTitle">Financial Time</h1>
+    <p class="lede" id="lede" data-i18n="moneyLede"></p>
+
+    <section id="day-section" hidden>
+      <h2 class="section-title" id="day-title"></h2>
+      <div class="records" id="tiles"></div>
+      <nav class="day-nav" data-i18n-label="otherDays" style="margin-top: 1rem">
+        <a id="prev" href="#" data-i18n="prevDay">‹ vorige dag</a>
+        <a id="next" href="#" data-i18n="nextDay">volgende dag ›</a>
+      </nav>
+      <div id="lists"></div>
+    </section>
+
+    <section id="history-section" hidden>
+      <h2 class="section-title" data-i18n="historyTitle">Geschiedenis</h2>
+      <div class="figure-grid">
+        <figure class="chart">
+          <h3 data-i18n="moneyChartTitle">Verloren en gewonnen per dag</h3>
+          <p class="note" data-i18n="moneyChartNote"></p>
+          <div class="chart-box"><canvas id="per-day"></canvas></div>
+        </figure>
+        <figure class="chart">
+          <h3 data-i18n="balanceTitle">Saldo sinds de start</h3>
+          <p class="note" data-i18n="balanceNote"></p>
+          <div class="chart-box"><canvas id="balance"></canvas></div>
+        </figure>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="common.js"></script>
+  <script src="charts.js"></script>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const shortDay = { day: "numeric", month: "short" };
+
+    function setNav(anchor, day) {
+      anchor.href = day ? `?date=${day.date}` : "#";
+      anchor.setAttribute("aria-disabled", day ? "false" : "true");
+      anchor.tabIndex = day ? 0 : -1;
+    }
+
+    function tile(title, value, className, context) {
+      return el("article", { class: `record ${className}` },
+        el("h3", {}, title),
+        el("p", { class: "value" }, value),
+        el("p", { class: "context" }, context));
+    }
+
+    // The sentence around an amount, with its signal word underlined.
+    function quote(amount) {
+      const quoteEl = el("blockquote", {});
+      const at = amount.kw ? amount.ctx.toLowerCase().indexOf(amount.kw.toLowerCase()) : -1;
+      if (at < 0) quoteEl.append(amount.ctx);
+      else quoteEl.append(amount.ctx.slice(0, at), el("mark", {}, amount.ctx.slice(at, at + amount.kw.length)), amount.ctx.slice(at + amount.kw.length));
+      return quoteEl;
+    }
+
+    function moneyList(amounts) {
+      const list = el("ol", { class: "money-list" });
+      for (const m of amounts.sort((a, b) => b.eur - a.eur)) {
+        list.append(el("li", { class: m.dir },
+          el("div", { class: "amount" }, formatEuro(m.eur), el("span", { class: "original" }, m.t)),
+          el("div", {},
+            quote(m),
+            el("a", { class: "source", href: m.url, target: "_blank", rel: "noopener" }, m.title)),
+        ));
+      }
+      return list;
+    }
+
+    async function renderDay(day, days) {
+      const money = day.money;
+      $("day-title").textContent = formatDay(day.date) + (day.date >= todayInBrussels() ? t("soFar") : "");
+      $("tiles").replaceChildren(
+        tile(t("lost"), formatEuro(money.lost), "lost", money.biggest_lost ? `↓ ${money.biggest_lost.title}` : ""),
+        tile(t("gained"), formatEuro(money.gained), "gained", money.biggest_gained ? `↑ ${money.biggest_gained.title}` : ""),
+        tile(t("net"), formatEuro(money.net), money.net < 0 ? "lost" : "gained", t("amounts", money.count)),
+      );
+      const index = days.indexOf(day);
+      setNav($("prev"), days[index - 1]);
+      setNav($("next"), days[index + 1]);
+
+      const lists = $("lists");
+      lists.replaceChildren(el("p", {}, t("loadingDay")));
+      try {
+        const data = await loadDay(day.date);
+        const amounts = (data.articles || []).flatMap((a) => (a.money || []).map((m) => ({ ...m, title: a.title, url: a.url })));
+        if (!amounts.length) {
+          lists.replaceChildren(el("p", { class: "empty" }, t("noMoney")));
+          return;
+        }
+        const of = (dir) => amounts.filter((m) => m.dir === dir);
+        const parts = [];
+        for (const dir of ["lost", "gained"]) {
+          if (of(dir).length) parts.push(el("h3", { class: "section-title" }, t(dir)), moneyList(of(dir)));
+        }
+        if (of("neutral").length) {
+          parts.push(el("details", { class: "neutral" },
+            el("summary", {}, t("neutralSummary", t("amounts", of("neutral").length), formatEuro(money.neutral))),
+            moneyList(of("neutral"))));
+        }
+        lists.replaceChildren(...parts);
+      } catch {
+        lists.replaceChildren(el("p", { class: "empty" }, t("loadError")));
+      }
+    }
+
+    function drawHistory(days) {
+      const c = palette();
+      const labels = days.map((d) => formatDay(d.date, shortDay));
+      const euroLabel = (item) => ` ${item.dataset.label}: ${formatEuro(Math.abs(item.raw))}`;
+      drawChart($("per-day"), {
+        type: "bar",
+        data: {
+          labels,
+          datasets: [
+            { label: t("seriesGained"), data: days.map((d) => d.money.gained), backgroundColor: c.series1, borderRadius: 4, borderSkipped: "start", maxBarThickness: 48 },
+            { label: t("seriesLost"), data: days.map((d) => -d.money.lost), backgroundColor: c.series2, borderRadius: 4, borderSkipped: "start", maxBarThickness: 48 },
+          ],
+        },
+        options: {
+          interaction: { mode: "index", intersect: false },
+          scales: {
+            x: { stacked: true, grid: { display: false } },
+            y: { stacked: true, ticks: { callback: (v) => formatEuro(v) } },
+          },
+          plugins: { tooltip: { callbacks: { label: euroLabel } } },
+        },
+      });
+      let running = 0;
+      const balance = days.map((d) => (running += d.money.net));
+      drawChart($("balance"), {
+        type: "line",
+        data: {
+          labels,
+          datasets: [{ label: t("seriesBalance"), data: balance, borderColor: c.series1, backgroundColor: c.series1, borderWidth: 2, pointRadius: 4 }],
+        },
+        options: {
+          interaction: { mode: "index", intersect: false },
+          scales: { x: { grid: { display: false } }, y: { ticks: { callback: (v) => formatEuro(v) } } },
+          plugins: { legend: { display: false }, tooltip: { callbacks: { label: (item) => ` ${formatEuro(item.raw)}` } } },
+        },
+      });
+    }
+
+    async function render() {
+      let summary;
+      try {
+        summary = await loadSummary();
+      } catch {
+        $("lede").textContent = t("noData");
+        return;
+      }
+      const days = summary.days.filter((d) => d.money);
+      if (!days.length) {
+        $("lede").textContent = t("noData");
+        return;
+      }
+      const requested = new URLSearchParams(location.search).get("date");
+      const day = days.find((d) => d.date === requested) || days.at(-1);
+      $("day-section").hidden = false;
+      $("history-section").hidden = false;
+      drawHistory(days);
+      await renderDay(day, days);
+    }
+
+    setupPage(render);
+  </script>
+</body>
+</html>

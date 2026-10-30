@@ -3,8 +3,6 @@
 const STRINGS = {
   nl: {
     brand: "Gemiddeld Nieuwsgetal",
-    historyLink: "Geschiedenis →",
-    backLink: "← Terug",
     switchTo: "EN",
     switchLabel: "Switch to English",
     loading: "Laden…",
@@ -59,11 +57,53 @@ const STRINGS = {
     colSmallest: "Kleinste",
     colBiggest: "Grootste",
     soFar: " (tot nu toe)",
+    navLabel: "Rubrieken",
+    navNumber: "Het getal",
+    navCharts: "Grafieken",
+    navMoney: "Financial Time",
+    navHistory: "Geschiedenis",
+    theme: { auto: "◐ Auto", light: "☀ Licht", dark: "☾ Donker" },
+    themeLabel: "Kleurmodus: automatisch, licht of donker",
+    chartsTitle: "Grafieken",
+    chartsLede: "Elk getal van de dag, en hoe het nieuwsgetal evolueert.",
+    scatterTitle: "Elk getal in de koppen",
+    scatterNote: "Op het moment dat de kop verscheen. Logaritmische schaal.",
+    scatterHidden: (n) => ` ${n} getal(len) van 0 of minder niet getoond.`,
+    magnitudeTitle: "Hoe groot zijn de getallen?",
+    magnitudeNote: "Aandeel van de getallen per grootteorde.",
+    benfordTitle: "Het eerste cijfer",
+    benfordNote: "In de artikels, naast de wet van Benford: in echte cijfers begint bijna een derde met een 1.",
+    trendTitle: "Gemiddelde en mediaan per dag",
+    trendNote: "Koppen op de voorpagina. Logaritmische schaal.",
+    countTitle: "Getallen per dag",
+    countNote: "In de koppen op de voorpagina.",
+    seriesHeadlines: "Koppen",
+    seriesArticles: "Artikels",
+    seriesBenford: "Wet van Benford",
+    seriesMean: "Gemiddelde",
+    seriesMedian: "Mediaan",
+    seriesLost: "Verloren",
+    seriesGained: "Gewonnen",
+    seriesBalance: "Saldo",
+    notEnough: "Nog te weinig gegevens.",
+    moneyTitle: "Financial Time",
+    moneyLede:
+      "Elk bedrag in de artikels, en of dat geld verloren ging (gestolen, verdwenen, verlies, fraude…) " +
+      "of gewonnen werd (winst, opgehaald, bespaard…). Zonder zo’n signaalwoord telt een bedrag als neutraal. " +
+      "Andere munten zijn bij benadering omgerekend naar euro.",
+    lost: "Verloren",
+    gained: "Gewonnen",
+    net: "Saldo",
+    amounts: (n) => (n === 1 ? "1 bedrag" : `${formatNumber(n)} bedragen`),
+    neutralSummary: (n, total) => `Zonder richting: ${n}, samen ${total}`,
+    noMoney: "Geen bedragen gevonden.",
+    moneyChartTitle: "Verloren en gewonnen per dag",
+    moneyChartNote: "In euro; verloren onder de lijn.",
+    balanceTitle: "Saldo sinds de start",
+    balanceNote: "Gewonnen min verloren, dag na dag opgeteld.",
   },
   en: {
     brand: "Average News Number",
-    historyLink: "History →",
-    backLink: "← Back",
     switchTo: "NL",
     switchLabel: "Schakel naar Nederlands",
     loading: "Loading…",
@@ -118,6 +158,50 @@ const STRINGS = {
     colSmallest: "Smallest",
     colBiggest: "Biggest",
     soFar: " (so far)",
+    navLabel: "Sections",
+    navNumber: "The number",
+    navCharts: "Charts",
+    navMoney: "Financial Time",
+    navHistory: "History",
+    theme: { auto: "◐ Auto", light: "☀ Light", dark: "☾ Dark" },
+    themeLabel: "Colour mode: automatic, light or dark",
+    chartsTitle: "Charts",
+    chartsLede: "Every number of the day, and how the news number evolves.",
+    scatterTitle: "Every number in the headlines",
+    scatterNote: "At the moment the headline appeared. Logarithmic scale.",
+    scatterHidden: (n) => ` ${n} number(s) of 0 or less not shown.`,
+    magnitudeTitle: "How big are the numbers?",
+    magnitudeNote: "Share of the numbers per order of magnitude.",
+    benfordTitle: "The first digit",
+    benfordNote: "In the articles, next to Benford’s law: in real-world figures almost a third start with a 1.",
+    trendTitle: "Mean and median per day",
+    trendNote: "Front page headlines. Logarithmic scale.",
+    countTitle: "Numbers per day",
+    countNote: "In the front page headlines.",
+    seriesHeadlines: "Headlines",
+    seriesArticles: "Articles",
+    seriesBenford: "Benford’s law",
+    seriesMean: "Mean",
+    seriesMedian: "Median",
+    seriesLost: "Lost",
+    seriesGained: "Gained",
+    seriesBalance: "Balance",
+    notEnough: "Not enough data yet.",
+    moneyTitle: "Financial Time",
+    moneyLede:
+      "Every amount in the articles, and whether that money was lost (stolen, vanished, loss, fraud…) " +
+      "or gained (profit, raised, saved…). Without such a signal word an amount counts as neutral. " +
+      "Other currencies are converted to euro approximately.",
+    lost: "Lost",
+    gained: "Gained",
+    net: "Balance",
+    amounts: (n) => (n === 1 ? "1 amount" : `${formatNumber(n)} amounts`),
+    neutralSummary: (n, total) => `Without a direction: ${n}, together ${total}`,
+    noMoney: "No amounts found.",
+    moneyChartTitle: "Lost and gained per day",
+    moneyChartNote: "In euro; lost below the line.",
+    balanceTitle: "Balance since the start",
+    balanceNote: "Gained minus lost, added up day by day.",
   },
 };
 
@@ -183,28 +267,92 @@ function el(tag, attrs = {}, ...children) {
   return node;
 }
 
-// Fills every [data-i18n] element and wires up the language switch; `render`
-// redraws the page's dynamic parts after a switch.
-function setupLanguage(render) {
-  const button = document.getElementById("lang");
-  const apply = () => {
+function formatEuro(value) {
+  return new Intl.NumberFormat(locale(), {
+    style: "currency", currency: "EUR", notation: "compact", maximumFractionDigits: 1,
+  }).format(value);
+}
+
+// The numbers found in a headline or article, as text with real separators so
+// they never run together (also when copied).
+function numberList(numbers) {
+  if (!numbers.length) return el("p", { class: "nums none" }, t("noNumbers"));
+  const line = el("p", { class: "nums" });
+  numbers.forEach((n, i) => {
+    if (i) line.append(el("span", { class: "sep" }, " · "));
+    line.append(el("span", { class: "num", title: formatNumber(n.v) }, n.t));
+  });
+  return line;
+}
+
+// --- page setup: masthead, colour mode, language --------------------------------
+
+const PAGES = [
+  ["index", "./", "navNumber"],
+  ["charts", "charts.html", "navCharts"],
+  ["money", "financial-time.html", "navMoney"],
+  ["history", "history.html", "navHistory"],
+];
+const THEMES = ["auto", "light", "dark"];
+
+let theme = "auto";
+try {
+  if (THEMES.includes(localStorage.getItem("theme"))) theme = localStorage.getItem("theme");
+} catch {}
+
+function remember(key, value) {
+  try {
+    localStorage.setItem(key, value);
+  } catch {}
+}
+
+function applyTheme() {
+  if (theme === "auto") delete document.documentElement.dataset.theme;
+  else document.documentElement.dataset.theme = theme;
+}
+
+function renderMasthead(redraw) {
+  const themeButton = el("button", { class: "control", type: "button", "aria-label": t("themeLabel"), title: t("themeLabel") },
+    t("theme")[theme]);
+  themeButton.onclick = () => {
+    theme = THEMES[(THEMES.indexOf(theme) + 1) % THEMES.length];
+    remember("theme", theme);
+    applyTheme();
+    redraw();
+  };
+  const langButton = el("button", { class: "control", type: "button", "aria-label": t("switchLabel"), lang: lang === "nl" ? "en" : "nl" },
+    t("switchTo"));
+  langButton.onclick = () => {
+    lang = lang === "nl" ? "en" : "nl";
+    remember("lang", lang);
+    redraw();
+  };
+  const current = document.body.dataset.page;
+  document.getElementById("masthead").replaceChildren(
+    el("div", { class: "masthead-top" },
+      el("span", { class: "dateline" }, formatDay(todayInBrussels())),
+      el("div", { class: "controls" }, themeButton, langButton)),
+    el("a", { class: "nameplate", href: "./" }, t("brand")),
+    el("nav", { class: "sections", "aria-label": t("navLabel") },
+      ...PAGES.map(([page, href, key]) => el("a", { href, "aria-current": page === current ? "page" : null }, t(key)))),
+  );
+}
+
+// Draws the masthead and every [data-i18n] text, then calls `render` for the
+// page's own content. Runs again after a language or colour mode switch, and when
+// the system switches between light and dark (charts read their colours from CSS).
+function setupPage(render) {
+  const redraw = () => {
     document.documentElement.lang = lang;
     for (const node of document.querySelectorAll("[data-i18n]")) node.textContent = t(node.dataset.i18n);
     for (const node of document.querySelectorAll("[data-i18n-label]")) {
       node.setAttribute("aria-label", t(node.dataset.i18nLabel));
       node.title = t(node.dataset.i18nLabel);
     }
-    button.textContent = t("switchTo");
-    button.setAttribute("aria-label", t("switchLabel"));
-  };
-  button.onclick = () => {
-    lang = lang === "nl" ? "en" : "nl";
-    try {
-      localStorage.setItem("lang", lang);
-    } catch {}
-    apply();
+    renderMasthead(redraw);
     render();
   };
-  apply();
-  render();
+  applyTheme();
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => theme === "auto" && render());
+  redraw();
 }

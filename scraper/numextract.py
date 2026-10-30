@@ -7,6 +7,7 @@ Handles:
   * English number words: three, twenty-one, two hundred and fifty
   * scale words after a number: 3,5 miljoen, twee miljard, 5 million, honderd duizend
   * times like 14.30 uur, counted as two numbers (14 and 30)
+  * anderhalf (1.5), and half before a scale word: een half miljard
 
 Deliberately ignored: the Dutch article "een" (too ambiguous; "één" does count),
 the English "ten" (a very common Dutch word), ordinal words (eerste, tweede) and
@@ -134,6 +135,8 @@ def _classify(m):
         return "scale", SCALES[word]
     if word == "and":
         return "and", None
+    if word == "anderhalf":
+        return "word", 1.5
     value = parse_dutch_word(word)
     if value is None and word != "ten":
         value = parse_english_word(word)
@@ -142,6 +145,11 @@ def _classify(m):
 
 def extract_numbers(text):
     """Return a list of {"v": value, "t": original text} for every number in text."""
+    return [{"v": n["v"], "t": n["t"]} for n in find_numbers(text)]
+
+
+def find_numbers(text):
+    """Like extract_numbers, plus the "start" and "end" offset of each number in text."""
     tokens = [(m, *_classify(m)) for m in TOKEN_RE.finditer(text)]
     results = []
     i = 0
@@ -153,12 +161,12 @@ def extract_numbers(text):
         if kind == "digits":
             raw = m.group("num")
             if re.fullmatch(r"\d{1,2}\.\d{2}", raw) and TIME_SUFFIX.match(text, end):
-                results.extend({"v": int(part), "t": raw} for part in raw.split("."))
+                results.extend({"v": int(part), "t": raw, "start": start, "end": end} for part in raw.split("."))
                 i += 1
                 continue
             values = parse_digits(raw)
             if len(values) > 1:
-                results.extend({"v": _to_number(v), "t": raw} for v in values)
+                results.extend({"v": _to_number(v), "t": raw, "start": start, "end": end} for v in values)
                 i += 1
                 continue
             current, from_words, j = values[0], False, i + 1
@@ -166,11 +174,26 @@ def extract_numbers(text):
             current, from_words, j = value, True, i + 1
             open_english_tens = m.group("word").lower() in EN_TENS
         elif kind == "scale" and m.group("word").lower() not in ABBREVIATED_SCALES:
-            # A bare scale word ("miljoen euro") counts as one of it; "een miljoen" too.
-            prev = tokens[i - 1] if i else None
-            if prev and prev[2] in ("een", "a") and text[prev[0].end():start].isspace():
-                start = prev[0].start()
-            current, from_words, j, end = 1, True, i, m.start()
+            # A bare scale word ("miljoen euro") counts as one of it; "een miljoen" too,
+            # and "(een) half miljard" as half of it.
+            current = 1
+            for back in (1, 2):
+                prev = tokens[i - back] if i >= back else None
+                if not (prev and text[prev[0].end():start].isspace()):
+                    break
+                if prev[2] == "half" and back == 1:
+                    current, start = 0.5, prev[0].start()
+                elif prev[2] in ("een", "a"):
+                    start = prev[0].start()
+                    break
+                else:
+                    break
+            # "5 en een half miljard": the 5 was already emitted on its own; fold it in.
+            before = re.fullmatch(r"(.*?)\s+en\s+", text[:start], re.DOTALL)
+            if current == 0.5 and before and results and results[-1]["end"] == len(before.group(1)):
+                whole = results.pop()
+                current, start = whole["v"] + 0.5, whole["start"]
+            from_words, j, end = True, i, m.start()
         else:
             i += 1
             continue
@@ -202,6 +225,6 @@ def extract_numbers(text):
             end = nm.end()
             j += 1
 
-        results.append({"v": _to_number(total + current), "t": text[start:end]})
+        results.append({"v": _to_number(total + current), "t": text[start:end], "start": start, "end": end})
         i = max(j, i + 1)
     return results

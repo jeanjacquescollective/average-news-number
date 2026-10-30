@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nieuwsgetal Grafieken</title>
+  <meta name="description" content="Grafieken van het dagelijks gemiddeld nieuwsgetal.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
+  <script>try { var m = localStorage.getItem("theme"); if (m === "light" || m === "dark") document.documentElement.dataset.theme = m; } catch (e) {}</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:wght@700;900&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="charts">
+  <header class="masthead" id="masthead"></header>
+
+  <main>
+    <h1 class="page-title" data-i18n="chartsTitle">Grafieken</h1>
+    <p class="lede" id="lede" data-i18n="chartsLede">Elk getal van de dag, en hoe het nieuwsgetal evolueert.</p>
+
+    <section id="day-section" hidden>
+      <h2 class="section-title" id="day-title"></h2>
+      <div class="figure-grid">
+        <figure class="chart">
+          <h3 data-i18n="scatterTitle">Elk getal in de koppen</h3>
+          <p class="note" id="scatter-note"></p>
+          <div class="chart-box"><canvas id="scatter"></canvas></div>
+        </figure>
+        <figure class="chart">
+          <h3 data-i18n="magnitudeTitle">Hoe groot zijn de getallen?</h3>
+          <p class="note" data-i18n="magnitudeNote"></p>
+          <div class="chart-box"><canvas id="magnitude"></canvas></div>
+        </figure>
+        <figure class="chart">
+          <h3 data-i18n="benfordTitle">Het eerste cijfer</h3>
+          <p class="note" data-i18n="benfordNote"></p>
+          <div class="chart-box"><canvas id="benford"></canvas></div>
+        </figure>
+      </div>
+    </section>
+
+    <section id="history-section" hidden>
+      <h2 class="section-title" data-i18n="historyTitle">Geschiedenis</h2>
+      <div class="figure-grid">
+        <figure class="chart">
+          <h3 data-i18n="trendTitle">Gemiddelde en mediaan per dag</h3>
+          <p class="note" data-i18n="trendNote"></p>
+          <div class="chart-box"><canvas id="trend"></canvas></div>
+        </figure>
+        <figure class="chart">
+          <h3 data-i18n="countTitle">Getallen per dag</h3>
+          <p class="note" data-i18n="countNote"></p>
+          <div class="chart-box"><canvas id="count"></canvas></div>
+        </figure>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="common.js"></script>
+  <script src="charts.js"></script>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const shortDay = { day: "numeric", month: "short" };
+    const BENFORD = [1, 2, 3, 4, 5, 6, 7, 8, 9].map((d) => Math.log10(1 + 1 / d));
+
+    function percent(value) {
+      return `${formatNumber(Math.round(value * 1000) / 10)}%`;
+    }
+
+    // Every headline number at the time it appeared, with the day's mean and median.
+    function drawScatter(data, stats) {
+      const c = palette();
+      const points = data.headlines.flatMap((h) =>
+        h.numbers.map((n) => ({ x: hourOfDay(h.first_seen), y: n.v, label: n.t, headline: h.title })));
+      const shown = points.filter((p) => p.y > 0);
+      const hidden = points.length - shown.length;
+      $("scatter-note").textContent = t("scatterNote") + (hidden ? t("scatterHidden", hidden) : "");
+      const level = (value, label, color, dash) => ({
+        type: "line", label, data: [{ x: 0, y: value }, { x: 24, y: value }],
+        borderColor: color, borderWidth: 2, borderDash: dash, pointRadius: 0, pointHitRadius: 0,
+      });
+      const datasets = [{
+        type: "scatter", label: t("seriesHeadlines"), data: shown,
+        backgroundColor: c.ink, borderColor: c.paper, borderWidth: 1, pointRadius: 5, pointHoverRadius: 7,
+      }];
+      if (stats.mean > 0) datasets.push(level(stats.mean, t("seriesMean"), c.series2, []));
+      if (stats.median > 0) datasets.push(level(stats.median, t("seriesMedian"), c.series1, [6, 4]));
+      drawChart($("scatter"), {
+        data: { datasets },
+        options: {
+          interaction: { mode: "nearest", intersect: true },
+          scales: {
+            x: { type: "linear", min: 0, max: 24, ticks: { stepSize: 3, callback: (v) => `${v}:00` }, grid: { display: false } },
+            y: { type: "logarithmic", ticks: logTicks },
+          },
+          plugins: {
+            tooltip: {
+              filter: (item) => item.datasetIndex === 0,
+              callbacks: {
+                title: (items) => items[0].raw.headline,
+                label: (item) => ` ${item.raw.label}`,
+              },
+            },
+          },
+        },
+      });
+    }
+
+    // Share of numbers per order of magnitude: < 1, 1–9, 10–99, …, 1 billion and more.
+    function drawMagnitude(data) {
+      const c = palette();
+      const exponents = [-1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+      const bucket = (v) => Math.max(-1, Math.min(9, Math.floor(Math.log10(Math.abs(v) || 0.1))));
+      const shares = (items) => {
+        const values = items.flatMap((i) => i.numbers.map((n) => n.v));
+        return exponents.map((e) => (values.length ? values.filter((v) => bucket(v) === e).length / values.length : 0));
+      };
+      drawChart($("magnitude"), {
+        type: "bar",
+        data: {
+          labels: exponents.map((e) => (e < 0 ? "< 1" : `${formatCompact(10 ** e)}${e === 9 ? "+" : ""}`)),
+          datasets: [
+            { label: t("seriesHeadlines"), data: shares(data.headlines), backgroundColor: c.series1, borderRadius: 4, borderSkipped: "start" },
+            { label: t("seriesArticles"), data: shares(data.articles), backgroundColor: c.series2, borderRadius: 4, borderSkipped: "start" },
+          ],
+        },
+        options: {
+          interaction: { mode: "index", intersect: false },
+          datasets: { bar: { categoryPercentage: 0.8, barPercentage: 0.9 } },
+          scales: { x: { grid: { display: false } }, y: { ticks: { callback: (v) => percent(v) } } },
+          plugins: { tooltip: { callbacks: { label: (item) => ` ${item.dataset.label}: ${percent(item.raw)}` } } },
+        },
+      });
+    }
+
+    // First significant digit of every article number, next to Benford's law.
+    function drawBenford(data) {
+      const c = palette();
+      const digits = data.articles.flatMap((a) => a.numbers.map((n) => /[1-9]/.exec(String(Math.abs(n.v)))?.[0]).filter(Boolean));
+      const shares = [1, 2, 3, 4, 5, 6, 7, 8, 9].map((d) => (digits.length ? digits.filter((x) => x === String(d)).length / digits.length : 0));
+      drawChart($("benford"), {
+        type: "bar",
+        data: {
+          labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+          datasets: [
+            { label: t("seriesArticles"), data: shares, backgroundColor: c.series1, borderRadius: 4, borderSkipped: "start", order: 2 },
+            { type: "line", label: t("seriesBenford"), data: BENFORD, borderColor: c.series2, backgroundColor: c.series2, borderWidth: 2, pointRadius: 4, order: 1 },
+          ],
+        },
+        options: {
+          interaction: { mode: "index", intersect: false },
+          scales: { x: { grid: { display: false } }, y: { ticks: { callback: (v) => percent(v) } } },
+          plugins: { tooltip: { callbacks: { label: (item) => ` ${item.dataset.label}: ${percent(item.raw)}` } } },
+        },
+      });
+    }
+
+    function drawHistory(days) {
+      const c = palette();
+      const labels = days.map((d) => formatDay(d.date, shortDay));
+      drawChart($("trend"), {
+        type: "line",
+        data: {
+          labels,
+          datasets: [
+            { label: t("seriesMean"), data: days.map((d) => (d.headlines.mean > 0 ? d.headlines.mean : null)), borderColor: c.series2, backgroundColor: c.series2, borderWidth: 2, pointRadius: 4 },
+            { label: t("seriesMedian"), data: days.map((d) => (d.headlines.median > 0 ? d.headlines.median : null)), borderColor: c.series1, backgroundColor: c.series1, borderWidth: 2, pointRadius: 4 },
+          ],
+        },
+        options: {
+          interaction: { mode: "index", intersect: false },
+          scales: { x: { grid: { display: false } }, y: { type: "logarithmic", ticks: logTicks } },
+          plugins: { tooltip: { callbacks: { label: (item) => ` ${item.dataset.label}: ${formatNumber(item.raw)}` } } },
+        },
+      });
+      drawChart($("count"), {
+        type: "bar",
+        data: {
+          labels,
+          datasets: [{ label: t("countTitle"), data: days.map((d) => d.headlines.numbers), backgroundColor: c.series1, borderRadius: 4, borderSkipped: "start", maxBarThickness: 48 }],
+        },
+        options: {
+          interaction: { mode: "index", intersect: false },
+          scales: { x: { grid: { display: false } }, y: { beginAtZero: true, ticks: { precision: 0 } } },
+          plugins: { legend: { display: false }, tooltip: { callbacks: { label: (item) => ` ${t("numbers", item.raw)}` } } },
+        },
+      });
+    }
+
+    async function render() {
+      let summary;
+      try {
+        summary = await loadSummary();
+      } catch {
+        $("lede").textContent = t("noData");
+        return;
+      }
+      const days = summary.days.filter((d) => d.headlines.numbers > 0);
+      if (!days.length) {
+        $("lede").textContent = t("noData");
+        return;
+      }
+
+      const requested = new URLSearchParams(location.search).get("date");
+      const day = days.find((d) => d.date === requested) || days.at(-1);
+      $("day-title").textContent = formatDay(day.date) + (day.date >= todayInBrussels() ? t("soFar") : "");
+      $("day-section").hidden = false;
+      $("history-section").hidden = false;
+      drawHistory(days);
+      try {
+        const data = await loadDay(day.date);
+        data.headlines ||= [];
+        data.articles ||= [];
+        drawScatter(data, day.headlines);
+        drawMagnitude(data);
+        drawBenford(data);
+      } catch {
+        $("day-title").textContent += ` · ${t("loadError")}`;
+      }
+    }
+
+    setupPage(render);
+  </script>
+</body>
+</html>

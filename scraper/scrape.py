@@ -19,6 +19,7 @@ import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
 
+from money import find_money
 from numextract import extract_numbers
 
 BASE = "https://www.vrt.be/vrtnws/nl/"
@@ -378,12 +379,34 @@ def item_stats(items):
     return stats
 
 
+def money_stats(articles):
+    """Euro totals per direction, plus the biggest lost and gained amount of the day."""
+    amounts = [
+        {**m, "title": a["title"], "url": a["url"]}
+        for a in articles for m in a.get("money", [])
+    ]
+    stats = {"count": len(amounts)}
+    for direction in ("lost", "gained", "neutral"):
+        mine = [m for m in amounts if m["dir"] == direction]
+        stats[direction] = round(sum(m["eur"] for m in mine), 2)
+        if direction != "neutral" and mine:
+            biggest = max(mine, key=lambda m: m["eur"])
+            stats[f"biggest_{direction}"] = {k: biggest[k] for k in ("eur", "t", "title", "url")}
+    stats["net"] = round(stats["gained"] - stats["lost"], 2)
+    return stats
+
+
 def build_summary(tracking_start):
     days, updated_at = [], None
     for path in sorted((DATA / "days").glob("*/*.json")):
         day = read_json(path, None)
         headlines, articles = day.get("headlines", []), day.get("articles", [])
-        days.append({"date": day["date"], "headlines": item_stats(headlines), "articles": item_stats(articles)})
+        days.append({
+            "date": day["date"],
+            "headlines": item_stats(headlines),
+            "articles": item_stats(articles),
+            "money": money_stats(articles),
+        })
         for item in headlines + articles:
             updated_at = max(updated_at or item["first_seen"], item["first_seen"])
     write_json(SUMMARY_FILE, {
@@ -473,7 +496,8 @@ def main():
                 continue  # same article under a new URL
             ids[article["id"]] = today.isoformat()
 
-        numbers = extract_numbers(article["title"] + "\n" + article["body"])
+        text = article["title"] + "\n" + article["body"]
+        numbers = extract_numbers(text)
         add_item(day.isoformat(), "articles", {
             "id": article["id"],
             "url": f"{BASE}{key}/",
@@ -481,6 +505,7 @@ def main():
             "published": published.isoformat() if published else None,
             "first_seen": now.isoformat(),
             "numbers": numbers,
+            "money": find_money(text),
         })
         added += 1
         log(f"+ {day} {len(numbers):3d} numbers  {article['title'][:80]}")

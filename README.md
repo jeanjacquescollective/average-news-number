@@ -10,19 +10,27 @@ too, as a separate total.
   headline counts again.
 - **Full articles** (the total): headline + body of every article published that day, read once.
 
-The site is in Dutch, with an NL/EN switch in the header (remembered per visitor).
+The site looks like an old newspaper. It is in Dutch with an NL/EN switch, and follows the system's
+light/dark mode unless the reader picks one (Auto → Licht → Donker); both choices are remembered per
+visitor. Pages (all accept `?date=YYYY-MM-DD`):
 
-- `index.html`: yesterday's headline mean (big), the median, and an ⓘ button that lists every
-  headline and every article of that day with the numbers found in it. `?date=YYYY-MM-DD` shows any
-  other day.
-- `history.html`: highest/lowest mean, highest/lowest median, the biggest and smallest number ever
-  found, and a table of all days, both for the headlines and for the full articles.
+- `index.html` (**Het getal**): yesterday's headline mean (big), the median, and an ⓘ button that
+  lists every headline and every article of that day with the numbers found in it.
+- `charts.html` (**Grafieken**): every headline number of the day over time with the mean and median,
+  the numbers per order of magnitude, the first digits next to Benford's law, and the mean, median and
+  count per day.
+- `financial-time.html` (**Financial Time**): every amount of money in the day's articles, marked as
+  lost (gestolen, verdwenen, verlies, fraude…) or gained (winst, opgehaald, bespaard…) by the nearest
+  signal word in its sentence, with the totals, the balance, and charts per day.
+- `history.html` (**Geschiedenis**): highest/lowest mean, highest/lowest median, the biggest and
+  smallest number ever found, and a table of all days, both for the headlines and for the full articles.
 
 ## How it works
 
 ```
 scraper/scrape.py      finds new articles, extracts numbers, updates data/
 scraper/numextract.py  the number extraction (see the docstring for the exact rules)
+scraper/money.py       amounts of money and whether they were lost or gained (see the docstring)
 data/days/YYYY/*.json  every headline and article with the numbers found in it, one file per day
 data/summary.json      per-day stats; the website reads this
 data/state.json        which headlines and articles were already processed
