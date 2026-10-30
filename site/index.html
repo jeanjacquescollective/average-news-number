@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Gemiddeld Nieuwsgetal</title>
-  <meta name="description" content="Het gemiddelde van alle getallen in de koppen op de voorpagina van VRT NWS, dag per dag.">
+  <meta name="description" content="Dagelijks gemiddeld nieuwsgetal.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -34,7 +34,6 @@
   </main>
 
   <footer class="site">
-    <span><span data-i18n="footerSource">Getallen uit de koppen en artikels van</span> <a href="https://www.vrt.be/vrtnws/nl/">VRT NWS</a></span>
     <span id="updated"></span>
   </footer>
 
@@ -82,7 +81,9 @@
       const status = el("p", {}, t("loadingDay"));
       body.replaceChildren(
         el("p", {},
-          t("headlinesExplained", isPartial, formatDay(day.date)),
+          t("sourceBefore"),
+          el("a", { href: "https://www.vrt.be/vrtnws/nl/", target: "_blank", rel: "noopener" }, "VRT NWS"),
+          t("sourceAfter", isPartial, formatDay(day.date)),
           el("strong", {}, t("headlinesTotals", t("numbers", h.numbers), h.count)),
           t("statsSentence", formatNumber(h.mean), formatNumber(h.median)),
         ),
