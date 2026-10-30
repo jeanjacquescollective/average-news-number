@@ -71,6 +71,11 @@ jobs:
           mkdir -p _site/data
           cp -r site/. _site/
           cp -r data/days data/summary.json _site/data/
+          # Version the local CSS/JS links, so browsers never combine a new page
+          # with an old cached script (e.g. "setupPage is not defined").
+          version=$(git rev-parse --short HEAD)
+          sed -i -E "s/(href|src)=\"([A-Za-z0-9_-]+\.(css|js))\"/\1=\"\2?v=${version}\"/g" _site/*.html
+          grep -ho '\(href\|src\)="[A-Za-z0-9_-]*\.\(css\|js\)?v=[^"]*"' _site/*.html | sort | uniq -c
 
       - uses: actions/configure-pages@v5
 

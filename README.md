@@ -34,7 +34,7 @@ scraper/money.py       amounts of money and whether they were lost or gained (se
 data/days/YYYY/*.json  every headline and article with the numbers found in it, one file per day
 data/summary.json      per-day stats; the website reads this
 data/state.json        which headlines and articles were already processed
-site/                  the static website
+site/                  the static website (fonts are served locally from site/fonts/)
 ```
 
 Each run (every 10 minutes on GitHub Actions):
