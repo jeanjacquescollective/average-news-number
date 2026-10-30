@@ -506,6 +506,112 @@
     }
    ],
    "money": []
+  },
+  {
+   "title": "Constitutionele crisis in Polen: voorzitter Grondwettelijk Hof geschorst, politie massaal aanwezig in Warschau",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/politieke-crisis-in-polen-voorzitter-grondwettelijk-hof-geschor/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Europese Unie en Canada lanceren \"alliantie voor de toekomst\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/europese-unie-en-canada-lanceren-alliantie-voor-de-toekomst/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Troefkaart die niemand heeft\": minister Francken kondigt samenwerking aan tussen Defensie en Imec",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/samenwerking-defensie-imec/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Houthi's vallen presidentieel paleis in Aden in Jemen aan met 2 raketten",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/houthis-vallen-presidentieel-paleis-in-aden-in-jemen-aan-met-2-~1784611610051/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Pieterjan De Smedt in de Wetstraat: \"We gaan richting moment van de waarheid\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/pieterjan-de-smedt-in-de-wetstraat-we-gaan-richting-moment-van~1793247532380/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Frankrijk waarschuwt voor defecte condooms op Europese markt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/frankrijk-roept-miljoenen-condooms-van-maleisische-fabrikant-ter/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Al 5.000 Congolezen overleden na ebola-besmetting",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/al-5000-congolezen-overleden-na-ebolabesmetting~1779777185712/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 5000,
+     "t": "5.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Schotse politie onderzoekt verblijf van ex-prins Andrew en Jeffrey Epstein op kasteel Balmoral",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/onderzoek-balmoral-andrew-epstein/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Grootste Europese archief voor vertrouwelijke overheidsdocumenten ligt in Genk: \"800 kilometer aan documenten\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/grootste-veilig-archief-west-europa-genk-youston/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 800,
+     "t": "800"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Franse politie vindt 11 van 13 gestolen apen terug, verschillende verdachten opgepakt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/frankrijk-apen-gestolen-teruggevonden/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Eén verdachte vrijgelaten in onderzoek naar dood politieman Nordine El Talbi",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/een-verdachte-vrijgelaten-in-onderzoek-naar-dood-politieman-nord~1791870783608/",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "Eén"
+    }
+   ],
+   "money": []
   }
  ],
  "articles": [
@@ -4754,6 +4860,287 @@
     {
      "v": 1,
      "t": "één"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4K8R4AB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/samenwerking-defensie-imec/",
+   "title": "\"Troefkaart die niemand heeft\": minister Francken kondigt samenwerking aan tussen Defensie en Imec",
+   "published": "2026-10-30T18:17:42+01:00",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 10000000,
+     "t": "10 miljoen"
+    },
+    {
+     "v": 5,
+     "t": "vijf"
+    },
+    {
+     "v": 10000000,
+     "t": "10 miljoen"
+    },
+    {
+     "v": 3700000000,
+     "t": "3,7 miljard"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10000000,
+     "t": "10 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "sentence",
+     "ctx": "Die zal toepassingen voor Defensie ontwikkelen en krijgt daarvoor jaarlijks 10 miljoen euro."
+    },
+    {
+     "eur": 3700000000,
+     "t": "3,7 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "article",
+     "ctx": "Het partnerschap loopt vijf jaar, waarbij Imec op jaarlijks 10 miljoen euro kan rekenen van ODIN, een incubator voor defensietechnologie die de federale regering eerder dit jaar oprichtte en waarvoor ze 3,7 miljard euro uittrekt over 10 jaar."
+    }
+   ]
+  },
+  {
+   "id": "p.ew4KLemvK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/onderzoek-balmoral-andrew-epstein/",
+   "title": "Schotse politie onderzoekt verblijf van ex-prins Andrew en Jeffrey Epstein op kasteel Balmoral",
+   "published": "2026-10-30T18:20:23+01:00",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 1999,
+     "t": "1999"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pAOM9Na",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/frankrijk-roept-miljoenen-condooms-van-maleisische-fabrikant-ter/",
+   "title": "Frankrijk waarschuwt voor defecte condooms op Europese markt",
+   "published": "2026-10-30T18:57:13+01:00",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 7000000,
+     "t": "7 miljoen"
+    },
+    {
+     "v": 1000000,
+     "t": "miljoen"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5wa1dGK9w",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/grootste-veilig-archief-west-europa-genk-youston/",
+   "title": "Grootste Europese archief voor vertrouwelijke overheidsdocumenten ligt in Genk: \"800 kilometer aan documenten\"",
+   "published": "2026-10-30T19:55:07+01:00",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 15000000,
+     "t": "15 miljoen"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 52,
+     "t": "52"
+    },
+    {
+     "v": 300000,
+     "t": "300.000"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 415,
+     "t": "415"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    }
+   ],
+   "money": [
+    {
+     "eur": 15000000,
+     "t": "15 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investering",
+     "how": "sentence",
+     "ctx": "Met een investering van 15 miljoen euro verdubbelt het bedrijf Youston haar archiefcapaciteit."
+    }
+   ]
+  },
+  {
+   "id": "p.8epnaVLkY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/frankrijk-apen-gestolen-teruggevonden/",
+   "title": "Franse politie vindt 11 van 13 gestolen apen terug, verschillende verdachten opgepakt",
+   "published": "2026-10-30T19:58:34+01:00",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.6KpMwPWG4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/europese-unie-en-canada-lanceren-alliantie-voor-de-toekomst/",
+   "title": "Europese Unie en Canada lanceren \"alliantie voor de toekomst\"",
+   "published": "2026-10-30T20:41:06+01:00",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 500000000,
+     "t": "500 miljoen"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 71.7,
+     "t": "71,7"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": [
+    {
+     "eur": 500000000,
+     "t": "500 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premier",
+     "how": "sentence",
+     "ctx": "Om met dat laatste te beginnen: premier Carney kondigde alvast aan dat Canada 500 miljoen euro zal bijdragen aan het volgende Europese steunpakket voor Oekraïne."
+    }
+   ]
+  },
+  {
+   "id": "p.APQoBmoEw",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/politieke-crisis-in-polen-voorzitter-grondwettelijk-hof-geschor/",
+   "title": "Politieke crisis in Polen: voorzitter Grondwettelijk Hof geschorst, politie massaal aanwezig in Warschau",
+   "published": "2026-10-30T21:46:39+01:00",
+   "first_seen": "2026-10-30T22:08:34+01:00",
+   "numbers": [
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 6,
+     "t": "6"
     }
    ],
    "money": []

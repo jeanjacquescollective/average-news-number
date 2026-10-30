@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-10-30T17:39:09+01:00",
+ "updated_at": "2026-10-30T22:08:34+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -583,10 +583,10 @@
     }
    },
    "articles": {
-    "count": 59,
-    "numbers": 628,
-    "mean": 136998847.2351,
-    "median": 25.0,
+    "count": 60,
+    "numbers": 647,
+    "mean": 181661948.7648,
+    "median": 25,
     "min": {
      "v": -30,
      "t": "-30",
@@ -617,15 +617,15 @@
   {
    "date": "2026-10-30",
    "headlines": {
-    "count": 47,
-    "numbers": 22,
-    "mean": 282917668.1818,
-    "median": 44.0,
+    "count": 58,
+    "numbers": 28,
+    "mean": 222292661.6786,
+    "median": 24.0,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Antonio en Daniel, machinisten bij de Spaanse treinramp: 2 jonge dertigers, gepassioneerd door het spoor",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/treingeluk-toledo-spanje-portret-machinisten/"
+     "v": 1,
+     "t": "Eén",
+     "title": "Eén verdachte vrijgelaten in onderzoek naar dood politieman Nordine El Talbi",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/een-verdachte-vrijgelaten-in-onderzoek-naar-dood-politieman-nord~1791870783608/"
     },
     "max": {
      "v": 5000000000,
@@ -635,10 +635,10 @@
     }
    },
    "articles": {
-    "count": 75,
-    "numbers": 721,
-    "mean": 142405140.9326,
-    "median": 38,
+    "count": 82,
+    "numbers": 764,
+    "mean": 139944277.826,
+    "median": 40.0,
     "min": {
      "v": 1,
      "t": "1",
