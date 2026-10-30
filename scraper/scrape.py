@@ -1,13 +1,16 @@
 """Count the numbers in VRT NWS front page headlines and articles; update the daily stats.
 
 Run it as often as you like: every headline and every article is processed exactly once.
+The first run (no data yet) also collects the previous days: articles from the
+weekly sitemaps, and front page headlines from archived copies on archive.org.
 
     python scraper/scrape.py                     # normal run
-    python scraper/scrape.py --since 2026-10-01  # first run only: start the history earlier
+    python scraper/scrape.py --since 2026-10-01  # first run only: how far back to start
 """
 
 import argparse
 import datetime as dt
+import gzip
 import json
 import re
 import statistics
@@ -25,6 +28,11 @@ from numextract import extract_numbers
 BASE = "https://www.vrt.be/vrtnws/nl/"
 FEED_URL = "https://www.vrt.be/vrtnws/nl.rss.articles.xml"
 SITEMAP_URL = "https://www.vrt.be/vrtnws/nl.sitemap.article.{year}.{week:02d}.xml"
+ARCHIVE_INDEX_URL = (
+    "https://web.archive.org/cdx/search/cdx?url=vrt.be/vrtnws/nl/&from={start}&to={end}"
+    "&output=json&fl=timestamp&filter=statuscode:200&collapse=timestamp:10"  # at most one per hour
+)
+ARCHIVE_PAGE_URL = "https://web.archive.org/web/{timestamp}id_/https://www.vrt.be/vrtnws/nl/"
 USER_AGENT = "average-news-number/1.0 (hobby project counting numbers in news articles)"
 REQUEST_DELAY = 1.0  # seconds between requests, to be polite
 
@@ -34,6 +42,7 @@ STATE_FILE = DATA / "state.json"
 SUMMARY_FILE = DATA / "summary.json"
 
 MAX_NEW_AGE_DAYS = 30      # anything published longer ago is not "new"
+BACKFILL_DAYS = 14         # the first run also collects this many previous days
 SEEN_RETENTION_DAYS = 45   # must stay above MAX_NEW_AGE_DAYS
 MAX_FAILURES = 6           # give up on an article after this many failed runs
 
@@ -103,7 +112,10 @@ def fetch(url):
     for attempt in range(3):
         try:
             with urllib.request.urlopen(request, timeout=30) as response:
-                return response.read().decode("utf-8", errors="replace")
+                body = response.read()
+                if body[:2] == b"\x1f\x8b":  # archive.org serves stored pages gzipped
+                    body = gzip.decompress(body)
+                return body.decode("utf-8", errors="replace")
         except urllib.error.HTTPError as e:
             if e.code == 404:
                 return None
@@ -331,6 +343,26 @@ def discover(sitemap_weeks):
     return keys, pages.get(BASE)
 
 
+def archived_front_pages(first_day, last_day):
+    """(moment, html) for archive.org copies of the front page, oldest first."""
+    url = ARCHIVE_INDEX_URL.format(start=first_day.strftime("%Y%m%d"), end=last_day.strftime("%Y%m%d"))
+    try:
+        rows = json.loads(fetch(url) or "[]")[1:]  # the first row holds the column names
+    except Exception as e:
+        log(f"! archive.org index not available: {e}")
+        return
+    log(f"{len(rows)} archived copies of the front page since {first_day}")
+    for (timestamp,) in rows:
+        moment = dt.datetime.strptime(timestamp, "%Y%m%d%H%M%S").replace(tzinfo=dt.timezone.utc)
+        try:
+            page = fetch(ARCHIVE_PAGE_URL.format(timestamp=timestamp))
+        except Exception as e:
+            log(f"! archived front page {timestamp}: {e}")
+            continue
+        if page:
+            yield to_brussels(moment), page
+
+
 # --- storage ------------------------------------------------------------------
 
 def read_json(path, default):
@@ -423,8 +455,8 @@ def build_summary(tracking_start):
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--since", type=dt.date.fromisoformat,
-                        help="first run only: count articles published from this date (max 30 days back)")
-    parser.add_argument("--limit", type=int, default=500, help="max articles to fetch in one run")
+                        help=f"first run only: start from this date (default {BACKFILL_DAYS} days back, max {MAX_NEW_AGE_DAYS})")
+    parser.add_argument("--limit", type=int, default=3000, help="max articles to fetch in one run")
     args = parser.parse_args()
 
     now = to_brussels(dt.datetime.now(dt.timezone.utc)).replace(microsecond=0)
@@ -434,35 +466,45 @@ def main():
     state = read_json(STATE_FILE, None)
     first_run = state is None
     if first_run:
-        start = max(args.since or today, oldest_new)
+        start = max(args.since or today - dt.timedelta(days=BACKFILL_DAYS), oldest_new)
         state = {"tracking_start": start.isoformat(), "seen": {}, "ids": {}, "failures": {}}
-        log(f"First run: tracking articles published from {start}")
+        log(f"First run: collecting everything since {start}")
     elif args.since:
         log("! --since is ignored: tracking already started on " + state["tracking_start"])
     tracking_start = dt.date.fromisoformat(state["tracking_start"])
     seen, ids, failures = state["seen"], state["ids"], state["failures"]
     seen_headlines = state.setdefault("headlines", {})
 
+    # Front page headlines count once, on the day they first appear. Liveblogs that
+    # run for days get a new headline with every development, and each one counts.
+    def record_headlines(page, moment, archived=False):
+        count = 0
+        for key, headline in front_page_headlines(page):
+            if headline in seen_headlines:
+                continue
+            seen_headlines[headline] = moment.date().isoformat()
+            numbers = extract_numbers(headline)
+            record = {"title": headline, "url": f"{BASE}{key}/", "first_seen": moment.isoformat(), "numbers": numbers}
+            if archived:
+                record["archived"] = True
+            add_item(moment.date().isoformat(), "headlines", record)
+            count += 1
+            log(f"+ headline {moment:%m-%d %H:%M} {len(numbers):2d} numbers  {headline[:70]}")
+        return count
+
+    # First run: earlier front pages come from archive.org; their article links also
+    # cover the current week, whose sitemap only appears once the week is over.
+    new_headlines, archived_keys = 0, set()
+    if first_run:
+        for moment, page in archived_front_pages(tracking_start, today):
+            new_headlines += record_headlines(page, moment, archived=True)
+            archived_keys |= {m.group(1) for m in LINK_RE.finditer(page)}
+
     # Weekly sitemaps are a safety net for anything the overview pages no longer show.
     sitemap_from = tracking_start if first_run else max(tracking_start, today - dt.timedelta(days=8))
     keys, front_page = discover(iso_weeks(sitemap_from, today))
-
-    # Front page headlines count once, on the day they first appear. Liveblogs that
-    # run for days get a new headline with every development, and each one counts.
-    new_headlines = 0
-    for key, headline in front_page_headlines(front_page or ""):
-        if headline in seen_headlines:
-            continue
-        seen_headlines[headline] = today.isoformat()
-        numbers = extract_numbers(headline)
-        add_item(today.isoformat(), "headlines", {
-            "title": headline,
-            "url": f"{BASE}{key}/",
-            "first_seen": now.isoformat(),
-            "numbers": numbers,
-        })
-        new_headlines += 1
-        log(f"+ headline {len(numbers):2d} numbers  {headline[:80]}")
+    keys |= archived_keys
+    new_headlines += record_headlines(front_page or "", now)
 
     def is_candidate(key):
         published = key_date(key)

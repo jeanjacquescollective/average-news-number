@@ -3,7 +3,7 @@
 // their charts whenever the mode changes.
 
 function cssVar(name) {
-  return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+  return getComputedStyle(document.body).getPropertyValue(name).trim();  // body: Financial Time has its own paper
 }
 
 function palette() {
@@ -11,7 +11,7 @@ function palette() {
     ink: cssVar("--ink"),
     ink2: cssVar("--ink-2"),
     grid: cssVar("--grid"),
-    paper: cssVar("--paper-2"),
+    paper: cssVar("--surface-2"),
     series1: cssVar("--series-1"),
     series2: cssVar("--series-2"),
   };
@@ -32,7 +32,7 @@ const logTicks = {
 function drawChart(canvas, config) {
   Chart.getChart(canvas)?.destroy();
   const c = palette();
-  Chart.defaults.font.family = "'Libre Caslon Text', Georgia, serif";
+  Chart.defaults.font.family = "'Libre Franklin', 'Helvetica Neue', Arial, sans-serif";
   Chart.defaults.font.size = 12;
   Chart.defaults.color = c.ink2;
   Chart.defaults.borderColor = c.grid;
@@ -63,7 +63,7 @@ function drawChart(canvas, config) {
           cornerRadius: 0,
           padding: 10,
           boxPadding: 4,
-          titleFont: { family: "'Playfair Display', Georgia, serif", weight: "700", size: 13 },
+          titleFont: { family: "'Source Serif 4', Georgia, serif", weight: "700", size: 14 },
           ...plugins.tooltip,
         },
       },

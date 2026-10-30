@@ -10,6 +10,8 @@ const STRINGS = {
     labelToday: "Dagelijks gemiddeld nieuwsgetal",
     labelYesterday: () => "Dagelijks gemiddeld nieuwsgetal · gisteren",
     labelDay: (day) => `Dagelijks gemiddeld nieuwsgetal · ${day}`,
+    standfirst: (numbers, count) => `Het gemiddelde van ${numbers} in ${count === 1 ? "1 kop" : `${formatNumber(count)} koppen`} op de voorpagina.`,
+    archived: "archief",
     median: "mediaan",
     prevDay: "‹ vorige dag",
     nextDay: "volgende dag ›",
@@ -88,9 +90,12 @@ const STRINGS = {
     notEnough: "Nog te weinig gegevens.",
     moneyTitle: "Financial Time",
     moneyLede:
-      "Elk bedrag in de artikels, en of dat geld verloren ging (gestolen, verdwenen, verlies, fraude…) " +
-      "of gewonnen werd (winst, opgehaald, bespaard…). Zonder zo’n signaalwoord telt een bedrag als neutraal. " +
-      "Andere munten zijn bij benadering omgerekend naar euro.",
+      "Elk bedrag in de artikels: negatief als het geld verloren ging (gestolen, verlies, boete, kost…), " +
+      "positief als het binnenkwam (winst, budget, in beslag genomen, gekregen…). Zonder signaalwoord in de zin " +
+      "beslist de kop, dan het artikel; anders telt het als positief. Andere munten zijn bij benadering omgerekend naar euro.",
+    howTitle: (kw) => `via de kop: “${kw}”`,
+    howArticle: (kw) => `via het artikel: “${kw}”`,
+    howDefault: "geen signaalwoord: telt als positief",
     lost: "Verloren",
     gained: "Gewonnen",
     net: "Saldo",
@@ -111,6 +116,8 @@ const STRINGS = {
     labelToday: "Daily average news number",
     labelYesterday: () => "Daily average news number · yesterday",
     labelDay: (day) => `Daily average news number · ${day}`,
+    standfirst: (numbers, count) => `The mean of ${numbers} in ${count === 1 ? "1 headline" : `${formatNumber(count)} headlines`} on the front page.`,
+    archived: "archive",
     median: "median",
     prevDay: "‹ previous day",
     nextDay: "next day ›",
@@ -189,9 +196,12 @@ const STRINGS = {
     notEnough: "Not enough data yet.",
     moneyTitle: "Financial Time",
     moneyLede:
-      "Every amount in the articles, and whether that money was lost (stolen, vanished, loss, fraud…) " +
-      "or gained (profit, raised, saved…). Without such a signal word an amount counts as neutral. " +
-      "Other currencies are converted to euro approximately.",
+      "Every amount in the articles: negative when the money was lost (stolen, loss, fine, cost…), " +
+      "positive when it came in (profit, budget, seized, received…). Without a signal word in the sentence, " +
+      "the headline decides, then the article; otherwise it counts as positive. Other currencies are converted to euro approximately.",
+    howTitle: (kw) => `from the headline: “${kw}”`,
+    howArticle: (kw) => `from the article: “${kw}”`,
+    howDefault: "no signal word: counts as positive",
     lost: "Lost",
     gained: "Gained",
     net: "Balance",
@@ -271,6 +281,11 @@ function formatEuro(value) {
   return new Intl.NumberFormat(locale(), {
     style: "currency", currency: "EUR", notation: "compact", maximumFractionDigits: 1,
   }).format(value);
+}
+
+// The big value of a record card; --chars lets the CSS shrink long numbers to fit.
+function recordValue(text) {
+  return el("p", { class: "value", style: `--chars: ${Math.max(text.length, 4)}` }, text);
 }
 
 // The numbers found in a headline or article, as text with real separators so

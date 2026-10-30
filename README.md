@@ -10,7 +10,7 @@ too, as a separate total.
   headline counts again.
 - **Full articles** (the total): headline + body of every article published that day, read once.
 
-The site looks like an old newspaper. It is in Dutch with an NL/EN switch, and follows the system's
+The site is styled like a news site (FT salmon for Financial Time). It is in Dutch with an NL/EN switch, and follows the system's
 light/dark mode unless the reader picks one (Auto → Licht → Donker); both choices are remembered per
 visitor. Pages (all accept `?date=YYYY-MM-DD`):
 
@@ -20,8 +20,9 @@ visitor. Pages (all accept `?date=YYYY-MM-DD`):
   the numbers per order of magnitude, the first digits next to Benford's law, and the mean, median and
   count per day.
 - `financial-time.html` (**Financial Time**): every amount of money in the day's articles, marked as
-  lost (gestolen, verdwenen, verlies, fraude…) or gained (winst, opgehaald, bespaard…) by the nearest
-  signal word in its sentence, with the totals, the balance, and charts per day.
+  lost/negative (gestolen, verlies, boete, kost…) or gained/positive (winst, budget, in beslag genomen,
+  gekregen…) by the nearest signal word in its sentence; without one, the headline decides, then the
+  article, and otherwise it counts as positive. With the totals, the balance, and charts per day.
 - `history.html` (**Geschiedenis**): highest/lowest mean, highest/lowest median, the biggest and
   smallest number ever found, and a table of all days, both for the headlines and for the full articles.
 
@@ -80,5 +81,15 @@ mkdir -p _site/data && cp -r site/. _site/ && cp -r data/days data/summary.json 
 python -m http.server -d _site 8000
 ```
 
-On the very first run, `--since YYYY-MM-DD` starts the history earlier (up to 30 days back), using
-the weekly sitemaps to find older articles.
+### The first run
+
+When `data/` is empty, the first run also collects the previous 14 days (about 30 minutes):
+
+- **Articles** from the weekly sitemaps. The current week's sitemap only appears once the week is
+  over, so the days before yesterday start incomplete; later runs fill them in automatically as
+  soon as that sitemap exists.
+- **Front page headlines** from archived copies of the front page on
+  [archive.org](https://web.archive.org/) (at most one per hour). Days without archived copies get
+  no headline number; headlines that were on the front page only briefly may be missing.
+
+`--since YYYY-MM-DD` picks another start date (up to 30 days back). To start over, delete `data/`.

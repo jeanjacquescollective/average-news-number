@@ -1,13 +1,17 @@
-"""Find amounts of money in a text and guess whether they were lost or gained.
+"""Find amounts of money in a text and decide whether they are lost or gained.
 
 An amount is a number right after a currency sign (€ 5, $3 miljard) or right before
-a currency word (5 miljoen euro, 3 dollar). Its direction comes from the signal word
-closest to it in the same sentence:
+a currency word (5 miljoen euro, 3 dollar). Every amount gets a direction:
 
-    "Bij de overval werd 2 miljoen euro gestolen"    -> lost    (gestolen)
-    "De actie heeft 40.000 euro opgehaald"           -> gained  (opgehaald)
-    "Het nieuwe zwembad kost 12 miljoen euro"        -> neutral (no signal word)
+  1. the signal word closest to it in the same sentence:
+       "Bij de overval werd 2 miljoen euro gestolen"     -> lost   (gestolen)
+       "De speurders namen 330.430 euro in beslag"       -> gained (beslag)
+  2. otherwise a signal word in the headline (the first line of the text):
+       "Dendervallei krijgt Europees geld" ... "8,45 miljoen euro uit het LIFE-programma"
+  3. otherwise the majority of signal words in the whole article;
+  4. otherwise gained: money that is mentioned without anything lost.
 
+"how" records which step decided: "sentence", "title", "article" or "default".
 Amounts in other currencies are converted to euro at fixed, approximate rates.
 """
 
@@ -27,31 +31,49 @@ CURRENCY_AFTER = re.compile(
 )
 CURRENCY_BEFORE = re.compile(r"(€|\$|£|¥|\beur|\busd|\bgbp|\bchf)\s?$", re.IGNORECASE)
 
-# Exact words; a trailing * also matches longer words starting with the stem.
+# Signal words. "word" matches exactly, "stem*" also matches longer words, and
+# "*part*" matches inside compounds too (geboortepremie, inbeslagname).
 LOST = [
-    "gestolen", "stal", "steelt", "stelen", "diefstal*", "buit", "overval*", "inbraak", "inbrekers",
-    "verduisterd", "verduistering*", "verdwenen", "verdwijnt", "verloren", "verlies*", "verliest",
-    "kwijt", "kwijtgeraakt", "tekort*", "schuld", "schulden*", "schade*", "fraude*", "fraudeur*",
-    "opgelicht", "oplichting*", "oplichter*", "witwas*", "verspild", "verspilling*", "geflopt",
-    "failliet", "faillissement*", "boete*", "verdampt", "kelderde", "gekelderd", "afgeschreven",
-    "afschrijving*", "miljardenverlies*", "miljoenenverlies*", "losgeld", "afgeperst", "afpersing*",
-    "smeergeld", "ontvreemd",
+    # stolen, gone, lost
+    "gestolen", "stal", "stalen", "steelt", "stelen", "diefstal*", "buit", "overval*", "inbraak",
+    "inbrekers", "verduisterd", "verduistering*", "verdwenen", "verdwijnt", "verloren", "*verlies*",
+    "verliest", "kwijt", "kwijtgeraakt", "losgeld", "afgeperst", "afpersing*", "smeergeld", "ontvreemd",
+    "gehackt", "hack", "hackers", "cyberaanval*",
+    # fraud, damage, debt, failure
+    "fraude*", "fraudeur*", "opgelicht", "oplichting*", "oplichter*", "witwas*", "verspild",
+    "verspilling*", "geflopt", "failliet", "faillissement*", "schuld", "schulden*", "*tekort*",
+    "schade*", "*boete*", "riskeert", "dreigt",
+    # paying out, falling
+    "kost", "kostte", "kosten", "kostprijs", "*belasting*", "*taks*", "*heffing*", "duurder",
+    "daalde", "daalt", "gedaald", "daling*", "zakte", "gezakt", "kelderde", "gekelderd", "verdampt",
+    "afgeschreven", "afschrijving*", "crash*",
     "stolen", "loss", "losses", "lost", "missing", "fraud", "damage*", "debt*", "deficit*", "wiped",
-    "scam*", "theft", "robbery", "embezzle*",
+    "scam*", "theft", "robbery", "embezzle*", "fined", "penalty", "costs", "cost",
 ]
 GAINED = [
-    "winst*", "wint", "won", "gewonnen", "verdient", "verdiend", "verdienen", "opbrengst*",
-    "opgebracht", "opgehaald", "ingezameld", "inzameling*", "gevonden", "teruggevonden",
-    "teruggekregen", "terugbetaald", "teruggestort", "terugbetaling*", "bespaard", "besparing*",
-    "meevaller*", "overschot*", "jackpot*", "prijzengeld*", "erfenis*", "schenking*", "geschonken",
-    "gedoneerd", "donatie*", "subsidie*", "toegekend", "uitgekeerd", "dividend*", "recordwinst*",
-    "profit*", "gain", "gains", "gained", "raised", "earned", "saved", "surplus*", "windfall*", "donated",
+    # seized, found, recovered
+    "*beslag*", "gevonden", "teruggevonden", "aangetroffen", "stootte", "stuitte", "ontdekt",
+    "teruggekregen", "terugbetaald", "teruggestort", "terugbetaling*", "gerecupereerd", "recupereert",
+    # received, raised, won, earned
+    "krijgt", "kreeg", "kregen", "gekregen", "ontvangt", "ontving", "ontvangen", "wint", "won",
+    "gewonnen", "verdient", "verdiend", "verdienen", "*winst*", "opbrengst*", "opgebracht",
+    "opgehaald", "ingezameld", "inzameling*", "jackpot*", "prijzengeld*", "erfenis*", "schenking*",
+    "geschonken", "gedoneerd", "donatie*", "dividend*",
+    # budgets, funding, support, payouts
+    "*budget*", "investe*", "financier*", "financiering*", "steun*", "*subsidie*", "*premie*",
+    "toelage*", "uitkering*", "toegekend", "uitgekeerd", "vrijgemaakt", "bespaard", "*besparing*",
+    "meevaller*", "overschot*", "waard", "waarde",
+    "profit*", "gain", "gains", "gained", "raised", "earned", "saved", "surplus*", "windfall*",
+    "donated", "seized", "recovered", "budget*", "funding", "invest*",
 ]
 
 
 def _signal_re(words):
-    parts = [re.escape(w[:-1]) + r"\w*" if w.endswith("*") else re.escape(w) + r"\b" for w in words]
-    return re.compile(r"\b(?:" + "|".join(parts) + ")", re.IGNORECASE)
+    parts = []
+    for w in words:
+        core = re.escape(w.strip("*"))
+        parts.append((r"\w*" if w.startswith("*") else r"\b") + core + (r"\w*" if w.endswith("*") else r"\b"))
+    return re.compile("|".join(parts), re.IGNORECASE)
 
 
 SIGNALS = [("lost", _signal_re(LOST)), ("gained", _signal_re(GAINED))]
@@ -75,19 +97,32 @@ def _sentence(text, start, end):
     return left, right.start() if right else len(text)
 
 
+def _signals(text, span):
+    """(direction, match) for every signal word inside span."""
+    return [(direction, m) for direction, pattern in SIGNALS for m in pattern.finditer(text, *span)]
+
+
 def _direction(text, sentence, start, end):
-    """("lost" | "gained" | "neutral", signal word), from the signal word closest to the amount."""
-    best = None
-    for direction, pattern in SIGNALS:
-        for m in pattern.finditer(text, *sentence):
-            distance = max(m.start() - end, start - m.end(), 0)
-            if best is None or distance < best[0]:
-                best = (distance, direction, m.group(0))
-    return (best[1], best[2]) if best else ("neutral", None)
+    """(direction, signal word, how) for the amount at start..end; see the module docstring."""
+    found = _signals(text, sentence)
+    if found:
+        direction, m = min(found, key=lambda s: max(s[1].start() - end, start - s[1].end(), 0))
+        return direction, m.group(0), "sentence"
+    title_end = text.find("\n") if "\n" in text else len(text)
+    found = _signals(text, (0, title_end))
+    if found:
+        return found[0][0], found[0][1].group(0), "title"
+    found = _signals(text, (0, len(text)))
+    lost = sum(1 for direction, _ in found if direction == "lost")
+    gained = len(found) - lost
+    if lost != gained:
+        direction = "lost" if lost > gained else "gained"
+        return direction, next(m.group(0) for d, m in found if d == direction), "article"
+    return "gained", None, "default"
 
 
 def find_money(text):
-    """List of amounts: {"eur", "t", "cur", "dir", "kw", "ctx"}; a repeated amount is listed once."""
+    """List of amounts: {"eur", "t", "cur", "dir", "kw", "how", "ctx"}; a repeated amount is listed once."""
     found = []
     for number in find_numbers(text):
         currency = _currency(text, number)
@@ -95,7 +130,7 @@ def find_money(text):
             continue
         code, start, end = currency
         sentence = _sentence(text, start, end)
-        direction, signal = _direction(text, sentence, start, end)
+        direction, signal, how = _direction(text, sentence, start, end)
         eur = round(number["v"] * RATES_TO_EUR[code], 2)
         if any(f["dir"] == direction and abs(f["eur"] - eur) <= 0.1 * max(f["eur"], eur) for f in found):
             continue  # the same amount again: repeated, rounded, or in another currency
@@ -106,6 +141,7 @@ def find_money(text):
             "cur": code,
             "dir": direction,
             "kw": signal,
+            "how": how,
             "ctx": context if len(context) <= 300 else context[:297] + "…",
         })
     return found

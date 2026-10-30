@@ -14,25 +14,34 @@
   <header class="masthead" id="masthead"></header>
 
   <main>
-    <section class="hero" aria-live="polite">
-      <p class="kicker" id="label" data-i18n="loading">Laden…</p>
-      <div class="number-row">
+    <div class="lead" aria-live="polite">
+      <article class="lead-story">
+        <h1 class="section-title" id="label" data-i18n="loading">Laden…</h1>
         <p class="big-number" id="mean"></p>
-        <button class="info-button" id="info" type="button" data-i18n-label="infoTitle" hidden>i</button>
-      </div>
-      <p class="median" id="median"></p>
-      <p class="ornament" aria-hidden="true">✦ ✦ ✦</p>
-      <nav class="day-nav" id="day-nav" data-i18n-label="otherDays" hidden>
-        <a id="prev" href="#" data-i18n="prevDay">‹ vorige dag</a>
-        <a id="next" href="#" data-i18n="nextDay">volgende dag ›</a>
-      </nav>
-      <p class="today-note" id="today-note"></p>
-    </section>
-  </main>
+        <p class="standfirst" id="standfirst"></p>
+        <p class="meta" id="dateline"></p>
+        <button class="more-link" id="info" type="button" hidden>
+          <span class="icon" aria-hidden="true">i</span><span data-i18n="infoTitle">Waar komt dit getal vandaan?</span>
+        </button>
+      </article>
 
-  <footer class="site">
-    <span id="updated"></span>
-  </footer>
+      <aside class="lead-side" id="side" hidden>
+        <div class="side-item">
+          <p class="kicker" data-i18n="colMedian">Mediaan</p>
+          <p class="value" id="median"></p>
+        </div>
+        <div class="side-item" id="today-item" hidden>
+          <p class="kicker" data-i18n="todaySoFar">Vandaag: </p>
+          <p class="value small"><a id="today-link" href="#"></a></p>
+        </div>
+        <nav class="day-nav" id="day-nav" data-i18n-label="otherDays">
+          <a id="prev" href="#" data-i18n="prevDay">‹ vorige dag</a>
+          <a id="next" href="#" data-i18n="nextDay">volgende dag ›</a>
+        </nav>
+        <p class="meta" id="updated"></p>
+      </aside>
+    </div>
+  </main>
 
   <dialog id="dialog" aria-labelledby="dialog-title">
     <div class="dialog-head">
@@ -57,8 +66,9 @@
       const list = el("ol", { class: "articles" });
       for (const item of items) {
         const time = item[timeField] || item.first_seen;
+        const meta = [time ? formatTime(time) : "", t("numbers", item.numbers.length), item.archived ? t("archived") : ""];
         list.append(el("li", {},
-          el("div", { class: "meta" }, `${time ? formatTime(time) : ""} · ${t("numbers", item.numbers.length)}`),
+          el("p", { class: "meta" }, meta.filter(Boolean).join(" · ")),
           el("a", { class: "title", href: item.url, target: "_blank", rel: "noopener" }, item.title || item.url),
           numberList(item.numbers),
         ));
@@ -74,7 +84,7 @@
       body.replaceChildren(
         el("p", {},
           t("sourceBefore"),
-          el("a", { href: "https://www.vrt.be/vrtnws/nl/", target: "_blank", rel: "noopener" }, "VRT NWS"),
+          el("a", { href: "https://www.vrt.be/vrtnws/nl/", target: "_blank", rel: "noopener" }, el("strong", {}, "VRT NWS")),
           t("sourceAfter", isPartial, formatDay(day.date)),
           el("strong", {}, t("headlinesTotals", t("numbers", h.numbers), h.count)),
           t("statsSentence", formatNumber(h.mean), formatNumber(h.median)),
@@ -124,12 +134,14 @@
       const isYesterday = day === complete.at(-1);
       $("label").textContent = isPartial
         ? t("labelToday")
-        : t(isYesterday ? "labelYesterday" : "labelDay", formatDay(day.date));
+        : t(isYesterday ? "labelYesterday" : "labelDay", formatDay(day.date, { day: "numeric", month: "long" }));
 
       const meanText = formatNumber(day.headlines.mean);
       $("mean").textContent = meanText;
-      $("mean").style.setProperty("--big-size", `min(12rem, ${Math.round(140 / Math.max(meanText.length, 5))}vw)`);
-      $("median").replaceChildren(`${t("median")} `, el("strong", { class: "tabular" }, formatNumber(day.headlines.median)));
+      $("mean").style.setProperty("--chars", Math.max(meanText.length, 5));
+      $("standfirst").textContent = t("standfirst", t("numbers", day.headlines.numbers), day.headlines.count);
+      $("dateline").textContent = formatDay(day.date) + (isPartial ? t("soFar") : "");
+      $("median").textContent = formatNumber(day.headlines.median);
       document.title = `${meanText} · ${t("brand")}`;
 
       const index = days.indexOf(day);
@@ -138,10 +150,13 @@
       $("day-nav").hidden = days.length < 2;
 
       const todayStats = days.find((d) => d.date === today);
-      $("today-note").replaceChildren(...(!isPartial && todayStats
-        ? [t("todaySoFar"), el("a", { href: `?date=${today}` }, formatNumber(todayStats.headlines.mean))]
-        : []));
+      $("today-item").hidden = isPartial || !todayStats;
+      if (todayStats) {
+        $("today-link").href = `?date=${today}`;
+        $("today-link").textContent = formatNumber(todayStats.headlines.mean);
+      }
 
+      $("side").hidden = false;
       $("info").hidden = false;
       $("info").onclick = () => openInfo(day, isPartial);
       if (summary.updated_at) {

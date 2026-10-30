@@ -23,7 +23,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90  # a first run also collects the previous 14 days (~30 min)
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:

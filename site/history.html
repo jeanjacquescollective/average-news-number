@@ -41,7 +41,7 @@
     function dayRecord(title, day, kind, field) {
       return el("article", { class: "record" },
         el("h3", {}, t(title)),
-        el("p", { class: "value tabular" }, formatNumber(day[kind][field])),
+        recordValue(formatNumber(day[kind][field])),
         el("p", { class: "context" }, el("a", { href: `./?date=${day.date}` }, formatDay(day.date, shortDay)),
           ` · ${t("numbers", day[kind].numbers)}`),
       );
@@ -50,7 +50,7 @@
     function numberRecord(title, day, ref, fallbackTitle) {
       return el("article", { class: "record" },
         el("h3", {}, t(title)),
-        el("p", { class: "value tabular" }, formatNumber(ref.v)),
+        recordValue(formatNumber(ref.v)),
         el("p", { class: "context" }, `“${ref.t}” ${t("inHeadline")} `,
           el("a", { href: ref.url, target: "_blank", rel: "noopener" }, ref.title || t(fallbackTitle)),
           `, ${formatDay(day.date, shortDay)}`),

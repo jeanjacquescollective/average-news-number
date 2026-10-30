@@ -60,17 +60,26 @@
     function tile(title, value, className, context) {
       return el("article", { class: `record ${className}` },
         el("h3", {}, title),
-        el("p", { class: "value" }, value),
+        recordValue(value),
         el("p", { class: "context" }, context));
     }
 
-    // The sentence around an amount, with its signal word underlined.
+    // The sentence around an amount, with its signal word marked when the sentence decided.
     function quote(amount) {
       const quoteEl = el("blockquote", {});
-      const at = amount.kw ? amount.ctx.toLowerCase().indexOf(amount.kw.toLowerCase()) : -1;
+      const fromSentence = !amount.how || amount.how === "sentence";
+      const at = fromSentence && amount.kw ? amount.ctx.toLowerCase().indexOf(amount.kw.toLowerCase()) : -1;
       if (at < 0) quoteEl.append(amount.ctx);
       else quoteEl.append(amount.ctx.slice(0, at), el("mark", {}, amount.ctx.slice(at, at + amount.kw.length)), amount.ctx.slice(at + amount.kw.length));
       return quoteEl;
+    }
+
+    // How the direction was decided, when it was not a word in the sentence itself.
+    function how(amount) {
+      if (amount.how === "title") return el("span", { class: "meta how" }, t("howTitle", amount.kw));
+      if (amount.how === "article") return el("span", { class: "meta how" }, t("howArticle", amount.kw));
+      if (amount.how === "default") return el("span", { class: "meta how" }, t("howDefault"));
+      return null;
     }
 
     function moneyList(amounts) {
@@ -80,6 +89,7 @@
           el("div", { class: "amount" }, formatEuro(m.eur), el("span", { class: "original" }, m.t)),
           el("div", {},
             quote(m),
+            how(m),
             el("a", { class: "source", href: m.url, target: "_blank", rel: "noopener" }, m.title)),
         ));
       }
