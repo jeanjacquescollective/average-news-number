@@ -41,6 +41,13 @@
      "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
     }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
