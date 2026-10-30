@@ -1,0 +1,47 @@
+{
+ "source": "https://www.vrt.be/vrtnws/nl/",
+ "timezone": "Europe/Brussels",
+ "tracking_start": "2026-10-29",
+ "updated_at": "2026-10-29T20:45:51+01:00",
+ "days": [
+  {
+   "date": "2026-10-29",
+   "headlines": {
+    "count": 25,
+    "numbers": 12,
+    "mean": 83386590005.6667,
+    "median": 5016.0,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Nieuwe heffing op pakjes van Temu, Shein en AliExpress: dit verandert vanaf 1 november",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vanaf-1-november-nieuwe-pakjestaks-wat-betekent-dat-voor-jou/"
+    },
+    "max": {
+     "v": 500000000000,
+     "t": "500 miljard",
+     "title": "Beleggers vrezen impact van AI op advertenties: 500 miljard dollar beurswaarde verdampt bij Google in enkele minuten",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/beleggers-vrezen-impact-van-ai-op-advertenties-500-miljard-doll~1776671241366/"
+    }
+   },
+   "articles": {
+    "count": 78,
+    "numbers": 712,
+    "mean": 239467348.8894,
+    "median": 20.0,
+    "min": {
+     "v": -30,
+     "t": "-30",
+     "title": "Nieuwe verkeersbelasting in Vlaanderen: check hier welke voordeligst is",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vergelijker-toont-vlaming-voordeligste-verkeersbelasting/"
+    },
+    "max": {
+     "v": 75280000000,
+     "t": "75,28 miljard",
+     "title": "Miljardenverlies voor Volkswagen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/miljardenverlies-voor-volkswagen/"
+    }
+   }
+  }
+ ]
+}
