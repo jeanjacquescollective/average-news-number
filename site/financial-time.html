@@ -14,7 +14,7 @@
 
   <main>
     <h1 class="page-title" data-i18n="moneyTitle">Financial Time</h1>
-    <p class="lede" id="lede" data-i18n="moneyLede"></p>
+    <p class="lede" id="lede"></p>
 
     <section id="day-section" hidden>
       <h2 class="section-title" id="day-title"></h2>
@@ -97,7 +97,7 @@
 
     async function renderDay(day, days) {
       const money = day.money;
-      $("day-title").textContent = formatDay(day.date) + (day.date >= todayInBrussels() ? t("soFar") : "");
+      $("day-title").replaceChildren(formatDay(day.date), ...(day.date >= todayInBrussels() ? [liveBadge()] : []));
       $("tiles").replaceChildren(
         tile(t("lost"), formatEuro(money.lost), "lost", money.biggest_lost ? `↓ ${money.biggest_lost.title}` : ""),
         tile(t("gained"), formatEuro(money.gained), "gained", money.biggest_gained ? `↑ ${money.biggest_gained.title}` : ""),

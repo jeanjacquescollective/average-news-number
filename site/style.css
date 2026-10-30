@@ -13,6 +13,7 @@
   --series-1: #ffffff;
   --series-2: #8c8c8c;
   --grid: rgb(255 255 255 / 0.14);
+  --liquid: #3d3d3d;
   --stroke: 2px;
   --serif: Georgia, "Times New Roman", Times, serif;
   --sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -30,12 +31,14 @@
   --series-1: #000000;
   --series-2: #8c8c8c;
   --grid: rgb(0 0 0 / 0.1);
+  --liquid: #c4c4c4;
   color-scheme: light;
 }
 
-* { box-sizing: border-box; }
+*, *::before, *::after { box-sizing: border-box; }
 
-html, body { margin: 0; }
+/* Never a horizontal scrollbar; clip (unlike hidden) keeps sticky elements working. */
+html, body { margin: 0; overflow-x: clip; }
 
 body {
   min-height: 100vh;
@@ -59,13 +62,16 @@ button { font-family: inherit; color: inherit; }
 @supports (-webkit-text-stroke: 1px black) {
   .nameplate,
   h1.page-title,
-  .big-number {
+  .big-number,
+  .menu-link {
     color: transparent;
     -webkit-text-stroke: var(--stroke) var(--ink);
-    transition: color var(--ease), -webkit-text-stroke-width var(--ease);
+    transition: color var(--ease), -webkit-text-stroke-width var(--ease), transform var(--ease);
   }
   .nameplate:hover,
-  .lead-story:hover .big-number {
+  .menu-link:hover,
+  .menu-link:focus-visible,
+  .menu-link[aria-current="page"] {
     color: var(--ink);
     -webkit-text-stroke-width: 0;
   }
@@ -157,6 +163,7 @@ h1.page-title {
 }
 
 .lede { margin: 0 0 2.5rem; max-width: 46rem; font-size: 1.15rem; color: var(--ink-2); }
+.lede:empty { display: none; }
 
 section + section { margin-top: 4rem; }
 
@@ -177,71 +184,156 @@ section + section { margin-top: 4rem; }
 }
 .section-title + .lede { margin-top: -0.5rem; }
 
-/* --- the number (index) -------------------------------------------------- */
-
-.lead {
-  display: grid;
-  grid-template-columns: minmax(0, 2.2fr) minmax(0, 1fr);
-  gap: 0 2.5rem;
-  padding-top: 2.5rem;
-}
-
-.lead-story { container-type: inline-size; min-width: 0; }
-
-.big-number {
-  --stroke: 3px;
-  margin: 0.25rem 0 1rem;
-  font: 700 min(12rem, calc(100cqi / (var(--chars, 6) * 0.62))) / 1 var(--serif);
-  font-variant-numeric: lining-nums;
-  letter-spacing: -0.02em;
-}
-
-.standfirst { margin: 0 0 0.75rem; font-size: 1.25rem; color: var(--ink); }
-
-.more-link {
+/* A day that is not over yet: its numbers can still change. */
+.live {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  margin-top: 1.25rem;
-  padding: 0.5rem 0.9rem;
+  gap: 0.35em;
+  margin-left: 0.6em;
+  font: 400 0.75em var(--sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink);
+  vertical-align: middle;
+  cursor: help;
+}
+.live-dot {
+  width: 0.6em;
+  height: 0.6em;
+  border-radius: 50%;
+  background: currentColor;
+  animation: live-pulse 1.6s ease-in-out infinite;
+}
+@keyframes live-pulse { 50% { opacity: 0.2; } }
+@media (prefers-reduced-motion: reduce) { .live-dot { animation: none; } }
+
+/* --- index: the number, with the pages in a fullscreen menu ----------- */
+
+.solo {
+  display: grid;
+  place-items: center;
+  align-content: center;
+  max-width: none;
+  min-height: 100vh;
+  min-height: 100svh;
+  padding: 4.5rem 2.75rem;
+  container-type: inline-size;
+}
+
+.big-number {
+  --stroke: clamp(2px, 0.3cqi, 5px);
+  margin: 0;
+  font: 700 min(55vh, calc(100cqi / (var(--chars, 6) * 0.62))) / 1 var(--serif);
+  font-variant-numeric: lining-nums;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.solo-title { margin: 0 0 1rem; text-align: center; font: 700 clamp(1.5rem, 4vw, 2.75rem)/1.1 var(--serif); }
+
+/* "Laden…" or "Nog geen gegevens." in place of the number */
+.solo-status { margin: 0; font: 400 1.25rem var(--sans); color: var(--ink-2); }
+
+.solo-date { margin: 1rem 0 0; text-align: center; font: 400 clamp(0.95rem, 1.6vw, 1.15rem) var(--sans); color: var(--ink-2); }
+
+.solo-median { margin: 0.5rem 0 0; font: 400 0.95rem var(--sans); color: var(--ink-2); }
+.solo-median strong { font: 700 1.1rem var(--serif); color: var(--ink); }
+
+/* Small arrows on the left and right edge to the previous and next day */
+.edge-nav {
+  position: fixed;
+  top: 50%;
+  z-index: 5;
+  padding: 1rem 0.75rem;
+  transform: translateY(-50%);
+  font: 400 1.75rem/1 var(--sans);
+  color: var(--ink-2);
+}
+.edge-nav:hover, .edge-nav:focus-visible { text-decoration: none; color: var(--ink); }
+.edge-nav[aria-disabled="true"] { visibility: hidden; }
+.edge-prev { left: 0.25rem; }
+.edge-next { right: 0.25rem; }
+
+.info-button {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 5;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
   border: var(--stroke) solid var(--ink);
-  border-radius: 0;
-  background: none;
-  font: 400 0.95rem var(--sans);
+  border-radius: 50%;
+  background: var(--bg);
+  font: italic 700 1.2rem/1 var(--serif);
   cursor: pointer;
   transition: background var(--ease), color var(--ease);
 }
-.more-link:hover, .more-link:focus-visible { background: var(--ink); color: var(--bg); }
-.more-link .icon {
-  display: inline-grid;
-  place-items: center;
-  width: 1.2rem;
-  height: 1.2rem;
-  border: var(--stroke) solid currentColor;
-  border-radius: 50%;
-  font: italic 700 0.75rem var(--serif);
-}
+.info-button:hover, .info-button:focus-visible { background: var(--ink); color: var(--bg); }
 
-.lead-side {
-  border-left: var(--stroke) solid var(--ink);
-  padding-left: 2rem;
-  min-width: 0;
+/* Difference blending keeps the lines visible on ink, on paper and mid-transition. */
+.hamburger {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 30;
+  width: 3rem;
+  height: 3rem;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #fff;
+  mix-blend-mode: difference;
+  cursor: pointer;
 }
+.hamburger span {
+  position: absolute;
+  left: 0.6rem;
+  right: 0.6rem;
+  height: 2px;
+  background: currentColor;
+  transition: transform 0.35s ease, opacity 0.2s ease;
+}
+.hamburger span:nth-child(1) { top: calc(50% - 0.5rem - 1px); }
+.hamburger span:nth-child(2) { top: calc(50% - 1px); }
+.hamburger span:nth-child(3) { top: calc(50% + 0.5rem - 1px); }
+.hamburger.open span:nth-child(1) { transform: translateY(0.5rem) rotate(45deg); }
+.hamburger.open span:nth-child(2) { opacity: 0; }
+.hamburger.open span:nth-child(3) { transform: translateY(-0.5rem) rotate(-45deg); }
 
-.side-item { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
-.side-item:first-child { padding-top: 0; }
-.side-item .kicker {
-  margin: 0;
-  font: 400 0.9rem var(--sans);
-  color: var(--ink-2);
+/* The grey blob that runs ahead of the menu (see the script on the index) */
+.liquid {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
 }
-.side-item .value {
-  margin: 0.15rem 0 0;
-  font: 700 2.5rem/1.1 var(--serif);
-  font-variant-numeric: lining-nums;
-  overflow-wrap: anywhere;
+.liquid path { fill: var(--liquid); }
+
+/* The menu itself is clipped to the second blob while it opens and closes. */
+.menu {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5rem 1.5rem 3rem;
+  overflow-y: auto;
+  background: var(--bg);
 }
-.side-item .value.small { font-size: 1.5rem; }
+.menu[hidden] { display: none; }
+.menu-controls { position: absolute; top: 1.5rem; left: 1.5rem; }
+
+.menu-nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.25rem; }
+.menu-link {
+  --stroke: 2px;
+  font: 700 clamp(2.5rem, 9vw, 6.5rem)/1.1 var(--serif);
+}
+.menu-link:hover, .menu-link:focus-visible { text-decoration: none; transform: translateX(1%); }
+.menu .menu-days { justify-content: flex-start; gap: 2.5rem; margin-top: 2rem; padding: 0; font-size: 1.1rem; }
 
 .day-nav {
   display: flex;
@@ -386,8 +478,7 @@ details.neutral summary { cursor: pointer; font: 400 0.95rem var(--sans); color:
 @media (max-width: 46rem) {
   :root { --stroke: 1px; }
   .big-number { --stroke: 2px; }
-  .lead { grid-template-columns: 1fr; }
-  .lead-side { border-left: 0; padding-left: 0; margin-top: 2rem; border-top: var(--stroke) solid var(--ink); padding-top: 1rem; }
+  .menu-link { --stroke: 1px; }
   .money-list li { grid-template-columns: 1fr; }
   .masthead-top .dateline { display: none; }
   .masthead-top { justify-content: flex-end; }

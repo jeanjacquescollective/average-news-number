@@ -83,7 +83,7 @@
         const s = d[kind];
         const partial = d.date >= today;
         return el("tr", { class: partial ? "partial" : null },
-          el("td", {}, el("a", { href: `./?date=${d.date}` }, formatDay(d.date, shortDay)), partial ? t("soFar") : ""),
+          el("td", {}, el("a", { href: `./?date=${d.date}` }, formatDay(d.date, shortDay)), partial ? liveBadge() : null),
           el("td", { class: "tabular" }, formatNumber(s.count)),
           el("td", { class: "tabular" }, formatNumber(s.numbers)),
           el("td", { class: "tabular" }, formatNumber(s.mean)),

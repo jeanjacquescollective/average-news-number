@@ -2,21 +2,16 @@
 
 const STRINGS = {
   nl: {
-    brand: "Gemiddeld Nieuwsgetal",
+    brand: "Dagelijks Gemiddeld Nieuwsgetal",
     switchTo: "EN",
     switchLabel: "Switch to English",
     loading: "Laden…",
     noData: "Nog geen gegevens.",
-    labelToday: "Dagelijks gemiddeld nieuwsgetal",
-    labelYesterday: () => "Dagelijks gemiddeld nieuwsgetal · gisteren",
-    labelDay: (day) => `Dagelijks gemiddeld nieuwsgetal · ${day}`,
-    standfirst: (numbers, count) => `Het gemiddelde van ${numbers} in ${count === 1 ? "1 kop" : `${formatNumber(count)} koppen`} op de voorpagina.`,
     archived: "archief",
     median: "mediaan",
     prevDay: "‹ vorige dag",
     nextDay: "volgende dag ›",
     otherDays: "Andere dagen",
-    todaySoFar: "Vandaag: ",
     infoTitle: "Waar komt dit getal vandaan?",
     close: "Sluiten",
     lastUpdate: (when) => `Update ${when}`,
@@ -49,8 +44,11 @@ const STRINGS = {
     colMedian: "Mediaan",
     colSmallest: "Kleinste",
     colBiggest: "Grootste",
-    soFar: " (tot nu toe)",
+    live: "live",
+    liveTitle: "Deze dag is nog bezig: het getal kan nog veranderen.",
     navLabel: "Rubrieken",
+    menuOpen: "Menu openen",
+    menuClose: "Menu sluiten",
     navNumber: "Het getal",
     navCharts: "Grafieken",
     navMoney: "Financial Time",
@@ -58,7 +56,6 @@ const STRINGS = {
     theme: { dark: "● Zwart", light: "○ Wit" },
     themeLabel: "Kleur: zwart of wit",
     chartsTitle: "Grafieken",
-    chartsLede: "Elk getal van de dag, en hoe het nieuwsgetal evolueert.",
     scatterTitle: "Elk getal in de koppen",
     scatterNote: "Op het moment dat de kop verscheen. Logaritmische schaal.",
     scatterHidden: (n) => ` ${n} getal(len) van 0 of minder niet getoond.`,
@@ -79,10 +76,6 @@ const STRINGS = {
     seriesBalance: "Saldo",
     notEnough: "Nog te weinig gegevens.",
     moneyTitle: "Financial Time",
-    moneyLede:
-      "Elk bedrag in de koppen op de voorpagina: negatief als het geld verloren ging (gestolen, verlies, boete, kost…), " +
-      "positief als het binnenkwam (winst, budget, in beslag genomen, gekregen…). Zonder signaalwoord in de kop " +
-      "telt het als positief. Andere munten zijn bij benadering omgerekend naar euro.",
     howTitle: (kw) => `via de kop: “${kw}”`,
     howDefault: "geen signaalwoord: telt als positief",
     lost: "Verloren",
@@ -97,21 +90,16 @@ const STRINGS = {
     balanceNote: "Gewonnen min verloren, dag na dag opgeteld.",
   },
   en: {
-    brand: "Average News Number",
+    brand: "Daily Average News Number",
     switchTo: "NL",
     switchLabel: "Schakel naar Nederlands",
     loading: "Loading…",
     noData: "No data yet.",
-    labelToday: "Daily average news number",
-    labelYesterday: () => "Daily average news number · yesterday",
-    labelDay: (day) => `Daily average news number · ${day}`,
-    standfirst: (numbers, count) => `The mean of ${numbers} in ${count === 1 ? "1 headline" : `${formatNumber(count)} headlines`} on the front page.`,
     archived: "archive",
     median: "median",
     prevDay: "‹ previous day",
     nextDay: "next day ›",
     otherDays: "Other days",
-    todaySoFar: "Today: ",
     infoTitle: "Where does this number come from?",
     close: "Close",
     lastUpdate: (when) => `Updated ${when}`,
@@ -144,8 +132,11 @@ const STRINGS = {
     colMedian: "Median",
     colSmallest: "Smallest",
     colBiggest: "Biggest",
-    soFar: " (so far)",
+    live: "live",
+    liveTitle: "This day is not over yet: the number can still change.",
     navLabel: "Sections",
+    menuOpen: "Open menu",
+    menuClose: "Close menu",
     navNumber: "The number",
     navCharts: "Charts",
     navMoney: "Financial Time",
@@ -153,7 +144,6 @@ const STRINGS = {
     theme: { dark: "● Black", light: "○ White" },
     themeLabel: "Colour: black or white",
     chartsTitle: "Charts",
-    chartsLede: "Every number of the day, and how the news number evolves.",
     scatterTitle: "Every number in the headlines",
     scatterNote: "At the moment the headline appeared. Logarithmic scale.",
     scatterHidden: (n) => ` ${n} number(s) of 0 or less not shown.`,
@@ -174,10 +164,6 @@ const STRINGS = {
     seriesBalance: "Balance",
     notEnough: "Not enough data yet.",
     moneyTitle: "Financial Time",
-    moneyLede:
-      "Every amount in the front page headlines: negative when the money was lost (stolen, loss, fine, cost…), " +
-      "positive when it came in (profit, budget, seized, received…). Without a signal word in the headline, " +
-      "it counts as positive. Other currencies are converted to euro approximately.",
     howTitle: (kw) => `from the headline: “${kw}”`,
     howDefault: "no signal word: counts as positive",
     lost: "Lost",
@@ -227,8 +213,11 @@ function formatTime(isoDateTime) {
   });
 }
 
+// The published site has data/ next to the pages; a local preview of site/ served
+// from the repository root finds it one folder up.
 async function loadJson(path) {
-  const response = await fetch(path, { cache: "no-cache" });
+  let response = await fetch(path, { cache: "no-cache" });
+  if (response.status === 404 && path.startsWith("data/")) response = await fetch(`../${path}`, { cache: "no-cache" });
   if (!response.ok) throw new Error(`${path}: ${response.status}`);
   return response.json();
 }
@@ -278,6 +267,11 @@ function numberList(numbers) {
   return line;
 }
 
+// Shown after the date of a day that is not over yet: a pulsing dot and "live".
+function liveBadge() {
+  return el("span", { class: "live", title: t("liveTitle") }, el("span", { class: "live-dot", "aria-hidden": "true" }), t("live"));
+}
+
 // --- page setup: masthead, colour mode, language --------------------------------
 
 const PAGES = [
@@ -303,7 +297,8 @@ function applyTheme() {
   document.documentElement.dataset.theme = theme;
 }
 
-function renderMasthead(redraw) {
+// The colour and language switches; `redraw` draws the page again after a switch.
+function controlButtons(redraw) {
   const themeButton = el("button", { class: "control", type: "button", "aria-label": t("themeLabel"), title: t("themeLabel") },
     t("theme")[theme]);
   themeButton.onclick = () => {
@@ -319,19 +314,26 @@ function renderMasthead(redraw) {
     remember("lang", lang);
     redraw();
   };
+  return [themeButton, langButton];
+}
+
+// The index has its own menu instead of a masthead.
+function renderMasthead(redraw) {
+  const masthead = document.getElementById("masthead");
+  if (!masthead) return;
   const current = document.body.dataset.page;
-  document.getElementById("masthead").replaceChildren(
+  masthead.replaceChildren(
     el("div", { class: "masthead-top" },
       el("span", { class: "dateline" }, formatDay(todayInBrussels())),
-      el("div", { class: "controls" }, themeButton, langButton)),
+      el("div", { class: "controls" }, ...controlButtons(redraw))),
     el("a", { class: "nameplate", href: "./" }, t("brand")),
     el("nav", { class: "sections", "aria-label": t("navLabel") },
       ...PAGES.map(([page, href, key]) => el("a", { href, "aria-current": page === current ? "page" : null }, t(key)))),
   );
 }
 
-// Draws the masthead and every [data-i18n] text, then calls `render` for the
-// page's own content. Runs again after a language or colour switch (charts read
+// Draws the masthead and every [data-i18n] text, then calls `render(redraw)` for
+// the page's own content. Runs again after a language or colour switch (charts read
 // their colours from CSS).
 function setupPage(render) {
   const redraw = () => {
@@ -342,7 +344,7 @@ function setupPage(render) {
       node.title = t(node.dataset.i18nLabel);
     }
     renderMasthead(redraw);
-    render();
+    render(redraw);
   };
   applyTheme();
   redraw();

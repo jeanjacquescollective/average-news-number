@@ -16,8 +16,12 @@ black and white, Helvetica, and big outlined Georgia titles that fill in on hove
 NL/EN switch, and black unless the reader switches to white (Zwart → Wit); both choices are remembered
 per visitor. Pages (all accept `?date=YYYY-MM-DD`):
 
-- `index.html` (**Het getal**): yesterday's headline mean (big), the median, and an ⓘ button that
-  lists every headline of that day with the numbers found in it.
+- `index.html` (**Het getal**): the site name, yesterday's headline mean (big), its date and the
+  median. Small ‹ › arrows on the left and right edge (or a swipe on touch screens) go to the previous
+  and next day. The ⓘ circle in the bottom-right corner lists every headline of that day with the
+  numbers found in it. The hamburger opens a fullscreen menu with the pages, the other days, and the
+  colour and language switches; it grows out of the button as liquid (a grey blob, then the menu
+  itself clipped to a second blob).
 - `charts.html` (**Grafieken**): every headline number of the day over time with the mean and median,
   the headline numbers per order of magnitude, their first digits next to Benford's law, and the mean,
   median and count per day.

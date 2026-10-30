@@ -14,7 +14,7 @@
 
   <main>
     <h1 class="page-title" data-i18n="chartsTitle">Grafieken</h1>
-    <p class="lede" id="lede" data-i18n="chartsLede">Elk getal van de dag, en hoe het nieuwsgetal evolueert.</p>
+    <p class="lede" id="lede"></p>
 
     <section id="day-section" hidden>
       <h2 class="section-title" id="day-title"></h2>
@@ -201,7 +201,7 @@
 
       const requested = new URLSearchParams(location.search).get("date");
       const day = days.find((d) => d.date === requested) || days.at(-1);
-      $("day-title").textContent = formatDay(day.date) + (day.date >= todayInBrussels() ? t("soFar") : "");
+      $("day-title").replaceChildren(formatDay(day.date), ...(day.date >= todayInBrussels() ? [liveBadge()] : []));
       $("day-section").hidden = false;
       $("history-section").hidden = false;
       drawHistory(days);
@@ -212,7 +212,7 @@
         drawMagnitude(data);
         drawBenford(data);
       } catch {
-        $("day-title").textContent += ` · ${t("loadError")}`;
+        $("day-title").append(` · ${t("loadError")}`);
       }
     }
 

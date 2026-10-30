@@ -3,44 +3,39 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Gemiddeld Nieuwsgetal</title>
+  <title>Dagelijks Gemiddeld Nieuwsgetal</title>
   <meta name="description" content="Dagelijks gemiddeld nieuwsgetal.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>#</text></svg>">
   <script>try { var m = localStorage.getItem("theme"); if (m === "light" || m === "dark") document.documentElement.dataset.theme = m; } catch (e) {}</script>
   <link rel="stylesheet" href="style.css">
 </head>
 <body data-page="index">
-  <header class="masthead" id="masthead"></header>
-
-  <main>
-    <div class="lead" aria-live="polite">
-      <article class="lead-story">
-        <h1 class="section-title" id="label" data-i18n="loading">Laden…</h1>
-        <p class="big-number" id="mean"></p>
-        <p class="standfirst" id="standfirst"></p>
-        <p class="meta" id="dateline"></p>
-        <button class="more-link" id="info" type="button" hidden>
-          <span class="icon" aria-hidden="true">i</span><span data-i18n="infoTitle">Waar komt dit getal vandaan?</span>
-        </button>
-      </article>
-
-      <aside class="lead-side" id="side" hidden>
-        <div class="side-item">
-          <p class="kicker" data-i18n="colMedian">Mediaan</p>
-          <p class="value" id="median"></p>
-        </div>
-        <div class="side-item" id="today-item" hidden>
-          <p class="kicker" data-i18n="todaySoFar">Vandaag: </p>
-          <p class="value small"><a id="today-link" href="#"></a></p>
-        </div>
-        <nav class="day-nav" id="day-nav" data-i18n-label="otherDays">
-          <a id="prev" href="#" data-i18n="prevDay">‹ vorige dag</a>
-          <a id="next" href="#" data-i18n="nextDay">volgende dag ›</a>
-        </nav>
-        <p class="meta" id="updated"></p>
-      </aside>
-    </div>
+  <main class="solo" id="solo">
+    <h1 class="solo-title" data-i18n="brand">Dagelijks Gemiddeld Nieuwsgetal</h1>
+    <p class="big-number" id="mean" aria-live="polite"></p>
+    <p class="solo-status" id="status" data-i18n="loading">Laden…</p>
+    <p class="solo-date" id="solo-date"></p>
+    <p class="solo-median" id="solo-median" hidden><span data-i18n="median">mediaan</span> <strong id="median"></strong></p>
   </main>
+
+  <a class="edge-nav edge-prev" id="edge-prev" href="#" aria-disabled="true" tabindex="-1" data-i18n-label="prevDay">‹</a>
+  <a class="edge-nav edge-next" id="edge-next" href="#" aria-disabled="true" tabindex="-1" data-i18n-label="nextDay">›</a>
+  <button class="info-button" id="info" type="button" data-i18n-label="infoTitle" hidden>i</button>
+
+  <button class="hamburger" id="menu-button" type="button" aria-expanded="false" aria-controls="menu">
+    <span></span><span></span><span></span>
+  </button>
+
+  <svg class="liquid" id="liquid" aria-hidden="true"><path></path></svg>
+
+  <div class="menu" id="menu" hidden>
+    <div class="controls menu-controls" id="menu-controls"></div>
+    <nav class="menu-nav" id="menu-nav" data-i18n-label="navLabel"></nav>
+    <nav class="day-nav menu-days" data-i18n-label="otherDays">
+      <a id="prev" href="#" aria-disabled="true" tabindex="-1" data-i18n="prevDay">‹ vorige dag</a>
+      <a id="next" href="#" aria-disabled="true" tabindex="-1" data-i18n="nextDay">volgende dag ›</a>
+    </nav>
+  </div>
 
   <dialog id="dialog" aria-labelledby="dialog-title">
     <div class="dialog-head">
@@ -75,6 +70,8 @@
       return list;
     }
 
+    let updatedText = "";
+
     // Only the headlines: the news number is computed from them alone.
     async function openInfo(day, isPartial) {
       const h = day.headlines;
@@ -88,6 +85,7 @@
           el("strong", {}, t("headlinesTotals", t("numbers", h.numbers), h.count)),
           t("statsSentence", formatNumber(h.mean), formatNumber(h.median)),
         ),
+        updatedText ? el("p", { class: "meta" }, updatedText) : null,
         status,
       );
       $("dialog").showModal();
@@ -108,7 +106,7 @@
       try {
         summary = await loadSummary();
       } catch {
-        $("label").textContent = t("noData");
+        $("status").textContent = t("noData");
         return;
       }
 
@@ -119,50 +117,185 @@
       const day = days.find((d) => d.date === requested) || complete.at(-1) || days.at(-1);
 
       if (!day) {
-        $("label").textContent = t("noData");
+        $("status").textContent = t("noData");
         return;
       }
 
       const isPartial = day.date >= today;
-      const isYesterday = day === complete.at(-1);
-      $("label").textContent = isPartial
-        ? t("labelToday")
-        : t(isYesterday ? "labelYesterday" : "labelDay", formatDay(day.date, { day: "numeric", month: "long" }));
-
       const meanText = formatNumber(day.headlines.mean);
+      $("status").hidden = true;
       $("mean").textContent = meanText;
       $("mean").style.setProperty("--chars", Math.max(meanText.length, 5));
-      $("standfirst").textContent = t("standfirst", t("numbers", day.headlines.numbers), day.headlines.count);
-      $("dateline").textContent = formatDay(day.date) + (isPartial ? t("soFar") : "");
+      $("solo-date").replaceChildren(formatDay(day.date), ...(isPartial ? [liveBadge()] : []));
       $("median").textContent = formatNumber(day.headlines.median);
+      $("solo-median").hidden = false;
       document.title = `${meanText} · ${t("brand")}`;
 
       const index = days.indexOf(day);
-      setNav($("prev"), days[index - 1]);
-      setNav($("next"), days[index + 1]);
-      $("day-nav").hidden = days.length < 2;
+      for (const id of ["prev", "edge-prev"]) setNav($(id), days[index - 1]);
+      for (const id of ["next", "edge-next"]) setNav($(id), days[index + 1]);
 
-      const todayStats = days.find((d) => d.date === today);
-      $("today-item").hidden = isPartial || !todayStats;
-      if (todayStats) {
-        $("today-link").href = `?date=${today}`;
-        $("today-link").textContent = formatNumber(todayStats.headlines.mean);
-      }
-
-      $("side").hidden = false;
       $("info").hidden = false;
       $("info").onclick = () => openInfo(day, isPartial);
       if (summary.updated_at) {
         const when = `${formatDay(summary.updated_at.slice(0, 10), { day: "numeric", month: "short" })}, ${formatTime(summary.updated_at)}`;
-        $("updated").textContent = t("lastUpdate", when);
+        updatedText = t("lastUpdate", when);
       }
     }
+
+    // --- fullscreen menu, revealed by a liquid mask --------------------------
+
+    // The menu is the colour and language switches plus the pages, as big titles.
+    function renderMenu(redraw) {
+      $("menu-controls").replaceChildren(...controlButtons(redraw));
+      $("menu-nav").replaceChildren(...PAGES.map(([page, href, key]) =>
+        el("a", { class: "menu-link", href, "aria-current": page === "index" ? "page" : null }, t(key))));
+    }
+
+    // Two blobs grow out of the menu button: a grey one, and right behind it the
+    // menu itself, clipped to the blob, so its content arrives with the liquid. Each
+    // blob is a closed curve through points around the button; every point has its
+    // own wave on top of the growing radius, so the edge wobbles; the waves fade out
+    // at the start and the end. Closing shrinks the menu back first, then the grey.
+    const LIQUID_POINTS = 10;
+    const LIQUID_DURATION = 800;
+    const LIQUID_WOBBLE = 0.3;
+    const LIQUID_LAYER_GAP = 120;
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    let menuOpen = false;
+    let menuBusy = false;
+
+    const easeInOut = (x) => (x < 0.5 ? 4 * x * x * x : 1 - (-2 * x + 2) ** 3 / 2);
+
+    // Smooth closed curve (Catmull-Rom as cubic Béziers) through points at the given
+    // distances from (cx, cy), spread evenly around it.
+    function blobPath(cx, cy, radii) {
+      const n = radii.length;
+      const points = radii.map((r, i) => [cx + r * Math.cos((2 * Math.PI * i) / n), cy + r * Math.sin((2 * Math.PI * i) / n)]);
+      const at = (i) => points[(i + n) % n];
+      const f = (v) => v.toFixed(1);
+      let d = `M ${f(points[0][0])} ${f(points[0][1])} `;
+      for (let i = 0; i < n; i++) {
+        const [p0, p1, p2, p3] = [at(i - 1), at(i), at(i + 1), at(i + 2)];
+        d += `C ${f(p1[0] + (p2[0] - p0[0]) / 6)} ${f(p1[1] + (p2[1] - p0[1]) / 6)} `
+          + `${f(p2[0] - (p3[0] - p1[0]) / 6)} ${f(p2[1] - (p3[1] - p1[1]) / 6)} ${f(p2[0])} ${f(p2[1])} `;
+      }
+      return d + "Z";
+    }
+
+    // Pixel geometry: the button's centre and a radius that reaches past the farthest corner.
+    function liquidGeometry() {
+      const width = window.innerWidth;
+      const height = window.innerHeight;
+      $("liquid").setAttribute("viewBox", `0 0 ${width} ${height}`);
+      const box = $("menu-button").getBoundingClientRect();
+      const cx = box.left + box.width / 2;
+      const cy = box.top + box.height / 2;
+      return { cx, cy, radius: 1.15 * Math.hypot(Math.max(cx, width - cx), Math.max(cy, height - cy)) };
+    }
+
+    // The two layers, bottom first: the grey blob, and the menu clipped to its blob.
+    // An empty shape hides a layer; null shows it whole.
+    const liquidLayers = [
+      (d) => $("liquid").firstElementChild.setAttribute("d", d ?? ""),
+      (d) => ($("menu").style.clipPath = d === null ? "" : `path("${d || "M 0 0 Z"}")`),
+    ];
+
+    function animateLiquid(opening, done) {
+      const { cx, cy, radius } = liquidGeometry();
+      const finish = () => {
+        liquidLayers[0](opening ? blobPath(cx, cy, Array(LIQUID_POINTS).fill(radius)) : "");
+        liquidLayers[1](opening ? null : "");
+        done();
+      };
+      if (reducedMotion.matches) {
+        finish();
+        return;
+      }
+      const phases = liquidLayers.map(() => Array.from({ length: LIQUID_POINTS }, () => Math.random() * 2 * Math.PI));
+      const total = LIQUID_DURATION + LIQUID_LAYER_GAP * (liquidLayers.length - 1);
+      const start = performance.now();
+      const frame = (now) => {
+        const elapsed = now - start;
+        liquidLayers.forEach((draw, layer) => {
+          const order = opening ? layer : liquidLayers.length - 1 - layer;
+          const progress = Math.min(1, Math.max(0, (elapsed - order * LIQUID_LAYER_GAP) / LIQUID_DURATION));
+          const size = easeInOut(opening ? progress : 1 - progress);
+          const radii = phases[layer].map((phase) =>
+            radius * size * (1 + LIQUID_WOBBLE * Math.sin(Math.PI * size) * Math.sin(phase + 3 * Math.PI * progress)));
+          draw(blobPath(cx, cy, radii));
+        });
+        if (elapsed < total) requestAnimationFrame(frame);
+        else finish();
+      };
+      requestAnimationFrame(frame);
+    }
+
+    function updateMenuButton() {
+      const button = $("menu-button");
+      button.setAttribute("aria-expanded", String(menuOpen));
+      button.setAttribute("aria-label", t(menuOpen ? "menuClose" : "menuOpen"));
+      button.title = t(menuOpen ? "menuClose" : "menuOpen");
+      button.classList.toggle("open", menuOpen);
+    }
+
+    function setMenu(open) {
+      if (menuBusy || open === menuOpen) return;
+      menuBusy = true;
+      menuOpen = open;
+      updateMenuButton();
+      for (const id of ["solo", "info", "edge-prev", "edge-next"]) $(id).inert = open;
+      if (open) {
+        liquidLayers[1]("");
+        $("menu").hidden = false;
+        $("menu").querySelector(".menu-link").focus({ preventScroll: true });
+        animateLiquid(true, () => (menuBusy = false));
+      } else {
+        animateLiquid(false, () => {
+          $("menu").hidden = true;
+          $("menu-button").focus({ preventScroll: true });
+          menuBusy = false;
+        });
+      }
+    }
+
+    // The grey blob stays behind the open menu; keep it covering after a resize.
+    window.addEventListener("resize", () => {
+      if (menuOpen && !menuBusy) {
+        const { cx, cy, radius } = liquidGeometry();
+        liquidLayers[0](blobPath(cx, cy, Array(LIQUID_POINTS).fill(radius)));
+      }
+    });
+    $("menu-button").onclick = () => setMenu(!menuOpen);
+
+    // On touch screens, swiping left goes to the next day and swiping right to the previous one.
+    let touchStart = null;
+    document.addEventListener("touchstart", (event) => {
+      const touch = event.touches[0];
+      touchStart = event.touches.length === 1 && !menuOpen && !$("dialog").open ? { x: touch.clientX, y: touch.clientY } : null;
+    }, { passive: true });
+    document.addEventListener("touchend", (event) => {
+      if (!touchStart) return;
+      const dx = event.changedTouches[0].clientX - touchStart.x;
+      const dy = event.changedTouches[0].clientY - touchStart.y;
+      touchStart = null;
+      if (Math.abs(dx) < 60 || Math.abs(dx) < 1.5 * Math.abs(dy)) return;
+      const link = $(dx < 0 ? "edge-next" : "edge-prev");
+      if (link.getAttribute("aria-disabled") === "false") location.href = link.href;
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && menuOpen && !$("dialog").open) setMenu(false);
+    });
 
     $("close").onclick = () => $("dialog").close();
     $("dialog").addEventListener("click", (event) => {
       if (event.target === $("dialog")) $("dialog").close();
     });
-    setupPage(render);
+    setupPage((redraw) => {
+      updateMenuButton();
+      renderMenu(redraw);
+      render();
+    });
   </script>
 </body>
 </html>
