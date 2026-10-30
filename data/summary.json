@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-10-30T10:00:57+01:00",
+ "updated_at": "2026-10-30T10:55:01+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -689,7 +689,7 @@
   {
    "date": "2026-10-30",
    "headlines": {
-    "count": 16,
+    "count": 17,
     "numbers": 8,
     "mean": 625003253.75,
     "median": 44.0,
@@ -707,10 +707,10 @@
     }
    },
    "articles": {
-    "count": 27,
-    "numbers": 281,
-    "mean": 156324633.9064,
-    "median": 30,
+    "count": 28,
+    "numbers": 290,
+    "mean": 177680133.1679,
+    "median": 30.5,
     "min": {
      "v": 1,
      "t": "1",
@@ -725,7 +725,7 @@
     }
    },
    "money": {
-    "count": 24,
+    "count": 27,
     "lost": 8870357744.3,
     "biggest_lost": {
      "eur": 5000000000,
@@ -733,15 +733,15 @@
      "title": "Hackersgroep steelt meer dan 5 miljard euro bij cyberaanval op cryptoplatform Binance",
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/drie-miljard-euro-bevroren-na-cyberaanval-bij-cryptoplatform-bin/"
     },
-    "gained": 50708262,
+    "gained": 6450708262,
     "biggest_gained": {
-     "eur": 50000000,
-     "t": "50 miljoen euro",
-     "title": "Raad van State fluit regering terug over beperking geboortepremie tot eerste kind",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/raad-van-state-beperking-geboortepremie-eerste-kind/"
+     "eur": 3500000000,
+     "t": "3,5 miljard euro",
+     "title": "Ahold Delhaize koopt Tesco-winkels in Tsjechië en Slovakije voor ongeveer 1,2 miljard euro",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ahold-delhaize-neemt-supermarktketen-in-tsjechie-en-slovakije-ov/"
     },
     "neutral": 0,
-    "net": -8819649482.3
+    "net": -2419649482.3
    }
   }
  ]

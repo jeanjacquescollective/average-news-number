@@ -135,6 +135,12 @@
    "url": "https://www.vrt.be/vrtnws/nl/liveblog/mijnen-op-wegen-naar-olesjky-zijn-weggehaald-hulpkonvooi-met-bu~1789060001669/",
    "first_seen": "2026-10-30T10:00:57+01:00",
    "numbers": []
+  },
+  {
+   "title": "\"We zijn te laks geweest\": Minister Van Bossuyt vraagt aan OCMW's om strenger op te treden tegen leefloners die job of opleiding zouden weigeren",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/omzendbrief-van-bossuyt-leefloon/",
+   "first_seen": "2026-10-30T10:55:01+01:00",
+   "numbers": []
   }
  ],
  "articles": [
@@ -1755,6 +1761,80 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.vLlw8PWMa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/ahold-delhaize-neemt-supermarktketen-in-tsjechie-en-slovakije-ov/",
+   "title": "Ahold Delhaize koopt Tesco-winkels in Tsjechië en Slovakije voor ongeveer 1,2 miljard euro",
+   "published": "2026-10-30T10:45:44+01:00",
+   "first_seen": "2026-10-30T10:55:01+01:00",
+   "numbers": [
+    {
+     "v": 1200000000,
+     "t": "1,2 miljard"
+    },
+    {
+     "v": 1200000000,
+     "t": "1,2 miljard"
+    },
+    {
+     "v": 1700000000,
+     "t": "1,7 miljard"
+    },
+    {
+     "v": 360,
+     "t": "360"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 3500000000,
+     "t": "3,5 miljard"
+    },
+    {
+     "v": 14000,
+     "t": "14.000"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1200000000,
+     "t": "1,2 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Ahold Delhaize koopt Tesco-winkels in Tsjechië en Slovakije voor ongeveer 1,2 miljard euro"
+    },
+    {
+     "eur": 1700000000,
+     "t": "1,7 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Inclusief leasingschulden gaat het om ongeveer 1,7 miljard euro."
+    },
+    {
+     "eur": 3500000000,
+     "t": "3,5 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "De activiteiten zorgen voor 3,5 miljard euro omzet en meer dan 14.000 werknemers."
+    }
+   ]
   }
  ]
 }
