@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-10-31T07:40:56+01:00",
+ "updated_at": "2026-10-31T14:08:11+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,9 +221,9 @@
     }
    },
    "articles": {
-    "count": 108,
-    "numbers": 989,
-    "mean": 270730031.9498,
+    "count": 109,
+    "numbers": 1013,
+    "mean": 264316247.7447,
     "median": 31,
     "min": {
      "v": 0,
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 85,
-    "numbers": 740,
-    "mean": 14615927.7476,
+    "count": 86,
+    "numbers": 766,
+    "mean": 14120204.8459,
     "median": 21.0,
     "min": {
      "v": -8,
@@ -675,10 +675,10 @@
   {
    "date": "2026-10-31",
    "headlines": {
-    "count": 8,
-    "numbers": 3,
-    "mean": 8.0,
-    "median": 2,
+    "count": 19,
+    "numbers": 7,
+    "mean": 10016.1429,
+    "median": 21,
     "min": {
      "v": 1,
      "t": "1",
@@ -686,17 +686,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/nieuw-op-1-november-2026/"
     },
     "max": {
-     "v": 21,
-     "t": "21",
-     "title": "Gorr (21) vluchtte uit Rusland omdat hij er als homo niet zichzelf kon zijn: \"Ik wil niet terug naar leven in angst\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/belgodyssee-cedric-vanbecelaere/"
+     "v": 70000,
+     "t": "70.000",
+     "title": "Demonstranten verzamelen zich in Parijs, Frankrijk zet 70.000 agenten in",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/demonstranten-verzamelen-zich-in-parijs-frankrijk-zet-70000-ag~1792507723130/"
     }
    },
    "articles": {
-    "count": 7,
-    "numbers": 223,
-    "mean": 53713998.8755,
-    "median": 19,
+    "count": 29,
+    "numbers": 405,
+    "mean": 1267237449.763,
+    "median": 21,
     "min": {
      "v": 0,
      "t": "000",
@@ -704,10 +704,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/wat-kan-je-doen-als-iemand-in-je-omgeving-nicotinezakjes-gebruik/"
     },
     "max": {
-     "v": 5800000000,
-     "t": "5,8 miljard",
-     "title": "Nieuw vanaf 1 november: extra taks van 2 euro op pakjes van buiten de EU en wie rijverbod negeert, verliest zijn auto",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/nieuw-op-1-november-2026/"
+     "v": 500000000000,
+     "t": "500 miljard",
+     "title": "Gebuisd, maar in 'tweede zit' moet een versnelling volgen: opluchting op VN-natuurtop na ultiem akkoord",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/31/biodiversiteitstop-in-jerevan-cop17-is-het-een-succes-of-niet/"
     }
    },
    "money": {
