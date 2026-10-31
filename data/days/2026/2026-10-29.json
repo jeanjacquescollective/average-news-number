@@ -696,6 +696,141 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-voert-individuele-gesprekken-met-zijn-vicepremi~1793247532380/",
+   "title": "LIVE Premier De Wever voert individuele gesprekken met zijn vicepremiers: nu de beurt aan Maxime Prévot",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-10-31T18:48:57+01:00",
+   "numbers": [
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 362,
+     "t": "362"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 58,
+     "t": "58"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 77.5,
+     "t": "77,5"
+    },
+    {
+     "v": 26.7,
+     "t": "26,7"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "budgettaire",
+     "how": "sentence",
+     "ctx": "De federale regering zoekt tegen 2029 naar een budgettaire inspanning van 10 miljard euro."
+    },
+    {
+     "eur": 26.7,
+     "t": "26,7 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premie",
+     "how": "sentence",
+     "ctx": "De gemiddelde premie bedraagt 26,7 euro per maand."
+    },
+    {
+     "eur": 60,
+     "t": "60 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premies",
+     "how": "sentence",
+     "ctx": "In Mol en Ardooie is dat zo'n 60 euro per maand, maar in Menen, Sint-Martens-Latem of Vilvoorde krijgen mantelzorgers geen gemeentelijke premies."
+    },
+    {
+     "eur": 1500000000,
+     "t": "1,5 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "Premier",
+     "how": "title",
+     "ctx": "Van de 10 miljard euro die gezocht wordt, moet volgens hem 1,5 miljard euro van hen komen."
+    }
+   ]
+  },
+  {
    "id": "p.APQP43k3D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/audit-rekenhof-i-police/",
    "title": "Geflopt politieproject i-Police kostte belastingbetaler ruim 139 miljoen euro, bijna dubbel zoveel als gedacht",

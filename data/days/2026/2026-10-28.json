@@ -147,6 +147,88 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/helft-van-de-dodelijke-slachtoffers-geidentificeerd-na-treinramp~1793178600996/",
+   "title": "LIVE Helft van de dodelijke slachtoffers geïdentificeerd na treinramp in Spanje",
+   "published": "2026-10-28T10:19:36+01:00",
+   "first_seen": "2026-10-31T18:48:57+01:00",
+   "numbers": [
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 8,
+     "t": "8.54"
+    },
+    {
+     "v": 54,
+     "t": "8.54"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 43,
+     "t": "43"
+    },
+    {
+     "v": 8,
+     "t": "8.30"
+    },
+    {
+     "v": 30,
+     "t": "8.30"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    }
+   ],
+   "money": []
   }
  ]
 }
