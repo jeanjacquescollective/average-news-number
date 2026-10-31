@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-10-30T22:08:34+01:00",
+ "updated_at": "2026-10-31T07:40:56+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -670,6 +670,58 @@
     },
     "neutral": 0,
     "net": -3775839912
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "headlines": {
+    "count": 8,
+    "numbers": 3,
+    "mean": 8.0,
+    "median": 2,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Nieuw vanaf 1 november: extra taks van 2 euro op pakjes van buiten de EU en wie rijverbod negeert, verliest zijn auto",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/nieuw-op-1-november-2026/"
+    },
+    "max": {
+     "v": 21,
+     "t": "21",
+     "title": "Gorr (21) vluchtte uit Rusland omdat hij er als homo niet zichzelf kon zijn: \"Ik wil niet terug naar leven in angst\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/belgodyssee-cedric-vanbecelaere/"
+    }
+   },
+   "articles": {
+    "count": 7,
+    "numbers": 223,
+    "mean": 53713998.8755,
+    "median": 19,
+    "min": {
+     "v": 0,
+     "t": "000",
+     "title": "Tabakologen over nicotinezakjes: zo herken je gebruik, zo help je jongeren stoppen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/wat-kan-je-doen-als-iemand-in-je-omgeving-nicotinezakjes-gebruik/"
+    },
+    "max": {
+     "v": 5800000000,
+     "t": "5,8 miljard",
+     "title": "Nieuw vanaf 1 november: extra taks van 2 euro op pakjes van buiten de EU en wie rijverbod negeert, verliest zijn auto",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/nieuw-op-1-november-2026/"
+    }
+   },
+   "money": {
+    "count": 1,
+    "lost": 2,
+    "biggest_lost": {
+     "eur": 2,
+     "t": "2 euro",
+     "title": "Nieuw vanaf 1 november: extra taks van 2 euro op pakjes van buiten de EU en wie rijverbod negeert, verliest zijn auto",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/nieuw-op-1-november-2026/"
+    },
+    "gained": 0,
+    "neutral": 0,
+    "net": -2
    }
   }
  ]
