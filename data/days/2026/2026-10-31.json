@@ -273,6 +273,25 @@
    "first_seen": "2026-10-31T18:48:57+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Aanvaringen tussen politie en demonstranten in Parijs en andere Franse steden: 422 mensen opgepakt",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/aanvaringen-tussen-politie-en-demonstranten-in-parijs-en-andere-~1792507723130/",
+   "first_seen": "2026-10-31T22:03:22+01:00",
+   "numbers": [
+    {
+     "v": 422,
+     "t": "422"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"Wraak van een ex? Gewoon een grap voor Halloween\": BMW beklad met 'cheater' en 'bitch' steelt alle aandacht in Wielsbeke",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/31/bmw-beklad-cheater-grap-halloween-ooigem-roeselare/",
+   "first_seen": "2026-10-31T22:03:22+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
  "articles": [
@@ -2809,6 +2828,24 @@
      "ctx": "Eerder raakte bekend dat er voor 6,34 miljard dollar (zowat 5,5 miljard euro) aan cryptomunten gestolen was."
     }
    ]
+  },
+  {
+   "id": "p.LNWJmnZo4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/31/kortrijk-onrust-pro-palestina-protes-en-tegenprotest/",
+   "title": "Onrustige avond in Kortrijk: 8 jongeren opgepakt na vechtpartijen en kat-en-muisspel met politie",
+   "published": "2026-10-31T21:54:27+01:00",
+   "first_seen": "2026-10-31T22:03:22+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": []
   }
  ]
 }
