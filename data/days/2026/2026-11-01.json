@@ -346,6 +346,39 @@
    "first_seen": "2026-11-01T19:27:34+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Federale kern zit samen, minister Van Peteghem: \"We werken verder\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/federale-kern-zit-samen-minister-van-peteghem-we-werken-verde~1793247532380/",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "9 doden nadat privévliegtuig neerstort vlakbij woonwijk in Florida",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/negen-doden-bij-crash-vliegtuigje-in-florida/",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "9"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Arts doorbreekt stilzwijgen na mislukte executie van Christa Pike: \"Ik ben niet gewetenloos\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/christa-pike-arts-mark-fowler-spreekt-voor-het-eerst/",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Voor het eerst een vrouwelijke president in Bulgarije? Volgens exitpolls wint Iliana Yotova verkiezingen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/bulgaarse-president-iliana-jotova-herkozen/",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
  "articles": [
@@ -2220,6 +2253,52 @@
    "money": []
   },
   {
+   "id": "p.8ep4LdPR4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/2-twee-wandelingen-troost-1-november-beernem-bulskampveld-provin/",
+   "title": "Sterrenmama Stefanie (39) vond na verlies zoontje rust in Bulskampveld, nu opent ze er 2 nieuwe troostwandelingen",
+   "published": "2026-11-01T16:27:14+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 39,
+     "t": "39"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 39,
+     "t": "39"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 4.7,
+     "t": "4,7"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.KK8Q5K6Lb",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/gentbrugge-telefooncel-begraafplaats-praten-met-overledene/",
    "title": "Op begraafplaats in Gentbrugge kan je met overledene bellen: \"Wind draagt boodschap mee\"",
@@ -2248,6 +2327,79 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.LNWJx7NqV",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/belfort-vertelt-11-juli-komitee-brugge-stadhuis-lichtspektakel-p/",
+   "title": "Lichtspektakel verhuist komende zomer van Belfort naar stadhuis van Brugge: \"Tonen verhaal van moord op Karel de Goede\"",
+   "published": "2026-11-01T16:57:59+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 75000,
+     "t": "75.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 900,
+     "t": "900"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 400000,
+     "t": "400.000"
+    },
+    {
+     "v": 75000,
+     "t": "75.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": [
+    {
+     "eur": 75000,
+     "t": "75.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "article",
+     "ctx": "Het stadsbestuur gaf groen licht en ondersteunt het project met 75.000 euro."
+    },
+    {
+     "eur": 400000,
+     "t": "400.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "\"We ramen de kosten op 400.000 euro en daarvoor zijn we nog op zoek naar sponsors\", aldus Van Den Driessche."
+    }
+   ]
   },
   {
    "id": "p.RaJv74Obd",
@@ -2338,6 +2490,71 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.dLRBnpXE4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/de-kerk-van-baliebrugge-ruddervoorde-is-voortaan-ook-een-turnzaa/",
+   "title": "Vernieuwde multifunctionele kerk in Baliebrugge geopend: turnzaal, dorpshuis, kinderopvang en plek voor gebed",
+   "published": "2026-11-01T17:53:13+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 5200000,
+     "t": "5,2 miljoen"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 20,
+     "t": "twintig"
+    },
+    {
+     "v": 5200000,
+     "t": "5,2 miljoen"
+    },
+    {
+     "v": 250000,
+     "t": "250.000"
+    },
+    {
+     "v": 100000,
+     "t": "100.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 5200000,
+     "t": "5,2 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "faillissement",
+     "how": "article",
+     "ctx": "Het project heeft 5,2 miljoen euro gekost."
+    },
+    {
+     "eur": 100000,
+     "t": "100.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "subsidie",
+     "how": "sentence",
+     "ctx": "Vlaanderen en Europa geven daarvoor respectievelijk 250.000 en 100.000 euro subsidie."
+    }
+   ]
   },
   {
    "id": "p.jGkEax1J0",
@@ -2562,6 +2779,74 @@
     {
      "v": 18,
      "t": "18"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5AybnoN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/bulgaarse-president-iliana-jotova-herkozen/",
+   "title": "Voor het eerst een vrouwelijke president in Bulgarije? Volgens exitpolls wint Iliana Yotova verkiezingen",
+   "published": "2026-11-01T22:17:26+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 52,
+     "t": "52"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqxqNDVe",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/negen-doden-bij-crash-vliegtuigje-in-florida/",
+   "title": "9 doden nadat privévliegtuig neerstort vlakbij woonwijk in Florida",
+   "published": "2026-11-01T22:49:43+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 12,
+     "t": "12.50"
+    },
+    {
+     "v": 50,
+     "t": "12.50"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 8.2,
+     "t": "8,2"
+    },
+    {
+     "v": 9,
+     "t": "9"
     }
    ],
    "money": []

@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-01T19:27:34+01:00",
+ "updated_at": "2026-11-01T23:23:37+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -473,9 +473,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 46,
-    "numbers": 421,
-    "mean": 171044866.9384,
+    "count": 48,
+    "numbers": 459,
+    "mean": 156898278.4114,
     "median": 24,
     "min": {
      "v": 0,
@@ -499,27 +499,59 @@
    }
   },
   {
+   "date": "2026-10-26",
+   "headlines": {
+    "count": 0,
+    "numbers": 0
+   },
+   "articles": {
+    "count": 91,
+    "numbers": 889,
+    "mean": 8345400.2703,
+    "median": 21,
+    "min": {
+     "v": 0,
+     "t": "Zero",
+     "title": "Wie is comeback kid Lula, die voor de 4e keer president van Brazilië wordt?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/wie-is-lula-voor-de-vierde-keer-president-van-brazilie/"
+    },
+    "max": {
+     "v": 4000000000,
+     "t": "4 miljard",
+     "title": "Na 'alles of niets': rien ne va plus",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/na-_alles-of-niets-rien-ne-va-plus/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
    "date": "2026-10-27",
    "headlines": {
     "count": 0,
     "numbers": 0
    },
    "articles": {
-    "count": 1,
-    "numbers": 90,
-    "mean": 6748.1367,
-    "median": 26.5,
+    "count": 98,
+    "numbers": 978,
+    "mean": 56272478185.6814,
+    "median": 30.0,
     "min": {
-     "v": 1,
-     "t": "1",
-     "title": "LIVE Alle stemmen zijn geteld: geen enkel blok haalt meerderheid, coalitie Netanyahu is het grootst",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/alle-stemmen-zijn-geteld-geen-enkel-blok-haalt-meerderheid-coa~1793076564841/"
+     "v": -17.6,
+     "t": "-17,6",
+     "title": "Opnieuw minder woonkredieten afgesloten, vaste rente blijft populairst",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/opnieuw-minder-woonkredieten-afgesloten-vaste-rente-blijft-popu/"
     },
     "max": {
-     "v": 600000,
-     "t": "600.000",
-     "title": "LIVE Alle stemmen zijn geteld: geen enkel blok haalt meerderheid, coalitie Netanyahu is het grootst",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/alle-stemmen-zijn-geteld-geen-enkel-blok-haalt-meerderheid-coa~1793076564841/"
+     "v": 53000000000000,
+     "t": "53.000 miljard",
+     "title": "Belg uit rijkste 0,1 procent stoot 22 keer meer CO2 uit dan Belg uit armste helft bevolking",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/oxfam-rijk-arm-uitstoot/"
     }
    },
    "money": {
@@ -537,21 +569,21 @@
     "numbers": 0
    },
    "articles": {
-    "count": 2,
-    "numbers": 52,
-    "mean": 769359.8269,
-    "median": 30.0,
+    "count": 99,
+    "numbers": 1073,
+    "mean": 418832746.6001,
+    "median": 20,
     "min": {
-     "v": 1,
-     "t": "1",
-     "title": "LIVE Autoriteiten stellen dodental van treinramp weer naar beneden bij, 51 buitenlanders betrokken",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/autoriteiten-stellen-dodental-van-treinramp-weer-naar-beneden-bi~1793178600996/"
+     "v": -1.3,
+     "t": "-1,3",
+     "title": "\"Ongezien\": bijna 3 op de 10 machines in Belgische fabrieken staan stil",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/bijna-3-op-10-machines-in-belgische-fabrieken-staan-stil/"
     },
     "max": {
-     "v": 40000000,
-     "t": "40 miljoen",
-     "title": "LIVE Autoriteiten stellen dodental van treinramp weer naar beneden bij, 51 buitenlanders betrokken",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/autoriteiten-stellen-dodental-van-treinramp-weer-naar-beneden-bi~1793178600996/"
+     "v": 70000000000,
+     "t": "70 miljard",
+     "title": "70 miljard per jaar: Europese Commissie wil dat landen zich beter wapenen tegen klimaatverstoring",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/27/europees-klimaat-adaptatieplan/"
     }
    },
    "money": {
@@ -583,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 64,
-    "numbers": 709,
-    "mean": 307525101.154,
-    "median": 26.7,
+    "count": 111,
+    "numbers": 1218,
+    "mean": 384654821.4909,
+    "median": 24.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -594,10 +626,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/vergelijker-toont-vlaming-voordeligste-verkeersbelasting/"
     },
     "max": {
-     "v": 10000000000,
-     "t": "10 miljard",
-     "title": "LIVE Kernkabinet weer uiteen, morgenmiddag komen ze opnieuw bijeen over de begroting",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-weer-uiteen-morgenmiddag-komen-ze-opnieuw-bijeen-ov~1793247532380/"
+     "v": 75280000000,
+     "t": "75,28 miljard",
+     "title": "Miljardenverlies voor Volkswagen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/miljardenverlies-voor-volkswagen/"
     }
    },
    "money": {
@@ -635,15 +667,15 @@
     }
    },
    "articles": {
-    "count": 82,
-    "numbers": 764,
-    "mean": 139944277.826,
+    "count": 86,
+    "numbers": 826,
+    "mean": 129523902.8137,
     "median": 40.0,
     "min": {
-     "v": 1,
-     "t": "1",
-     "title": "Dit zijn onze 5 weekendtips",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/weekendtips-31-oktober-1-november-bourgondisch-tafelen-boektopia/"
+     "v": 0,
+     "t": "Zero",
+     "title": "Brussel wil toenemend probleem van verkeersagressie aanpakken met campagnes en online meldknop",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/brusselaars-plegen-en-ondergaan-vaker-verkeersagressie-minister/"
     },
     "max": {
      "v": 6300000000,
@@ -727,10 +759,10 @@
   {
    "date": "2026-11-01",
    "headlines": {
-    "count": 35,
-    "numbers": 19,
-    "mean": 16930.1826,
-    "median": 20,
+    "count": 39,
+    "numbers": 20,
+    "mean": 16084.1235,
+    "median": 15.0,
     "min": {
      "v": 3,
      "t": "3",
@@ -745,10 +777,10 @@
     }
    },
    "articles": {
-    "count": 46,
-    "numbers": 395,
-    "mean": 242597182.4482,
-    "median": 19,
+    "count": 51,
+    "numbers": 436,
+    "mean": 219810070.0457,
+    "median": 19.0,
     "min": {
      "v": 1,
      "t": "1",

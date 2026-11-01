@@ -1527,6 +1527,196 @@
    "money": []
   },
   {
+   "id": "p.LNWa0j1RV",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/brusselaars-plegen-en-ondergaan-vaker-verkeersagressie-minister/",
+   "title": "Brussel wil toenemend probleem van verkeersagressie aanpakken met campagnes en online meldknop",
+   "published": "2026-10-30T07:00:00+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 0,
+     "t": "Zero"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 63,
+     "t": "63"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 48,
+     "t": "48"
+    },
+    {
+     "v": 0,
+     "t": "Zero"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 0,
+     "t": "Zero"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 53,
+     "t": "53"
+    },
+    {
+     "v": 43,
+     "t": "43"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 0,
+     "t": "Zero"
+    },
+    {
+     "v": 0,
+     "t": "Zero"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 0,
+     "t": "Zero"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.w70AOpQMy",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/australische-paddenstoelenmoordenares-verliest-beroep-en-krijgt/",
    "title": "Australische vrouw die familieleden vergiftigde met paddenstoelen verliest beroep en kan nu nooit meer vrijkomen",
@@ -2160,6 +2350,67 @@
      "kw": "subsidieaanvraag",
      "how": "sentence",
      "ctx": "Voor het SAFI-project is een subsidieaanvraag van 120.000 euro ingediend bij de Vlaamse overheid."
+    }
+   ]
+  },
+  {
+   "id": "p.ew4KJlV7E",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/herstel-van-de-dendervallei-krijgt-europees-geld-we-moeten-wat/",
+   "title": "Herstel van de Dendervallei krijgt Europees geld: \"We moeten water opnieuw genoeg ruimte geven\"",
+   "published": "2026-10-30T09:36:46+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 26000000,
+     "t": "26 miljoen"
+    },
+    {
+     "v": 9000000,
+     "t": "9 miljoen"
+    },
+    {
+     "v": 2032,
+     "t": "2032"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 25800000,
+     "t": "25,8 miljoen"
+    },
+    {
+     "v": 8450000,
+     "t": "8,45 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 26000000,
+     "t": "26 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "budget",
+     "how": "sentence",
+     "ctx": "Het totale budget daarvoor is bijna 26 miljoen euro, en Europa betaalt daarvan een kleine 9 miljoen."
+    },
+    {
+     "eur": 8450000,
+     "t": "8,45 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "title",
+     "ctx": "Daarvan komt 8,45 miljoen euro uit het Europese LIFE-programma."
     }
    ]
   },
@@ -4596,6 +4847,47 @@
    "money": []
   },
   {
+   "id": "p.PqOKDXy6R",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/nieuwe-natuurbegraafplaats-sint-truiden/",
+   "title": "Sint-Truiden legt eerste natuurbegraafplaats aan in Melveren",
+   "published": "2026-10-30T16:34:29+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 10550,
+     "t": "10.550"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10550,
+     "t": "10.550 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "De natuurbegraafplaats kost 10.550 euro, exclusief enkele bijkomende inrichtingselementen."
+    },
+    {
+     "eur": 200,
+     "t": "200 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "Voor niet-inwoners zal het 200 euro kosten."
+    }
+   ]
+  },
+  {
    "id": "p.M9mJeD8MB",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/gewapende-militair-vindt-weg-niet-naar-kazerne-en-zorgt-voor-onr/",
    "title": "Onrust in station Leuven door gewapende militair: \"Hij was op zoek naar de kazerne\"",
@@ -4815,6 +5107,40 @@
     {
      "v": 30000,
      "t": "30.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5XO3jDw",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/burgers-eerst-verzamelt-15-000-handtekeningen-en-voert-actie-aan/",
+   "title": "Burgers Eerst voert actie aan verlaten bushokje in Tongeren voor beter openbaar vervoer: \"15.000 handtekeningen verzameld\"",
+   "published": "2026-10-30T17:20:11+01:00",
+   "first_seen": "2026-11-01T23:23:37+01:00",
+   "numbers": [
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
     }
    ],
    "money": []
