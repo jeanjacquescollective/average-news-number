@@ -2846,6 +2846,28 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.aDeVvlqYy",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/31/polen-videoboodschap-tusk-conflict-grondwettelijk-hof/",
+   "title": "Poolse premier Tusk verdedigt ingreep bij Grondwettelijk Hof: \"Democratische staat moet sterk zijn\"",
+   "published": "2026-10-31T22:05:49+01:00",
+   "first_seen": "2026-11-01T01:04:50+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    }
+   ],
+   "money": []
   }
  ]
 }

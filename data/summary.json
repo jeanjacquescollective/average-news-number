@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-10-31T22:03:22+01:00",
+ "updated_at": "2026-11-01T01:04:50+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 111,
-    "numbers": 1129,
-    "mean": 237163604.9437,
-    "median": 34,
+    "count": 112,
+    "numbers": 1201,
+    "mean": 222947964.2726,
+    "median": 35,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -583,9 +583,9 @@
     }
    },
    "articles": {
-    "count": 61,
-    "numbers": 669,
-    "mean": 237720908.3453,
+    "count": 62,
+    "numbers": 691,
+    "mean": 290210267.0264,
     "median": 26.7,
     "min": {
      "v": -30,
@@ -693,10 +693,10 @@
     }
    },
    "articles": {
-    "count": 43,
-    "numbers": 479,
-    "mean": 1096182162.3702,
-    "median": 21,
+    "count": 44,
+    "numbers": 482,
+    "mean": 1089359456.0297,
+    "median": 21.0,
     "min": {
      "v": 0,
      "t": "000",
@@ -722,6 +722,38 @@
     "gained": 0,
     "neutral": 0,
     "net": -2
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "headlines": {
+    "count": 4,
+    "numbers": 2,
+    "mean": 254.0,
+    "median": 254.0,
+    "min": {
+     "v": 8,
+     "t": "8",
+     "title": "Onrustige avond in Kortrijk: 8 jongeren opgepakt na vechtpartijen en kat-en-muisspel met politie",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/31/kortrijk-onrust-pro-palestina-protes-en-tegenprotest/"
+    },
+    "max": {
+     "v": 500,
+     "t": "500",
+     "title": "Meer dan 500 arrestaties in Frankrijk, winkels geplunderd in Frankfurt",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/meer-dan-500-arrestaties-in-frankrijk-winkels-geplunderd-in-fra~1792507723130/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
