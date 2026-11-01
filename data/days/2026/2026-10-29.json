@@ -998,6 +998,95 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-roept-kernkabinet-samen-om-21-uur~1793247532380/",
+   "title": "LIVE Premier De Wever roept kernkabinet samen om 21 uur",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparing",
+     "how": "sentence",
+     "ctx": "De federale regering zoekt tegen 2029 een besparing van 10 miljard euro."
+    },
+    {
+     "eur": 1500000000,
+     "t": "1,5 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "Premier",
+     "how": "title",
+     "ctx": "Vooruit wil in de begrotingstabellen 1,5 miljard euro zien opgenomen worden aan maatregelen die door de “sterkste schouders” gedragen zouden moeten worden, de grote vermogens."
+    }
+   ]
+  },
+  {
    "id": "p.APQP43k3D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/audit-rekenhof-i-police/",
    "title": "Geflopt politieproject i-Police kostte belastingbetaler ruim 139 miljoen euro, bijna dubbel zoveel als gedacht",

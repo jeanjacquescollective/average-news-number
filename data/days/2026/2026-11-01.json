@@ -251,6 +251,101 @@
     }
    ],
    "money": []
+  },
+  {
+   "title": "Premier De Wever roept kernkabinet samen om 21 uur",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-roept-kernkabinet-samen-om-21-uur~1793247532380/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 21,
+     "t": "21"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"Gebroken vleugels en schotwonden\": 68 wilde eenden mishandeld en illegaal gedumpt in provincie Antwerpen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/tientallen-kadavers-van-wilde-eenden-blijken-illegaal-gedumpt/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 68,
+     "t": "68"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Grootste Go Church-afdeling niet meer welkom in Sint-Jozefkerk van Merksem vanaf januari: \"Behoorlijk geschrokken\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/go-church-merksem-contract-eind-december-jongerenkerk/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Brandweerman neergeschoten tijdens bluswerken in de buurt van Marseille, schutter gearresteerd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/brandweerman-neergeschoten-tijdens-bluswerken-in-de-buurt-van-ma/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Vorige week vierde ze nog haar huwelijk: atletiekwereld rouwt om ex-Europese kampioene Ciara Mageean (34)",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/vorige-week-vierde-ze-nog-haar-huwelijk-atletiekwereld-rouwt-om/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 34,
+     "t": "34"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Begraafplaats Genk-Centrum bestaat 100 jaar: voormalige grafmaker geeft rondleidingen met verhalen en weetjes",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/begraafplaats-van-genk-centrum-bestaat-100-jaar/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Op begraafplaats in Gentbrugge kan je met overledene bellen: \"Wind draagt boodschap mee\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/gentbrugge-telefooncel-begraafplaats-praten-met-overledene/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Russische veiligheidsdienst pakt tiener op in Moskou na Amerikaanse waarschuwing voor aanslag",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/minderjarige-opgepakt-in-rusland-na-waarschuwing-aanslag/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Jongeren op terugweg van Walibi vallen treinbegeleider aan: \"Elke dag 7 gevallen van agressie op de trein\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/jongeren-op-terugweg-van-walibi-vallen-treinbegeleider-aan-in-br/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Breuk binnen Democraten in Michigan: Democrate Haley Stevens schaart zich achter Republikein Mike Rogers",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/breuk-binnen-democraten-in-michigan-democrate-haley-stevens-sch~1792770744209/",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
  "articles": [
@@ -1762,6 +1857,711 @@
     {
      "v": 15,
      "t": "15"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8QYEBDb",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/wagen-uitgebrand-in-watermaal-bosvoorde/",
+   "title": "Auto uitgebrand in Watermaal-Bosvoorde",
+   "published": "2026-11-01T14:35:37+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 22,
+     "t": "22"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4y0OQ9Q",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/tientallen-kadavers-van-wilde-eenden-blijken-illegaal-gedumpt/",
+   "title": "\"Gebroken vleugels en schotwonden\": 68 wilde eenden mishandeld en illegaal gedumpt in provincie Antwerpen",
+   "published": "2026-11-01T14:55:01+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 68,
+     "t": "68"
+    },
+    {
+     "v": 68,
+     "t": "68"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 68,
+     "t": "68"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDeVMb7LO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/go-church-merksem-contract-eind-december-jongerenkerk/",
+   "title": "Grootste Go Church-afdeling niet meer welkom in Sint-Jozefkerk van Merksem vanaf januari: \"Behoorlijk geschrokken\"",
+   "published": "2026-11-01T14:55:58+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 7649,
+     "t": "7.649"
+    },
+    {
+     "v": 450,
+     "t": "450"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43p9jnEXY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/jongeren-op-terugweg-van-walibi-vallen-treinbegeleider-aan-in-br/",
+   "title": "Jongeren op terugweg van Walibi vallen treinbegeleider aan: \"Elke dag 7 gevallen van agressie op de trein\"",
+   "published": "2026-11-01T15:01:09+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.WkjA31VLR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/burgemeester-sint-gillis-waas-waarschuwt-voor-schouwbranden/",
+   "title": "Burgemeester waarschuwt voor schouwbranden na brand in Sint-Pauwels: \"Laat schoorsteen controleren\"",
+   "published": "2026-11-01T15:35:38+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    }
+   ],
+   "money": [
+    {
+     "eur": 40,
+     "t": "40 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "article",
+     "ctx": "\"Voor minder dan 40 euro vind je al een CO-meter die goedgekeurd is voor de Belgische markt.\""
+    }
+   ]
+  },
+  {
+   "id": "p.bDobdO4bL",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/voetganger-vindt-rugzak-met-3-zelfgemaakte-vuurwapens-in-wilrijk/",
+   "title": "Voetganger vindt rugzak met 3 zelfgemaakte vuurwapens in Wilrijk",
+   "published": "2026-11-01T15:36:16+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.7nX4jmQd3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/laatste-iedereen-klassiek-in-brugge-15-000-bezoekers-reacties-ja/",
+   "title": "15.000 bezoekers nemen na 13 edities afscheid van Iedereen Klassiek in Brugge: \"Mission accomplished\"",
+   "published": "2026-11-01T15:39:42+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 14786,
+     "t": "14.786"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.qENx63pj7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/41-kunstenaars-stellen-werken-tentoon-in-8-voormalige-mijnwerker/",
+   "title": "41 kunstenaars stellen werken tentoon in 8 voormalige mijnwerkerswoningen in Heusden-Zolder",
+   "published": "2026-11-01T15:41:26+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 41,
+     "t": "41"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 41,
+     "t": "41"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 41,
+     "t": "41"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.M9m8enQKd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/wielerbeurs-schorre-boom-fietsen-medaille-pet/",
+   "title": "Wielerbeurs lokt koersfanaten en verzamelaars naar Boom: \"Zelfs medaille van Tour de Trump\"",
+   "published": "2026-11-01T15:47:36+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 1989,
+     "t": "1989"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJv7Q9p9",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/reveil-muziek-troost-begraafplaats-mechelen-allerheiligen/",
+   "title": "Mechelen brengt muziek en troost naar begraafplaats tijdens Allerheiligen: \"Muziek kan helpen als woorden tekortschieten\"",
+   "published": "2026-11-01T15:52:22+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8Q5K6Lb",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/gentbrugge-telefooncel-begraafplaats-praten-met-overledene/",
+   "title": "Op begraafplaats in Gentbrugge kan je met overledene bellen: \"Wind draagt boodschap mee\"",
+   "published": "2026-11-01T16:30:41+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 2010,
+     "t": "2010"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJv74Obd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/begraafplaats-van-genk-centrum-bestaat-100-jaar/",
+   "title": "Begraafplaats Genk-Centrum bestaat 100 jaar: voormalige grafmaker geeft rondleidingen met verhalen en weetjes",
+   "published": "2026-11-01T16:58:10+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1926,
+     "t": "1926"
+    },
+    {
+     "v": 1998,
+     "t": "1998"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 16000,
+     "t": "16.000"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLRBnOG6m",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/weduwe-marc-sleen-ontroerd-door-jaarlijkse-wafelenbak-zoals-in-d/",
+   "title": "Weduwe Marc Sleen ontroerd door jaarlijkse wafelenbak zoals in de strips van Nero: \"Hoeilaart is mijn man nog niet vergeten\"",
+   "published": "2026-11-01T16:58:11+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 93,
+     "t": "93"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.y31Q71Z95",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/minderjarige-opgepakt-in-rusland-na-waarschuwing-aanslag/",
+   "title": "Russische veiligheidsdienst pakt tiener op in Moskou na Amerikaanse waarschuwing voor aanslag",
+   "published": "2026-11-01T17:02:54+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGkEax1J0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/fietser-17-aangereden-en-achtergelaten-in-poperinge-vader-roe/",
+   "title": "Geert zoekt autobestuurder die zoon (17) omver reed met fiets in Poperinge en vluchtte: \"Minste wat je kon doen, is stoppen\"",
+   "published": "2026-11-01T18:23:54+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 14,
+     "t": "14.30"
+    },
+    {
+     "v": 30,
+     "t": "14.30"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqxaZ1LY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/brandweerman-neergeschoten-tijdens-bluswerken-in-de-buurt-van-ma/",
+   "title": "Brandweerman neergeschoten tijdens bluswerken in de buurt van Marseille, schutter gearresteerd",
+   "published": "2026-11-01T18:24:24+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.PqOx9Pj7O",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/vorige-week-vierde-ze-nog-haar-huwelijk-atletiekwereld-rouwt-om/",
+   "title": "Vorige week vierde ze nog haar huwelijk: atletiekwereld rouwt om ex-Europese kampioene Ciara Mageean (34)",
+   "published": "2026-11-01T18:27:07+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 1500,
+     "t": "1.500"
+    },
+    {
+     "v": 6,
+     "t": "6.30"
+    },
+    {
+     "v": 30,
+     "t": "6.30"
+    },
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 1500,
+     "t": "1.500"
+    },
+    {
+     "v": 6,
+     "t": "6.30"
+    },
+    {
+     "v": 30,
+     "t": "6.30"
+    },
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 1500,
+     "t": "1.500"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJvGwq70",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/winkel-club-brugge-shop-shirts-blauw-zwart-menen-lieve-pensioen/",
+   "title": "Lieve (62) gaat met pensioen en organiseert uitverkoop in iconische Blauw Zwart Shop in Menen: \"Overrompeling van Club Brugge-fans\"",
+   "published": "2026-11-01T18:52:21+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.OvkmBqbxp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/m-shuttle-mechelen-gratis-busjes-elektrisch-app/",
+   "title": "Nieuwe M-Shuttle in Mechelen rijdt met grotere elektrische bussen en volg-app",
+   "published": "2026-11-01T19:03:23+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 93000,
+     "t": "93.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDeVG6DNO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/christa-pike-arts-mark-fowler-spreekt-voor-het-eerst/",
+   "title": "Arts doorbreekt stilzwijgen na mislukte executie van Christa Pike: \"Ik ben niet gewetenloos\"",
+   "published": "2026-11-01T19:14:22+01:00",
+   "first_seen": "2026-11-01T19:27:34+01:00",
+   "numbers": [
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 57,
+     "t": "57"
+    },
+    {
+     "v": 1996,
+     "t": "1996"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 1996,
+     "t": "1996"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 18,
+     "t": "18"
     }
    ],
    "money": []
