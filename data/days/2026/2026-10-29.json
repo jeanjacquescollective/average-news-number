@@ -966,6 +966,38 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/les-engages-en-vooruit-lijken-elkaar-te-vinden-in-eis-om-grote-v~1793247532380/",
+   "title": "LIVE Les Engagés en Vooruit lijken elkaar te vinden in eis om grote vermogens meer te laten bijdragen",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-01T14:13:47+01:00",
+   "numbers": [
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1500000000,
+     "t": "1,5 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "steun",
+     "how": "article",
+     "ctx": "Vooruit wil in de begrotingstabellen 1,5 miljard euro zien opgenomen worden aan maatregelen die door de “sterkste schouders” gedragen zouden moeten worden, de grote vermogens."
+    }
+   ]
+  },
+  {
    "id": "p.APQP43k3D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/audit-rekenhof-i-police/",
    "title": "Geflopt politieproject i-Police kostte belastingbetaler ruim 139 miljoen euro, bijna dubbel zoveel als gedacht",

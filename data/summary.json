@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-01T06:57:55+01:00",
+ "updated_at": "2026-11-01T14:13:47+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 112,
-    "numbers": 1201,
-    "mean": 222947964.2726,
-    "median": 35,
+    "count": 113,
+    "numbers": 1298,
+    "mean": 206290843.1205,
+    "median": 38.0,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -583,9 +583,9 @@
     }
    },
    "articles": {
-    "count": 62,
-    "numbers": 691,
-    "mean": 290210267.0264,
+    "count": 63,
+    "numbers": 694,
+    "mean": 291117139.1127,
     "median": 26.7,
     "min": {
      "v": -30,
@@ -727,28 +727,28 @@
   {
    "date": "2026-11-01",
    "headlines": {
-    "count": 10,
-    "numbers": 6,
-    "mean": 92.4117,
-    "median": 9.235,
+    "count": 25,
+    "numbers": 14,
+    "mean": 22960.2479,
+    "median": 9.5,
     "min": {
-     "v": 8,
-     "t": "8",
-     "title": "Onrustige avond in Kortrijk: 8 jongeren opgepakt na vechtpartijen en kat-en-muisspel met politie",
+     "v": 3,
+     "t": "3",
+     "title": "Balans na kat-en-muisspel tussen jongeren en politie in Kortrijk: 9 jongeren opgepakt, 41 GAS-boetes en 3 agenten gewond",
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/31/kortrijk-onrust-pro-palestina-protes-en-tegenprotest/"
     },
     "max": {
-     "v": 500,
-     "t": "500",
-     "title": "Meer dan 500 arrestaties in Frankrijk, winkels geplunderd in Frankfurt",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/meer-dan-500-arrestaties-in-frankrijk-winkels-geplunderd-in-fra~1792507723130/"
+     "v": 320000,
+     "t": "320.000",
+     "title": "Balans van protest in Frankrijk: 320.000 mensen kwamen op straat, bijna 800 relschoppers opgepakt",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/balans-van-protest-in-frankrijk-320000-mensen-kwamen-op-straat~1792507723130/"
     }
    },
    "articles": {
-    "count": 5,
-    "numbers": 71,
-    "mean": 14092883.7075,
-    "median": 16,
+    "count": 26,
+    "numbers": 271,
+    "mean": 353600204.1477,
+    "median": 17,
     "min": {
      "v": 1,
      "t": "1",
@@ -756,10 +756,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/cremeren-1-november-vlaanderen-prijs/"
     },
     "max": {
-     "v": 1000000000,
-     "t": "1 miljard",
-     "title": "De erosie van een supermacht: Amerika fnuikt zichzelf",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/de-erosie-van-een-supermacht-amerika-fnuikt-zichzelf/"
+     "v": 20000000000,
+     "t": "20 miljard",
+     "title": "Rechter verwerpt Trumps klacht over schunnige tekening voor Epstein: \"Een wanhoopspoging\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/01/rechter-verwerpt-klacht-van-trump-over-verjaardagskaartje-aan-ep/"
     }
    },
    "money": {
