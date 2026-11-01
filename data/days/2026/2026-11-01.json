@@ -38,7 +38,524 @@
    "first_seen": "2026-11-01T01:04:50+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "\"Werken moet lonen\": vanaf vandaag krijg je 8,47 euro nettoloon meer",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/meer-loon-vanaf-november-aanpassing-bedrijfsvoorheffing/",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 8.47,
+     "t": "8,47"
+    }
+   ],
+   "money": [
+    {
+     "eur": 8.47,
+     "t": "8,47 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "\"Werken moet lonen\": vanaf vandaag krijg je 8,47 euro nettoloon meer"
+    }
+   ]
+  },
+  {
+   "title": "De erosie van een supermacht: Amerika fnuikt zichzelf",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/de-erosie-van-een-supermacht-amerika-fnuikt-zichzelf/",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "8 op de 10 Vlamingen kiezen voor crematie: grote verschillen met Brussel en Wallonië",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/cremeren-1-november-vlaanderen-prijs/",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "De Amerikanen maken zich op voor de 'midterms': wat zijn dat precies? En zijn ze belangrijk?",
+   "url": "https://www.vrt.be/vrtnws/nl/2018/09/11/de-amerikanen-maken-zich-op-voor-de-midterms-maar-wat-is-dat/",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "En dan kwamen die laatste 20 pagina's",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/jaap-robben-boekentip-ruth-joos/",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"Waarom zegt een van mijn vrienden telkens onze afspraken af?\": Rika Ponnet beantwoordt vraag van Ruben",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/rika-ponnet-relatietips-vriend-zegt-afspraken-af/",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
- "articles": []
+ "articles": [
+  {
+   "id": "p.ew4BkBAyK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/cremeren-1-november-vlaanderen-prijs/",
+   "title": "8 op de 10 Vlamingen kiezen voor crematie: grote verschillen met Brussel en Wallonië",
+   "published": "2026-11-01T06:00:00+01:00",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 6500,
+     "t": "6.500"
+    },
+    {
+     "v": 81,
+     "t": "81"
+    },
+    {
+     "v": 63,
+     "t": "63"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    }
+   ],
+   "money": [
+    {
+     "eur": 6500,
+     "t": "6.500 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "article",
+     "ctx": "\"De laatste studies die ik daarover gezien heb, schatten de prijs van een uitvaart op zo'n 6.500 euro, of dat nu om een begrafenis of een crematie gaat."
+    }
+   ]
+  },
+  {
+   "id": "p.0YpYG3bwZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/29/jaap-robben-boekentip-ruth-joos/",
+   "title": "En dan kwamen die laatste 20 pagina's",
+   "published": "2026-11-01T06:05:00+01:00",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 42,
+     "t": "42"
+    },
+    {
+     "v": 42,
+     "t": "42"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.vLlpQ9KxR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/de-erosie-van-een-supermacht-amerika-fnuikt-zichzelf/",
+   "title": "De erosie van een supermacht: Amerika fnuikt zichzelf",
+   "published": "2026-11-01T06:10:00+01:00",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 1838,
+     "t": "1838"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 1500,
+     "t": "1.500"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1290,
+     "t": "1.500 dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "belastingverhoging",
+     "how": "sentence",
+     "ctx": "De Trump-tarieven vormen de grootste Amerikaanse belastingverhoging als percentage van het bbp in ruim 30 jaar, en drukken zwaar op gewone Amerikaanse gezinnen: gemiddeld zo'n 1.500 dollar extra per huishouden in 2026."
+    },
+    {
+     "eur": 860000000,
+     "t": "1 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "verliest",
+     "how": "sentence",
+     "ctx": "Procter & Gamble moest de prijzen van een kwart van zijn producten verhogen door een tariefimpact van 1 miljard dollar op jaarbasis, terwijl zelfs een brouwer als Constellation Brands (bekend van de biermerken Modelo, Corona en Pacifico uit Mexico) miljoenen verliest aan tarieven op aluminium bli…"
+    }
+   ]
+  },
+  {
+   "id": "p.xZYbdkEb4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/meer-loon-vanaf-november-aanpassing-bedrijfsvoorheffing/",
+   "title": "\"Werken moet lonen\": vanaf vandaag krijg je 8,47 euro nettoloon meer",
+   "published": "2026-11-01T06:30:00+01:00",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 8.47,
+     "t": "8,47"
+    },
+    {
+     "v": 8.47,
+     "t": "8,47"
+    },
+    {
+     "v": 8.47,
+     "t": "8,47"
+    },
+    {
+     "v": 11170,
+     "t": "11.170"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 15300,
+     "t": "15.300"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 11550,
+     "t": "11.550"
+    },
+    {
+     "v": 8.47,
+     "t": "8,47"
+    },
+    {
+     "v": 8.47,
+     "t": "8,47"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 8.47,
+     "t": "8,47"
+    },
+    {
+     "v": 13.47,
+     "t": "13,47"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 7.47,
+     "t": "7,47"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3.47,
+     "t": "3,47"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 13790,
+     "t": "13.790"
+    },
+    {
+     "v": 11780,
+     "t": "11.780"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 500151,
+     "t": "500.151"
+    }
+   ],
+   "money": [
+    {
+     "eur": 8.47,
+     "t": "8,47 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "personenbelasting",
+     "how": "article",
+     "ctx": "\"Werken moet lonen\": vanaf vandaag krijg je 8,47 euro nettoloon meer"
+    },
+    {
+     "eur": 8.47,
+     "t": "8,47 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "verdienen",
+     "how": "sentence",
+     "ctx": "8,47 euro: zoveel zal je als werknemer meer verdienen en dus op je rekening zien verschijnen vanaf november."
+    },
+    {
+     "eur": 11170,
+     "t": "11.170 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "personenbelasting",
+     "how": "article",
+     "ctx": "Tot vandaag bedroeg die som 11.170 euro, tegen 2030 zal die maximum 15.300 euro bedragen."
+    },
+    {
+     "eur": 15300,
+     "t": "15.300 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "personenbelasting",
+     "how": "article",
+     "ctx": "Tot vandaag bedroeg die som 11.170 euro, tegen 2030 zal die maximum 15.300 euro bedragen."
+    },
+    {
+     "eur": 5,
+     "t": "5 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "personenbelasting",
+     "how": "article",
+     "ctx": "Wie in november 2026 1 kind ten laste heeft, zal 5 euro nettoloon meer overhouden."
+    },
+    {
+     "eur": 13.47,
+     "t": "13,47 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "personenbelasting",
+     "how": "article",
+     "ctx": "Zij zien dus in totaal geen 8,47 euro extra op hun rekening verschijnen, maar 13,47 euro."
+    },
+    {
+     "eur": 1,
+     "t": "1 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "sentence",
+     "ctx": "Een ouder met 2 kinderen ten laste krijgt volgens Liantis ongeveer 1 euro netto per maand minder."
+    },
+    {
+     "eur": 7.47,
+     "t": "7,47 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "personenbelasting",
+     "how": "article",
+     "ctx": "Zij zullen dus in totaal 7,47 euro extra nettoloon krijgen."
+    },
+    {
+     "eur": 3.47,
+     "t": "3,47 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "personenbelasting",
+     "how": "article",
+     "ctx": "Bij 3 kinderen gaat het in totaal om 3,47 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.bDyVdVkRx",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/17/rika-ponnet-relatietips-vriend-zegt-afspraken-af/",
+   "title": "\"Waarom zegt een van mijn vrienden telkens onze afspraken af?\": Rika Ponnet beantwoordt vraag van Ruben",
+   "published": "2026-11-01T06:45:00+01:00",
+   "first_seen": "2026-11-01T06:57:55+01:00",
+   "numbers": [
+    {
+     "v": 37,
+     "t": "37"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2,
+     "t": "Twee"
+    }
+   ],
+   "money": []
+  }
+ ]
 }

@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-01T01:04:50+01:00",
+ "updated_at": "2026-11-01T06:57:55+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -727,10 +727,10 @@
   {
    "date": "2026-11-01",
    "headlines": {
-    "count": 4,
-    "numbers": 2,
-    "mean": 254.0,
-    "median": 254.0,
+    "count": 10,
+    "numbers": 6,
+    "mean": 92.4117,
+    "median": 9.235,
     "min": {
      "v": 8,
      "t": "8",
@@ -745,15 +745,35 @@
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 5,
+    "numbers": 71,
+    "mean": 14092883.7075,
+    "median": 16,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "8 op de 10 Vlamingen kiezen voor crematie: grote verschillen met Brussel en Wallonië",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/23/cremeren-1-november-vlaanderen-prijs/"
+    },
+    "max": {
+     "v": 1000000000,
+     "t": "1 miljard",
+     "title": "De erosie van een supermacht: Amerika fnuikt zichzelf",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/de-erosie-van-een-supermacht-amerika-fnuikt-zichzelf/"
+    }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 8.47,
+    "biggest_gained": {
+     "eur": 8.47,
+     "t": "8,47 euro",
+     "title": "\"Werken moet lonen\": vanaf vandaag krijg je 8,47 euro nettoloon meer",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/meer-loon-vanaf-november-aanpassing-bedrijfsvoorheffing/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 8.47
    }
   }
  ]
