@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-02T09:24:01+01:00",
+ "updated_at": "2026-11-02T19:44:33+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -569,9 +569,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 99,
-    "numbers": 1073,
-    "mean": 418832746.6001,
+    "count": 100,
+    "numbers": 1103,
+    "mean": 407441104.174,
     "median": 20,
     "min": {
      "v": -1.3,
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 113,
-    "numbers": 1241,
-    "mean": 400894099.0039,
+    "count": 114,
+    "numbers": 1249,
+    "mean": 406332729.3966,
     "median": 24,
     "min": {
      "v": -30,
@@ -811,33 +811,33 @@
   {
    "date": "2026-11-02",
    "headlines": {
-    "count": 15,
-    "numbers": 8,
-    "mean": 31.75,
-    "median": 27.5,
+    "count": 36,
+    "numbers": 18,
+    "mean": 169467.3889,
+    "median": 29.0,
     "min": {
-     "v": 3,
-     "t": "3",
-     "title": "Je huisdier meenemen op de trein? Dat is dan (meestal) 3 euro per rit",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/huisdier-supplement-nmbs-hoe-en-wat/"
+     "v": 2,
+     "t": "2",
+     "title": "Nieuwe aanvallen gemeld in regio Cherson na tijdelijk bestand, 2 personen gewond",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/nieuwe-aanvallen-gemeld-in-regio-cherson-na-tijdelijk-bestand-2~1789060001669/"
     },
     "max": {
-     "v": 100,
-     "t": "100",
-     "title": "Vergeten kaskraker bijna 100 jaar na première opnieuw te zien in Gent en Brugge: \"Restauratie is een mirakel\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/gent-film-restauratie-duitsland-stomme-film-gesproken-film-block/"
+     "v": 2000000,
+     "t": "2 miljoen",
+     "title": "Nederland looft recordbedrag uit van 2 miljoen euro voor gouden tip die naar drugscrimineel 'Bolle Jos' leidt",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/bolle-jos-gouden-tip-2-miljoen-euro/"
     }
    },
    "articles": {
-    "count": 10,
-    "numbers": 88,
-    "mean": 218195672.9432,
-    "median": 32.0,
+    "count": 57,
+    "numbers": 393,
+    "mean": 48992308.908,
+    "median": 30,
     "min": {
-     "v": 1,
-     "t": "Eén",
-     "title": "Vergeten kaskraker bijna 100 jaar na première opnieuw te zien in Gent en Brugge: \"Restauratie is een mirakel\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/gent-film-restauratie-duitsland-stomme-film-gesproken-film-block/"
+     "v": -24,
+     "t": "-24",
+     "title": "Supermarkten moeten grote hoeveelheden eten weggooien na cyberaanval op koelinstallaties, maar is dat wel noodzakelijk?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/honderdduizenden-euro-s-aan-voedsel-dreigen-verloren-te-gaan-na/"
     },
     "max": {
      "v": 10000000000,
@@ -847,17 +847,17 @@
     }
    },
    "money": {
-    "count": 1,
+    "count": 3,
     "lost": 0,
-    "gained": 3,
+    "gained": 3000003,
     "biggest_gained": {
-     "eur": 3,
-     "t": "3 euro",
-     "title": "Je huisdier meenemen op de trein? Dat is dan (meestal) 3 euro per rit",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/huisdier-supplement-nmbs-hoe-en-wat/"
+     "eur": 2000000,
+     "t": "2 miljoen euro",
+     "title": "Nederland looft recordbedrag uit van 2 miljoen euro voor gouden tip die naar drugscrimineel 'Bolle Jos' leidt",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/bolle-jos-gouden-tip-2-miljoen-euro/"
     },
     "neutral": 0,
-    "net": 3
+    "net": 3000003
    }
   }
  ]
