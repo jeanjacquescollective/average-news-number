@@ -1655,6 +1655,108 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/federale-kern-uiteen-zonder-akkoord-premier-de-wever-trekt-naar~1793247532380/",
+   "title": "LIVE Federale kern uiteen zonder akkoord, premier De Wever trekt naar de koning",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-02T02:42:56+01:00",
+   "numbers": [
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 3000000000,
+     "t": "3 miljard"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparing",
+     "how": "sentence",
+     "ctx": "De federale regering zoekt tegen 2029 een besparing van 10 miljard euro."
+    },
+    {
+     "eur": 3000000000,
+     "t": "3 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "belastingen",
+     "how": "sentence",
+     "ctx": "\"Ik heb gezegd dat er te veel belastingen waren\", aldus Clarinval, die het heeft over meer dan 3 miljard euro aan belastingen die op tafel zouden hebben gelegen."
+    },
+    {
+     "eur": 1500000000,
+     "t": "1,5 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premier",
+     "how": "title",
+     "ctx": "Vooruit wil in de begrotingstabellen 1,5 miljard euro zien opgenomen worden aan maatregelen die door de “sterkste schouders” gedragen zouden moeten worden, de grote vermogens."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",
