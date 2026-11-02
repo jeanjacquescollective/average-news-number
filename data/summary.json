@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-02T02:42:56+01:00",
+ "updated_at": "2026-11-02T09:24:01+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 112,
-    "numbers": 1234,
-    "mean": 395064485.2066,
-    "median": 24.0,
+    "count": 113,
+    "numbers": 1241,
+    "mean": 400894099.0039,
+    "median": 24,
     "min": {
      "v": -30,
      "t": "-30",
@@ -811,19 +811,53 @@
   {
    "date": "2026-11-02",
    "headlines": {
-    "count": 2,
-    "numbers": 0
+    "count": 15,
+    "numbers": 8,
+    "mean": 31.75,
+    "median": 27.5,
+    "min": {
+     "v": 3,
+     "t": "3",
+     "title": "Je huisdier meenemen op de trein? Dat is dan (meestal) 3 euro per rit",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/huisdier-supplement-nmbs-hoe-en-wat/"
+    },
+    "max": {
+     "v": 100,
+     "t": "100",
+     "title": "Vergeten kaskraker bijna 100 jaar na première opnieuw te zien in Gent en Brugge: \"Restauratie is een mirakel\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/gent-film-restauratie-duitsland-stomme-film-gesproken-film-block/"
+    }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 10,
+    "numbers": 88,
+    "mean": 218195672.9432,
+    "median": 32.0,
+    "min": {
+     "v": 1,
+     "t": "Eén",
+     "title": "Vergeten kaskraker bijna 100 jaar na première opnieuw te zien in Gent en Brugge: \"Restauratie is een mirakel\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/gent-film-restauratie-duitsland-stomme-film-gesproken-film-block/"
+    },
+    "max": {
+     "v": 10000000000,
+     "t": "10 miljard",
+     "title": "Begrotingsoverleg mislukt: hoe is het zover kunnen komen? En wat nu?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/geen-begrotingsakkoord-politieke-crisis-overzicht/"
+    }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 3,
+    "biggest_gained": {
+     "eur": 3,
+     "t": "3 euro",
+     "title": "Je huisdier meenemen op de trein? Dat is dan (meestal) 3 euro per rit",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/08/28/huisdier-supplement-nmbs-hoe-en-wat/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 3
    }
   }
  ]
