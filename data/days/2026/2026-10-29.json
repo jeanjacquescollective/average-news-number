@@ -1981,6 +1981,50 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/vincent-van-peteghem-cdv-we-zitten-dichter-bij-griekse-toes~1793247532380/",
+   "title": "LIVE Vincent Van Peteghem (CD&V): \"We zitten dichter bij Griekse toestanden dan we zouden denken\"",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 140000000,
+     "t": "140 miljoen"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2010,
+     "t": "2010"
+    },
+    {
+     "v": 14,
+     "t": "veertien"
+    }
+   ],
+   "money": [
+    {
+     "eur": 140000000,
+     "t": "140 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "belastingsgeld",
+     "how": "sentence",
+     "ctx": "Zouden die ongelegen komen voor CD&V, nu de regeringspartij met enkele gevoelige dossiers zit als i-Police, waar 140 miljoen euro belastingsgeld verloren ging, en de dienstreizen van minister van Justitie Annelies Verlinden (CD&V)?"
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

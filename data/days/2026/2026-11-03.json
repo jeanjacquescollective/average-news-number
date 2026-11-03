@@ -360,6 +360,120 @@
    "first_seen": "2026-11-03T17:26:40+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Midterms volop aan de gang, Björn Soenens: \"Gemoedstoestand van Amerika is aan het veranderen\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/midterms-volop-aan-de-gang-bjorn-soenens-gemoedstoestand-van-~1792770744209/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Strafonderzoek naar advocaat Hans Rieder over lening van 600.000 euro door hoogbejaarde vrouw van cliënt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/strafonderzoek-naar-advocaat-hans-rieder-over-lening-van-hoogbej/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 600000,
+     "t": "600.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 600000,
+     "t": "600.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Strafonderzoek naar advocaat Hans Rieder over lening van 600.000 euro door hoogbejaarde vrouw van cliënt"
+    }
+   ]
+  },
+  {
+   "title": "Grillchef en oud-wereldkampioen barbecue Peter De Clercq (56) uit Maldegem overleden: \"Laat grote leegte achter\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/wereldkampioen-barbecue-peter-de-clercq-maldegem/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 56,
+     "t": "56"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Kruibekenaar (69) ziet plots zijn eigen kunstwerk hangen in Escher-tentoonstelling in Brussel",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/kruibeke-kunstenaar-tentoonstelling-eigen-werk-escher/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 69,
+     "t": "69"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Vincent Van Peteghem (CD&V): \"We zitten dichter bij Griekse toestanden dan we zouden denken\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/vincent-van-peteghem-cdv-we-zitten-dichter-bij-griekse-toes~1793247532380/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Dodental na aanval op schoolgebouw in Oekraïne loopt op tot 33, VN: \"Lijkt in strijd met basisprincipes van humanitair recht\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/dodental-na-aanval-op-schoolgebouw-in-oekraine-loopt-op-tot-33-~1793644191149/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 33,
+     "t": "33"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Spaanse minister van Transport neemt ontslag, week na treinramp waarbij 69 mensen omkwamen",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/spaanse-minister-van-transport-neemt-ontslag-week-na-treinramp-~1793178600996/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 69,
+     "t": "69"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Palestijnse activist krijgt bestickerde mobilhome terug, maar moet Antwerpen meteen verlaten",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/mobilhome-van-palestijnse-activist-vrijgegeven-antwerpen/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "19 of 20 graden op kantoor? \"Met een warme trui en een kussentje kan je jezelf al heel wat comfortabeler maken\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/griet-verbeeck-over-de-ideale-temperatuur-op-kantoor/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Britse koning Charles noemt slavernij \"beschamend hoofdstuk\", maar biedt (zoals verwacht) excuses niet aan",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/britse-premier-burnham-excuses-historische-slavenhandel/",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
  "articles": [
@@ -3935,6 +4049,516 @@
      "kw": "steun",
      "how": "sentence",
      "ctx": "Zelzate geeft tot 2.000 euro steun aan ondernemers om zaak toegankelijker te maken"
+    }
+   ]
+  },
+  {
+   "id": "p.0YpW6GW3L",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/politiezone-bodukap-duffel-diefstal-inbraak-preventiemaatregelen/",
+   "title": "Politiezone Bodukap geeft inbraakadvies voortaan ook aan groepen: \"Voorkomen is altijd beter dan genezen\"",
+   "published": "2026-11-03T17:29:51+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 112,
+     "t": "112"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoVXbDmY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/parlement-groenland-keurt-veiligheidsakkoord-met-vs-en-denemarke/",
+   "title": "Parlement van Groenland keurt veiligheidsakkoord met VS en Denemarken goed",
+   "published": "2026-11-03T18:46:09+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.bDo9MwyOm",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/mobilhome-van-palestijnse-activist-vrijgegeven-antwerpen/",
+   "title": "Palestijnse activist krijgt bestickerde mobilhome terug, maar moet Antwerpen meteen verlaten",
+   "published": "2026-11-03T18:49:57+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 37,
+     "t": "37"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLRGyQ5AN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/haacht-holsbeek-en-rotselaar-vragen-schrapping-vliegroute-leuve/",
+   "title": "Haacht, Holsbeek en Rotselaar vragen samen schrapping van vliegroute boven hun daken: \"Spreid het vliegverkeer beter\"",
+   "published": "2026-11-03T19:14:57+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 2014,
+     "t": "2014"
+    },
+    {
+     "v": 7,
+     "t": "07"
+    },
+    {
+     "v": 7,
+     "t": "07"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 7459,
+     "t": "7.459"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5Pyw6dX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/beroep-tegen-stort-in-antwerpse-haven/",
+   "title": "Klimaatorganisatie en buurtbewoners tekenen beroep aan tegen stort in haven van Antwerpen",
+   "published": "2026-11-03T19:22:51+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYVXDdjv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/kruibeke-kunstenaar-tentoonstelling-eigen-werk-escher/",
+   "title": "Kruibekenaar (69) ziet plots zijn eigen kunstwerk hangen in Escher-tentoonstelling in Brussel",
+   "published": "2026-11-03T19:37:38+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1994,
+     "t": "1994"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1983,
+     "t": "1983"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.WkjxjQvKM",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/sint-pieters-geen-vergunning-voor-sociaal-woonproject-en-kantore/",
+   "title": "Sociaal woonproject met kantoren in Sint-Pieters krijgt voorlopig toch geen vergunning",
+   "published": "2026-11-03T19:57:45+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 53,
+     "t": "53"
+    },
+    {
+     "v": 53,
+     "t": "53"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.8epQpV0OK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/animal-rescue-service-sint-truiden-kortenaken-gastgezinnen-honde/",
+   "title": "Animal Rescue Service zoekt gastgezinnen voor honden nu overname Zorghoeve in Kortenaken niet doorgaat",
+   "published": "2026-11-03T20:02:26+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 2019,
+     "t": "2019"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoVovnn6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/griet-verbeeck-over-de-ideale-temperatuur-op-kantoor/",
+   "title": "19 of 20 graden op kantoor? \"Met\neen warme trui en een kussentje kan je jezelf al heel wat comfortabeler\nmaken\"",
+   "published": "2026-11-03T20:06:10+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 18.5,
+     "t": "18,5"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGkDWO9VK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/kinderkasteeltje-nazareth-de-pinte-herbestemming/",
+   "title": "Nazareth-De Pinte zoekt nieuwe invulling voor historisch Kinderkasteeltje: \"Geen restaurant of hotel\"",
+   "published": "2026-11-03T20:44:39+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.6KpnkLL04",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/onderzoek-naar-vermeende-kindermoord-in-pastorie-van-kalmthout-l/",
+   "title": "Onderzoek naar vermeende moord en kindermisbruik door koster en priesters in Kalmthout levert niets op",
+   "published": "2026-11-03T20:58:38+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 2000,
+     "t": "2000"
+    },
+    {
+     "v": 2000,
+     "t": "2000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2009,
+     "t": "2009"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lObVXnLLk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/wereldkampioen-barbecue-peter-de-clercq-maldegem/",
+   "title": "Grillchef en oud-wereldkampioen barbecue Peter De Clercq (56) uit Maldegem overleden: \"Laat grote leegte achter\"",
+   "published": "2026-11-03T21:08:38+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 56,
+     "t": "56"
+    },
+    {
+     "v": 56,
+     "t": "56"
+    },
+    {
+     "v": 2003,
+     "t": "2003"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4AXmDjN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/woninginbraken-en-online-oplichting-kastze-kampenhout/",
+   "title": "Politie KASTZE  waarschuwt voor valse webshops en inbrekers tijdens eindejaarsperiode",
+   "published": "2026-11-03T21:15:55+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.bDo9l9GE5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/strafonderzoek-naar-advocaat-hans-rieder-over-lening-van-hoogbej/",
+   "title": "Strafonderzoek naar advocaat Hans Rieder over lening van 600.000 euro door hoogbejaarde vrouw van cliënt",
+   "published": "2026-11-03T21:41:22+01:00",
+   "first_seen": "2026-11-03T22:56:01+01:00",
+   "numbers": [
+    {
+     "v": 600000,
+     "t": "600.000"
+    },
+    {
+     "v": 600000,
+     "t": "600.000"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 93,
+     "t": "93"
+    },
+    {
+     "v": 600000,
+     "t": "600.000"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    }
+   ],
+   "money": [
+    {
+     "eur": 600000,
+     "t": "600.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "witwassen",
+     "how": "article",
+     "ctx": "Strafonderzoek naar advocaat Hans Rieder over lening van 600.000 euro door hoogbejaarde vrouw van cliënt"
     }
    ]
   }

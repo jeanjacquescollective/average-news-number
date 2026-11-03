@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-03T17:26:40+01:00",
+ "updated_at": "2026-11-03T22:56:01+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 89,
-    "numbers": 869,
-    "mean": 12452521.8509,
-    "median": 22,
+    "count": 91,
+    "numbers": 951,
+    "mean": 11498903.2455,
+    "median": 21,
     "min": {
      "v": -8,
      "t": "-8",
@@ -569,9 +569,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 100,
-    "numbers": 1103,
-    "mean": 407441104.174,
+    "count": 101,
+    "numbers": 1143,
+    "mean": 393182448.887,
     "median": 20,
     "min": {
      "v": -1.3,
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 117,
-    "numbers": 1275,
-    "mean": 413733006.6404,
-    "median": 23.7,
+    "count": 118,
+    "numbers": 1281,
+    "mean": 411904438.3341,
+    "median": 23,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 68,
-    "numbers": 572,
-    "mean": 63574962.2847,
-    "median": 26.0,
+    "count": 69,
+    "numbers": 627,
+    "mean": 58022730.3921,
+    "median": 26,
     "min": {
      "v": -24,
      "t": "-24",
@@ -863,10 +863,10 @@
   {
    "date": "2026-11-03",
    "headlines": {
-    "count": 45,
-    "numbers": 9,
-    "mean": 12777794.5556,
-    "median": 20,
+    "count": 55,
+    "numbers": 16,
+    "mean": 7225026.0625,
+    "median": 29.5,
     "min": {
      "v": 2,
      "t": "2",
@@ -881,10 +881,10 @@
     }
    },
    "articles": {
-    "count": 74,
-    "numbers": 623,
-    "mean": 1205665793.3504,
-    "median": 22,
+    "count": 88,
+    "numbers": 713,
+    "mean": 1053480550.2887,
+    "median": 20,
     "min": {
      "v": 0,
      "t": "08.00",
@@ -899,11 +899,17 @@
     }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 600000,
+    "biggest_gained": {
+     "eur": 600000,
+     "t": "600.000 euro",
+     "title": "Strafonderzoek naar advocaat Hans Rieder over lening van 600.000 euro door hoogbejaarde vrouw van cliënt",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/strafonderzoek-naar-advocaat-hans-rieder-over-lening-van-hoogbej/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 600000
    }
   }
  ]
