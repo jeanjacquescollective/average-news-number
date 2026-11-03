@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-02T19:44:33+01:00",
+ "updated_at": "2026-11-03T02:20:16+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -537,10 +537,10 @@
     "numbers": 0
    },
    "articles": {
-    "count": 98,
-    "numbers": 978,
-    "mean": 56272478185.6814,
-    "median": 30.0,
+    "count": 99,
+    "numbers": 1069,
+    "mean": 51482211667.865,
+    "median": 29,
     "min": {
      "v": -17.6,
      "t": "-17,6",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 114,
-    "numbers": 1249,
-    "mean": 406332729.3966,
+    "count": 115,
+    "numbers": 1257,
+    "mean": 411702132.9904,
     "median": 24,
     "min": {
      "v": -30,
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 57,
-    "numbers": 393,
-    "mean": 48992308.908,
-    "median": 30,
+    "count": 61,
+    "numbers": 419,
+    "mean": 86715937.329,
+    "median": 26,
     "min": {
      "v": -24,
      "t": "-24",
@@ -840,10 +840,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/honderdduizenden-euro-s-aan-voedsel-dreigen-verloren-te-gaan-na/"
     },
     "max": {
-     "v": 10000000000,
-     "t": "10 miljard",
-     "title": "Begrotingsoverleg mislukt: hoe is het zover kunnen komen? En wat nu?",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/geen-begrotingsakkoord-politieke-crisis-overzicht/"
+     "v": 16680000000,
+     "t": "16,68 miljard",
+     "title": "Na Meta en TikTok koopt ook Snap proces af over verslavende Snapchat-functies",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/snap-sluit-schikking-met-eisers-en-voorkomt-eerste-juryrechtsza/"
     }
    },
    "money": {
@@ -858,6 +858,38 @@
     },
     "neutral": 0,
     "net": 3000003
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "headlines": {
+    "count": 6,
+    "numbers": 2,
+    "mean": 23.0,
+    "median": 23.0,
+    "min": {
+     "v": 20,
+     "t": "20",
+     "title": "Genkenaar gijzelt en mishandelt OnlyFans-model in zijn appartement: 20 maanden cel",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/20-maanden-cel-voor-genkenaar-die-onlyfans-model-gijzelde-in-zij/"
+    },
+    "max": {
+     "v": 26,
+     "t": "26",
+     "title": "Minstens 26 doden bij Russisch bombardement op dorp in Zaporizja: verdeelcentrum voor noodhulp en schuilplaats geraakt",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/minstens-26-doden-bij-russisch-bombardement-op-dorp-in-zaporizja~1793644191149/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
