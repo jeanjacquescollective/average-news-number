@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-03T02:20:16+01:00",
+ "updated_at": "2026-11-03T09:20:12+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 87,
-    "numbers": 797,
-    "mean": 13574123.3635,
+    "count": 88,
+    "numbers": 837,
+    "mean": 12928477.7055,
     "median": 21,
     "min": {
      "v": -8,
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 115,
-    "numbers": 1257,
-    "mean": 411702132.9904,
+    "count": 116,
+    "numbers": 1273,
+    "mean": 414383019.2074,
     "median": 24,
     "min": {
      "v": -30,
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 61,
-    "numbers": 419,
-    "mean": 86715937.329,
-    "median": 26,
+    "count": 66,
+    "numbers": 512,
+    "mean": 70995017.8845,
+    "median": 26.0,
     "min": {
      "v": -24,
      "t": "-24",
@@ -863,15 +863,15 @@
   {
    "date": "2026-11-03",
    "headlines": {
-    "count": 6,
-    "numbers": 2,
-    "mean": 23.0,
-    "median": 23.0,
+    "count": 20,
+    "numbers": 4,
+    "mean": 14.0,
+    "median": 14.0,
     "min": {
-     "v": 20,
-     "t": "20",
-     "title": "Genkenaar gijzelt en mishandelt OnlyFans-model in zijn appartement: 20 maanden cel",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/20-maanden-cel-voor-genkenaar-die-onlyfans-model-gijzelde-in-zij/"
+     "v": 2,
+     "t": "2",
+     "title": "Politieoperatie in Schaarbeek voorbij: man verschanst zich in woning, 2 mensen opgepakt",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/politieoperatie-in-schaarbeek-voorbij-man-verschanst-zich-in-wo/"
     },
     "max": {
      "v": 26,
@@ -881,8 +881,22 @@
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 18,
+    "numbers": 161,
+    "mean": 2326759.4938,
+    "median": 19,
+    "min": {
+     "v": 1,
+     "t": "één",
+     "title": "Hoe 'midterms' niet alleen Trumps meerderheid in Washington, maar ook zijn greep op Republikeinen bedreigen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/hoe-amerikaanse-ministerie-van-justitie-toont-dat-donald-trump-b/"
+    },
+    "max": {
+     "v": 200000000,
+     "t": "200 miljoen",
+     "title": "Boycot en oorlogsdreiging leggen extra druk op deadline: schrapt F1 dan toch nog GP's in Qatar en Abu Dhabi?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/opvolgstuk-abu-dhabi-qatar-f1/"
+    }
    },
    "money": {
     "count": 0,

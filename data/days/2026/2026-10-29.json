@@ -1889,6 +1889,80 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/anders-bereid-regering-te-steunen-onze-8-zetels-staan-ter-besc~1793247532380/",
+   "title": "LIVE Anders bereid regering te steunen: \"Onze 8 zetels staan ter beschikking\"",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-03T09:20:12+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 0.6,
+     "t": "0,6"
+    },
+    {
+     "v": 73,
+     "t": "73"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",
