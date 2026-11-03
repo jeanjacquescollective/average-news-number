@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-03T09:20:12+01:00",
+ "updated_at": "2026-11-03T17:26:40+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 88,
-    "numbers": 837,
-    "mean": 12928477.7055,
-    "median": 21,
+    "count": 89,
+    "numbers": 869,
+    "mean": 12452521.8509,
+    "median": 22,
     "min": {
      "v": -8,
      "t": "-8",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 116,
-    "numbers": 1273,
-    "mean": 414383019.2074,
-    "median": 24,
+    "count": 117,
+    "numbers": 1275,
+    "mean": 413733006.6404,
+    "median": 23.7,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 66,
-    "numbers": 512,
-    "mean": 70995017.8845,
+    "count": 68,
+    "numbers": 572,
+    "mean": 63574962.2847,
     "median": 26.0,
     "min": {
      "v": -24,
@@ -863,10 +863,10 @@
   {
    "date": "2026-11-03",
    "headlines": {
-    "count": 20,
-    "numbers": 4,
-    "mean": 14.0,
-    "median": 14.0,
+    "count": 45,
+    "numbers": 9,
+    "mean": 12777794.5556,
+    "median": 20,
     "min": {
      "v": 2,
      "t": "2",
@@ -874,28 +874,28 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/politieoperatie-in-schaarbeek-voorbij-man-verschanst-zich-in-wo/"
     },
     "max": {
-     "v": 26,
-     "t": "26",
-     "title": "Minstens 26 doden bij Russisch bombardement op dorp in Zaporizja: verdeelcentrum voor noodhulp en schuilplaats geraakt",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/minstens-26-doden-bij-russisch-bombardement-op-dorp-in-zaporizja~1793644191149/"
+     "v": 115000000,
+     "t": "115 miljoen",
+     "title": "'Jurassic Park' in het echt? Onderzoekers vinden mogelijke rode bloedcellen in 115 miljoen jaar oud dinosaurusfossiel",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/mogelijk-resten-van-rode-bloedcellen-ontdekt-in-dinosaurusbot-va/"
     }
    },
    "articles": {
-    "count": 18,
-    "numbers": 161,
-    "mean": 2326759.4938,
-    "median": 19,
+    "count": 74,
+    "numbers": 623,
+    "mean": 1205665793.3504,
+    "median": 22,
     "min": {
-     "v": 1,
-     "t": "één",
-     "title": "Hoe 'midterms' niet alleen Trumps meerderheid in Washington, maar ook zijn greep op Republikeinen bedreigen",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/25/hoe-amerikaanse-ministerie-van-justitie-toont-dat-donald-trump-b/"
+     "v": 0,
+     "t": "08.00",
+     "title": "Carrefour Tessenderlo start koelafdeling weer op 1 dag na cyberaanval: \"Schade tegen eind deze week pas weggewerkt\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/tessenderlo-carrefour-start-op-dag-na-cyberaanval-koelkasten-en/"
     },
     "max": {
-     "v": 200000000,
-     "t": "200 miljoen",
-     "title": "Boycot en oorlogsdreiging leggen extra druk op deadline: schrapt F1 dan toch nog GP's in Qatar en Abu Dhabi?",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/opvolgstuk-abu-dhabi-qatar-f1/"
+     "v": 700000000000,
+     "t": "700 miljard",
+     "title": "Waarom kon de regering geen akkoord vinden? En hoe kan je dat als burger voelen? Jouw vragen over politieke crisis beantwoord",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/vragen-politieke-crisis/"
     }
    },
    "money": {
