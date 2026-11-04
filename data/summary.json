@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-03T22:56:01+01:00",
+ "updated_at": "2026-11-04T03:08:03+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 91,
-    "numbers": 951,
-    "mean": 11498903.2455,
-    "median": 21,
+    "count": 92,
+    "numbers": 969,
+    "mean": 11285474.564,
+    "median": 22,
     "min": {
      "v": -8,
      "t": "-8",
@@ -881,9 +881,9 @@
     }
    },
    "articles": {
-    "count": 88,
-    "numbers": 713,
-    "mean": 1053480550.2887,
+    "count": 89,
+    "numbers": 717,
+    "mean": 1047603395.7794,
     "median": 20,
     "min": {
      "v": 0,
@@ -910,6 +910,38 @@
     },
     "neutral": 0,
     "net": 600000
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "headlines": {
+    "count": 3,
+    "numbers": 0
+   },
+   "articles": {
+    "count": 1,
+    "numbers": 4,
+    "mean": 16.25,
+    "median": 20.5,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "Leuvense studenten volgen Amerikaanse midterms samen in\nkoffiebar: \"Dit zijn dingen die je bijblijven\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/leuven-midterms-amerika-studenten-politiek-verkiezingen-samen/"
+    },
+    "max": {
+     "v": 22,
+     "t": "22",
+     "title": "Leuvense studenten volgen Amerikaanse midterms samen in\nkoffiebar: \"Dit zijn dingen die je bijblijven\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/leuven-midterms-amerika-studenten-politiek-verkiezingen-samen/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]

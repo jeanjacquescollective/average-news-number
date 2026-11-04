@@ -4561,6 +4561,32 @@
      "ctx": "Strafonderzoek naar advocaat Hans Rieder over lening van 600.000 euro door hoogbejaarde vrouw van cliënt"
     }
    ]
+  },
+  {
+   "id": "p.11pjNxeDJ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/vs-verenigde-staten-midterms-tussentijdse-verkiezingen-resultate/",
+   "title": "Vind hier alle resultaten van de Amerikaanse tussentijdse verkiezingen",
+   "published": "2026-11-03T23:53:34+01:00",
+   "first_seen": "2026-11-04T03:08:03+01:00",
+   "numbers": [
+    {
+     "v": 435,
+     "t": "435"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 1848,
+     "t": "1848"
+    }
+   ],
+   "money": []
   }
  ]
 }
