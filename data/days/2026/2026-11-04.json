@@ -446,6 +446,97 @@
    "first_seen": "2026-11-04T18:29:46+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Trump spreekt voor het eerst sinds verkiezingen: \"Oorlog met Iran was het waard, ik zou het opnieuw doen\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-spreekt-voor-het-eerst-sinds-verkiezingen-oorlog-met-ira~1792770744209/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Wat betekent overwinning van Democraten voor Europa, Oekraïne en Iran? \"Met Trump weet je nooit of zijn wraakzucht overwint\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/midterms-verenigde-staten-verkiezingen-impact-buitenland-eu-oekr/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Pieterjan De Smedt: \"De koning zal proberen een perspectief te creëren\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/pieterjan-de-smedt-de-koning-zal-proberen-een-perspectief-te-c~1793247532380/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Olieprijs zakt onder kaap van 100 dollar na opdoffer voor partij van Trump",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/olieprijs-zakt-onder-kaap-van-100-dollar-na-opdoffer-voor-partij~1774343778229/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    }
+   ],
+   "money": [
+    {
+     "eur": 86,
+     "t": "100 dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Olieprijs zakt onder kaap van 100 dollar na opdoffer voor partij van Trump"
+    }
+   ]
+  },
+  {
+   "title": "Zweedse dirigent Herbert Blomstedt op 99-jarige leeftijd overleden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/zweedse-dirigent-herbert-blomstedt-op-99-jarige-leeftijd-overled/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 99,
+     "t": "99"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Duizenden demonstranten vormen menselijke ketting rond Justitiepaleis tegen wet op woonstbetreding, ook acties in andere steden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/duizenden-demonstranten-vormen-menselijke-ketting-rond-justitiep/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Vroegste pensioendatum en -bedrag aanvullend pensioen staan weer op Mypension.be, site kraakt onder massale belangstelling",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/vroegste-pensioendatum-en-bedrag-aanvullend-pensioen-bekend-via/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: \"Geen financiële gevolgen voor klanten\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/cyberaanval-op-moederbedrijf-van-keytrade-bank-credit-mutuel-ar/",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 100000000,
+     "t": "100 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 100000000,
+     "t": "100 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "cyberaanval",
+     "how": "sentence",
+     "ctx": "Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: \"Geen financiële gevolgen voor klanten\""
+    }
+   ]
   }
  ],
  "articles": [
@@ -4843,6 +4934,322 @@
     {
      "v": 2018,
      "t": "2018"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.WkjE9lqB7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/cyberaanval-op-moederbedrijf-van-keytrade-bank-credit-mutuel-ar/",
+   "title": "Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: \"Geen financiële gevolgen voor klanten\"",
+   "published": "2026-11-04T19:38:53+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 100000000,
+     "t": "100 miljoen"
+    },
+    {
+     "v": 100000000,
+     "t": "100 miljoen"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": [
+    {
+     "eur": 100000000,
+     "t": "100 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "cyberaanval",
+     "how": "sentence",
+     "ctx": "Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: \"Geen financiële gevolgen voor klanten\""
+    }
+   ]
+  },
+  {
+   "id": "p.M9mP9k4EB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/halle-bouwmateriaal-sluiten-onveiligheid-rechter-burgemeester/",
+   "title": "Burgemeester Halle houdt bouwmaterialenwinkel dicht tot uitbater verkeersveiligheid aanpakt",
+   "published": "2026-11-04T19:39:15+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11p8wEqp9",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/midterms-verenigde-staten-verkiezingen-impact-buitenland-eu-oekr/",
+   "title": "Wat betekent overwinning van Democraten voor Europa, Oekraïne en Iran? \"Met Trump weet je nooit of zijn wraakzucht overwint\"",
+   "published": "2026-11-04T20:16:54+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.xZY4b4854",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/boektopia-kortrijk-ten-einde-10-procent-meer-dagbezoekers/",
+   "title": "Verkorte editie blijkt succes: Boektopia in Kortrijk trekt 10 procent meer bezoekers per dag dan vorig jaar",
+   "published": "2026-11-04T20:23:47+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 46500,
+     "t": "46.500"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 46504,
+     "t": "46.504"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 7500,
+     "t": "7.500"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1100,
+     "t": "1.100"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.bDoA81ppN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/aarschot-thuislozen-houten-huisjes-62-welzijnszorg/",
+   "title": "62 houten huisjes op markt van Aarschot voor evenveel thuislozen: \"Niet enkel een probleem van grootsteden\"",
+   "published": "2026-11-04T20:33:33+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 62,
+     "t": "62"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoPxKwwn",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/duizenden-demonstranten-vormen-menselijke-ketting-rond-justitiep/",
+   "title": "Duizenden demonstranten vormen menselijke ketting rond Justitiepaleis tegen wet op woonstbetreding, ook acties in andere steden",
+   "published": "2026-11-04T20:43:13+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 40,
+     "t": "Veertig"
+    },
+    {
+     "v": 120,
+     "t": "120"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.vLlWwVqxp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/voorlopig-geen-evenementenhal-ninove-franke-site/",
+   "title": "Evenementenhal in Ninove onzeker door extra besparingen op gemeentefonds en terugkoop van klein deel van Franke-site",
+   "published": "2026-11-04T21:07:37+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 216000,
+     "t": "216.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 216000,
+     "t": "216.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparingen",
+     "how": "title",
+     "ctx": "\"We hebben in totaal 216.000 euro betaald voor een stuk grond van bijna een hectare groot."
+    }
+   ]
+  },
+  {
+   "id": "p.M9mPP80RM",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/zweedse-dirigent-herbert-blomstedt-op-99-jarige-leeftijd-overled/",
+   "title": "Zweedse dirigent Herbert Blomstedt op 99-jarige leeftijd overleden",
+   "published": "2026-11-04T22:39:14+01:00",
+   "first_seen": "2026-11-04T23:51:37+01:00",
+   "numbers": [
+    {
+     "v": 99,
+     "t": "99"
+    },
+    {
+     "v": 99,
+     "t": "99"
+    },
+    {
+     "v": 1927,
+     "t": "1927"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 100,
+     "t": "100"
     }
    ],
    "money": []

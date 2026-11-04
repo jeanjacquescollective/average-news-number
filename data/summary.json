@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-04T18:29:46+01:00",
+ "updated_at": "2026-11-04T23:51:37+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 94,
-    "numbers": 1065,
-    "mean": 10268403.1413,
+    "count": 95,
+    "numbers": 1085,
+    "mean": 10079139.0788,
     "median": 24,
     "min": {
      "v": -8,
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 120,
-    "numbers": 1298,
-    "mean": 406725415.7257,
+    "count": 121,
+    "numbers": 1308,
+    "mean": 403722929.4163,
     "median": 22.0,
     "min": {
      "v": -30,
@@ -915,10 +915,10 @@
   {
    "date": "2026-11-04",
    "headlines": {
-    "count": 47,
-    "numbers": 18,
-    "mean": 195740.0,
-    "median": 43.0,
+    "count": 55,
+    "numbers": 21,
+    "mean": 4929691.381,
+    "median": 61,
     "min": {
      "v": 2,
      "t": "2",
@@ -926,17 +926,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/gent-politie-chiptuning-inbeslagname-auto-knalpot/"
     },
     "max": {
-     "v": 1700000,
-     "t": "1,7 miljoen",
-     "title": "1,7 miljoen vervalste Pokémonkaarten onderschept in haven van Rotterdam",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/1-7-miljoen-vervalste-pokemonkaarten-haven-rotterdam/"
+     "v": 100000000,
+     "t": "100 miljoen",
+     "title": "Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: \"Geen financiële gevolgen voor klanten\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/cyberaanval-op-moederbedrijf-van-keytrade-bank-credit-mutuel-ar/"
     }
    },
    "articles": {
-    "count": 87,
-    "numbers": 799,
-    "mean": 21299263.3488,
-    "median": 19,
+    "count": 95,
+    "numbers": 853,
+    "mean": 20185742.1391,
+    "median": 18,
     "min": {
      "v": -30,
      "t": "-30",
@@ -951,9 +951,15 @@
     }
    },
    "money": {
-    "count": 3,
-    "lost": 0,
-    "gained": 1682000,
+    "count": 5,
+    "lost": 100000000,
+    "biggest_lost": {
+     "eur": 100000000,
+     "t": "100 miljoen euro",
+     "title": "Frans moederbedrijf van Keytrade Bank verliest ruim 100 miljoen euro bij cyberaanval: \"Geen financiële gevolgen voor klanten\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/cyberaanval-op-moederbedrijf-van-keytrade-bank-credit-mutuel-ar/"
+    },
+    "gained": 1682086,
     "biggest_gained": {
      "eur": 860000,
      "t": "1 miljoen dollar",
@@ -961,7 +967,7 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/rousseeuw-prijs-voor-statistiek-van-1-miljoen-dollar-gaat-naar-b/"
     },
     "neutral": 0,
-    "net": 1682000
+    "net": -98317914
    }
   }
  ]
