@@ -2073,6 +2073,66 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/vooruitvoorzitter-rousseau-bevestigt-dat-hij-akkoord-wil-na-ond~1793247532380/",
+   "title": "LIVE Vooruit-voorzitter Rousseau bevestigt dat hij akkoord wil na onderhoud met de koning, MR-voorzitter Bouchez houdt kiezen op elkaar",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-04T18:29:46+01:00",
+   "numbers": [
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 140000000,
+     "t": "140 miljoen"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2010,
+     "t": "2010"
+    },
+    {
+     "v": 14,
+     "t": "veertien"
+    }
+   ],
+   "money": [
+    {
+     "eur": 140000000,
+     "t": "140 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "belastingsgeld",
+     "how": "sentence",
+     "ctx": "Zouden die ongelegen komen voor CD&V, nu de regeringspartij met enkele gevoelige dossiers zit als i-Police, waar 140 miljoen euro belastingsgeld verloren ging, en de dienstreizen van minister van Justitie Annelies Verlinden (CD&V)?"
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

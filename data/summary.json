@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-04T10:27:32+01:00",
+ "updated_at": "2026-11-04T18:29:46+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 93,
-    "numbers": 1054,
-    "mean": 10375556.953,
-    "median": 24.0,
+    "count": 94,
+    "numbers": 1065,
+    "mean": 10268403.1413,
+    "median": 24,
     "min": {
      "v": -8,
      "t": "-8",
@@ -537,10 +537,10 @@
     "numbers": 0
    },
    "articles": {
-    "count": 99,
-    "numbers": 1069,
-    "mean": 51482211667.865,
-    "median": 29,
+    "count": 100,
+    "numbers": 1160,
+    "mean": 47443521448.5336,
+    "median": 29.0,
     "min": {
      "v": -17.6,
      "t": "-17,6",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 119,
-    "numbers": 1288,
-    "mean": 409774524.4934,
+    "count": 120,
+    "numbers": 1298,
+    "mean": 406725415.7257,
     "median": 22.0,
     "min": {
      "v": -30,
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 69,
-    "numbers": 627,
-    "mean": 58022730.3921,
-    "median": 26,
+    "count": 70,
+    "numbers": 629,
+    "mean": 57838333.8726,
+    "median": 27,
     "min": {
      "v": -24,
      "t": "-24",
@@ -915,53 +915,53 @@
   {
    "date": "2026-11-04",
    "headlines": {
-    "count": 20,
-    "numbers": 7,
-    "mean": 55967.1429,
-    "median": 61,
+    "count": 47,
+    "numbers": 18,
+    "mean": 195740.0,
+    "median": 43.0,
     "min": {
-     "v": 9,
-     "t": "9",
-     "title": "Bijna 9 procent meer schenkingen via notaris: Vlamingen regelen nalatenschap liever tijdens hun leven",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/bijna-9-procent-meer-schenkingen-in-eerste-semester-2026/"
+     "v": 2,
+     "t": "2",
+     "title": "Parket onderzoekt 'chiptuning' in Gent: mogelijk met software van 2 auto's geknoeid om sneller te kunnen rijden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/gent-politie-chiptuning-inbeslagname-auto-knalpot/"
     },
     "max": {
-     "v": 391000,
-     "t": "391.000",
-     "title": "Marco Borsato vraagt 391.000 euro advocaatkosten terug van Nederlandse staat, hoe is dat geregeld in België?",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/marco-borsato-vraagt-391-000-euro-aan-advocaatkosten-terug-van-d/"
+     "v": 1700000,
+     "t": "1,7 miljoen",
+     "title": "1,7 miljoen vervalste Pokémonkaarten onderschept in haven van Rotterdam",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/1-7-miljoen-vervalste-pokemonkaarten-haven-rotterdam/"
     }
    },
    "articles": {
-    "count": 23,
-    "numbers": 246,
-    "mean": 7541.5965,
-    "median": 22.0,
+    "count": 87,
+    "numbers": 799,
+    "mean": 21299263.3488,
+    "median": 19,
     "min": {
-     "v": 1,
-     "t": "1",
-     "title": "Plunderingen, een brandend stadhuis en duizenden doden: 450 jaar geleden trok Spaanse Furie door Antwerpen",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/450-jaar-spaanse-furie-antwerpen/"
+     "v": -30,
+     "t": "-30",
+     "title": "Hackers viseren na supermarkten ook koelinstallaties van Franse bloedbanken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/na-de-supermarkten-worden-ook-franse-bloedbanken-slachtoffer-van/"
     },
     "max": {
-     "v": 391000,
-     "t": "391.000",
-     "title": "Marco Borsato vraagt 391.000 euro advocaatkosten terug van Nederlandse staat, hoe is dat geregeld in België?",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/marco-borsato-vraagt-391-000-euro-aan-advocaatkosten-terug-van-d/"
+     "v": 12190000000,
+     "t": "12,19 miljard",
+     "title": "Chocoladeproducent Barry Callebaut uit Wieze groeit opnieuw: bijna 6 procent stijging in 4e kwartaal",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/callebaut-lebbeke-kwartaalcijfers/"
     }
    },
    "money": {
-    "count": 1,
+    "count": 3,
     "lost": 0,
-    "gained": 391000,
+    "gained": 1682000,
     "biggest_gained": {
-     "eur": 391000,
-     "t": "391.000 euro",
-     "title": "Marco Borsato vraagt 391.000 euro advocaatkosten terug van Nederlandse staat, hoe is dat geregeld in België?",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/marco-borsato-vraagt-391-000-euro-aan-advocaatkosten-terug-van-d/"
+     "eur": 860000,
+     "t": "1 miljoen dollar",
+     "title": "'Nobelprijs voor statistiek' uitgereikt: maak kennis met de Belg die de prijs van 1 miljoen dollar uit eigen zak betaalt",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/rousseeuw-prijs-voor-statistiek-van-1-miljoen-dollar-gaat-naar-b/"
     },
     "neutral": 0,
-    "net": 391000
+    "net": 1682000
    }
   }
  ]
