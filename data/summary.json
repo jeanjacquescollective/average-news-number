@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-04T03:08:03+01:00",
+ "updated_at": "2026-11-04T10:27:32+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 92,
-    "numbers": 969,
-    "mean": 11285474.564,
-    "median": 22,
+    "count": 93,
+    "numbers": 1054,
+    "mean": 10375556.953,
+    "median": 24.0,
     "min": {
      "v": -8,
      "t": "-8",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 118,
-    "numbers": 1281,
-    "mean": 411904438.3341,
-    "median": 23,
+    "count": 119,
+    "numbers": 1288,
+    "mean": 409774524.4934,
+    "median": 22.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -915,33 +915,53 @@
   {
    "date": "2026-11-04",
    "headlines": {
-    "count": 3,
-    "numbers": 0
-   },
-   "articles": {
-    "count": 1,
-    "numbers": 4,
-    "mean": 16.25,
-    "median": 20.5,
+    "count": 20,
+    "numbers": 7,
+    "mean": 55967.1429,
+    "median": 61,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Leuvense studenten volgen Amerikaanse midterms samen in\nkoffiebar: \"Dit zijn dingen die je bijblijven\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/leuven-midterms-amerika-studenten-politiek-verkiezingen-samen/"
+     "v": 9,
+     "t": "9",
+     "title": "Bijna 9 procent meer schenkingen via notaris: Vlamingen regelen nalatenschap liever tijdens hun leven",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/bijna-9-procent-meer-schenkingen-in-eerste-semester-2026/"
     },
     "max": {
-     "v": 22,
-     "t": "22",
-     "title": "Leuvense studenten volgen Amerikaanse midterms samen in\nkoffiebar: \"Dit zijn dingen die je bijblijven\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/leuven-midterms-amerika-studenten-politiek-verkiezingen-samen/"
+     "v": 391000,
+     "t": "391.000",
+     "title": "Marco Borsato vraagt 391.000 euro advocaatkosten terug van Nederlandse staat, hoe is dat geregeld in België?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/marco-borsato-vraagt-391-000-euro-aan-advocaatkosten-terug-van-d/"
+    }
+   },
+   "articles": {
+    "count": 23,
+    "numbers": 246,
+    "mean": 7541.5965,
+    "median": 22.0,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Plunderingen, een brandend stadhuis en duizenden doden: 450 jaar geleden trok Spaanse Furie door Antwerpen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/03/450-jaar-spaanse-furie-antwerpen/"
+    },
+    "max": {
+     "v": 391000,
+     "t": "391.000",
+     "title": "Marco Borsato vraagt 391.000 euro advocaatkosten terug van Nederlandse staat, hoe is dat geregeld in België?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/marco-borsato-vraagt-391-000-euro-aan-advocaatkosten-terug-van-d/"
     }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 391000,
+    "biggest_gained": {
+     "eur": 391000,
+     "t": "391.000 euro",
+     "title": "Marco Borsato vraagt 391.000 euro advocaatkosten terug van Nederlandse staat, hoe is dat geregeld in België?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/marco-borsato-vraagt-391-000-euro-aan-advocaatkosten-terug-van-d/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 391000
    }
   }
  ]

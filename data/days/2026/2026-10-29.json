@@ -2025,6 +2025,54 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/conner-rousseau-en-georgeslouis-bouchez-vandaag-naar-de-koning~1793247532380/",
+   "title": "LIVE Conner Rousseau en Georges-Louis Bouchez vandaag naar de koning",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-04T10:27:32+01:00",
+   "numbers": [
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 140000000,
+     "t": "140 miljoen"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2010,
+     "t": "2010"
+    },
+    {
+     "v": 14,
+     "t": "veertien"
+    }
+   ],
+   "money": [
+    {
+     "eur": 140000000,
+     "t": "140 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "belastingsgeld",
+     "how": "sentence",
+     "ctx": "Zouden die ongelegen komen voor CD&V, nu de regeringspartij met enkele gevoelige dossiers zit als i-Police, waar 140 miljoen euro belastingsgeld verloren ging, en de dienstreizen van minister van Justitie Annelies Verlinden (CD&V)?"
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",
