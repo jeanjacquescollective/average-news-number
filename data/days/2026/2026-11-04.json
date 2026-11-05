@@ -2828,6 +2828,76 @@
    "money": []
   },
   {
+   "id": "p.DYM5yYnKD",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/waregen-expo-parkeergebouw-stadsbestuur-gekocht-kopen-parkeertar/",
+   "title": "Waregem koopt parkeertoren aan Waregem Expo voor 2,8 miljoen euro: \"Vanaf nu overal dezelfde lage tarieven\"",
+   "published": "2026-11-04T11:38:07+01:00",
+   "first_seen": "2026-11-05T04:12:41+01:00",
+   "numbers": [
+    {
+     "v": 2800000,
+     "t": "2,8 miljoen"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 340,
+     "t": "340"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 190,
+     "t": "190"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 0.8,
+     "t": "0,80"
+    },
+    {
+     "v": 2835000,
+     "t": "2.835.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 2800000,
+     "t": "2,8 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "duurder",
+     "how": "article",
+     "ctx": "Waregem koopt parkeertoren aan Waregem Expo voor 2,8 miljoen euro: \"Vanaf nu overal dezelfde lage tarieven\""
+    },
+    {
+     "eur": 2,
+     "t": "2 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kostte",
+     "how": "sentence",
+     "ctx": "Aan Waregem Expo betaalde je overdag 2 euro per uur, terwijl het in de andere parkings maar 0,80 euro kostte voor een uur."
+    },
+    {
+     "eur": 0.8,
+     "t": "0,80 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kostte",
+     "how": "sentence",
+     "ctx": "Aan Waregem Expo betaalde je overdag 2 euro per uur, terwijl het in de andere parkings maar 0,80 euro kostte voor een uur."
+    }
+   ]
+  },
+  {
    "id": "p.Nv3WGDZqk",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/eternit-kapelle-op-den-bos-staking-vakbond-overleg/",
    "title": "Werknemers leggen opnieuw werk neer bij Eternit in Kapelle-op-den-Bos: \"Overleg zit muurvast\"",
