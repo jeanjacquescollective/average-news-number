@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-05T04:12:41+01:00",
+ "updated_at": "2026-11-05T12:10:37+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 113,
-    "numbers": 1298,
-    "mean": 206290843.1205,
-    "median": 38.0,
+    "count": 114,
+    "numbers": 1395,
+    "mean": 191950066.5587,
+    "median": 40,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 95,
-    "numbers": 1085,
-    "mean": 10079139.0788,
-    "median": 24,
+    "count": 96,
+    "numbers": 1108,
+    "mean": 9869933.2739,
+    "median": 24.0,
     "min": {
      "v": -8,
      "t": "-8",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 121,
-    "numbers": 1308,
-    "mean": 403722929.4163,
-    "median": 22.0,
+    "count": 122,
+    "numbers": 1320,
+    "mean": 400158783.2136,
+    "median": 21.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -968,6 +968,58 @@
     },
     "neutral": 0,
     "net": -98317914
+   }
+  },
+  {
+   "date": "2026-11-05",
+   "headlines": {
+    "count": 25,
+    "numbers": 13,
+    "mean": 57699744.0769,
+    "median": 99,
+    "min": {
+     "v": 10,
+     "t": "10",
+     "title": "Net voor zijn vrijlating krijgt Hongkongse activist Joshua Wong nieuwe celstraf van 10 jaar",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/hongkong-veroordeelt-joshua-wong/"
+    },
+    "max": {
+     "v": 750000000,
+     "t": "750 miljoen",
+     "title": "'GTA VI' op recordkoers: langverwachte game brengt in voorverkoop al meer dan 750 miljoen dollar op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gta-vi-voorverkoop/"
+    }
+   },
+   "articles": {
+    "count": 36,
+    "numbers": 349,
+    "mean": 24279049.3394,
+    "median": 22,
+    "min": {
+     "v": -50,
+     "t": "-50",
+     "title": "Ultrasporter Chris Seynaeve uit Izegem gaat 1.070 kilometer wandelen in poolcirkelgebied",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/ultrasporter-izegem-chris-seynaeve-arctische-wandeltochten/"
+    },
+    "max": {
+     "v": 1500000000,
+     "t": "1,5 miljard",
+     "title": "'GTA VI' op recordkoers: langverwachte game brengt in voorverkoop al meer dan 750 miljoen dollar op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gta-vi-voorverkoop/"
+    }
+   },
+   "money": {
+    "count": 1,
+    "lost": 0,
+    "gained": 645000000,
+    "biggest_gained": {
+     "eur": 645000000,
+     "t": "750 miljoen dollar",
+     "title": "'GTA VI' op recordkoers: langverwachte game brengt in voorverkoop al meer dan 750 miljoen dollar op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gta-vi-voorverkoop/"
+    },
+    "neutral": 0,
+    "net": 645000000
    }
   }
  ]
