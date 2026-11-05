@@ -1095,6 +1095,42 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/rusland-ontkent-betrokkenheid-bij-cyberaanvallen-en-noemt-beschu~1793610043244/",
+   "title": "LIVE Rusland ontkent betrokkenheid bij cyberaanvallen en noemt beschuldigingen \"volstrekt absurd\"",
+   "published": "2026-11-02T10:19:55+01:00",
+   "first_seen": "2026-11-05T19:49:16+01:00",
+   "numbers": [
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 60000,
+     "t": "60.000"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    }
+   ],
+   "money": [
+    {
+     "eur": 60000,
+     "t": "60.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "cyberaanvallen",
+     "how": "title",
+     "ctx": "Een Proxy Delhaize in Hoepertingen gooide naar schatting voor minstens 60.000 euro eten weg."
+    }
+   ]
+  },
+  {
    "id": "p.kQOBpdlba",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/rusland-oekraine-apps-luchtalarm-hacking-oorlog/",
    "title": "Nepberichten over kernraketten die onderweg zijn: Oekraïne en Rusland melden hacking van waarschuwingsapps",

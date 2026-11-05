@@ -2261,6 +2261,135 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-noemt-noodbegroting-afschuwelijk-falen-en-roept-op-to~1793247532380/",
+   "title": "LIVE De Wever noemt noodbegroting \"afschuwelijk falen\" en roept op tot \"verantwoordelijkheid\": \"Wil alleen dan eerste minister blijven\"",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-05T19:49:16+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 0.7,
+     "t": "0,7"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 16000000000,
+     "t": "16 miljard"
+    },
+    {
+     "v": 50000000000,
+     "t": "50 miljard"
+    },
+    {
+     "v": 2035,
+     "t": "2035"
+    },
+    {
+     "v": 10,
+     "t": "10.30"
+    },
+    {
+     "v": 30,
+     "t": "10.30"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1997,
+     "t": "1997"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 140000000,
+     "t": "140 miljoen"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2010,
+     "t": "2010"
+    },
+    {
+     "v": 14,
+     "t": "veertien"
+    }
+   ],
+   "money": [
+    {
+     "eur": 16000000000,
+     "t": "16 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "De Wever wees op de rente die België jaarlijks betaalt op de staatsschuld, dit jaar 16 miljard euro."
+    },
+    {
+     "eur": 140000000,
+     "t": "140 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "belastingsgeld",
+     "how": "sentence",
+     "ctx": "Zouden die ongelegen komen voor CD&V, nu de regeringspartij met enkele gevoelige dossiers zit als i-Police, waar 140 miljoen euro belastingsgeld verloren ging, en de dienstreizen van minister van Justitie Annelies Verlinden (CD&V)?"
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

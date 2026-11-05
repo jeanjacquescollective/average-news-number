@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-05T12:10:37+01:00",
+ "updated_at": "2026-11-05T19:49:16+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 114,
-    "numbers": 1395,
-    "mean": 191950066.5587,
-    "median": 40,
+    "count": 115,
+    "numbers": 1505,
+    "mean": 177928838.2448,
+    "median": 44,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 96,
-    "numbers": 1108,
-    "mean": 9869933.2739,
-    "median": 24.0,
+    "count": 97,
+    "numbers": 1131,
+    "mean": 9669236.2816,
+    "median": 24,
     "min": {
      "v": -8,
      "t": "-8",
@@ -537,9 +537,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 100,
-    "numbers": 1160,
-    "mean": 47443521448.5336,
+    "count": 101,
+    "numbers": 1256,
+    "mean": 43817265515.794,
     "median": 29.0,
     "min": {
      "v": -17.6,
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 122,
-    "numbers": 1320,
-    "mean": 400158783.2136,
-    "median": 21.0,
+    "count": 123,
+    "numbers": 1345,
+    "mean": 441895614.9723,
+    "median": 21,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 70,
-    "numbers": 629,
-    "mean": 57838333.8726,
-    "median": 27,
+    "count": 71,
+    "numbers": 633,
+    "mean": 57472944.856,
+    "median": 28,
     "min": {
      "v": -24,
      "t": "-24",
@@ -973,15 +973,15 @@
   {
    "date": "2026-11-05",
    "headlines": {
-    "count": 25,
-    "numbers": 13,
-    "mean": 57699744.0769,
-    "median": 99,
+    "count": 48,
+    "numbers": 20,
+    "mean": 41164835.05,
+    "median": 249.5,
     "min": {
-     "v": 10,
-     "t": "10",
-     "title": "Net voor zijn vrijlating krijgt Hongkongse activist Joshua Wong nieuwe celstraf van 10 jaar",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/hongkong-veroordeelt-joshua-wong/"
+     "v": 1,
+     "t": "1",
+     "title": "'Bad ass' Pippi Langkous verkozen tot favoriete jeugdpersonage door Radio 1-luisteraars",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/favoriete-jeugdboeken-personage-radio-1-boekenfeest/"
     },
     "max": {
      "v": 750000000,
@@ -991,10 +991,10 @@
     }
    },
    "articles": {
-    "count": 36,
-    "numbers": 349,
-    "mean": 24279049.3394,
-    "median": 22,
+    "count": 80,
+    "numbers": 751,
+    "mean": 13022835.5591,
+    "median": 20,
     "min": {
      "v": -50,
      "t": "-50",
