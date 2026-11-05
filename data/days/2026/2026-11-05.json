@@ -4524,6 +4524,295 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.43pqm6yOO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/dode-wolf-is-niet-ben-aangereden-zoersel-duitsland/",
+   "title": "Doodgereden wolf in Zoersel is niet Ben: \"Mogelijk afkomstig uit Duitsland\"",
+   "published": "2026-11-05T19:53:28+01:00",
+   "first_seen": "2026-11-06T00:56:47+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.7nXvZj3MR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/eindelijk-nieuwe-luchtballon-voor-para-s-in-schaffen-francken-i/",
+   "title": "Eindelijk nieuwe luchtballon voor para's in Schaffen, Francken investeert 5,5 miljoen euro",
+   "published": "2026-11-05T20:34:59+01:00",
+   "first_seen": "2026-11-06T00:56:47+01:00",
+   "numbers": [
+    {
+     "v": 5500000,
+     "t": "5,5 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 400,
+     "t": "400"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1946,
+     "t": "1946"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 1,
+     "t": "Eén"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 120,
+     "t": "120"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    }
+   ],
+   "money": [
+    {
+     "eur": 5500000,
+     "t": "5,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeert",
+     "how": "sentence",
+     "ctx": "Eindelijk nieuwe luchtballon voor para's in Schaffen, Francken investeert 5,5 miljoen euro"
+    }
+   ]
+  },
+  {
+   "id": "p.11p8DDGmn",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gravures-grot-cova-de-la-font-major-spanje/",
+   "title": "Archeologen ontdekken 280 prehistorische gravures in Spaanse grot, waaronder zeldzame afbeelding van een beer",
+   "published": "2026-11-05T21:24:08+01:00",
+   "first_seen": "2026-11-06T00:56:47+01:00",
+   "numbers": [
+    {
+     "v": 280,
+     "t": "280"
+    },
+    {
+     "v": 280,
+     "t": "280"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 1957,
+     "t": "1957"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 280,
+     "t": "280"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 280,
+     "t": "280"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 19000,
+     "t": "19.000"
+    },
+    {
+     "v": 40000,
+     "t": "40.000"
+    },
+    {
+     "v": 25000,
+     "t": "25.000"
+    },
+    {
+     "v": 280,
+     "t": "280"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGklRZ7OY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/jan-balliauw-over-bommeldingen-luchthavens/",
+   "title": "Jan Balliauw na bommeldingen op Europese vluchten: \"Rusland zaait chaos bij ons, maar wij kunnen hetzelfde doen in Rusland\"",
+   "published": "2026-11-05T21:52:26+01:00",
+   "first_seen": "2026-11-06T00:56:47+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5waADpjMm",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/californische-gouverneur-gavin-newsom-zet-548-doodstraffen-om-in/",
+   "title": "Californische gouverneur Gavin Newsom zet alle 548 doodstraffen om in levenslang",
+   "published": "2026-11-05T22:01:17+01:00",
+   "first_seen": "2026-11-06T00:56:47+01:00",
+   "numbers": [
+    {
+     "v": 548,
+     "t": "548"
+    },
+    {
+     "v": 548,
+     "t": "548"
+    },
+    {
+     "v": 548,
+     "t": "548"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 37,
+     "t": "37"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5waAE4Kml",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/washington-legt-nieuwe-reeks-sancties-op-aan-cuba/",
+   "title": "Washington legt nieuwe reeks sancties op aan Cuba",
+   "published": "2026-11-05T22:44:38+01:00",
+   "first_seen": "2026-11-06T00:56:47+01:00",
+   "numbers": [
+    {
+     "v": 1962,
+     "t": "1962"
+    },
+    {
+     "v": 9400000,
+     "t": "9,4 miljoen"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1995,
+     "t": "1995"
+    }
+   ],
+   "money": []
   }
  ]
 }
