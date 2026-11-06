@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-06T00:56:47+01:00",
+ "updated_at": "2026-11-06T07:22:59+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1025,26 +1025,40 @@
   {
    "date": "2026-11-06",
    "headlines": {
-    "count": 10,
-    "numbers": 4,
-    "mean": 240.0,
-    "median": 205.0,
+    "count": 16,
+    "numbers": 7,
+    "mean": 567.2857,
+    "median": 130,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Vrachtschip sleepte anker 130 km over zeebodem: 2 bemanningsleden veroordeeld voor zware sabotage",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/rechtbank-helsinki-finland-onderzeese-telecommunicatie-kabels-sc/"
+     "v": 1,
+     "t": "1",
+     "title": "'De ideale wereld' verhuist na 10 jaar van VRT Canvas naar VRT 1",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/de-ideale-wereld-verhuist-van-vrt-canvas-naar-vrt-1/"
     },
     "max": {
-     "v": 548,
-     "t": "548",
-     "title": "Californische gouverneur Gavin Newsom zet alle 548 doodstraffen om in levenslang",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/californische-gouverneur-gavin-newsom-zet-548-doodstraffen-om-in/"
+     "v": 3000,
+     "t": "3.000",
+     "title": "Peruaanse douane onderschept 3.000 vogelspinnen verstopt in sokken op weg naar Duitsland",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/peru-spinnen-smokkel-arrestaties/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 11,
+    "numbers": 104,
+    "mean": 173110952.6731,
+    "median": 53.0,
+    "min": {
+     "v": 0,
+     "t": "18.00",
+     "title": "Gedetineerde die ontsnapte uit gevangenis van Haren opgepakt in centrum van Brussel",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gevangene-ontsnapt-uit-de-gevangenis-van-haren/"
+    },
+    "max": {
+     "v": 18000000000,
+     "t": "18 miljard",
+     "title": "Peruaanse douane onderschept 3.000 vogelspinnen verstopt in sokken op weg naar Duitsland",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/peru-spinnen-smokkel-arrestaties/"
+    }
    },
    "money": {
     "count": 0,
