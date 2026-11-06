@@ -379,6 +379,162 @@
    "first_seen": "2026-11-06T15:29:55+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "De Wever hervat maandag begrotingsoverleg: vicepremiers mogen 1 extra persoon meebrengen",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-hervat-maandag-begrotingsoverleg-vicepremiers-mogen-1-~1793247532380/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Verdachte van moord op Schaarbeekse café-uitbaatster vrijgelaten door procedureprobleem",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/verdachte-van-moord-op-schaarbeekse-cafe-uitbaatster-vrijgelaten/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Degoutant\" en \"compleet gaga\": Mahdi en Rousseau niet te spreken over uitspraken van Roland Duchâtelet over besparing ouderenzorg",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/roland-duchatelet-ouderenzorg-besparen-begroting/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Een van de duurste tolwegen in Frankrijk: omstreden snelweg A69 tussen Toulouse en Castres officieel geopend",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/frankrijk-snelweg-opening-a69/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "VS telt al meer dan 5.000 mazelenbesmettingen, hoogste aantal in 35 jaar",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vs-tellen-al-meer-dan-5-000-mazelenbesmettingen-hoogste-cijfer/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 5000,
+     "t": "5.000"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Vader van Meghan Markle opgepakt in Florida voor bezit van beelden van kindermisbruik",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vader-meghan-markle-opgepakt/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "'Koning van Duitsland' voor de rechter op verdenking van het leiden van een criminele organisatie",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/duitse-zelfverklaarde-koning-peter-fitzek-rechtbank/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Sportvliegtuigje crasht op Duitse snelweg: 2 doden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/doden-bij-crash-vliegtuigje-op-duitse-snelweg/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/techbeurs-nasdaq-herstelt-op-wall-street-na-koersdreun/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 100000000000,
+     "t": "100 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 86000000000,
+     "t": "100 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen"
+    }
+   ]
+  },
+  {
+   "title": "Na wereldwijde beursdaling: wat is er aan de hand? En wat moeten beleggers nu doen?",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/wat-moeten-beleggers-doen-na-beurscrash/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Twee doden na busongeval in Franse gemeente Lent, chauffeur zegt dat hij in slaap was gevallen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/ongeval-schoolbus-frankrijk-lent/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "Twee"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "E40 tussen Haasrode en Heverlee het hele weekend afgesloten voor laatste werken aan fietsbrug",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/e40-tussen-haasrode-en-heverlee-hele-weekend-afgesloten-voor-laa/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Tesla gaat minder Cybertrucks bouwen en zet volop in op zelfrijdende Cybercabs",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/tesla-vermindert-productie-van-cybertruck/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Minister van Buitenlandse Zaken Marco Rubio ontkent plannen om op te stappen: \"Ik blijf tot het einde van president Trumps ambtstermijn\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/minister-van-buitenlandse-zaken-marco-rubio-ontkent-plannen-om-o~1792770744209/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Bemanningslid omgekomen na aanval op olietanker in de Golf",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/bemanningslid-omgekomen-na-aanval-op-olietanker-in-de-golf-~1784611610051/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Amerikaans oud-senator Jay Rockefeller (89) overleden: laatste telg van politieke Rockefeller-dynastie",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/jay-rockefeller-overleden-laatste-telg-politieke-dynastie/",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 89,
+     "t": "89"
+    }
+   ],
+   "money": []
   }
  ],
  "articles": [
@@ -3919,6 +4075,981 @@
     {
      "v": 100,
      "t": "100"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43ponO4ak",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/drugslab-ontdekt-in-maaseik/",
+   "title": "Politie ontdekt deels actief drugslab in Maaseik, mogelijk link met achtervolging in Nederland",
+   "published": "2026-11-06T15:43:18+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 26,
+     "t": "26"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJoQ4YYa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/opgroeien-beersel/",
+   "title": "Minder dan 1 op 3 pasgeborenen in Beersel groeit op in Nederlandstalig gezin:\"Op 18 jaar tijd is tij gekeerd\"",
+   "published": "2026-11-06T15:43:43+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 29.6,
+     "t": "29,6"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2004,
+     "t": "2004"
+    },
+    {
+     "v": 48.6,
+     "t": "48,6"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 2008,
+     "t": "2008"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8lj5lNo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/tienen-toteman-bakken-oven-bakkers-vrijwilligers-eindejaar/",
+   "title": "Tiense Bakkersbond zoekt vrijwilligers voor totemannenbak: \"Bakkers worden ouder, er is weinig opvolging\"",
+   "published": "2026-11-06T16:03:07+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4000,
+     "t": "4.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 32,
+     "t": "32"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.93pkWyDkP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/bakkerij-kiel-gesloten-wegens-inbreuken-veiligheid-gezondheid-an/",
+   "title": "\"Controleur werd onwel van de stank\": bakkerij op Kiel in Antwerpen moet 2 maanden dicht",
+   "published": "2026-11-06T16:13:15+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.kQOPQA0oa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/grootschalige-zoekactie-kent-goede-afloop-vermiste-man-86-na/",
+   "title": "Grootschalige zoekactie kent goede afloop: vermiste man (86) na 4 uur teruggevonden in Heusden-Zolder",
+   "published": "2026-11-06T16:14:01+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 86,
+     "t": "86"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 86,
+     "t": "86"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 17,
+     "t": "17.20"
+    },
+    {
+     "v": 20,
+     "t": "17.20"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.VLN0LE7dA",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/boechout-verkeersongeval-2-auto-s-slachtoffer-gracht/",
+   "title": "Tachtiger overleden nadat hij onwel werd achter stuur en botste tegen andere auto in Boechout",
+   "published": "2026-11-06T16:46:49+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 14,
+     "t": "14.40"
+    },
+    {
+     "v": 40,
+     "t": "14.40"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pMm5bDp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/tesla-vermindert-productie-van-cybertruck/",
+   "title": "Tesla gaat minder Cybertrucks bouwen en zet volop in op zelfrijdende Cybercabs",
+   "published": "2026-11-06T16:51:05+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 70000,
+     "t": "70.000"
+    },
+    {
+     "v": 250000,
+     "t": "250.000"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pM18ma7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/uitbreiding-golfterrein-de-palingbeek-start-ieper/",
+   "title": "Golf- en Country Club De Palingbeek breidt uit met 9 holes: \"Veel aandacht voor natuur en water\"",
+   "published": "2026-11-06T16:53:38+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5waLMWRVl",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/duitse-zelfverklaarde-koning-peter-fitzek-rechtbank/",
+   "title": "'Koning van Duitsland' voor de rechter op verdenking van het leiden van een criminele organisatie",
+   "published": "2026-11-06T17:17:28+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 6000,
+     "t": "6.000"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 2012,
+     "t": "2012"
+    },
+    {
+     "v": 21000,
+     "t": "21.000"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 52,
+     "t": "52"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDeAdAlWb",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/oprichter-van-kinderboekenuitgeverij-clavis-in-hasselt-philippe/",
+   "title": "Hasselaar Philippe Werck (73) overleden: de man achter grote Nederlandstalige kinderboekenuitgever Clavis",
+   "published": "2026-11-06T17:35:33+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 73,
+     "t": "73"
+    },
+    {
+     "v": 73,
+     "t": "73"
+    },
+    {
+     "v": 1981,
+     "t": "1981"
+    },
+    {
+     "v": 46,
+     "t": "46"
+    },
+    {
+     "v": 75,
+     "t": "75"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4EKdmjK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/techbeurs-nasdaq-herstelt-op-wall-street-na-koersdreun/",
+   "title": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen",
+   "published": "2026-11-06T17:37:25+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 100000000000,
+     "t": "100 miljard"
+    },
+    {
+     "v": 1.4,
+     "t": "1,4"
+    },
+    {
+     "v": 24661,
+     "t": "24.661"
+    },
+    {
+     "v": 5.5,
+     "t": "5,5"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 0.6,
+     "t": "0,6"
+    },
+    {
+     "v": 7397,
+     "t": "7.397"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 0.7,
+     "t": "0,7"
+    },
+    {
+     "v": 51182,
+     "t": "51.182"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2500000000000,
+     "t": "2,5 biljoen"
+    },
+    {
+     "v": 2500000000000,
+     "t": "2.500 miljard"
+    },
+    {
+     "v": 7,
+     "t": "seven"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1000000000000,
+     "t": "1 biljoen"
+    },
+    {
+     "v": 440000000000,
+     "t": "440 miljard"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 100000000000,
+     "t": "100 miljard"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3.7,
+     "t": "3,7"
+    }
+   ],
+   "money": [
+    {
+     "eur": 86000000000,
+     "t": "100 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "kelderde",
+     "how": "article",
+     "ctx": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen"
+    },
+    {
+     "eur": 2150000000000,
+     "t": "2.500 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "kelderde",
+     "how": "article",
+     "ctx": "In de Amerikaanse technologiesector ging gisteren voor meer dan 2,5 biljoen - oftewel ruim 2.500 miljard dollar - aan beurswaarde in rook op."
+    },
+    {
+     "eur": 860000000000,
+     "t": "1 biljoen dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "kelderde",
+     "how": "article",
+     "ctx": "De 'magnificent seven', de 7 grootste Amerikaanse techbedrijven, zagen alleen al meer dan 1 biljoen dollar aan marktwaarde verdampen."
+    },
+    {
+     "eur": 378400000000,
+     "t": "440 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "kwijt",
+     "how": "sentence",
+     "ctx": "AI-chipbedrijf Nvidia was de grootste verliezer en raakte meer dan 440 miljard dollar aan beurswaarde kwijt."
+    }
+   ]
+  },
+  {
+   "id": "p.DYM7YdovX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vader-meghan-markle-opgepakt/",
+   "title": "Vader van Meghan Markle opgepakt in Florida voor bezit van beelden van kindermisbruik",
+   "published": "2026-11-06T17:42:52+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 82,
+     "t": "82"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2008,
+     "t": "2008"
+    },
+    {
+     "v": 78,
+     "t": "78"
+    },
+    {
+     "v": 82,
+     "t": "82"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.DYM7NE6ww",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/belgische-ziekenwagens-kunnen-patienten-binnenkort-naar-nederlan/",
+   "title": "Belgische ziekenwagens kunnen patiënten binnenkort naar Nederlandse ziekenhuizen brengen",
+   "published": "2026-11-06T18:09:19+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.ew4E095Qj",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/jay-rockefeller-overleden-laatste-telg-politieke-dynastie/",
+   "title": "Amerikaans oud-senator Jay Rockefeller (89) overleden: laatste telg van politieke Rockefeller-dynastie",
+   "published": "2026-11-06T18:17:10+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 89,
+     "t": "89"
+    },
+    {
+     "v": 89,
+     "t": "89"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1937,
+     "t": "1937"
+    },
+    {
+     "v": 1964,
+     "t": "1964"
+    },
+    {
+     "v": 1977,
+     "t": "1977"
+    },
+    {
+     "v": 1985,
+     "t": "1985"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 1997,
+     "t": "1997"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 2003,
+     "t": "2003"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 89,
+     "t": "89"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN48NoqY8",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/roland-duchatelet-ouderenzorg-besparen-begroting/",
+   "title": "\"Degoutant\" en \"compleet gaga\": Mahdi en Rousseau niet te spreken over uitspraken van Roland Duchâtelet over besparing ouderenzorg",
+   "published": "2026-11-06T18:29:07+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 100000,
+     "t": "100.000"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 100000000000,
+     "t": "100 miljard"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparing",
+     "how": "title",
+     "ctx": "De federale regering zoekt 10 miljard euro om de begroting op orde te krijgen."
+    },
+    {
+     "eur": 10000,
+     "t": "10.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "\"Als je kijkt naar de sociale zekerheid kost het laatste levensjaar van de mens 10.000 euro per jaar."
+    },
+    {
+     "eur": 10000,
+     "t": "10.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparing",
+     "how": "title",
+     "ctx": "\"10.000 euro maal 100.000 inwoners\", legt hij uit."
+    },
+    {
+     "eur": 100000000000,
+     "t": "100 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "Of die nu 10.000 of 100 miljard euro kosten per jaar: respect hebben voor mensen in hun laatste levensjaar en die proberen te helpen, dat lijkt mij niet te veel gevraagd, meneer Duchâtelet."
+    },
+    {
+     "eur": 1290000000,
+     "t": "1,5 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "besparing",
+     "how": "title",
+     "ctx": "\"Begin dit jaar maakte Duchâtelet zijn debuut op de miljardairslijst van Forbes, met een geschat vermogen van 1,5 miljard dollar."
+    }
+   ]
+  },
+  {
+   "id": "p.qENPxOAxl",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/verdachte-van-moord-op-schaarbeekse-cafe-uitbaatster-vrijgelaten/",
+   "title": "Verdachte van moord op Schaarbeekse café-uitbaatster vrijgelaten door procedureprobleem",
+   "published": "2026-11-06T18:55:59+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4EK4GQP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/frankrijk-snelweg-opening-a69/",
+   "title": "Een van de duurste tolwegen in Frankrijk: omstreden snelweg A69 tussen Toulouse en Castres officieel geopend",
+   "published": "2026-11-06T18:56:25+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 450000000,
+     "t": "450 miljoen"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 20.4,
+     "t": "20,40"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 72,
+     "t": "72"
+    }
+   ],
+   "money": [
+    {
+     "eur": 450000000,
+     "t": "450 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "article",
+     "ctx": "Het hele project heeft zo'n 450 miljoen euro gekost."
+    },
+    {
+     "eur": 20.4,
+     "t": "20,40 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Heen en weer rijden tussen Toulouse en Castres kost je op dit moment 20,40 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.M9mY3mE6M",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/doden-bij-crash-vliegtuigje-op-duitse-snelweg/",
+   "title": "Sportvliegtuigje crasht op Duitse snelweg: 2 doden",
+   "published": "2026-11-06T20:16:40+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 14,
+     "t": "14.48"
+    },
+    {
+     "v": 48,
+     "t": "14.48"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.QAbe76aJ5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vs-tellen-al-meer-dan-5-000-mazelenbesmettingen-hoogste-cijfer/",
+   "title": "VS telt al meer dan 5.000 mazelenbesmettingen, hoogste aantal in 35 jaar",
+   "published": "2026-11-06T21:11:43+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 5000,
+     "t": "5.000"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 5182,
+     "t": "5.182"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2000,
+     "t": "2000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 13,
+     "t": "13"
     }
    ],
    "money": []

@@ -2448,6 +2448,98 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-hervat-maandag-begrotingsoverleg-vicepremiers-mogen-1-~1793247532380/",
+   "title": "LIVE De Wever hervat maandag begrotingsoverleg: vicepremiers mogen 1 extra persoon meebrengen",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-06T21:32:56+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1100000000,
+     "t": "1,1 miljard"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 10,
+     "t": "10.30"
+    },
+    {
+     "v": 30,
+     "t": "10.30"
+    },
+    {
+     "v": 8,
+     "t": "acht"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1100000000,
+     "t": "1,1 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "belastingen",
+     "how": "sentence",
+     "ctx": "Dat komt volgens MR overeen met 1,1 miljard euro aan nieuwe belastingen."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

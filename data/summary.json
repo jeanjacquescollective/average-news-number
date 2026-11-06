@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-06T15:29:55+01:00",
+ "updated_at": "2026-11-06T21:32:56+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 124,
-    "numbers": 1357,
-    "mean": 437987916.2385,
+    "count": 125,
+    "numbers": 1375,
+    "mean": 433054256.3918,
     "median": 21,
     "min": {
      "v": -30,
@@ -1025,10 +1025,10 @@
   {
    "date": "2026-11-06",
    "headlines": {
-    "count": 39,
-    "numbers": 23,
-    "mean": 1913242.2609,
-    "median": 10,
+    "count": 55,
+    "numbers": 30,
+    "mean": 3334800323.3667,
+    "median": 10.0,
     "min": {
      "v": 1,
      "t": "1",
@@ -1036,17 +1036,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/de-ideale-wereld-verhuist-van-vrt-canvas-naar-vrt-1/"
     },
     "max": {
-     "v": 44000000,
-     "t": "44 miljoen",
-     "title": "Videoclip 'Storm' van Belgische choreograaf 44 miljoen keer bekeken en nu ook bekroond",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/storm-videoclip-damien-jalet-bekroond-college-eigenbrakel/"
+     "v": 100000000000,
+     "t": "100 miljard",
+     "title": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/techbeurs-nasdaq-herstelt-op-wall-street-na-koersdreun/"
     }
    },
    "articles": {
-    "count": 67,
-    "numbers": 651,
-    "mean": 1145918173.7651,
-    "median": 17.4,
+    "count": 86,
+    "numbers": 822,
+    "mean": 9147133062.3255,
+    "median": 20.0,
     "min": {
      "v": 0,
      "t": "18.00",
@@ -1054,18 +1054,24 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gevangene-ontsnapt-uit-de-gevangenis-van-haren/"
     },
     "max": {
-     "v": 305000000000,
-     "t": "305 miljard",
-     "title": "Ontwikkelingslanden kunnen zich amper wapenen tegen de klimaatcrisis, er is minstens 3 keer meer geld nodig",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/klimaat-adaptatierapport-cop31-antalya-kloof-noord-zuid-kiki-ber/"
+     "v": 2500000000000,
+     "t": "2,5 biljoen",
+     "title": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/techbeurs-nasdaq-herstelt-op-wall-street-na-koersdreun/"
     }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 86000000000,
+    "biggest_gained": {
+     "eur": 86000000000,
+     "t": "100 miljard dollar",
+     "title": "Technologiebeurs Nasdaq herstelt deels na zware verliezen, Musk zag meer dan 100 miljard dollar aan vermogen verdampen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/techbeurs-nasdaq-herstelt-op-wall-street-na-koersdreun/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 86000000000
    }
   }
  ]
