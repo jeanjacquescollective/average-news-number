@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-06T07:22:59+01:00",
+ "updated_at": "2026-11-06T15:29:55+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 115,
-    "numbers": 1505,
-    "mean": 177928838.2448,
-    "median": 44,
+    "count": 116,
+    "numbers": 1621,
+    "mean": 165203847.4426,
+    "median": 50,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 123,
-    "numbers": 1345,
-    "mean": 441895614.9723,
+    "count": 124,
+    "numbers": 1357,
+    "mean": 437987916.2385,
     "median": 21,
     "min": {
      "v": -30,
@@ -1025,10 +1025,10 @@
   {
    "date": "2026-11-06",
    "headlines": {
-    "count": 16,
-    "numbers": 7,
-    "mean": 567.2857,
-    "median": 130,
+    "count": 39,
+    "numbers": 23,
+    "mean": 1913242.2609,
+    "median": 10,
     "min": {
      "v": 1,
      "t": "1",
@@ -1036,17 +1036,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/de-ideale-wereld-verhuist-van-vrt-canvas-naar-vrt-1/"
     },
     "max": {
-     "v": 3000,
-     "t": "3.000",
-     "title": "Peruaanse douane onderschept 3.000 vogelspinnen verstopt in sokken op weg naar Duitsland",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/peru-spinnen-smokkel-arrestaties/"
+     "v": 44000000,
+     "t": "44 miljoen",
+     "title": "Videoclip 'Storm' van Belgische choreograaf 44 miljoen keer bekeken en nu ook bekroond",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/storm-videoclip-damien-jalet-bekroond-college-eigenbrakel/"
     }
    },
    "articles": {
-    "count": 11,
-    "numbers": 104,
-    "mean": 173110952.6731,
-    "median": 53.0,
+    "count": 67,
+    "numbers": 651,
+    "mean": 1145918173.7651,
+    "median": 17.4,
     "min": {
      "v": 0,
      "t": "18.00",
@@ -1054,10 +1054,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/gevangene-ontsnapt-uit-de-gevangenis-van-haren/"
     },
     "max": {
-     "v": 18000000000,
-     "t": "18 miljard",
-     "title": "Peruaanse douane onderschept 3.000 vogelspinnen verstopt in sokken op weg naar Duitsland",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/peru-spinnen-smokkel-arrestaties/"
+     "v": 305000000000,
+     "t": "305 miljard",
+     "title": "Ontwikkelingslanden kunnen zich amper wapenen tegen de klimaatcrisis, er is minstens 3 keer meer geld nodig",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/klimaat-adaptatierapport-cop31-antalya-kloof-noord-zuid-kiki-ber/"
     }
    },
    "money": {
