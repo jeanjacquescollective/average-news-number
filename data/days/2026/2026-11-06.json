@@ -5053,6 +5053,120 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.pAxGVPlRM",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/trump-benoemt-stephen-miller-tot-nieuwe-stafchef-witte-huis/",
+   "title": "Trump benoemt Stephen Miller tot stafchef Witte Huis: \"Hiermee kiest hij voor openlijke confrontatie met Democraten\"",
+   "published": "2026-11-06T21:51:43+01:00",
+   "first_seen": "2026-11-07T01:18:54+01:00",
+   "numbers": [
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.PqOd36BMa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/macklemore-free-palestine-tour-vs-arena-s-weigeren/",
+   "title": "Amerikaanse arena's weigeren 'Free Palestine'-tour van Macklemore: \"We bouwen wel eigen podium\"",
+   "published": "2026-11-06T22:06:05+01:00",
+   "first_seen": "2026-11-07T01:18:54+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "Negen"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 43,
+     "t": "43"
+    },
+    {
+     "v": 2012,
+     "t": "2012"
+    },
+    {
+     "v": 2012,
+     "t": "2012"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 2014,
+     "t": "2014"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2012,
+     "t": "2012"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDeA4vlkQ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/paus-leo-xiv-aangekomen-in-uruguay/",
+   "title": "Paus Leo XIV aangekomen in Uruguay",
+   "published": "2026-11-06T22:29:36+01:00",
+   "first_seen": "2026-11-07T01:18:54+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 3700,
+     "t": "3.700"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    }
+   ],
+   "money": []
   }
  ]
 }
