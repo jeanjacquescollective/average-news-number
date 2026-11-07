@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-07T14:26:36+01:00",
+ "updated_at": "2026-11-07T19:14:30+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1077,10 +1077,10 @@
   {
    "date": "2026-11-07",
    "headlines": {
-    "count": 27,
-    "numbers": 8,
-    "mean": 709.25,
-    "median": 25.0,
+    "count": 36,
+    "numbers": 11,
+    "mean": 363636880.1818,
+    "median": 25,
     "min": {
      "v": 2,
      "t": "2",
@@ -1088,17 +1088,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/thomas-markle-onder-elektronisch-toezicht/"
     },
     "max": {
-     "v": 5500,
-     "t": "5.500",
-     "title": "Startende ondernemers kunnen btw-nummer nog altijd niet aanvragen na cyberaanval: \"5.500 dossiers in de wacht\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/btw-nummer-cyberaanval-overheid/"
+     "v": 4000000000,
+     "t": "4 miljard",
+     "title": "Zeldzaam Marsgesteente dat in Sahara werd ontdekt, blijkt meer dan 4 miljard jaar oud",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/meteoriet-teghaza-001-laat-zien-hoe-mars-er-4-1-miljard-jaar-gel/"
     }
    },
    "articles": {
-    "count": 26,
-    "numbers": 306,
-    "mean": 91658306.4837,
-    "median": 35.0,
+    "count": 35,
+    "numbers": 385,
+    "mean": 117824635.4675,
+    "median": 29,
     "min": {
      "v": 0,
      "t": "23.00",
