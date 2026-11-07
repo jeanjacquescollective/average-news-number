@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-07T01:18:54+01:00",
+ "updated_at": "2026-11-07T07:23:31+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1077,12 +1077,40 @@
   {
    "date": "2026-11-07",
    "headlines": {
-    "count": 2,
-    "numbers": 0
+    "count": 8,
+    "numbers": 4,
+    "mean": 35.5,
+    "median": 26.0,
+    "min": {
+     "v": 25,
+     "t": "25",
+     "title": "Na exact 25 jaar is faillissement van Sabena nog altijd niet rond: \"Volgend jaar kunnen we écht afsluiten\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/faillissement-sabena-na-25-jaar-nu-echt-bijna-afgehandeld-zegt/"
+    },
+    "max": {
+     "v": 65,
+     "t": "65",
+     "title": "\"Vroeger kwamen mannen alleen voor de blote borsten\": Nicole (65) organiseert al 25 jaar Eroticabeurs in Hasselt",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/eroticabeurs-hasselt-bestaat-35-jaar-nicole-organiseert-ero-exp/"
+    }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 4,
+    "numbers": 70,
+    "mean": 192201471.9429,
+    "median": 65.0,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Slapen naast een aap of ijsbeer zoals in Pairi Daiza? \"Sommige dieren voelen zich bekeken\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/slapen-naast-een-ijsbeer-dieren-voelen-wel-degelijk-dat-ze-bek/"
+    },
+    "max": {
+     "v": 3000000000,
+     "t": "3 miljard",
+     "title": "Na exact 25 jaar is faillissement van Sabena nog altijd niet rond: \"Volgend jaar kunnen we écht afsluiten\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/faillissement-sabena-na-25-jaar-nu-echt-bijna-afgehandeld-zegt/"
+    }
    },
    "money": {
     "count": 0,

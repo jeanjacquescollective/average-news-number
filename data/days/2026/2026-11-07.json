@@ -14,7 +14,489 @@
    "first_seen": "2026-11-07T01:18:54+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Na exact 25 jaar is faillissement van Sabena nog altijd niet rond: \"Volgend jaar kunnen we écht afsluiten\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/faillissement-sabena-na-25-jaar-nu-echt-bijna-afgehandeld-zegt/",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"Kleinschalige\" Amerikaanse aanvallen op eiland Qeshm, Iraanse leger \"sterker dan aan het begin van de oorlog\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/kleinschalige-amerikaanse-aanvallen-op-eiland-qeshm-iraanse-l~1784611610051/",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Slapen naast een aap of ijsbeer zoals in Pairi Daiza? \"Sommige dieren voelen zich bekeken\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/slapen-naast-een-ijsbeer-dieren-voelen-wel-degelijk-dat-ze-bek/",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Ik draai mee in systeem waar ik niet meer in geloof\": Brusselse strafpleiter Adrian (27) stelt klassieke straffen in vraag",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/belgodyssee-melike-weyns/",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [
+    {
+     "v": 27,
+     "t": "27"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"Vroeger kwamen mannen alleen voor de blote borsten\": Nicole (65) organiseert al 25 jaar Eroticabeurs in Hasselt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/eroticabeurs-hasselt-bestaat-35-jaar-nicole-organiseert-ero-exp/",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Van stoflong naar groene long: de metamorfose van de best bewaarde mijnsite van Europa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/05/05/mijn-van-beringen-best-bewaarde-site-van-europa-wordt-groene-oa/",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
- "articles": []
+ "articles": [
+  {
+   "id": "p.VLN0L06EE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/faillissement-sabena-na-25-jaar-nu-echt-bijna-afgehandeld-zegt/",
+   "title": "Na exact 25 jaar is faillissement van Sabena nog altijd niet rond: \"Volgend jaar kunnen we écht afsluiten\"",
+   "published": "2026-11-07T06:01:00+01:00",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2001,
+     "t": "2001"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 55000000,
+     "t": "55 miljoen"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 3000000000,
+     "t": "3 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 1050000000,
+     "t": "1,05 miljard"
+    },
+    {
+     "v": 190000000,
+     "t": "190 miljoen"
+    },
+    {
+     "v": 500000000,
+     "t": "500 miljoen"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 600000000,
+     "t": "600 miljoen"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2001,
+     "t": "2001"
+    },
+    {
+     "v": 3000000000,
+     "t": "3 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 55000000,
+     "t": "55 miljoen"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 55000000,
+     "t": "55 miljoen"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2011,
+     "t": "2011"
+    },
+    {
+     "v": 190000000,
+     "t": "190 miljoen"
+    },
+    {
+     "v": 1050000000,
+     "t": "1,05 miljard"
+    },
+    {
+     "v": 500000000,
+     "t": "500 miljoen"
+    },
+    {
+     "v": 600000000,
+     "t": "600 miljoen"
+    },
+    {
+     "v": 250000000,
+     "t": "250 miljoen"
+    },
+    {
+     "v": 350000000,
+     "t": "350 miljoen"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": [
+    {
+     "eur": 55000000,
+     "t": "55 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "faillissement",
+     "how": "sentence",
+     "ctx": "Zo verkocht hij de bagageafhandeling voor 55 miljoen euro, terwijl die bij het faillissement 3 miljoen euro waard was."
+    },
+    {
+     "eur": 3000000,
+     "t": "3 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "faillissement",
+     "how": "sentence",
+     "ctx": "Zo verkocht hij de bagageafhandeling voor 55 miljoen euro, terwijl die bij het faillissement 3 miljoen euro waard was."
+    },
+    {
+     "eur": 1000000000,
+     "t": "1 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "daalde",
+     "how": "sentence",
+     "ctx": "De schuld daalde van ruim 3 miljard naar ruim 1 miljard euro, en er is 1,05 miljard euro beschikbaar, tegenover 190 miljoen bij een snelle verkoop."
+    },
+    {
+     "eur": 500000000,
+     "t": "500 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "kreeg",
+     "how": "sentence",
+     "ctx": "Het personeel kreeg 500 miljoen euro opzegvergoedingen, leveranciers kregen al 250 van de 600 miljoen euro terug."
+    },
+    {
+     "eur": 600000000,
+     "t": "600 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "kregen",
+     "how": "sentence",
+     "ctx": "Het personeel kreeg 500 miljoen euro opzegvergoedingen, leveranciers kregen al 250 van de 600 miljoen euro terug."
+    },
+    {
+     "eur": 3000000000,
+     "t": "3 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "schuld",
+     "how": "sentence",
+     "ctx": "\"De schuld zoals die in 2001 was aangegeven, bedroeg iets meer dan 3 miljard euro."
+    },
+    {
+     "eur": 190000000,
+     "t": "190 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "faillissement",
+     "how": "title",
+     "ctx": "Als Van Buggenhout alle goederen meteen had verkocht, zou er volgens hem slechts 190 miljoen euro beschikbaar zijn geweest om uit te betalen."
+    },
+    {
+     "eur": 500000000,
+     "t": "500 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "faillissement",
+     "how": "title",
+     "ctx": "Die 500 miljoen euro is inmiddels volledig uitbetaald\", zegt Van Buggenhout."
+    },
+    {
+     "eur": 600000000,
+     "t": "600 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "schulden",
+     "how": "sentence",
+     "ctx": "\"Wat nog overblijft, zijn de schulden aan leveranciers: 600 miljoen euro in totaal."
+    },
+    {
+     "eur": 250000000,
+     "t": "250 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "terugbetaald",
+     "how": "sentence",
+     "ctx": "Daarvan is al 250 miljoen euro terugbetaald."
+    },
+    {
+     "eur": 350000000,
+     "t": "350 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "faillissement",
+     "how": "title",
+     "ctx": "Er blijft dus nog 350 miljoen euro openstaan."
+    }
+   ]
+  },
+  {
+   "id": "p.Yb5VeZW94",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/slapen-naast-een-ijsbeer-dieren-voelen-wel-degelijk-dat-ze-bek/",
+   "title": "Slapen naast een aap of ijsbeer zoals in Pairi Daiza? \"Sommige dieren voelen zich bekeken\"",
+   "published": "2026-11-07T06:11:20+01:00",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [
+    {
+     "v": 4500,
+     "t": "4.500"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 4500,
+     "t": "4.500"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.kQO03o8RY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/belgodyssee-melike-weyns/",
+   "title": "\"Ik draai mee in systeem waar ik niet meer in geloof\": Brusselse strafpleiter Adrian (27) stelt klassieke straffen in vraag",
+   "published": "2026-11-07T06:23:30+01:00",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 13470,
+     "t": "13.470"
+    },
+    {
+     "v": 11296,
+     "t": "11.296"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.QAbekVqqp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/eroticabeurs-hasselt-bestaat-35-jaar-nicole-organiseert-ero-exp/",
+   "title": "\"Vroeger kwamen mannen alleen voor de blote borsten\": Nicole (65) organiseert al 25 jaar Eroticabeurs in Hasselt",
+   "published": "2026-11-07T06:44:19+01:00",
+   "first_seen": "2026-11-07T07:23:31+01:00",
+   "numbers": [
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 4,
+     "t": "vier"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "money": []
+  }
+ ]
 }
