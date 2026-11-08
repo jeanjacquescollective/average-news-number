@@ -1,0 +1,417 @@
+{
+ "date": "2026-11-08",
+ "headlines": [
+  {
+   "title": "VS schiet op vrachtschip in Golf van Oman, volgens leger omdat het zeeblokkade omzeilde",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/vs-schiet-op-vrachtschip-in-golf-van-oman-volgens-leger-omdat-h~1784611610051/",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Tweede incident in enkele dagen tijd: opnieuw explosief ontploft in Kortenberg",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/opnieuw-ontploffing-aan-huis-in-brouwerijstraat-in-kortenberg/",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Matts is 14 en speelt straks mee in eerste Belgische amputatievoetbalcompetitie",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/amputatievoetbal-competitie-matts-antwerp/",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 14,
+     "t": "14"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Wat als koning Filip morgen dement wordt? De vergeten regels van het regentschap",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/regentschap-in-belgie-als-elisabeth-inderhaast-overneemt/",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Steriliseer uw kat\": dierenminister Ben Weyts (N-VA) doet nog eens oproep",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vlaanderen-zwerfkatten-dierenwelzijn-ben-weyts/",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Na 5 eeuwen krijgt Catharina van Hemessen eindelijk de aandacht die ze verdient",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/van-hemessen-vader-museum-snijders-rockoxhuis-antwerpen-expotip/",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Na exact 25 jaar is faillissement Sabena nog altijd niet rond: \"Volgend jaar kunnen we écht afsluiten\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/faillissement-sabena-na-25-jaar-nu-echt-bijna-afgehandeld-zegt/",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 25,
+     "t": "25"
+    }
+   ],
+   "money": []
+  }
+ ],
+ "articles": [
+  {
+   "id": "p.5waLNvW3x",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/amputatievoetbal-competitie-matts-antwerp/",
+   "title": "Matts is 14 en speelt straks mee in eerste Belgische amputatievoetbalcompetitie",
+   "published": "2026-11-08T05:50:00+01:00",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.7nXQn5lN6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/van-hemessen-vader-museum-snijders-rockoxhuis-antwerpen-expotip/",
+   "title": "Na 5 eeuwen krijgt Catharina van Hemessen eindelijk de aandacht die ze verdient",
+   "published": "2026-11-08T05:54:00+01:00",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1520,
+     "t": "1520"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1540,
+     "t": "1540"
+    },
+    {
+     "v": 1545,
+     "t": "1545"
+    },
+    {
+     "v": 37,
+     "t": "37"
+    },
+    {
+     "v": 1548,
+     "t": "1548"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1556,
+     "t": "1556"
+    },
+    {
+     "v": 1548,
+     "t": "1548"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 1548,
+     "t": "1548"
+    },
+    {
+     "v": 37,
+     "t": "37"
+    },
+    {
+     "v": 1556,
+     "t": "1556"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1555,
+     "t": "1555"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5waA76N7R",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/regentschap-in-belgie-als-elisabeth-inderhaast-overneemt/",
+   "title": "Wat als koning Filip morgen dement wordt? De vergeten regels van het regentschap",
+   "published": "2026-11-08T06:48:00+01:00",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 167,
+     "t": "167"
+    },
+    {
+     "v": 0,
+     "t": "0"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 2700,
+     "t": "2.700"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1831,
+     "t": "1831"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 1944,
+     "t": "1944"
+    },
+    {
+     "v": 1950,
+     "t": "1950"
+    },
+    {
+     "v": 1950,
+     "t": "1950"
+    },
+    {
+     "v": 1990,
+     "t": "1990"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.LNW0XKGYP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/opnieuw-ontploffing-aan-huis-in-brouwerijstraat-in-kortenberg/",
+   "title": "Tweede incident in enkele dagen tijd: opnieuw explosief ontploft in Kortenberg",
+   "published": "2026-11-08T06:48:01+01:00",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 21,
+     "t": "21"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.WkjQW9R4B",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vlaanderen-zwerfkatten-dierenwelzijn-ben-weyts/",
+   "title": "\"Steriliseer uw kat\": dierenminister Ben Weyts (N-VA) doet nog eens oproep",
+   "published": "2026-11-08T07:10:00+01:00",
+   "first_seen": "2026-11-08T08:46:23+01:00",
+   "numbers": [
+    {
+     "v": 12577,
+     "t": "12.577"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 12577,
+     "t": "12.577"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 147,
+     "t": "147"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  }
+ ]
+}

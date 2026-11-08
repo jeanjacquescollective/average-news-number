@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-07T23:00:25+01:00",
+ "updated_at": "2026-11-08T08:46:23+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1110,6 +1110,52 @@
      "t": "9,3 miljard",
      "title": "25 jaar na faillissement van Sabena: hoe gezond is opvolger Brussels Airlines?",
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/04/25-jaar-na-faillissement-sabena-zo-staat-opvolger-brussels-airl/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "headlines": {
+    "count": 7,
+    "numbers": 3,
+    "mean": 14.6667,
+    "median": 14,
+    "min": {
+     "v": 5,
+     "t": "5",
+     "title": "Na 5 eeuwen krijgt Catharina van Hemessen eindelijk de aandacht die ze verdient",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/van-hemessen-vader-museum-snijders-rockoxhuis-antwerpen-expotip/"
+    },
+    "max": {
+     "v": 25,
+     "t": "25",
+     "title": "Na exact 25 jaar is faillissement Sabena nog altijd niet rond: \"Volgend jaar kunnen we écht afsluiten\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/faillissement-sabena-na-25-jaar-nu-echt-bijna-afgehandeld-zegt/"
+    }
+   },
+   "articles": {
+    "count": 5,
+    "numbers": 74,
+    "mean": 870.2297,
+    "median": 18.0,
+    "min": {
+     "v": 0,
+     "t": "0",
+     "title": "Wat als koning Filip morgen dement wordt? De vergeten regels van het regentschap",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/regentschap-in-belgie-als-elisabeth-inderhaast-overneemt/"
+    },
+    "max": {
+     "v": 12577,
+     "t": "12.577",
+     "title": "\"Steriliseer uw kat\": dierenminister Ben Weyts (N-VA) doet nog eens oproep",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vlaanderen-zwerfkatten-dierenwelzijn-ben-weyts/"
     }
    },
    "money": {
