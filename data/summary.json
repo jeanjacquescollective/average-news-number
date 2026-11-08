@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-08T20:09:19+01:00",
+ "updated_at": "2026-11-08T23:57:00+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 127,
-    "numbers": 1419,
-    "mean": 421176605.4297,
+    "count": 128,
+    "numbers": 1441,
+    "mean": 415509787.2226,
     "median": 20,
     "min": {
      "v": -30,
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 74,
-    "numbers": 831,
-    "mean": 43834531.2983,
-    "median": 26,
+    "count": 75,
+    "numbers": 919,
+    "mean": 39656447.7517,
+    "median": 28,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1123,10 +1123,10 @@
   {
    "date": "2026-11-08",
    "headlines": {
-    "count": 34,
-    "numbers": 19,
-    "mean": 25.4737,
-    "median": 14,
+    "count": 43,
+    "numbers": 22,
+    "mean": 18205.0909,
+    "median": 14.0,
     "min": {
      "v": 2,
      "t": "Twee",
@@ -1134,17 +1134,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-gewonde-vrouwen-hebben-ziekenhuis-verlaten-politieagent-di~1794081032103/"
     },
     "max": {
-     "v": 100,
-     "t": "100",
-     "title": "7 doden en meer dan 100 gewonden na botsing tussen passagierstreinen in Egypte",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/egypte-treinen-botsen/"
+     "v": 400000,
+     "t": "400.000",
+     "title": "Hackers na inbraak bij statistiekbureau: \"400.000 Russische doden geteld in Oekraïne\"",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/hackers-na-inbraak-bij-statistiekbureau-400000-russische-dode~1793644191149/"
     }
    },
    "articles": {
-    "count": 33,
-    "numbers": 355,
-    "mean": 635533.3747,
-    "median": 18,
+    "count": 37,
+    "numbers": 364,
+    "mean": 619820.0468,
+    "median": 16.5,
     "min": {
      "v": 0,
      "t": "0",

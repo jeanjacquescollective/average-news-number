@@ -331,6 +331,84 @@
     }
    ],
    "money": []
+  },
+  {
+   "title": "Poolse chirurg die toevallig in de buurt was, getuigt over eerste hulp na schietpartij in Krakau: \"Collega redde leven van politieagent\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/chirurgen-getuigen-over-eerste-hulp-bij-schietpartij-krakau/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Marco Rubio fnuikt optimisme over einde conflict Midden-Oosten: \"Eisen van Iran zijn buitensporig en belachelijk\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/marco-rubio-fnuikt-optimisme-over-einde-conflict-middenoosten-~1784611610051/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Nvidia-topman geeft affaire toe, Amerikaanse chipreus opent onderzoek naar berichtgeving over relatie met Chinese spionne",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/nvidiatopman-geeft-affaire-toe-amerikaanse-chipreus-opent-onde~1776671241366/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Hackers na inbraak bij statistiekbureau: \"400.000 Russische doden geteld in Oekraïne\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/hackers-na-inbraak-bij-statistiekbureau-400000-russische-dode~1793644191149/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [
+    {
+     "v": 400000,
+     "t": "400.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Pas getrouwd koppel vindt tuin vol autowrakken na trouwfeest in Poelkapelle: \"Gelukkig konden we binnen in huis\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/vrienden-zetten-autowrakken-in-tuin-van-pasgehuwd-koppel-in-poel/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "De Wever trekt begrotingsonderhandelingen straks opnieuw op gang, Zuhal Demir en Bill White in de clinch",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/de-wever-trekt-begrotingsonderhandelingen-straks-opnieuw-op-gang~1793247532380/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Stookolie stroomt Bellewaerde in na lozing in beek in Zonnebeke: \"Situatie onder controle\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/stookolie-stroomt-bellewaerde-in-na-lozing-in-beek-in-zonnebeke/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Pascal uit Hechtel-Eksel zit 24 uur zonder stromend water: \"Heb me kunnen opfrissen met water uit mijn drinkbussen\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/waterproblemen-hechtel-eksel/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Ierse postpunkband Fontaines D.C. breekt record met 4 nummers in 'De Afrekening' van Studio Brussel: wie zijn ze?",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/fontaines-dc-populariteit-de-afrekening-stubru/",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": []
   }
  ],
  "articles": [
@@ -1942,6 +2020,24 @@
    "money": []
   },
   {
+   "id": "p.ZWK1V11ex",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/vrienden-zetten-autowrakken-in-tuin-van-pasgehuwd-koppel-in-poel/",
+   "title": "Pas getrouwd koppel vindt tuin vol autowrakken na trouwfeest in Poelkapelle: \"Gelukkig konden we binnen in huis\"",
+   "published": "2026-11-08T18:31:32+01:00",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 32,
+     "t": "32"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.RaJjAkNvA",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/e40-opnieuw-open-heverlee/",
    "title": "E40 in Heverlee eerder open dan gepland na plaatsing van laatste kabels fietsbrug",
@@ -2101,6 +2197,63 @@
      "t": "30,76"
     }
    ],
+   "money": []
+  },
+  {
+   "id": "p.oLqvvblWQ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/treinen-kunnen-maandagochtend-weer-rijden-tussen-jette-en-dender/",
+   "title": "Treinen kunnen maandagochtend weer rijden tussen Jette en Denderleeuw",
+   "published": "2026-11-08T20:47:42+01:00",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.bDoJY51RA",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/chirurgen-getuigen-over-eerste-hulp-bij-schietpartij-krakau/",
+   "title": "Poolse chirurg die toevallig in de buurt was, getuigt over eerste hulp na schietpartij in Krakau: \"Collega redde leven van politieagent\"",
+   "published": "2026-11-08T21:55:21+01:00",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGkK5eenE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/stookolie-stroomt-bellewaerde-in-na-lozing-in-beek-in-zonnebeke/",
+   "title": "Stookolie stroomt Bellewaerde in na lozing in beek in Zonnebeke: \"Situatie onder controle\"",
+   "published": "2026-11-08T22:23:10+01:00",
+   "first_seen": "2026-11-08T23:57:00+01:00",
+   "numbers": [],
    "money": []
   }
  ]
