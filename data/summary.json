@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-08T08:46:23+01:00",
+ "updated_at": "2026-11-08T15:35:10+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 73,
-    "numbers": 759,
-    "mean": 47972492.0262,
+    "count": 74,
+    "numbers": 831,
+    "mean": 43834531.2983,
     "median": 26,
     "min": {
      "v": -24,
@@ -1095,9 +1095,9 @@
     }
    },
    "articles": {
-    "count": 38,
-    "numbers": 419,
-    "mean": 108263687.6301,
+    "count": 39,
+    "numbers": 431,
+    "mean": 105249385.8724,
     "median": 25,
     "min": {
      "v": 0,
@@ -1123,28 +1123,28 @@
   {
    "date": "2026-11-08",
    "headlines": {
-    "count": 7,
-    "numbers": 3,
-    "mean": 14.6667,
-    "median": 14,
+    "count": 23,
+    "numbers": 13,
+    "mean": 19.0769,
+    "median": 13,
     "min": {
-     "v": 5,
-     "t": "5",
-     "title": "Na 5 eeuwen krijgt Catharina van Hemessen eindelijk de aandacht die ze verdient",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/22/van-hemessen-vader-museum-snijders-rockoxhuis-antwerpen-expotip/"
+     "v": 2,
+     "t": "Twee",
+     "title": "Twee gewonde vrouwen hebben ziekenhuis verlaten, politieagent die tijdens vuurgevecht gewond raakte in coma",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-gewonde-vrouwen-hebben-ziekenhuis-verlaten-politieagent-di~1794081032103/"
     },
     "max": {
-     "v": 25,
-     "t": "25",
-     "title": "Na exact 25 jaar is faillissement Sabena nog altijd niet rond: \"Volgend jaar kunnen we écht afsluiten\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/faillissement-sabena-na-25-jaar-nu-echt-bijna-afgehandeld-zegt/"
+     "v": 81,
+     "t": "81",
+     "title": "Vrouw (81) uit Nederland komt om bij ongeval met mobilhome op E313 in Geel-Oost, weg weer vrij",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/ongeval-met-mobilhome-e313-geel-oost-gewonden/"
     }
    },
    "articles": {
-    "count": 5,
-    "numbers": 74,
-    "mean": 870.2297,
-    "median": 18.0,
+    "count": 20,
+    "numbers": 232,
+    "mean": 1933.4203,
+    "median": 19.0,
     "min": {
      "v": 0,
      "t": "0",
@@ -1152,10 +1152,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/regentschap-in-belgie-als-elisabeth-inderhaast-overneemt/"
     },
     "max": {
-     "v": 12577,
-     "t": "12.577",
-     "title": "\"Steriliseer uw kat\": dierenminister Ben Weyts (N-VA) doet nog eens oproep",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vlaanderen-zwerfkatten-dierenwelzijn-ben-weyts/"
+     "v": 110000,
+     "t": "110.000",
+     "title": "Hoe Fort van Breendonk uitgroeide tot een van wreedste nazigevangenissen van West-Europa",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/het-fort-van-breendonk-historiek-bij-start-fictiereeks-breendon/"
     }
    },
    "money": {
