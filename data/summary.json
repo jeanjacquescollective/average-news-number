@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-08T15:35:10+01:00",
+ "updated_at": "2026-11-08T20:09:19+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -537,9 +537,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 103,
-    "numbers": 1459,
-    "mean": 37720689995.5003,
+    "count": 104,
+    "numbers": 1567,
+    "mean": 35120923619.3007,
     "median": 28,
     "min": {
      "v": -17.6,
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 126,
-    "numbers": 1397,
-    "mean": 427021906.1,
+    "count": 127,
+    "numbers": 1419,
+    "mean": 421176605.4297,
     "median": 20,
     "min": {
      "v": -30,
@@ -1095,9 +1095,9 @@
     }
    },
    "articles": {
-    "count": 39,
-    "numbers": 431,
-    "mean": 105249385.8724,
+    "count": 40,
+    "numbers": 449,
+    "mean": 101030034.6904,
     "median": 25,
     "min": {
      "v": 0,
@@ -1123,10 +1123,10 @@
   {
    "date": "2026-11-08",
    "headlines": {
-    "count": 23,
-    "numbers": 13,
-    "mean": 19.0769,
-    "median": 13,
+    "count": 34,
+    "numbers": 19,
+    "mean": 25.4737,
+    "median": 14,
     "min": {
      "v": 2,
      "t": "Twee",
@@ -1134,17 +1134,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/liveblog/twee-gewonde-vrouwen-hebben-ziekenhuis-verlaten-politieagent-di~1794081032103/"
     },
     "max": {
-     "v": 81,
-     "t": "81",
-     "title": "Vrouw (81) uit Nederland komt om bij ongeval met mobilhome op E313 in Geel-Oost, weg weer vrij",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/ongeval-met-mobilhome-e313-geel-oost-gewonden/"
+     "v": 100,
+     "t": "100",
+     "title": "7 doden en meer dan 100 gewonden na botsing tussen passagierstreinen in Egypte",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/egypte-treinen-botsen/"
     }
    },
    "articles": {
-    "count": 20,
-    "numbers": 232,
-    "mean": 1933.4203,
-    "median": 19.0,
+    "count": 33,
+    "numbers": 355,
+    "mean": 635533.3747,
+    "median": 18,
     "min": {
      "v": 0,
      "t": "0",
@@ -1152,10 +1152,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/regentschap-in-belgie-als-elisabeth-inderhaast-overneemt/"
     },
     "max": {
-     "v": 110000,
-     "t": "110.000",
-     "title": "Hoe Fort van Breendonk uitgroeide tot een van wreedste nazigevangenissen van West-Europa",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/10/26/het-fort-van-breendonk-historiek-bij-start-fictiereeks-breendon/"
+     "v": 225000000,
+     "t": "225 miljoen",
+     "title": "Ierse postpunkband Fontaines D.C. breekt record met 4 nummers in De Afrekening van Studio Brussel: wie zijn ze?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/fontaines-dc-populariteit-de-afrekening-stubru/"
     }
    },
    "money": {
