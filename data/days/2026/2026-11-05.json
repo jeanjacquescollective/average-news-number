@@ -2883,6 +2883,60 @@
    ]
   },
   {
+   "id": "p.vLlWay3Qa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/stad-brussel-kent-concessie-voor-casino-opnieuw-toe-aan-bedrijf/",
+   "title": "Stad Brussel kent concessie voor casino opnieuw toe aan bedrijf achter Napoleon Games",
+   "published": "2026-11-05T13:24:58+01:00",
+   "first_seen": "2026-11-09T11:20:06+01:00",
+   "numbers": [
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 15,
+     "t": "Vijftien"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 286,
+     "t": "286"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 15,
+     "t": "vijftien"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.6KpPjNaZd",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/zoutleeuw-budingen-telenet-internetproblemen-netwerkstoring-glas/",
    "title": "Zoutleeuw is internetprobleem beu, Telenet reageert met herstellingen",
@@ -3016,6 +3070,24 @@
     {
      "v": 50,
      "t": "12.50"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5waA6ZlVJ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/cyberaanval-legt-medisch-labo-in-waregem-plat-hackers-vragen-lo/",
+   "title": "Hackers leggen medisch labo in Waregem plat en eisen losgeld",
+   "published": "2026-11-05T15:05:41+01:00",
+   "first_seen": "2026-11-09T11:20:06+01:00",
+   "numbers": [
+    {
+     "v": 5000,
+     "t": "5.000"
+    },
+    {
+     "v": 3,
+     "t": "3"
     }
    ],
    "money": []
@@ -3549,6 +3621,32 @@
     {
      "v": 2023,
      "t": "2023"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.mRJQkJbyj",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/nmbs-medewerker-aangevallen-in-station-brussel-schuman/",
+   "title": "NMBS-medewerker aangevallen in station Brussel-Schuman",
+   "published": "2026-11-05T16:35:01+01:00",
+   "first_seen": "2026-11-09T11:20:06+01:00",
+   "numbers": [
+    {
+     "v": 2600,
+     "t": "2.600"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 104,
+     "t": "104"
+    },
+    {
+     "v": 2600,
+     "t": "2.600"
     }
    ],
    "money": []
@@ -4367,6 +4465,64 @@
     {
      "v": 2024,
      "t": "2024"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.8epBXjnop",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/11-jongeren-brengen-musical-over-80-jaar-italiaanse-migratie-in/",
+   "title": "Jongeren brengen 80 jaar Italiaanse migratie in Limburg op het podium in 3 mijngemeenten",
+   "published": "2026-11-05T18:28:01+01:00",
+   "first_seen": "2026-11-09T11:20:06+01:00",
+   "numbers": [
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 1946,
+     "t": "1946"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 16,
+     "t": "16"
     }
    ],
    "money": []

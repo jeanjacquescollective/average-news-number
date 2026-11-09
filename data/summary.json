@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-08T23:57:00+01:00",
+ "updated_at": "2026-11-09T11:20:06+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 128,
-    "numbers": 1441,
-    "mean": 415509787.2226,
-    "median": 20,
+    "count": 129,
+    "numbers": 1444,
+    "mean": 421571747.5102,
+    "median": 20.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -991,10 +991,10 @@
     }
    },
    "articles": {
-    "count": 86,
-    "numbers": 806,
-    "mean": 12152808.8175,
-    "median": 20.0,
+    "count": 90,
+    "numbers": 835,
+    "mean": 11730756.6789,
+    "median": 20,
     "min": {
      "v": -50,
      "t": "-50",
@@ -1095,10 +1095,10 @@
     }
    },
    "articles": {
-    "count": 40,
-    "numbers": 449,
-    "mean": 101030034.6904,
-    "median": 25,
+    "count": 41,
+    "numbers": 475,
+    "mean": 95499970.3326,
+    "median": 24,
     "min": {
      "v": 0,
      "t": "23.00",
@@ -1156,6 +1156,52 @@
      "t": "225 miljoen",
      "title": "Ierse postpunkband Fontaines D.C. breekt record met 4 nummers in De Afrekening van Studio Brussel: wie zijn ze?",
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/fontaines-dc-populariteit-de-afrekening-stubru/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
+   "date": "2026-11-09",
+   "headlines": {
+    "count": 19,
+    "numbers": 7,
+    "mean": 10.5714,
+    "median": 3,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "\"9 uur in Stille Oceaan\": pianist van cruiseschip gered uit zee door 2 vissers in Californië",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/9-uur-in-stille-oceaan-pianist-van-cruiseship-gered-uit-zee-d/"
+    },
+    "max": {
+     "v": 50,
+     "t": "50",
+     "title": "\"Mensen sloegen met stokken om anderen van bootje te weren\": 50-tal transmigranten intussen aan land in Duinkerke",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/an-berger-federale-politie-over-bootjes-met-transmigranten-voor/"
+    }
+   },
+   "articles": {
+    "count": 28,
+    "numbers": 287,
+    "mean": 70469504.3808,
+    "median": 20,
+    "min": {
+     "v": 0,
+     "t": "Zero",
+     "title": "Bijna 15.000 fietsers in Brussel wachten op beveiligde parkeerplek: \"Buurtparkings in leegstaande gebouwen nodig\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/bijna-15-000-fietsers-wachten-op-parkeerplek-fietsboxen-zijn-ni/"
+    },
+    "max": {
+     "v": 10000000000,
+     "t": "10 miljard",
+     "title": "De schaduwpremier mee aan de regeringstafel",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/de-schaduwpremier-mee-aan-de-regeringstafel/"
     }
    },
    "money": {
