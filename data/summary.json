@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-09T11:20:06+01:00",
+ "updated_at": "2026-11-09T21:57:09+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 118,
-    "numbers": 1863,
-    "mean": 143759132.2342,
-    "median": 56,
+    "count": 119,
+    "numbers": 1997,
+    "mean": 134120459.0958,
+    "median": 61,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 98,
-    "numbers": 1168,
-    "mean": 9362958.2102,
+    "count": 99,
+    "numbers": 1176,
+    "mean": 9299269.7989,
     "median": 25.0,
     "min": {
      "v": -8,
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 129,
-    "numbers": 1444,
-    "mean": 421571747.5102,
-    "median": 20.0,
+    "count": 130,
+    "numbers": 1453,
+    "mean": 427632211.5827,
+    "median": 20,
     "min": {
      "v": -30,
      "t": "-30",
@@ -1095,10 +1095,10 @@
     }
    },
    "articles": {
-    "count": 41,
-    "numbers": 475,
-    "mean": 95499970.3326,
-    "median": 24,
+    "count": 42,
+    "numbers": 500,
+    "mean": 90724972.468,
+    "median": 21.0,
     "min": {
      "v": 0,
      "t": "23.00",
@@ -1169,28 +1169,28 @@
   {
    "date": "2026-11-09",
    "headlines": {
-    "count": 19,
-    "numbers": 7,
-    "mean": 10.5714,
-    "median": 3,
+    "count": 42,
+    "numbers": 18,
+    "mean": 19444444459.5278,
+    "median": 5.0,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "\"9 uur in Stille Oceaan\": pianist van cruiseschip gered uit zee door 2 vissers in Californië",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/9-uur-in-stille-oceaan-pianist-van-cruiseship-gered-uit-zee-d/"
+     "v": 1,
+     "t": "Eén",
+     "title": "Eén regenboogvlag maakt nog geen motief: onzekerheid over aanslag Krakau leidt tot speculatie online",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/factcheck-beelden-schutter-krakow/"
     },
     "max": {
-     "v": 50,
-     "t": "50",
-     "title": "\"Mensen sloegen met stokken om anderen van bootje te weren\": 50-tal transmigranten intussen aan land in Duinkerke",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/an-berger-federale-politie-over-bootjes-met-transmigranten-voor/"
+     "v": 350000000000,
+     "t": "350 miljard",
+     "title": "Nvidia verliest ruim 350 miljard dollar beurswaarde bij opening Wall Street",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/nvidia-verliest-ruim-350-miljard-dollar-beurswaarde-bij-opening-~1776671241366/"
     }
    },
    "articles": {
-    "count": 28,
-    "numbers": 287,
-    "mean": 70469504.3808,
-    "median": 20,
+    "count": 83,
+    "numbers": 938,
+    "mean": 22728304.7965,
+    "median": 25.0,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1205,11 +1205,17 @@
     }
    },
    "money": {
-    "count": 0,
-    "lost": 0,
+    "count": 1,
+    "lost": 301000000000,
+    "biggest_lost": {
+     "eur": 301000000000,
+     "t": "350 miljard dollar",
+     "title": "Nvidia verliest ruim 350 miljard dollar beurswaarde bij opening Wall Street",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/nvidia-verliest-ruim-350-miljard-dollar-beurswaarde-bij-opening-~1776671241366/"
+    },
     "gained": 0,
     "neutral": 0,
-    "net": 0
+    "net": -301000000000
    }
   }
  ]
