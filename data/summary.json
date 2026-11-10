@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-10T04:30:09+01:00",
+ "updated_at": "2026-11-10T12:44:09+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 99,
-    "numbers": 1176,
-    "mean": 9299269.7989,
+    "count": 100,
+    "numbers": 1178,
+    "mean": 9283481.6031,
     "median": 25.0,
     "min": {
      "v": -8,
@@ -569,10 +569,10 @@
     "numbers": 0
    },
    "articles": {
-    "count": 101,
-    "numbers": 1143,
-    "mean": 393182448.887,
-    "median": 20,
+    "count": 102,
+    "numbers": 1191,
+    "mean": 377336307.7379,
+    "median": 21,
     "min": {
      "v": -1.3,
      "t": "-1,3",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 130,
-    "numbers": 1453,
-    "mean": 427632211.5827,
-    "median": 20,
+    "count": 131,
+    "numbers": 1467,
+    "mean": 439706614.5009,
+    "median": 19,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 75,
-    "numbers": 919,
-    "mean": 39656447.7517,
+    "count": 76,
+    "numbers": 1009,
+    "mean": 36136427.6322,
     "median": 28,
     "min": {
      "v": -24,
@@ -1221,26 +1221,40 @@
   {
    "date": "2026-11-10",
    "headlines": {
-    "count": 4,
-    "numbers": 1,
-    "mean": 81.0,
-    "median": 81,
+    "count": 25,
+    "numbers": 11,
+    "mean": 70.7273,
+    "median": 5,
     "min": {
-     "v": 81,
-     "t": "81",
-     "title": "M. John Harrison (81) is verrassende winnaar van Booker Prize met 'The end of everything'",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/m-john-harrison-haalt-booker-prize-binnen-met-the-end-of-every/"
+     "v": 1,
+     "t": "1",
+     "title": "Ooit 1 van de grootste beurzen van ons land, nu klaar voor haar comeback? \"In Nederland hebben ze de Boekenbeurs nooit begrepen\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/geschiedenis-boekenbeurs-antwerpen/"
     },
     "max": {
-     "v": 81,
-     "t": "81",
-     "title": "M. John Harrison (81) is verrassende winnaar van Booker Prize met 'The end of everything'",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/m-john-harrison-haalt-booker-prize-binnen-met-the-end-of-every/"
+     "v": 600,
+     "t": "600",
+     "title": "Vynova in Tessenderlo-Ham vraagt faillissement aan: 600 werknemers verliezen hun job",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/bijzondere-ondernemingsraad-vynova/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 40,
+    "numbers": 418,
+    "mean": 11009982115.9696,
+    "median": 12.0,
+    "min": {
+     "v": 0,
+     "t": "Zero",
+     "title": "Rode loper voor fietsers in Jette: \"Fietspad stopt ineens, beetje idioot om het niet door te trekken\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/rode-loper-voor-fietsers-in-jette/"
+    },
+    "max": {
+     "v": 4500000000000,
+     "t": "4.500 miljard",
+     "title": "Californië stemt tegen vermogensbelasting voor miljardairs, die ook Democraten verdeelde",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/californie-belasting/"
+    }
    },
    "money": {
     "count": 0,
