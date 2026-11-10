@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-10T19:54:14+01:00",
+ "updated_at": "2026-11-11T00:57:34+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 101,
-    "numbers": 1181,
-    "mean": 9259899.594,
+    "count": 102,
+    "numbers": 1187,
+    "mean": 9213093.4545,
     "median": 25,
     "min": {
      "v": -8,
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 132,
-    "numbers": 1490,
-    "mean": 450167520.5476,
+    "count": 133,
+    "numbers": 1514,
+    "mean": 460006347.284,
     "median": 19.0,
     "min": {
      "v": -30,
@@ -1239,9 +1239,9 @@
     }
    },
    "articles": {
-    "count": 76,
-    "numbers": 764,
-    "mean": 7333686625.7237,
+    "count": 80,
+    "numbers": 784,
+    "mean": 7146602831.4386,
     "median": 17.0,
     "min": {
      "v": 0,
@@ -1268,6 +1268,38 @@
     },
     "neutral": 0,
     "net": 100000000
+   }
+  },
+  {
+   "date": "2026-11-11",
+   "headlines": {
+    "count": 6,
+    "numbers": 1,
+    "mean": 30000.0,
+    "median": 30000,
+    "min": {
+     "v": 30000,
+     "t": "30.000",
+     "title": "Waar komt jouw familienaam vandaan? Namenloket maakt oorsprong van 30.000 Belgische namen makkelijk opzoekbaar",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/nieuwe-website-maakt-meer-dan-30-000-belgische-familienamen-en-p/"
+    },
+    "max": {
+     "v": 30000,
+     "t": "30.000",
+     "title": "Waar komt jouw familienaam vandaan? Namenloket maakt oorsprong van 30.000 Belgische namen makkelijk opzoekbaar",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/nieuwe-website-maakt-meer-dan-30-000-belgische-familienamen-en-p/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]

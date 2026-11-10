@@ -2130,6 +2130,52 @@
    "money": []
   },
   {
+   "id": "p.vLlNQokm3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/nieuwe-website-maakt-meer-dan-30-000-belgische-familienamen-en-p/",
+   "title": "Waar komt jouw familienaam vandaan? Namenloket maakt oorsprong van 30.000 Belgische namen makkelijk opzoekbaar",
+   "published": "2026-11-10T09:49:04+01:00",
+   "first_seen": "2026-11-11T00:57:34+01:00",
+   "numbers": [
+    {
+     "v": 30000,
+     "t": "30.000"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 1500,
+     "t": "1500"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.5wabMGeow",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/berg-aarde-goetsenhoven-dan-toch-niet-illegaal-gestort/",
    "title": "Berg aarde op weiland in Goetsenhoven dan toch niet illegaal gedumpt, politie zet onderzoek stop",
@@ -4643,6 +4689,79 @@
     {
      "v": 2021,
      "t": "2021"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Nv3eeXeyn",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/grensoverschrijdend-gedrag-content-creator/",
+   "title": "Play onderzoekt mogelijk grensoverschrijdend gedrag van deelnemer 'De Slimste Mens ter Wereld' na ophef op sociale media",
+   "published": "2026-11-10T20:30:09+01:00",
+   "first_seen": "2026-11-11T00:57:34+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.lObn5eP0n",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/amerikaanse-militair-opgepakt-in-engeland-op-verdenking-van-spio/",
+   "title": "Amerikaanse \"hooggeplaatste\" militair opgepakt in Engeland op verdenking van spionage voor Rusland",
+   "published": "2026-11-10T21:08:40+01:00",
+   "first_seen": "2026-11-11T00:57:34+01:00",
+   "numbers": [
+    {
+     "v": 41,
+     "t": "41"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.VLNYWKel5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/joe-biden-belaagd-ierland/",
+   "title": "Joe Biden belaagd en bekogeld in Ierland om steun aan Israël tijdens presidentschap",
+   "published": "2026-11-10T22:48:52+01:00",
+   "first_seen": "2026-11-11T00:57:34+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 83,
+     "t": "83"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
     }
    ],
    "money": []
