@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-10T12:44:09+01:00",
+ "updated_at": "2026-11-10T19:54:14+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 100,
-    "numbers": 1178,
-    "mean": 9283481.6031,
-    "median": 25.0,
+    "count": 101,
+    "numbers": 1181,
+    "mean": 9259899.594,
+    "median": 25,
     "min": {
      "v": -8,
      "t": "-8",
@@ -537,9 +537,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 104,
-    "numbers": 1567,
-    "mean": 35120923619.3007,
+    "count": 105,
+    "numbers": 1681,
+    "mean": 32739136181.7534,
     "median": 28,
     "min": {
      "v": -17.6,
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 131,
-    "numbers": 1467,
-    "mean": 439706614.5009,
-    "median": 19,
+    "count": 132,
+    "numbers": 1490,
+    "mean": 450167520.5476,
+    "median": 19.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 76,
-    "numbers": 1009,
-    "mean": 36136427.6322,
-    "median": 28,
+    "count": 77,
+    "numbers": 1099,
+    "mean": 33192934.9207,
+    "median": 29,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1095,10 +1095,10 @@
     }
    },
    "articles": {
-    "count": 43,
-    "numbers": 512,
-    "mean": 88598615.6699,
-    "median": 20.0,
+    "count": 44,
+    "numbers": 539,
+    "mean": 84160470.5696,
+    "median": 18,
     "min": {
      "v": 0,
      "t": "23.00",
@@ -1221,10 +1221,10 @@
   {
    "date": "2026-11-10",
    "headlines": {
-    "count": 25,
-    "numbers": 11,
-    "mean": 70.7273,
-    "median": 5,
+    "count": 54,
+    "numbers": 26,
+    "mean": 3884731.5385,
+    "median": 9.5,
     "min": {
      "v": 1,
      "t": "1",
@@ -1232,17 +1232,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/geschiedenis-boekenbeurs-antwerpen/"
     },
     "max": {
-     "v": 600,
-     "t": "600",
-     "title": "Vynova in Tessenderlo-Ham vraagt faillissement aan: 600 werknemers verliezen hun job",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/bijzondere-ondernemingsraad-vynova/"
+     "v": 100000000,
+     "t": "100 miljoen",
+     "title": "1.479 extra studentenkoten in Gent, Leuven, Brussel en Kortrijk dankzij 100 miljoen euro aan renteloze leningen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/prijs-kot-student-universiteit-hogeschool-depraetere/"
     }
    },
    "articles": {
-    "count": 40,
-    "numbers": 418,
-    "mean": 11009982115.9696,
-    "median": 12.0,
+    "count": 76,
+    "numbers": 764,
+    "mean": 7333686625.7237,
+    "median": 17.0,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1257,11 +1257,17 @@
     }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 100000000,
+    "biggest_gained": {
+     "eur": 100000000,
+     "t": "100 miljoen euro",
+     "title": "1.479 extra studentenkoten in Gent, Leuven, Brussel en Kortrijk dankzij 100 miljoen euro aan renteloze leningen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/prijs-kot-student-universiteit-hogeschool-depraetere/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 100000000
    }
   }
  ]
