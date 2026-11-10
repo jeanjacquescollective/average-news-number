@@ -2468,6 +2468,54 @@
    ]
   },
   {
+   "id": "p.APQOxbxvD",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/plaatsing-kerstboom-burg-kersverlichting-brugge/",
+   "title": "Brugge luidt kerstseizoen in: boom van 16 meter op Burg geplaatst",
+   "published": "2026-11-09T12:21:36+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 248,
+     "t": "248"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 66000,
+     "t": "66.000"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    }
+   ],
+   "money": [
+    {
+     "eur": 66000,
+     "t": "66.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "stalen",
+     "how": "article",
+     "ctx": "Kostenplaatje: zo'n 66.000 euro."
+    }
+   ]
+  },
+  {
    "id": "p.43pRL8aAo",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/verdachte-krijgt-nieuw-proces-na-veroordeling-tot-14-jaar-cel-na/",
    "title": "Verdachte krijgt nieuw proces na veroordeling tot 14 jaar cel voor brandstichting aan woning van politieman in Zaventem",
@@ -2699,6 +2747,24 @@
     {
      "v": 2,
      "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqvqWEpv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/teddy-riner-wil-president-van-frankrijk-worden/",
+   "title": "Legt hij de andere kandidaten over zijn knie? Judolegende Teddy Riner wil president van Frankrijk worden",
+   "published": "2026-11-09T12:48:16+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 37,
+     "t": "37"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
     }
    ],
    "money": []
@@ -5135,6 +5201,64 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.pAxqZAZ54",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/explosie-borgerhout/",
+   "title": "Ontploffing in Borgerhout veroorzaakt schade aan raam, niemand raakt gewond",
+   "published": "2026-11-09T22:25:13+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 21,
+     "t": "21.30"
+    },
+    {
+     "v": 30,
+     "t": "21.30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lObGyqy0n",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/m-john-harrison-haalt-booker-prize-binnen-met-the-end-of-every/",
+   "title": "M. John Harrison (81) is verrassende winnaar van Booker Prize met 'The end of everything'",
+   "published": "2026-11-09T23:54:57+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 81,
+     "t": "81"
+    },
+    {
+     "v": 81,
+     "t": "81"
+    },
+    {
+     "v": 1965,
+     "t": "1965"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 60000,
+     "t": "60.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 60000,
+     "t": "60.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "wint",
+     "how": "sentence",
+     "ctx": "Harrison wint zo'n 60.000 euro."
+    }
+   ]
   }
  ]
 }

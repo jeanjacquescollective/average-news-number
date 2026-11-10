@@ -1347,6 +1347,24 @@
    "money": []
   },
   {
+   "id": "p.PqO7Yp19a",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/persoon-gewond-bij-schietincident-aan-fontainasplein/",
+   "title": "Persoon gewond bij schietincident in centrum Brussel",
+   "published": "2026-11-08T12:18:00+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 21,
+     "t": "21.45"
+    },
+    {
+     "v": 45,
+     "t": "21.45"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.7nX0Ldpaj",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/ongeval-met-mobilhome-e313-geel-oost-gewonden/",
    "title": "Vrouw (81) uit Nederland komt om bij ongeval met mobilhome op E313 in Geel-Oost, weg weer vrij",
@@ -1390,6 +1408,108 @@
     {
      "v": 2.5,
      "t": "2,5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Ovk9qPvwN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/herfstvakantie-aan-de-kust-rustiger-dan-vorig-jaar-maar-over-3/",
+   "title": "Minder overnachtingen aan de kust tijdens herfstvakantie, maar meer dagtoeristen: \"Balans licht positief\"",
+   "published": "2026-11-08T13:13:56+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 715000,
+     "t": "715.000"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 715000,
+     "t": "715.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 51,
+     "t": "51"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 600000,
+     "t": "600.000"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 59,
+     "t": "59"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 19,
+     "t": "19"
     }
    ],
    "money": []
@@ -1973,12 +2093,160 @@
    "money": []
   },
   {
+   "id": "p.43pR9dPwv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/canadese-bevrijdingsmars-in-knokke-heist-trekt-recordaantal-van/",
+   "title": "Canadese Bevrijdingsmars in Knokke-Heist trekt recordaantal van bijna 1.750 inschrijvingen",
+   "published": "2026-11-08T16:46:02+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 1750,
+     "t": "1.750"
+    },
+    {
+     "v": 1747,
+     "t": "1.747"
+    },
+    {
+     "v": 52,
+     "t": "52"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 54,
+     "t": "54"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 54,
+     "t": "54"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 87,
+     "t": "87"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.kQO7kjJjO",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/twintiger-aangehouden-na-dreiging-met-explosiegevaar-bij-woonzor/",
    "title": "Twintiger aangehouden na dreiging met explosiegevaar bij woonzorgcentrum in Lippelo",
    "published": "2026-11-08T17:38:42+01:00",
    "first_seen": "2026-11-08T20:09:19+01:00",
    "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.QAbjJoJXp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/avelgemnaren-grabbelen-naar-35-000-stuks-peperkoek-tijdens-feest/",
+   "title": "Avelgem werpt recordaantal van 35.000 peperkoeken in publiek tijdens Feesteworpstoet",
+   "published": "2026-11-08T17:54:43+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 35000,
+     "t": "35.000"
+    },
+    {
+     "v": 35000,
+     "t": "35.000"
+    },
+    {
+     "v": 20000,
+     "t": "20.000"
+    },
+    {
+     "v": 35000,
+     "t": "35.000"
+    },
+    {
+     "v": 1000,
+     "t": "duizend"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    }
+   ],
    "money": []
   },
   {

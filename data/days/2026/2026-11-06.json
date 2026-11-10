@@ -1094,6 +1094,28 @@
    "money": []
   },
   {
+   "id": "p.0YpABolmZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/gedetineerde-vrouw-uit-gevangenis-haren-dient-klacht-in-voor-ver/",
+   "title": "Gedetineerde in Haren dient klacht in voor verkrachting, vier gewonden bij ander incident",
+   "published": "2026-11-06T07:29:17+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "vier"
+    },
+    {
+     "v": 4,
+     "t": "vier"
+    },
+    {
+     "v": 4,
+     "t": "Vier"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.bDoAZ7RYW",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/trump-triomfboog-rechter/",
    "title": "Rechter blokkeert bouw van Trumps enorme triomfboog, vlak na goedkeuring door commissie",
@@ -1240,6 +1262,70 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.xZY4RmdPZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/05/hoognodige-herinrichting-bosstraat-in-wellen-komt-dichterbij-we/",
+   "title": "Herinrichting Bosstraat Wellen start in april 2027: werken kosten 10 miljoen euro en duren 3 jaar",
+   "published": "2026-11-06T08:02:37+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 10000000,
+     "t": "10 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 10000000,
+     "t": "10 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10000000,
+     "t": "10 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "Herinrichting Bosstraat Wellen start in april 2027: werken kosten 10 miljoen euro en duren 3 jaar"
+    }
+   ]
   },
   {
    "id": "p.nwvMR05WK",
@@ -3399,6 +3485,104 @@
    "money": []
   },
   {
+   "id": "p.Nv317AZRG",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/zwembad-sint-gillis-heropent-ten-vroegste-in-de-zomer-van-2027/",
+   "title": "Zwembad Sint-Gillis heropent ten vroegste in de zomer van 2027",
+   "published": "2026-11-06T14:11:50+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 1.5,
+     "t": "anderhalf"
+    },
+    {
+     "v": 1905,
+     "t": "1905"
+    },
+    {
+     "v": 30,
+     "t": "dertig"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 30,
+     "t": "dertig"
+    },
+    {
+     "v": 9600000,
+     "t": "9,6 miljoen"
+    },
+    {
+     "v": 13700000,
+     "t": "13,7 miljoen"
+    },
+    {
+     "v": 6,
+     "t": "zes"
+    },
+    {
+     "v": 13000000,
+     "t": "13 miljoen"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 700000,
+     "t": "700.000"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    }
+   ],
+   "money": [
+    {
+     "eur": 9600000,
+     "t": "9,6 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Initieel voor een periode van dertig maanden, of tot begin dit jaar, en voor een totaalsom van 9,6 miljoen euro."
+    },
+    {
+     "eur": 13000000,
+     "t": "13 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Die zijn stuk voor stuk vervangen, goed voor zes maanden vertraging en een nieuwe totaalfactuur van ongeveer 13 miljoen euro."
+    },
+    {
+     "eur": 700000,
+     "t": "700.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Het gaat in totaal om 700.000 euro."
+    }
+   ]
+  },
+  {
    "id": "p.ew4EndaBE",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/na-de-stakingen-in-september-sociale-akkoorden-afgesloten-bij-l/",
    "title": "Na de stakingen van september: sociale akkoorden afgesloten bij luchtverkeersleider Skeyes",
@@ -4273,6 +4457,208 @@
     {
      "v": 21,
      "t": "21"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8ljAD77",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/kringwinkel-ronse-kampioen-oost-vlaanderen-inzamelwedstrijd/",
+   "title": "Ronse is Oost-Vlaamse Kringkampioen met 0,64 kg herbruikbare spullen per inwoner",
+   "published": "2026-11-06T16:40:33+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 0.64,
+     "t": "0,64"
+    },
+    {
+     "v": 0.64,
+     "t": "0,64"
+    },
+    {
+     "v": 144,
+     "t": "144"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 1799078,
+     "t": "1.799.078"
+    },
+    {
+     "v": 1800,
+     "t": "1.800"
+    },
+    {
+     "v": 0.34,
+     "t": "0,34"
+    },
+    {
+     "v": 0.64,
+     "t": "0,64"
+    },
+    {
+     "v": 0.58,
+     "t": "0,58"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 0.5,
+     "t": "0,50"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1.11,
+     "t": "1,11"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 494,
+     "t": "494"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 45899,
+     "t": "45.899"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 6.7,
+     "t": "6,7"
+    }
+   ],
+   "money": [
+    {
+     "eur": 250,
+     "t": "250 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "waarde",
+     "how": "sentence",
+     "ctx": "De provinciale kampioenen ontvangen een trofee, een oorkonde en Kringwinkel-cadeaubonnen ter waarde van 250 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.APQ8PBAD6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/06/vakbonden-niet-verrast-door-incidenten-in-haren-1-300-geinterne/",
+   "title": "Vakbonden niet verrast door incidenten in gevangenis Haren: \"1.300 gedetineerden op elkaar gepakt\"",
+   "published": "2026-11-06T16:45:15+01:00",
+   "first_seen": "2026-11-10T04:30:09+01:00",
+   "numbers": [
+    {
+     "v": 1300,
+     "t": "1.300"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1300,
+     "t": "1.300"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 1100,
+     "t": "1.100"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 175,
+     "t": "175"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1300,
+     "t": "1.300"
     }
    ],
    "money": []

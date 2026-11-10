@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-09T21:57:09+01:00",
+ "updated_at": "2026-11-10T04:30:09+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1043,9 +1043,9 @@
     }
    },
    "articles": {
-    "count": 89,
-    "numbers": 843,
-    "mean": 8919268559.0137,
+    "count": 94,
+    "numbers": 915,
+    "mean": 8217488822.9391,
     "median": 20,
     "min": {
      "v": 0,
@@ -1095,10 +1095,10 @@
     }
    },
    "articles": {
-    "count": 42,
-    "numbers": 500,
-    "mean": 90724972.468,
-    "median": 21.0,
+    "count": 43,
+    "numbers": 512,
+    "mean": 88598615.6699,
+    "median": 20.0,
     "min": {
      "v": 0,
      "t": "23.00",
@@ -1141,10 +1141,10 @@
     }
    },
    "articles": {
-    "count": 37,
-    "numbers": 364,
-    "mean": 619820.0468,
-    "median": 16.5,
+    "count": 41,
+    "numbers": 421,
+    "mean": 541042.9763,
+    "median": 19,
     "min": {
      "v": 0,
      "t": "0",
@@ -1187,9 +1187,9 @@
     }
    },
    "articles": {
-    "count": 83,
-    "numbers": 938,
-    "mean": 22728304.7965,
+    "count": 87,
+    "numbers": 954,
+    "mean": 22347254.1784,
     "median": 25.0,
     "min": {
      "v": 0,
@@ -1216,6 +1216,38 @@
     "gained": 0,
     "neutral": 0,
     "net": -301000000000
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "headlines": {
+    "count": 4,
+    "numbers": 1,
+    "mean": 81.0,
+    "median": 81,
+    "min": {
+     "v": 81,
+     "t": "81",
+     "title": "M. John Harrison (81) is verrassende winnaar van Booker Prize met 'The end of everything'",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/m-john-harrison-haalt-booker-prize-binnen-met-the-end-of-every/"
+    },
+    "max": {
+     "v": 81,
+     "t": "81",
+     "title": "M. John Harrison (81) is verrassende winnaar van Booker Prize met 'The end of everything'",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/m-john-harrison-haalt-booker-prize-binnen-met-the-end-of-every/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
