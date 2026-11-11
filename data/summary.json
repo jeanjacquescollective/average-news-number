@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-11T15:12:00+01:00",
+ "updated_at": "2026-11-11T22:27:37+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 134,
-    "numbers": 1542,
-    "mean": 468320112.8282,
+    "count": 135,
+    "numbers": 1570,
+    "mean": 476337336.4167,
     "median": 19.0,
     "min": {
      "v": -30,
@@ -1273,15 +1273,15 @@
   {
    "date": "2026-11-11",
    "headlines": {
-    "count": 28,
-    "numbers": 13,
-    "mean": 158634.3846,
-    "median": 24,
+    "count": 40,
+    "numbers": 20,
+    "mean": 103429.75,
+    "median": 13.0,
     "min": {
-     "v": 11,
-     "t": "11.11.11",
-     "title": "Lucien is al 45 jaar vrijwilliger bij 11.11.11: \"Wie van de familie niet meedoet, mag met Kerstmis niet binnen\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/lucien-45-jaar-vrijwilliger-11-11-11-in-bloemetjes-gezet-met-kin/"
+     "v": 3,
+     "t": "3",
+     "title": "Parket start onderzoek naar mogelijke zedenfeiten door 'Bruine Mehdi': 3 vrouwen deden aangifte bij politie",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/_bruine-mehdi_-ontkent-aantijgingen-van-grensoverschrijdend-gedr/"
     },
     "max": {
      "v": 2000000,
@@ -1291,10 +1291,10 @@
     }
    },
    "articles": {
-    "count": 32,
-    "numbers": 392,
-    "mean": 2986026.3806,
-    "median": 30.4,
+    "count": 57,
+    "numbers": 653,
+    "mean": 4703294.6384,
+    "median": 28,
     "min": {
      "v": 1,
      "t": "1",
