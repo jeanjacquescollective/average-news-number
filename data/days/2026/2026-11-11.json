@@ -89,6 +89,185 @@
    "first_seen": "2026-11-11T07:03:54+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Premier De Wever hervat gesprekken: \"Wapenstilstand in de regering? Daar zijn we nog op aan het wachten\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-hervat-gesprekken-wapenstilstand-in-de-regeri~1793247532380/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Lucien is al 45 jaar vrijwilliger bij 11.11.11: \"Wie van de familie niet meedoet, mag met Kerstmis niet binnen\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/lucien-45-jaar-vrijwilliger-11-11-11-in-bloemetjes-gezet-met-kin/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Van iconische oceaanstomer tot grootste kunstmatig rif ooit: het einde van de S.S. United States",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/s-s-united-states-iconisch-passagiersschip-wordt-kunstmatig-ri/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Waar is Alice Huang? Vermoedelijke Chinese spionne reisde met Hongkongs paspoort naar Taiwan",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Na 111 jaar prijkt de naam van vermiste soldaat Valère Vanden Abeele op het oorlogsmonument van Kwaremont",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/vermiste-soldaat-gedenksteen-valere-vanden-abeele-kwaremont/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 111,
+     "t": "111"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "11 november is Wapenstilstand, maar wat herdenken we dan precies?",
+   "url": "https://www.vrt.be/vrtnws/nl/2025/11/10/11-november-wapenstilstand-wat-herdenken-we/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Net als in 1998 zijn gamers en reviewers laaiend enthousiast: 'Zelda: Ocarina of Time' scoort bijna perfecte reviews en breekt verkooprecords",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/legend-of-zelda-ocarina-of-time/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 1998,
+     "t": "1998"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Onvrede over wooncrisis en lage lonen houdt aan: eerste algemene staking in Spanje in 14 jaar",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/spanje-algemene-staking-wooncrisis/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 14,
+     "t": "14"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Amerikaans jongetje van 11 maanden levend teruggevonden nadat zijn vader hem had begraven",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/amerikaans-jongetje-van-11-maanden-levend-teruggevonden-nadat-zi/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Netwerkproblemen bij UZ Brussel en verbonden ziekenhuizen na 24 uren opgelost: \"Geen sprake van cyberaanval\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/netwerkproblemen-uz-brussel-na-24-uren-opgelost-geen-sprake-van/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Na het rendier de kleurrijke ijsvogel: Britse prins George maakt indruk met tekening",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/prins-george-tekent-ijsvogel/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Namenloket maakt oorsprong van 30.000 Belgische namen makkelijk opzoekbaar",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/nieuwe-website-maakt-meer-dan-30-000-belgische-familienamen-en-p/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 30000,
+     "t": "30.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Keira Knightley is in 'Black doves' de James Bond die we niet zagen aankomen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/streamingtip-black-doves-seizoen-2-robin-broos/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Thomas Markle knipt zijn enkelband door en zit opnieuw in de cel",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/thomas-markle-opnieuw-in-hechtenis/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Onderhandelingen tussen Rusland en Oekraïne in Abu Dhabi leveren \"grootste gevangenenruil ooit\" op",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/onderhandelingen-tussen-rusland-en-oekraine-in-abu-dhabi-leveren~1793644191149/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Bolsjewieken verkochten hem stiekem, Cartier maakte er armband van: nu gaat Romanov-saffier voor 2 miljoen dollar onder de hamer",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/romanov-saffier-van-1-miljoen-dollar-gaat-straks-in-geneve-onder/",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 2000000,
+     "t": "2 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1720000,
+     "t": "2 miljoen dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Bolsjewieken verkochten hem stiekem, Cartier maakte er armband van: nu gaat Romanov-saffier voor 2 miljoen dollar onder de hamer"
+    }
+   ]
   }
  ],
  "articles": [
@@ -267,6 +446,1785 @@
    "published": "2026-11-11T06:27:13+01:00",
    "first_seen": "2026-11-11T07:03:54+01:00",
    "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.RaJ4vW4DX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/we-geven-jongeren-het-verleden-mee-opdat-dit-in-de-toekomst-nie/",
+   "title": "\"Jongeren moeten herinneringen doorgeven\": een bezoek aan Britse oorlogsgraven in Noord-Frankrijk",
+   "published": "2026-11-11T07:46:29+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 1916,
+     "t": "1916"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 150000,
+     "t": "150.000"
+    },
+    {
+     "v": 23000,
+     "t": "23.000"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 39000,
+     "t": "39.000"
+    },
+    {
+     "v": 2039,
+     "t": "2039"
+    },
+    {
+     "v": 260,
+     "t": "260"
+    },
+    {
+     "v": 120,
+     "t": "120"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 12000,
+     "t": "12.000"
+    },
+    {
+     "v": 72000,
+     "t": "72.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.mRJKQQ4be",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/romanov-saffier-van-1-miljoen-dollar-gaat-straks-in-geneve-onder/",
+   "title": "Bolsjewieken verkochten hem stiekem, Cartier maakte er armband van: nu gaat Romanov-saffier voor 2 miljoen dollar onder de hamer",
+   "published": "2026-11-11T08:00:18+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 2000000,
+     "t": "2 miljoen"
+    },
+    {
+     "v": 2000000,
+     "t": "2 miljoen"
+    },
+    {
+     "v": 1800000,
+     "t": "1,8 miljoen"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 198,
+     "t": "198"
+    },
+    {
+     "v": 2000000,
+     "t": "2 miljoen"
+    },
+    {
+     "v": 1790000,
+     "t": "1,79 miljoen"
+    },
+    {
+     "v": 1917,
+     "t": "1917"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 198,
+     "t": "198"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1883,
+     "t": "1883"
+    },
+    {
+     "v": 1917,
+     "t": "1917"
+    },
+    {
+     "v": 1924,
+     "t": "1924"
+    },
+    {
+     "v": 1926,
+     "t": "1926"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 3500,
+     "t": "3.500"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 1927,
+     "t": "1927"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 2000000,
+     "t": "2 miljoen"
+    },
+    {
+     "v": 1953,
+     "t": "1953"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1720000,
+     "t": "2 miljoen dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "waard",
+     "how": "article",
+     "ctx": "Bolsjewieken verkochten hem stiekem, Cartier maakte er armband van: nu gaat Romanov-saffier voor 2 miljoen dollar onder de hamer"
+    }
+   ]
+  },
+  {
+   "id": "p.vLlKePLZp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/thomas-markle-opnieuw-in-hechtenis/",
+   "title": "Thomas Markle knipt zijn enkelband door en zit opnieuw in de cel",
+   "published": "2026-11-11T08:04:19+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 82,
+     "t": "82"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5d6GN7M",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/",
+   "title": "Waar is Alice Huang? Vermoedelijke Chinese spionne reisde met Hongkongs paspoort naar Taiwan",
+   "published": "2026-11-11T09:54:39+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqKbLW6e",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/prins-george-tekent-ijsvogel/",
+   "title": "Na het rendier de kleurrijke ijsvogel: Britse prins George maakt indruk met tekening",
+   "published": "2026-11-11T10:23:55+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 300,
+     "t": "Driehonderd"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 4,
+     "t": "Vier"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1977,
+     "t": "1977"
+    },
+    {
+     "v": 2012,
+     "t": "2012"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4YGeDlW",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/sint-maartensvuur-tielt-winge-regen/",
+   "title": "Sint-Maartensvuur in Tielt-Winge lokt veel volk ondanks regen: \"Sfeer in de tent maken we zelf\"",
+   "published": "2026-11-11T10:35:02+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 1.8,
+     "t": "1,80"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.E1dQXZk5n",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/maldegem-raad-van-state-bouw-sociale-woningen/",
+   "title": "Ook Maldegem trekt naar Raad van State tegen verplichte bouw van sociale woningen",
+   "published": "2026-11-11T10:35:44+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 285,
+     "t": "285"
+    },
+    {
+     "v": 2042,
+     "t": "2042"
+    },
+    {
+     "v": 56000,
+     "t": "56.000"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 4000,
+     "t": "4.000"
+    },
+    {
+     "v": 251,
+     "t": "251"
+    },
+    {
+     "v": 181,
+     "t": "181"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 2042,
+     "t": "2042"
+    },
+    {
+     "v": 78,
+     "t": "78"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1000000000,
+     "t": "1 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Vlaanderen voorziet daarvoor ruim 1 miljard euro."
+    },
+    {
+     "eur": 4000,
+     "t": "4.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "dreigt",
+     "how": "sentence",
+     "ctx": "Als lokale besturen niet willen meewerken, dreigt een financiële sanctie die kan oplopen tot 4.000 euro per jaar per woning."
+    }
+   ]
+  },
+  {
+   "id": "p.Wkj1jREbZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/amerikaans-jongetje-van-11-maanden-levend-teruggevonden-nadat-zi/",
+   "title": "Amerikaans jongetje van 11 maanden levend teruggevonden nadat zijn vader hem had begraven",
+   "published": "2026-11-11T10:49:06+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLRMRGYe4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/nachtwinkeluitbater-antwerpen-gearresteerd-snus/",
+   "title": "Nachtwinkeluitbater gearresteerd in Borgerhout: 6.000 euro cash, snus en illegale vapes in beslag genomen",
+   "published": "2026-11-11T11:04:56+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 6000,
+     "t": "6.000"
+    },
+    {
+     "v": 6000,
+     "t": "6.000"
+    },
+    {
+     "v": 6000,
+     "t": "6.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 6000,
+     "t": "6.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "beslag",
+     "how": "sentence",
+     "ctx": "Nachtwinkeluitbater gearresteerd in Borgerhout: 6.000 euro cash, snus en illegale vapes in beslag genomen"
+    }
+   ]
+  },
+  {
+   "id": "p.ZWKeKkpDE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/personeel-gent-besparingen-oplossing-omscholing/",
+   "title": "Gent vond al voor 2 op de 3 stadsmedewerkers een oplossing bij grote saneringsronde",
+   "published": "2026-11-11T11:11:55+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 120000000,
+     "t": "120 miljoen"
+    },
+    {
+     "v": 416,
+     "t": "416"
+    },
+    {
+     "v": 130,
+     "t": "130"
+    },
+    {
+     "v": 61,
+     "t": "61"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 41,
+     "t": "41"
+    },
+    {
+     "v": 319,
+     "t": "319"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    }
+   ],
+   "money": [
+    {
+     "eur": 120000000,
+     "t": "120 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "gevonden",
+     "how": "article",
+     "ctx": "In Gent zijn dit jaar de 1e afvloeiingen gestart in het kader van de jaarlijkse sanering van 120 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.43pXpybkO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/vermiste-soldaat-gedenksteen-valere-vanden-abeele-kwaremont/",
+   "title": "Na 111 jaar prijkt de naam van vermiste soldaat Valère Vanden Abeele op het oorlogsmonument van Kwaremont",
+   "published": "2026-11-11T11:59:34+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 111,
+     "t": "111"
+    },
+    {
+     "v": 111,
+     "t": "111"
+    },
+    {
+     "v": 111,
+     "t": "111"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 1915,
+     "t": "1915"
+    },
+    {
+     "v": 850,
+     "t": "850"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 1914,
+     "t": "1914"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APQdKJL91",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/politie-verwijdert-tentenkamp-tussen-antwerpse-ring-en-singel/",
+   "title": "Politie ruimt tentenkamp naast Antwerpse ring op: 2 bewoners bestuurlijk aangehouden",
+   "published": "2026-11-11T12:01:09+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqKqYXBe",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/spanje-algemene-staking-wooncrisis/",
+   "title": "Onvrede over wooncrisis en lage lonen houdt aan: eerste algemene staking in Spanje in 14 jaar",
+   "published": "2026-11-11T12:22:31+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 87,
+     "t": "87"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 87,
+     "t": "87"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 750000,
+     "t": "750.000"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 1176,
+     "t": "1.176"
+    },
+    {
+     "v": 99,
+     "t": "99"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1176,
+     "t": "1.176 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premier",
+     "how": "article",
+     "ctx": "Volgens de Spaanse Jeugdraad bedraagt de gemiddelde huurprijs in Spanje (1.176 euro) bijna 99 procent van het gemiddelde loon van Spaanse jongeren."
+    }
+   ]
+  },
+  {
+   "id": "p.LNWMp83LE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/netwerkproblemen-uz-brussel-na-24-uren-opgelost-geen-sprake-van/",
+   "title": "Netwerkproblemen bij UZ Brussel en verbonden ziekenhuizen na 24 uren opgelost: \"Geen sprake van cyberaanval\"",
+   "published": "2026-11-11T12:26:38+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDe0XEVab",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/essen-bronzen-beeld-sint-sebastiaansgilde-gestolen/",
+   "title": "Sint-Sebastiaansgilde in\nEssen blijft aangeslagen achter na diefstal bronzen beeld: \"Kans is klein dat we het ooit terugzien\"",
+   "published": "2026-11-11T12:40:38+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 8,
+     "t": "acht"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 8,
+     "t": "acht"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4Ypd67a",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/jat-event-drivers-tienen-kevin-kennis-oudejaarsnacht/",
+   "title": "JAT Event Drivers rijdt ook deze oudejaarsnacht, maar slaat Tienen over: \"Jammer na 30 jaar geschiedenis\"",
+   "published": "2026-11-11T12:43:24+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 4700,
+     "t": "4.700"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 370,
+     "t": "370"
+    }
+   ],
+   "money": [
+    {
+     "eur": 4700,
+     "t": "4.700 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "steun",
+     "how": "sentence",
+     "ctx": "Omdat de stad Tienen besliste om de jaarlijkse financiële steun van 4.700 euro te schrappen, kunnen de inwoners van Tienen geen gebruik meer maken van de vervoersdienst."
+    }
+   ]
+  },
+  {
+   "id": "p.KK81pVqmL",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/zusters-olv-presentatieklooster-aalter-lotenhullen-moeten-weg/",
+   "title": "Presentieklooster in Lotenhulle sluit: laatste 8 zusters verhuizen naar Ruiselede",
+   "published": "2026-11-11T12:49:07+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 7,
+     "t": "Zeven"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 102,
+     "t": "102"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 102,
+     "t": "102"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 1843,
+     "t": "1843"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1856,
+     "t": "1856"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1950,
+     "t": "1950"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 2014,
+     "t": "2014"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.pAxDeKaLk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/nieuwe-studentenkamers-in-hasseltse-demerstraat/",
+   "title": "Opnieuw 19 nieuwe studentenkamers in Hasseltse Demerstraat: \"Een oplossing voor winkels zonder toekomst\"",
+   "published": "2026-11-11T12:51:43+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.pAxDXkBP7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/legend-of-zelda-ocarina-of-time/",
+   "title": "Net als in 1998 zijn gamers en critici laaiend enthousiast: 'Zelda: Ocarina of Time' scoort bijna perfecte reviews en breekt verkooprecords",
+   "published": "2026-11-11T13:07:17+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 1998,
+     "t": "1998"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5200000,
+     "t": "5,2 miljoen"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1998,
+     "t": "1998"
+    },
+    {
+     "v": 1998,
+     "t": "1998"
+    },
+    {
+     "v": 64,
+     "t": "64"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5200000,
+     "t": "5,2 miljoen"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5050000,
+     "t": "5,05 miljoen"
+    },
+    {
+     "v": 4000000,
+     "t": "4 miljoen"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 16000000,
+     "t": "16 miljoen"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Nv3eRM67X",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/passendale-houdt-al-100-jaar-sint-maartensintrede-dankzij-vere/",
+   "title": "Sint-Maarten trekt voor de 100e keer door Passendale: 215 kinderen volgen de stoet",
+   "published": "2026-11-11T13:32:32+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 215,
+     "t": "215"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 215,
+     "t": "215"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 52,
+     "t": "52"
+    },
+    {
+     "v": 215,
+     "t": "215"
+    },
+    {
+     "v": 76,
+     "t": "76"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 81,
+     "t": "81"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4Yd31aW",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/lucien-45-jaar-vrijwilliger-11-11-11-in-bloemetjes-gezet-met-kin/",
+   "title": "Lucien uit Hasselt is  al 45 jaar vrijwilliger en gaat met de hele familie van deur tot deur: \"Wie niet meedoet, mag met Kerstmis niet binnen\"",
+   "published": "2026-11-11T14:14:33+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 1981,
+     "t": "1981"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 81,
+     "t": "81"
+    },
+    {
+     "v": 32,
+     "t": "32"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 45,
+     "t": "45"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 11,
+     "t": "11.11.11"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.w70K0Pnbo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/s-s-united-states-iconisch-passagiersschip-wordt-kunstmatig-ri/",
+   "title": "Hoe een iconische oceaanstomer een kunstmatig rif voor duikers wordt: het einde van de S.S. United States",
+   "published": "2026-11-11T14:20:42+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 1969,
+     "t": "1969"
+    },
+    {
+     "v": 1952,
+     "t": "1952"
+    },
+    {
+     "v": 1969,
+     "t": "1969"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 800,
+     "t": "800"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 1950,
+     "t": "1950"
+    },
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 1951,
+     "t": "1951"
+    },
+    {
+     "v": 1952,
+     "t": "1952"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1952,
+     "t": "1952"
+    },
+    {
+     "v": 301.8,
+     "t": "301,8"
+    },
+    {
+     "v": 269.1,
+     "t": "269,1"
+    },
+    {
+     "v": 30.8,
+     "t": "30,8"
+    },
+    {
+     "v": 28.2,
+     "t": "28,2"
+    },
+    {
+     "v": 53000,
+     "t": "53.000"
+    },
+    {
+     "v": 46000,
+     "t": "46.000"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 4500,
+     "t": "4.500"
+    },
+    {
+     "v": 227,
+     "t": "227"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 70000,
+     "t": "70.000"
+    },
+    {
+     "v": 1700,
+     "t": "1.700"
+    },
+    {
+     "v": 4,
+     "t": "Vier"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1952,
+     "t": "1952"
+    },
+    {
+     "v": 35.59,
+     "t": "35,59"
+    },
+    {
+     "v": 65.91,
+     "t": "65,91"
+    },
+    {
+     "v": 14000,
+     "t": "14.000"
+    },
+    {
+     "v": 1953,
+     "t": "1953"
+    },
+    {
+     "v": 1968,
+     "t": "1968"
+    },
+    {
+     "v": 1969,
+     "t": "1969"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 400,
+     "t": "400"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4dMRBeM",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/zonnebeke-verbroedert-met-canadese-stad-saugeen-shores-tijdens-h/",
+   "title": "Canadese vlag aan de deur, fakkel in de hand: Passendale herdenkt de Slag bij Passendale en bezegelt vriendschap met Canada",
+   "published": "2026-11-11T14:20:46+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1917,
+     "t": "1917"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Wkj1qBeOZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/steekpartij-overpoort-gent/",
+   "title": "Nachtelijke discussie in de Overpoort loopt uit de hand: 2 mannen gestoken",
+   "published": "2026-11-11T14:31:19+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5.30"
+    },
+    {
+     "v": 30,
+     "t": "5.30"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.7nXbDlQZ3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/jaarmarkt-sint-pieters-leeuw-wapenstilstand-parking-makro/",
+   "title": "Jaarmarkt in Sint-Pieters-Leeuw lokt massa volk ondanks regen: \"Een feestdag in een feestdag\"",
+   "published": "2026-11-11T14:34:28+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 650,
+     "t": "650"
+    },
+    {
+     "v": 350,
+     "t": "350"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4Yo7aB7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/opening-carnavalsjaar-dubbel-jubileum-50-ste-opening-pumpke-stra/",
+   "title": "Carnavalsseizoen start in Maasmechelen met dubbel jubileum: 50 jaar Pumpke straatcarnaval en 60 jaar KC Zavelzekskes",
+   "published": "2026-11-11T14:35:26+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43pXDRjyY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/reacties-speeltuig-in-boechout/",
+   "title": "\"Spijtig dat enkelen plezier afnemen\": verontwaardiging bij ouders en kinderen nu Boechout klimtoren moet weghalen",
+   "published": "2026-11-11T14:40:41+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4YoedAe",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/verhuis-oorlogsmonument-nederboelare-windmolen/",
+   "title": "Oorlogsmonument van Nederboelare staat op nieuwe plek in Geraardsbergen nadat het moest wijken voor windmolen",
+   "published": "2026-11-11T15:01:58+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 1943,
+     "t": "1943"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 1943,
+     "t": "1943"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 1943,
+     "t": "1943"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lObnKdKJE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/winkel-antwerpen-verzegeld-nadat-jongen-van-15-en-broertje-van-9/",
+   "title": "Jongen van 15 en broertje van 9 houden winkel open op Kiel in Antwerpen: politie verzegelt de zaak",
+   "published": "2026-11-11T15:10:22+01:00",
+   "first_seen": "2026-11-11T15:12:00+01:00",
+   "numbers": [
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 129,
+     "t": "129"
+    },
+    {
+     "v": 131,
+     "t": "131"
+    },
+    {
+     "v": 37,
+     "t": "37"
+    }
+   ],
    "money": []
   }
  ]
