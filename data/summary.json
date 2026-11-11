@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-11T00:57:34+01:00",
+ "updated_at": "2026-11-11T07:03:54+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 102,
-    "numbers": 1187,
-    "mean": 9213093.4545,
-    "median": 25,
+    "count": 103,
+    "numbers": 1193,
+    "mean": 9166758.1228,
+    "median": 26,
     "min": {
      "v": -8,
      "t": "-8",
@@ -1239,9 +1239,9 @@
     }
    },
    "articles": {
-    "count": 80,
-    "numbers": 784,
-    "mean": 7146602831.4386,
+    "count": 81,
+    "numbers": 788,
+    "mean": 7110325659.8209,
     "median": 17.0,
     "min": {
      "v": 0,
@@ -1273,7 +1273,7 @@
   {
    "date": "2026-11-11",
    "headlines": {
-    "count": 6,
+    "count": 12,
     "numbers": 1,
     "mean": 30000.0,
     "median": 30000,
@@ -1291,8 +1291,22 @@
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 3,
+    "numbers": 37,
+    "mean": 721.4865,
+    "median": 11,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Keira Knightley is de James Bond die we niet zagen aankomen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/streamingtip-black-doves-seizoen-2-robin-broos/"
+    },
+    "max": {
+     "v": 3000,
+     "t": "3.000",
+     "title": "Archeologen zoeken oorlogsboekje over Wapenstilstand op Gentse luchthaven: \"Man kwam het tonen, we lieten hem gaan\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/gent-archeologie-opgravingen-the-loop-sint-denijs-westrem-vliegv/"
+    }
    },
    "money": {
     "count": 0,
