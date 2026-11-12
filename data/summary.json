@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-11T22:27:37+01:00",
+ "updated_at": "2026-11-12T03:29:58+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1320,6 +1320,38 @@
     },
     "neutral": 0,
     "net": 1720000
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "headlines": {
+    "count": 3,
+    "numbers": 2,
+    "mean": 8.0,
+    "median": 8.0,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "2 gewonden bij schietincident in Brussel, slachtoffers niet in levensgevaar",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/gewonden-schietincident-brussel/"
+    },
+    "max": {
+     "v": 14,
+     "t": "14",
+     "title": "Eerste algemene stakingsdag in Spanje in 14 jaar eindigt met clashes tussen demonstranten en politie",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/spanje-algemene-staking-wooncrisis/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
