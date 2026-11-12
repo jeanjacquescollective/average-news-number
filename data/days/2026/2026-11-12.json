@@ -4352,6 +4352,459 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.E1dPvndnj",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/ambassade-turkije-lgbtqia-protest/",
+   "title": "\"Onschuldige mensen gaan achter slot en grendel\": LGBTQIA+-gemeenschap betoogt aan ambassade Turkije",
+   "published": "2026-11-12T19:25:45+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 117,
+     "t": "117"
+    },
+    {
+     "v": 162,
+     "t": "162"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.3BwRPMOGE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/brandgeur-leuven-bierbeek-jeroen-ameel/",
+   "title": "Waarom het 's avonds soms naar brand ruikt in sommige straten in en rond Leuven: \"Kachelgeur blijft hangen\"",
+   "published": "2026-11-12T19:35:57+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.43p4O0GXD",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/paus-machomentaliteit/",
+   "title": "Paus Leo XIV hekelt \"machomentaliteit\" in Latijns-Amerika: \"Bijdrage van vrouw in samenleving is onmisbaar\"",
+   "published": "2026-11-12T19:43:38+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 71,
+     "t": "71"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43p4OkvyD",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/new-york-gebouw-ingestort-slachtoffers/",
+   "title": "2 kinderen en 2 bouwvakkers bij dodelijke slachtoffers instorting New York",
+   "published": "2026-11-12T19:56:42+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDe57vjGd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/judith-fanto-ns-publieksprijs-narcis/",
+   "title": "Auteur Judith Fanto wint NS Publieksprijs met 'Narcis'",
+   "published": "2026-11-12T20:02:36+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 34,
+     "t": "34"
+    },
+    {
+     "v": 131000,
+     "t": "131.000"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 1916,
+     "t": "1916"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 7500,
+     "t": "7.500"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 2009,
+     "t": "2009"
+    },
+    {
+     "v": 2010,
+     "t": "2010"
+    }
+   ],
+   "money": [
+    {
+     "eur": 7500,
+     "t": "7.500 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "wint",
+     "how": "sentence",
+     "ctx": "De winnares wint een sculptuur en 7.500 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.Yb5LDqnLD",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/peitite-terugkeercentrum-van-der-valk-nazareth-de-pinte/",
+   "title": "\"Gebrek aan communicatie en transparantie\": inwoners overhandigen petitie tegen terugkeercentrum in Nazareth-De Pinte",
+   "published": "2026-11-12T20:11:55+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 2100,
+     "t": "2.100"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ZWKRRdanm",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/toekomst-nvidia-na-ontslag-huang/",
+   "title": "\"Gezicht van AI-golf verdwijnt\": hoe ziet toekomst van Nvidia eruit na vertrek Jensen Huang?",
+   "published": "2026-11-12T20:12:43+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 100000000000,
+     "t": "100 miljard"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": [
+    {
+     "eur": 86000000000,
+     "t": "100 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "verdwijnt",
+     "how": "title",
+     "ctx": "Het vorige kwartaal verdubbelde de omzet van Nvidia nog met bijna 100 miljard dollar."
+    }
+   ]
+  },
+  {
+   "id": "p.mRJEdmAY9",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/klopjacht-zaventem-inbraak/",
+   "title": "Politie pakt 3 verdachten van inbraak op na klopjacht in Zaventem",
+   "published": "2026-11-12T20:19:05+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11poB931l",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nederland-belastingplan-politieke-crisis-stemmingen/",
+   "title": "Regering wankelt in Nederland: kleinste meerderheid keurt belastingplan goed,\nzónder coalitiepartner VVD",
+   "published": "2026-11-12T20:31:15+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 76,
+     "t": "76"
+    },
+    {
+     "v": 74,
+     "t": "74"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 66,
+     "t": "66"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1000000000,
+     "t": "1 miljard euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "belastingplan",
+     "how": "title",
+     "ctx": "Concreet gaat het over een reeks maatregelen die samen 1 miljard euro moeten opbrengen."
+    }
+   ]
+  },
+  {
+   "id": "p.6KpWWq7l0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/meerdere-brusselse-gemeenten-vechten-verankering-vliegroute-aan/",
+   "title": "Schaarbeek, Molenbeek en Koekelberg vechten vliegroute aan bij Raad van State",
+   "published": "2026-11-12T20:35:00+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "07"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 450000,
+     "t": "450.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APQNeGYx8",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/roxan-sloeberhuisje-bekentenis/",
+   "title": "\"Ik kon het niet eerder zeggen\": hoofdbeklaagde Roxan V. bekent dan toch dat hij baby in 't Sloeberhuisje hard dooreenschudde",
+   "published": "2026-11-12T20:50:22+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4DWVq37",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/burnham-ziet-mogelijkheden-voor-een-goed-akkoord-met-eu-vk-ie/",
+   "title": "Britse premier Burnham ziet mogelijkheden voor \"een goed akkoord\"\nmet EU",
+   "published": "2026-11-12T23:15:49+01:00",
+   "first_seen": "2026-11-13T00:50:14+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
   }
  ]
 }

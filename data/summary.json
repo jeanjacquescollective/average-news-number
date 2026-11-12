@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-12T19:26:44+01:00",
+ "updated_at": "2026-11-13T00:50:14+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 104,
-    "numbers": 1206,
-    "mean": 9067949.6737,
-    "median": 26.5,
+    "count": 105,
+    "numbers": 1219,
+    "mean": 8971247.1292,
+    "median": 28,
     "min": {
      "v": -8,
      "t": "-8",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 82,
-    "numbers": 1426,
-    "mean": 25618697.5672,
+    "count": 83,
+    "numbers": 1542,
+    "mean": 23703214.5446,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1343,10 +1343,10 @@
     }
    },
    "articles": {
-    "count": 77,
-    "numbers": 719,
-    "mean": 49287150087.8986,
-    "median": 20,
+    "count": 89,
+    "numbers": 795,
+    "mean": 44702471093.5574,
+    "median": 18,
     "min": {
      "v": -10,
      "t": "-10",
@@ -1378,6 +1378,38 @@
     },
     "neutral": 0,
     "net": -1633550000000
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "headlines": {
+    "count": 10,
+    "numbers": 2,
+    "mean": 2.0,
+    "median": 2.0,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "2 kinderen en 2 bouwvakkers bij dodelijke slachtoffers instorting New York",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/new-york-gebouw-ingestort-slachtoffers/"
+    },
+    "max": {
+     "v": 2,
+     "t": "2",
+     "title": "2 kinderen en 2 bouwvakkers bij dodelijke slachtoffers instorting New York",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/new-york-gebouw-ingestort-slachtoffers/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
