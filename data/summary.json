@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-12T11:16:09+01:00",
+ "updated_at": "2026-11-12T19:26:44+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 135,
-    "numbers": 1570,
-    "mean": 476337336.4167,
-    "median": 19.0,
+    "count": 136,
+    "numbers": 1603,
+    "mean": 482563709.5772,
+    "median": 19,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 80,
-    "numbers": 1310,
-    "mean": 27873411.1762,
+    "count": 82,
+    "numbers": 1426,
+    "mean": 25618697.5672,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 88,
-    "numbers": 978,
-    "mean": 21798971.5385,
-    "median": 25.0,
+    "count": 89,
+    "numbers": 1010,
+    "mean": 21187635.5863,
+    "median": 27.0,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1325,10 +1325,10 @@
   {
    "date": "2026-11-12",
    "headlines": {
-    "count": 18,
-    "numbers": 8,
-    "mean": 56250294.375,
-    "median": 9.5,
+    "count": 42,
+    "numbers": 16,
+    "mean": 118778125272.875,
+    "median": 6.0,
     "min": {
      "v": 1,
      "t": "Eén",
@@ -1336,33 +1336,39 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/pano-ketamine-gezondheidsrisico-s/"
     },
     "max": {
-     "v": 450000000,
-     "t": "450 miljoen",
-     "title": "Umicore investeert 450 miljoen euro in Hoboken en schrapt tot 350 banen wereldwijd",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/umicore-investeert-450-miljoen-euro-in-hoboken-en-schrapt-tot-35/"
+     "v": 1900000000000,
+     "t": "1.900 miljard",
+     "title": "1.900 miljard dollar in 1 maand verdampt: waarom ook jij beursklap van Nvidia zou kunnen voelen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beurs-impact-etf-s-trackers-pensioenfondsen/"
     }
    },
    "articles": {
-    "count": 26,
-    "numbers": 226,
-    "mean": 72139834063.4956,
-    "median": 17.0,
+    "count": 77,
+    "numbers": 719,
+    "mean": 49287150087.8986,
+    "median": 20,
     "min": {
-     "v": 0,
-     "t": "17.00",
-     "title": "Rijhuis in Lanaken onbewoonbaar na zware brand",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/brand-rijhuis-lanaken/"
+     "v": -10,
+     "t": "-10",
+     "title": "Affaires kosten CEO Nvidia de kop: Jensen Huang stapt op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/exit-jensen-huang/"
     },
     "max": {
-     "v": 4500000000000,
-     "t": "4,5 biljoen",
-     "title": "Raad van bestuur Nvidia vergadert over lot van CEO Jensen Huang na onthulling tweede affaire",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beraadt-zich-over-ceo-jensen-huang-tweede-affaire-lekt-u/"
+     "v": 5766000000000,
+     "t": "5.766 miljard",
+     "title": "1.900 miljard dollar verdampt in een maand: waarom ook jij de beursklap van Nvidia zou kunnen voelen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beurs-impact-etf-s-trackers-pensioenfondsen/"
     }
    },
    "money": {
-    "count": 1,
-    "lost": 0,
+    "count": 2,
+    "lost": 1634000000000,
+    "biggest_lost": {
+     "eur": 1634000000000,
+     "t": "1.900 miljard dollar",
+     "title": "1.900 miljard dollar in 1 maand verdampt: waarom ook jij beursklap van Nvidia zou kunnen voelen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beurs-impact-etf-s-trackers-pensioenfondsen/"
+    },
     "gained": 450000000,
     "biggest_gained": {
      "eur": 450000000,
@@ -1371,7 +1377,7 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/umicore-investeert-450-miljoen-euro-in-hoboken-en-schrapt-tot-35/"
     },
     "neutral": 0,
-    "net": 450000000
+    "net": -1633550000000
    }
   }
  ]
