@@ -31,7 +31,1418 @@
     }
    ],
    "money": []
+  },
+  {
+   "title": "Quintin: \"Ook in ons land aanwijzingen voor Iraanse betrokkenheid bij cyberaanvallen op koelinstallaties\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/quintin-ook-in-ons-land-aanwijzingen-voor-iraanse-betrokkenhei~1793610043244/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Vertragingen bij Eurostar door bommelding in internationaal treinstation in Calais",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/franrijk-calais-bommelding-eurostar-vertragingen/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Raad van bestuur Nvidia vergadert over lot van CEO Jensen Huang na onthulling tweede affaire",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beraadt-zich-over-ceo-jensen-huang-tweede-affaire-lekt-u/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Basisschool in Lier gesloten na vandalisme: klaslokalen beschadigd en besmeurd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/vandalisme-basisschool-pullaar-lier/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Liga voor Mensenrechten wil rechter voor het eerst laten oordelen over overbevolking in alle Belgische gevangenissen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/overbevolking-in-onze-gevangenissen-liga-voor-mensenrechten-naa/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Niet elke parkeerschijf is reglementair: met deze 5 weetjes vermijd jij een boete",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/parkeerboete-omdat-je-foute-parkeerschijf-hebt-zo-ziet-de-enige/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Joyce getuigt hoe ketamine haar hele leven overnam: \"Eén wandeling per dag, naar mijn dealer en terug\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/pano-ketamine-gezondheidsrisico-s/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "Eén"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Verdachten van dood agent Nordine El Talbi zouden in de vooravond al ander slachtoffer hebben doodgeschoten",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/verdachten-van-agent-nordine-hadden-eerder-al-iemand-doodgeschot/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Historische verkiezingszege: Mississippi kiest voor het eerst voor (zwarte) Democraat sinds 1982",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/historische-verkiezingszege-mississippi-kiest-voor-het-eerst-vo~1792770744209/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 1982,
+     "t": "1982"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Umicore investeert 450 miljoen euro in Hoboken en schrapt tot 350 banen wereldwijd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/umicore-investeert-450-miljoen-euro-in-hoboken-en-schrapt-tot-35/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 450000000,
+     "t": "450 miljoen"
+    },
+    {
+     "v": 350,
+     "t": "350"
+    }
+   ],
+   "money": [
+    {
+     "eur": 450000000,
+     "t": "450 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeert",
+     "how": "sentence",
+     "ctx": "Umicore investeert 450 miljoen euro in Hoboken en schrapt tot 350 banen wereldwijd"
+    }
+   ]
+  },
+  {
+   "title": "Hoe China in de techoorlog terugslaat met Amerikaanse wapens (en wat Europa kan doen)",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/hoe-china-in-de-techoorlog-terugslaat-met-amerikaanse-wapens/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Amerikaanse gezanten Kushner en Witkoff aangekomen in Moskou voor ontmoeting met Poetin",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/amerikaanse-gezanten-kushner-en-witkoff-aangekomen-in-moskou-voo~1793644191149/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Itsme vergelijkt je gezicht met je ID-foto en banken waarschuwen elkaar: zo wil de regering online fraude aanpakken",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/nationaal-actieplan-tegen-online-fraude/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Uitslaande woningbrand in Maldegem: 1 bewoner naar ziekenhuis na rookinhalatie",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/brand-woning-donk-maldegem/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Je leven valt stil, maar de wereld draait door: waarom deze monoloog over rouw zo binnenkomt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/het-jaar-van-magisch-denken-scarlet-tummers/",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
- "articles": []
+ "articles": [
+  {
+   "id": "p.JN4YLWYQa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/pano-ketamine-gezondheidsrisico-s/",
+   "title": "Joyce getuigt hoe ketamine haar hele leven overnam: \"Eén wandeling per dag, naar mijn dealer en terug\"",
+   "published": "2026-11-12T05:17:55+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "Eén"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 78,
+     "t": "078"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 106,
+     "t": "106"
+    },
+    {
+     "v": 102,
+     "t": "102"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYeAX9o1",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/het-jaar-van-magisch-denken-scarlet-tummers/",
+   "title": "Je leven valt stil, maar de wereld draait door: waarom deze monoloog over rouw zo binnenkomt",
+   "published": "2026-11-12T05:19:22+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 2005,
+     "t": "2005"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2003,
+     "t": "2003"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.y31Ev4ZNW",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/nationaal-actieplan-tegen-online-fraude/",
+   "title": "Itsme vergelijkt je gezicht met je ID-foto en banken waarschuwen elkaar: zo wil de regering online fraude aanpakken",
+   "published": "2026-11-12T05:21:20+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 11000,
+     "t": "11.000"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 93000000,
+     "t": "93 miljoen"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 11000,
+     "t": "11.000"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 93000000,
+     "t": "93 miljoen"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 100000,
+     "t": "100.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": [
+    {
+     "eur": 93000000,
+     "t": "93 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "buit",
+     "how": "sentence",
+     "ctx": "In 2025 werden ruim 11.000 gevallen van phishing aangegeven, 30 procent meer dan een jaar eerder, met zo'n 93 miljoen euro buit."
+    },
+    {
+     "eur": 5,
+     "t": "5 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kosten",
+     "how": "sentence",
+     "ctx": "Dat zou maximaal 5 euro per maand gaan kosten\", legt Beenders uit."
+    }
+   ]
+  },
+  {
+   "id": "p.VLNYMX5XE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/hoe-china-in-de-techoorlog-terugslaat-met-amerikaanse-wapens/",
+   "title": "Hoe China in de techoorlog terugslaat met Amerikaanse wapens (en wat Europa kan doen)",
+   "published": "2026-11-12T05:25:00+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 600000,
+     "t": "600.000"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 350000000000,
+     "t": "350 miljard"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 10,
+     "t": "tien"
+    },
+    {
+     "v": 9,
+     "t": "Negen"
+    },
+    {
+     "v": 10,
+     "t": "tien"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 100,
+     "t": "honderd"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2000000000,
+     "t": "2 miljard"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 40,
+     "t": "veertig"
+    },
+    {
+     "v": 23,
+     "t": "drieëntwintig"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 300000,
+     "t": "300.000"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 13,
+     "t": "dertien"
+    },
+    {
+     "v": 7,
+     "t": "zeven"
+    }
+   ],
+   "money": [
+    {
+     "eur": 301000000000,
+     "t": "350 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "kreeg",
+     "how": "article",
+     "ctx": "Huang heeft zijn overspel bekend, en Nvidia, het bedrijf dat de AI-revolutie van rekenkracht voorziet, zag in enkele dagen meer dan 350 miljard dollar beurswaarde verdampen."
+    },
+    {
+     "eur": 1720000000,
+     "t": "2 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "kreeg",
+     "how": "article",
+     "ctx": "Meta, het Amerikaanse moederbedrijf van Facebook en Instagram, wilde hen overnemen voor ongeveer 2 miljard dollar."
+    }
+   ]
+  },
+  {
+   "id": "p.XEV9QEll3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/10/30/winterfeesten-gent-standhouders-ongenoegen-prijzen-concessie-tom/",
+   "title": "Standhouders Winterfeesten Gent boos over hogere prijzen, uitbater weerlegt kritiek: \"Ook voor ons wordt alles duurder\"",
+   "published": "2026-11-12T06:00:00+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2500000,
+     "t": "2,5 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 150000,
+     "t": "150.000"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2500000,
+     "t": "2,5 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 150000,
+     "t": "150.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "duurder",
+     "how": "title",
+     "ctx": "Gent vraagt nu 150.000 euro voor de organisatie."
+    }
+   ]
+  },
+  {
+   "id": "p.ZWKREJ1JB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beraadt-zich-over-ceo-jensen-huang-tweede-affaire-lekt-u/",
+   "title": "Raad van bestuur Nvidia vergadert over lot van CEO Jensen Huang na onthulling tweede affaire",
+   "published": "2026-11-12T06:10:26+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 4500000000000,
+     "t": "4,5 biljoen"
+    },
+    {
+     "v": 4500000000000,
+     "t": "4,5 trillion"
+    },
+    {
+     "v": 1000000000000,
+     "t": "trillion"
+    },
+    {
+     "v": 1000000000000,
+     "t": "biljoen"
+    },
+    {
+     "v": 4000000000000,
+     "t": "4 biljoen"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 500000000000,
+     "t": "500 miljard"
+    },
+    {
+     "v": 450000000000,
+     "t": "450 miljard"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": [
+    {
+     "eur": 3870000000000,
+     "t": "4,5 biljoen dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "waarde",
+     "how": "sentence",
+     "ctx": "Nvidia is momenteel na Apple het meest waardevolle beursgenoteerde bedrijf ter wereld, met een waarde van ongeveer 4,5 biljoen dollar ('4,5 trillion dollar' in het Amerikaans Engels, 'trillion' wordt daarin vertaald als 'biljoen', red)."
+    },
+    {
+     "eur": 430000000000,
+     "t": "500 miljard Amerikaanse dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "verlies",
+     "how": "sentence",
+     "ctx": "Analisten hebben het over een verlies van 500 miljard Amerikaanse dollar (ongeveer 450 miljard euro) sinds de eerste verhalen rond Jensen Huang eind oktober naar buiten kwamen."
+    }
+   ]
+  },
+  {
+   "id": "p.GvoDdmAB5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/weekendverbod-voor-zwaar-verkeer-op-binnenring-viaduct-van-vilvo/",
+   "title": "Zwaar verkeer mag vanaf vrijdag in het weekend weer over Viaduct van Vilvoorde richting Zaventem",
+   "published": "2026-11-12T06:36:35+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 3.5,
+     "t": "3,5"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 3.5,
+     "t": "3,5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 200000,
+     "t": "200.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.OvkoaYGLq",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/winkels-diest-te-lang-geopend-politie/",
+   "title": "6 winkels in Diest houden zich niet aan sluitingsuur, politie controleert extra: \"Oneerlijke concurrentie met cafés\"",
+   "published": "2026-11-12T07:05:06+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqpw6Dwv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/arbeider-51-overleden-bij-ongeval-op-werf-cultuurcentrum-meche/",
+   "title": "Arbeider (51) overleden bij ongeval op werf cultuurcentrum Mechelen: onderzoek loopt",
+   "published": "2026-11-12T07:16:03+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 51,
+     "t": "51"
+    },
+    {
+     "v": 51,
+     "t": "51"
+    },
+    {
+     "v": 51,
+     "t": "51"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.vLlkPmkeR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/verdachten-van-agent-nordine-hadden-eerder-al-iemand-doodgeschot/",
+   "title": "Verdachten van dood agent Nordine El Talbi zouden in de vooravond al ander slachtoffer hebben doodgeschoten",
+   "published": "2026-11-12T07:26:09+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 4,
+     "t": "Vier"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.kQOqMYd09",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/brand-woning-donk-maldegem/",
+   "title": "Uitslaande woningbrand in Maldegem: 1 bewoner naar ziekenhuis na rookinhalatie",
+   "published": "2026-11-12T07:27:20+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN4DqOWQ7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/r4-drongen-herstellingen-hinder/",
+   "title": "Herstellingen aan R4 in Drongen: slechts 1 rijstrook beschikbaar",
+   "published": "2026-11-12T07:31:30+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.6KpW8qxQv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/brand-rijhuis-lanaken/",
+   "title": "Rijhuis in Lanaken onbewoonbaar na zware brand",
+   "published": "2026-11-12T07:34:31+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 17,
+     "t": "17.00"
+    },
+    {
+     "v": 0,
+     "t": "17.00"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.pAx5wvVXm",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/meer-belangstelling-voor-40-ste-fakkelloop-van-fort-van-breendon/",
+   "title": "Fakkelloop van Fort van Breendonk naar soldatengraf in Brussel: \"Jongeren zijn zich bewuster geworden van onze vrede\"",
+   "published": "2026-11-12T07:36:52+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 15,
+     "t": "vijftien"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.w70K3BqYG",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/unizo-limburg-overbruggingsplan-ondernemers-getroffen-door-faill/",
+   "title": "UNIZO Limburg wil overbruggingsplan voor ondernemers die getroffen worden door faillissement Vynova",
+   "published": "2026-11-12T07:53:23+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 50000,
+     "t": "50.000"
+    },
+    {
+     "v": 5000,
+     "t": "5.000"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": [
+    {
+     "eur": 50000,
+     "t": "50.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "faillissement",
+     "how": "title",
+     "ctx": "Bij kleine ondernemingen stelt UNIZO het plafond voor die lening op 50.000 euro."
+    },
+    {
+     "eur": 5000,
+     "t": "5.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "steunperiode",
+     "how": "sentence",
+     "ctx": "In een eerste steunperiode kan dat om 5.000 euro gaan."
+    }
+   ]
+  },
+  {
+   "id": "p.8epAR5Lq4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/onderzoek-naar-crackgebruik-in-publieke-ruimtes-in-brussel-aanp/",
+   "title": "Onderzoek naar crackgebruik in publieke ruimtes in Brussel: \"Aanpak lijkt op gedoogbeleid\"",
+   "published": "2026-11-12T08:33:00+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 5000,
+     "t": "5.000"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 39,
+     "t": "39"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 46,
+     "t": "46"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJ0Q8xee",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nieuwe-sensibiliseringscampagne-over-koolstofmonoxide-in-brussel/",
+   "title": "Brusselse campagne waarschuwt voor koolstofmonoxide: al 93 vergiftigingen in het Brussels Gewest dit jaar",
+   "published": "2026-11-12T09:05:38+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 93,
+     "t": "93"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 93,
+     "t": "93"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.y310pGYna",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/noodopvang-leuven-opent-zondag/",
+   "title": "Leuvense winteropvang verhuist en wordt permanente nachtopvang: \"Capaciteit om aantal bedden te verdubbelen\"",
+   "published": "2026-11-12T09:22:55+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 17,
+     "t": "17.30"
+    },
+    {
+     "v": 30,
+     "t": "17.30"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 247,
+     "t": "247"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4G09EoK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/umicore-investeert-450-miljoen-euro-in-hoboken-en-schrapt-tot-35/",
+   "title": "Umicore investeert 450 miljoen euro in Hoboken en schrapt tot 350 banen wereldwijd",
+   "published": "2026-11-12T09:25:39+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 450000000,
+     "t": "450 miljoen"
+    },
+    {
+     "v": 350,
+     "t": "350"
+    },
+    {
+     "v": 450000000,
+     "t": "450 miljoen"
+    },
+    {
+     "v": 350,
+     "t": "350"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 450000000,
+     "t": "450 miljoen"
+    },
+    {
+     "v": 60000000,
+     "t": "60 miljoen"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 350,
+     "t": "350"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    }
+   ],
+   "money": [
+    {
+     "eur": 450000000,
+     "t": "450 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeert",
+     "how": "sentence",
+     "ctx": "Umicore investeert 450 miljoen euro in Hoboken en schrapt tot 350 banen wereldwijd"
+    },
+    {
+     "eur": 60000000,
+     "t": "60 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeert",
+     "how": "title",
+     "ctx": "Umicore wil met een eenvoudiger en wendbaarder werkmodel ongeveer 60 miljoen euro per jaar besparen."
+    }
+   ]
+  },
+  {
+   "id": "p.jGk5ekawE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/woonzorgcentrum-kou-centrale-verwarming-gaslek-leuven-fluvius-wa/",
+   "title": "Geen centrale verwarming in woonzorgcentrum Edouard Remy in Leuven: \"Uit voorzorg gastoevoer afgesloten\"",
+   "published": "2026-11-12T09:30:13+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 172,
+     "t": "172"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ZWKRJlbjE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/overbevolking-in-onze-gevangenissen-liga-voor-mensenrechten-naa/",
+   "title": "Liga voor Mensenrechten wil rechter voor het eerst laten oordelen over overbevolking in alle Belgische gevangenissen",
+   "published": "2026-11-12T10:00:00+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 84,
+     "t": "84"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Nv3e7xavl",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/parkeerboete-omdat-je-foute-parkeerschijf-hebt-zo-ziet-de-enige/",
+   "title": "Niet elke parkeerschijf is reglementair: met deze 5 weetjes vermijd jij een boete",
+   "published": "2026-11-12T10:02:04+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 9,
+     "t": "9.01"
+    },
+    {
+     "v": 1,
+     "t": "9.01"
+    },
+    {
+     "v": 9,
+     "t": "9.30"
+    },
+    {
+     "v": 30,
+     "t": "9.30"
+    },
+    {
+     "v": 9,
+     "t": "9.30"
+    },
+    {
+     "v": 30,
+     "t": "9.30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.PqOAqqeXx",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/vandalisme-basisschool-pullaar-lier/",
+   "title": "Basisschool in Lier gesloten na vandalisme: klaslokalen beschadigd en besmeurd",
+   "published": "2026-11-12T10:20:44+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.0Ypen9jdE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/internet-problemen-bassevelde-boekhoute-telenet-vercauteren/",
+   "title": "Telenet grijpt in na wekenlange internetproblemen in Bassevelde en Boekhoute",
+   "published": "2026-11-12T10:35:32+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.dLR5L0Ya3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/franrijk-calais-bommelding-eurostar-vertragingen/",
+   "title": "Vertragingen bij Eurostar door bommelding in internationaal treinstation in Calais",
+   "published": "2026-11-12T10:36:57+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.BlYnOl7Ex",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/hondenkweker-uit-nevele-verliest-erkenning-honden-stierven-in/",
+   "title": "Hondenkweker uit Nevele verliest erkenning: \"Honden stierven in twijfelachtige omstandigheden\"",
+   "published": "2026-11-12T11:12:10+01:00",
+   "first_seen": "2026-11-12T11:16:09+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    }
+   ],
+   "money": []
+  }
+ ]
 }

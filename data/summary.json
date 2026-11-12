@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-12T03:29:58+01:00",
+ "updated_at": "2026-11-12T11:16:09+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 103,
-    "numbers": 1193,
-    "mean": 9166758.1228,
-    "median": 26,
+    "count": 104,
+    "numbers": 1206,
+    "mean": 9067949.6737,
+    "median": 26.5,
     "min": {
      "v": -8,
      "t": "-8",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 78,
-    "numbers": 1198,
-    "mean": 30464458.2737,
+    "count": 80,
+    "numbers": 1310,
+    "mean": 27873411.1762,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1187,9 +1187,9 @@
     }
    },
    "articles": {
-    "count": 87,
-    "numbers": 954,
-    "mean": 22347254.1784,
+    "count": 88,
+    "numbers": 978,
+    "mean": 21798971.5385,
     "median": 25.0,
     "min": {
      "v": 0,
@@ -1325,33 +1325,53 @@
   {
    "date": "2026-11-12",
    "headlines": {
-    "count": 3,
-    "numbers": 2,
-    "mean": 8.0,
-    "median": 8.0,
+    "count": 18,
+    "numbers": 8,
+    "mean": 56250294.375,
+    "median": 9.5,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "2 gewonden bij schietincident in Brussel, slachtoffers niet in levensgevaar",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/gewonden-schietincident-brussel/"
+     "v": 1,
+     "t": "Eén",
+     "title": "Joyce getuigt hoe ketamine haar hele leven overnam: \"Eén wandeling per dag, naar mijn dealer en terug\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/10/pano-ketamine-gezondheidsrisico-s/"
     },
     "max": {
-     "v": 14,
-     "t": "14",
-     "title": "Eerste algemene stakingsdag in Spanje in 14 jaar eindigt met clashes tussen demonstranten en politie",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/11/spanje-algemene-staking-wooncrisis/"
+     "v": 450000000,
+     "t": "450 miljoen",
+     "title": "Umicore investeert 450 miljoen euro in Hoboken en schrapt tot 350 banen wereldwijd",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/umicore-investeert-450-miljoen-euro-in-hoboken-en-schrapt-tot-35/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 26,
+    "numbers": 226,
+    "mean": 72139834063.4956,
+    "median": 17.0,
+    "min": {
+     "v": 0,
+     "t": "17.00",
+     "title": "Rijhuis in Lanaken onbewoonbaar na zware brand",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/brand-rijhuis-lanaken/"
+    },
+    "max": {
+     "v": 4500000000000,
+     "t": "4,5 biljoen",
+     "title": "Raad van bestuur Nvidia vergadert over lot van CEO Jensen Huang na onthulling tweede affaire",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/nvidia-beraadt-zich-over-ceo-jensen-huang-tweede-affaire-lekt-u/"
+    }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 450000000,
+    "biggest_gained": {
+     "eur": 450000000,
+     "t": "450 miljoen euro",
+     "title": "Umicore investeert 450 miljoen euro in Hoboken en schrapt tot 350 banen wereldwijd",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/umicore-investeert-450-miljoen-euro-in-hoboken-en-schrapt-tot-35/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 450000000
    }
   }
  ]
