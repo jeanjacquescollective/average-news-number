@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-13T06:20:11+01:00",
+ "updated_at": "2026-11-13T14:19:54+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 119,
-    "numbers": 1997,
-    "mean": 134120459.0958,
-    "median": 61,
+    "count": 120,
+    "numbers": 2133,
+    "mean": 125576113.7042,
+    "median": 67.7,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 136,
-    "numbers": 1603,
-    "mean": 482563709.5772,
-    "median": 19,
+    "count": 137,
+    "numbers": 1640,
+    "mean": 487347338.2966,
+    "median": 19.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 83,
-    "numbers": 1542,
-    "mean": 23703214.5446,
+    "count": 84,
+    "numbers": 1668,
+    "mean": 21923535.3656,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1383,47 +1383,53 @@
   {
    "date": "2026-11-13",
    "headlines": {
-    "count": 15,
-    "numbers": 4,
-    "mean": 478.0,
-    "median": 5.0,
+    "count": 36,
+    "numbers": 18,
+    "mean": 4112.9444,
+    "median": 8.0,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "2 kinderen en 2 bouwvakkers bij dodelijke slachtoffers instorting New York",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/new-york-gebouw-ingestort-slachtoffers/"
+     "v": 1,
+     "t": "één",
+     "title": "Miljoenen gebruikers zonder Outlook, Teams en Copilot: zijn we te afhankelijk geworden van één grote cloudleverancier?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/problemen-bij-microsoft-leggen-onze-afhankelijkheid-van-de-cloud/"
     },
     "max": {
-     "v": 1900,
-     "t": "1900",
-     "title": "Brussel in 1900 of Dag van de Wetenschap? Dit zijn onze weekendtips",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/weekendtips-14-15-november-sinterklaas-parijs-bruxelles-1900-kun/"
+     "v": 70000,
+     "t": "70.000",
+     "title": "Bitcoin duikt onder kaap van 70.000 dollar: waarom een sterke dollar en hoge rente cryptomunten raken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/waarde-van-bitcoin-duikt-onder-kaap-van-70-000-dollar/"
     }
    },
    "articles": {
-    "count": 5,
-    "numbers": 64,
-    "mean": 2327.6453,
-    "median": 15.5,
+    "count": 46,
+    "numbers": 457,
+    "mean": 4161333095.4164,
+    "median": 16,
     "min": {
-     "v": 1,
-     "t": "1",
-     "title": "\"Ik wil bij mijn kinderen sterven\": terminaal zieke arts Mohammed sleept Belgische staat voor rechter",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/terminale-palestijnse-arts-mohammed-ayesh-dagvaardt-belgische-st/"
+     "v": 0,
+     "t": "12.00",
+     "title": "Komende week verlaagd waterpeil in Gentse binnenwateren om infrastructuur te inspecteren en afval op te ruimen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/komende-week-verlaagd-waterpeil-in-gentse-binnenwateren-om-infra/"
     },
     "max": {
-     "v": 130000,
-     "t": "130.000",
-     "title": "Grote storing bij Microsoft: problemen met onder andere Outlook en Teams",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/grote-storing-microsoft-outlook-en-teams-bedrijven-overheden/"
+     "v": 1900000000000,
+     "t": "1.900 miljard",
+     "title": "Bitcoin duikt onder kaap van 70.000 dollar: waarom een sterke dollar en hoge rente cryptomunten raken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/waarde-van-bitcoin-duikt-onder-kaap-van-70-000-dollar/"
     }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 60200,
+    "biggest_gained": {
+     "eur": 60200,
+     "t": "70.000 dollar",
+     "title": "Bitcoin duikt onder kaap van 70.000 dollar: waarom een sterke dollar en hoge rente cryptomunten raken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/waarde-van-bitcoin-duikt-onder-kaap-van-70-000-dollar/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 60200
    }
   }
  ]
