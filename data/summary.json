@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-13T14:19:54+01:00",
+ "updated_at": "2026-11-13T21:36:07+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 137,
-    "numbers": 1640,
-    "mean": 487347338.2966,
-    "median": 19.0,
+    "count": 138,
+    "numbers": 1682,
+    "mean": 496402879.4087,
+    "median": 18.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 84,
-    "numbers": 1668,
-    "mean": 21923535.3656,
-    "median": 29.0,
+    "count": 85,
+    "numbers": 1805,
+    "mean": 20269560.9783,
+    "median": 29,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 89,
-    "numbers": 1010,
-    "mean": 21187635.5863,
-    "median": 27.0,
+    "count": 90,
+    "numbers": 1047,
+    "mean": 20515407.6129,
+    "median": 28,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1383,10 +1383,10 @@
   {
    "date": "2026-11-13",
    "headlines": {
-    "count": 36,
-    "numbers": 18,
-    "mean": 4112.9444,
-    "median": 8.0,
+    "count": 55,
+    "numbers": 35,
+    "mean": 11473671.4286,
+    "median": 12,
     "min": {
      "v": 1,
      "t": "één",
@@ -1394,17 +1394,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/problemen-bij-microsoft-leggen-onze-afhankelijkheid-van-de-cloud/"
     },
     "max": {
-     "v": 70000,
-     "t": "70.000",
-     "title": "Bitcoin duikt onder kaap van 70.000 dollar: waarom een sterke dollar en hoge rente cryptomunten raken",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/waarde-van-bitcoin-duikt-onder-kaap-van-70-000-dollar/"
+     "v": 400000000,
+     "t": "400 miljoen",
+     "title": "Noord-Koreaanse hackers stelen meer dan 400 miljoen dollar van slachtoffers met deepfakevideo's",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/noord-koreaanse-hackers-stelen-meer-dan-400-miljoen-dollar-met/"
     }
    },
    "articles": {
-    "count": 46,
-    "numbers": 457,
-    "mean": 4161333095.4164,
-    "median": 16,
+    "count": 84,
+    "numbers": 797,
+    "mean": 3673275494.868,
+    "median": 19,
     "min": {
      "v": 0,
      "t": "12.00",
@@ -1419,17 +1419,23 @@
     }
    },
    "money": {
-    "count": 1,
-    "lost": 0,
-    "gained": 60200,
+    "count": 3,
+    "lost": 344000000,
+    "biggest_lost": {
+     "eur": 344000000,
+     "t": "400 miljoen dollar",
+     "title": "Noord-Koreaanse hackers stelen meer dan 400 miljoen dollar van slachtoffers met deepfakevideo's",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/noord-koreaanse-hackers-stelen-meer-dan-400-miljoen-dollar-met/"
+    },
+    "gained": 1560200,
     "biggest_gained": {
-     "eur": 60200,
-     "t": "70.000 dollar",
-     "title": "Bitcoin duikt onder kaap van 70.000 dollar: waarom een sterke dollar en hoge rente cryptomunten raken",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/waarde-van-bitcoin-duikt-onder-kaap-van-70-000-dollar/"
+     "eur": 1500000,
+     "t": "1,5 miljoen euro",
+     "title": "Vierde miljoenenwinst van Lotto in Pelt in 12 jaar tijd: familie wint 1,5 miljoen euro",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/lotto-winnaar-pelt/"
     },
     "neutral": 0,
-    "net": 60200
+    "net": -342439800
    }
   }
  ]
