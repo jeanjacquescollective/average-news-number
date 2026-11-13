@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-13T00:50:14+01:00",
+ "updated_at": "2026-11-13T06:20:11+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1383,10 +1383,10 @@
   {
    "date": "2026-11-13",
    "headlines": {
-    "count": 10,
-    "numbers": 2,
-    "mean": 2.0,
-    "median": 2.0,
+    "count": 15,
+    "numbers": 4,
+    "mean": 478.0,
+    "median": 5.0,
     "min": {
      "v": 2,
      "t": "2",
@@ -1394,15 +1394,29 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/new-york-gebouw-ingestort-slachtoffers/"
     },
     "max": {
-     "v": 2,
-     "t": "2",
-     "title": "2 kinderen en 2 bouwvakkers bij dodelijke slachtoffers instorting New York",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/new-york-gebouw-ingestort-slachtoffers/"
+     "v": 1900,
+     "t": "1900",
+     "title": "Brussel in 1900 of Dag van de Wetenschap? Dit zijn onze weekendtips",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/weekendtips-14-15-november-sinterklaas-parijs-bruxelles-1900-kun/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 5,
+    "numbers": 64,
+    "mean": 2327.6453,
+    "median": 15.5,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "\"Ik wil bij mijn kinderen sterven\": terminaal zieke arts Mohammed sleept Belgische staat voor rechter",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/terminale-palestijnse-arts-mohammed-ayesh-dagvaardt-belgische-st/"
+    },
+    "max": {
+     "v": 130000,
+     "t": "130.000",
+     "title": "Grote storing bij Microsoft: problemen met onder andere Outlook en Teams",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/grote-storing-microsoft-outlook-en-teams-bedrijven-overheden/"
+    }
    },
    "money": {
     "count": 0,

@@ -79,7 +79,359 @@
    "first_seen": "2026-11-13T00:50:14+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "\"Ik wil bij mijn kinderen sterven\": terminaal zieke arts Mohammed sleept Belgische staat voor rechter",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/terminale-palestijnse-arts-mohammed-ayesh-dagvaardt-belgische-st/",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Grote storing bij Microsoft: problemen met onder andere Outlook en Teams",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/grote-storing-microsoft-outlook-en-teams-bedrijven-overheden/",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Biologische mama Donna en pleegmama Christy delen al 8 jaar zorg voor hetzelfde meisje: \"Voor haar is dit altijd de realiteit geweest\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/biologische-moeder-donna-over-pleegzorg-het-geeft-rust-om-te-w/",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Nog altijd geen duidelijkheid na affaire: \"Inlichtingendiensten niet zeker of Huang Chinese spion is\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/nog-altijd-geen-duidelijkheid-na-affaire-inlichtingendiensten-~1776671241366/",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Brussel in 1900 of Dag van de Wetenschap? Dit zijn onze weekendtips",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/weekendtips-14-15-november-sinterklaas-parijs-bruxelles-1900-kun/",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [
+    {
+     "v": 1900,
+     "t": "1900"
+    }
+   ],
+   "money": []
   }
  ],
- "articles": []
+ "articles": [
+  {
+   "id": "p.XEVo1L7PM",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/terminale-palestijnse-arts-mohammed-ayesh-dagvaardt-belgische-st/",
+   "title": "\"Ik wil bij mijn kinderen sterven\": terminaal zieke arts Mohammed sleept Belgische staat voor rechter",
+   "published": "2026-11-13T05:06:13+01:00",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [
+    {
+     "v": 49,
+     "t": "49"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 49,
+     "t": "49"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 49,
+     "t": "49"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.mRJERDN8Q",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/weekendtips-14-15-november-sinterklaas-parijs-bruxelles-1900-kun/",
+   "title": "Brussel in 1900 of Dag van de Wetenschap? Dit zijn onze weekendtips",
+   "published": "2026-11-13T05:06:29+01:00",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [
+    {
+     "v": 1900,
+     "t": "1900"
+    },
+    {
+     "v": 1900,
+     "t": "1900"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 1900,
+     "t": "1900"
+    },
+    {
+     "v": 1950,
+     "t": "1950"
+    },
+    {
+     "v": 76,
+     "t": "76"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3.0"
+    },
+    {
+     "v": 2011,
+     "t": "2011"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 1900,
+     "t": "1900"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 900,
+     "t": "900"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 2011,
+     "t": "2011"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 13.3,
+     "t": "13.30"
+    },
+    {
+     "v": 15,
+     "t": "15.10"
+    },
+    {
+     "v": 10,
+     "t": "15.10"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.VLNdDXXq6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/biologische-moeder-donna-over-pleegzorg-het-geeft-rust-om-te-w/",
+   "title": "Biologische mama Donna en pleegmama Christy delen al 8 jaar zorg voor hetzelfde meisje: \"Voor haar is dit altijd de realiteit geweest\"",
+   "published": "2026-11-13T05:30:14+01:00",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "Acht"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYnqP9Xx",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/neteland-burgerhelpers-opstart-30-geinteresseerden-infosessie/",
+   "title": "Neteland-gemeenten starten met project burgerhelpers: \"Bij een ramp moeten er mensen zijn die kunnen helpen\"",
+   "published": "2026-11-13T06:02:39+01:00",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.bDo54bmom",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/grote-storing-microsoft-outlook-en-teams-bedrijven-overheden/",
+   "title": "Grote storing bij Microsoft: problemen met onder andere Outlook en Teams",
+   "published": "2026-11-13T06:14:03+01:00",
+   "first_seen": "2026-11-13T06:20:11+01:00",
+   "numbers": [
+    {
+     "v": 365,
+     "t": "365"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 130000,
+     "t": "130.000"
+    },
+    {
+     "v": 365,
+     "t": "365"
+    },
+    {
+     "v": 365,
+     "t": "365"
+    }
+   ],
+   "money": []
+  }
+ ]
 }
