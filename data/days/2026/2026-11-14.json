@@ -3035,6 +3035,114 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.Nv3aOR4Jl",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/duizenden-portugezen-op-straat-tegen-woningcrisis/",
+   "title": "Duizenden Portugezen betogen tegen wooncrisis in Lissabon en andere steden",
+   "published": "2026-11-14T21:39:38+01:00",
+   "first_seen": "2026-11-15T00:21:59+01:00",
+   "numbers": [
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 87,
+     "t": "87"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.5waB0NQvw",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/outlookstoring-phantasialand-zwembad-chloor/",
+   "title": "Microsoft-storing verstoort alarmmeldingen in Phantasialand: 15 hotelgasten krijgen gezondheidsklachten",
+   "published": "2026-11-14T22:03:21+01:00",
+   "first_seen": "2026-11-15T00:21:59+01:00",
+   "numbers": [
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "Eén"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYb3eJm3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/danseres-nora-monsecour-wint-belangrijke-duitse-theaterprijs/",
+   "title": "Danseres Nora Monsecour, inspiratie voor de film 'Girl', wint belangrijke Duitse theaterprijs",
+   "published": "2026-11-14T22:29:55+01:00",
+   "first_seen": "2026-11-15T00:21:59+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2006,
+     "t": "2006"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43pOjqxl5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/spacex-vangt-bovenste-trap-starship-op/",
+   "title": "Primeur: SpaceX vangt Starship-raket opnieuw op, belangrijke stap richting herbruikbare raket",
+   "published": "2026-11-14T23:27:52+01:00",
+   "first_seen": "2026-11-15T00:21:59+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
   }
  ]
 }

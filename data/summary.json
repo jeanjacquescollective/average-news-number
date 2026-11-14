@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-14T20:27:48+01:00",
+ "updated_at": "2026-11-15T00:21:59+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -537,10 +537,10 @@
     "numbers": 0
    },
    "articles": {
-    "count": 105,
-    "numbers": 1681,
-    "mean": 32739136181.7534,
-    "median": 28,
+    "count": 106,
+    "numbers": 1788,
+    "mean": 30779915285.916,
+    "median": 27.5,
     "min": {
      "v": -17.6,
      "t": "-17,6",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 139,
-    "numbers": 1723,
-    "mean": 505310302.6829,
-    "median": 18,
+    "count": 140,
+    "numbers": 1767,
+    "mean": 512931329.8934,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -1459,10 +1459,10 @@
     }
    },
    "articles": {
-    "count": 55,
-    "numbers": 483,
-    "mean": 539112470.26,
-    "median": 18,
+    "count": 59,
+    "numbers": 500,
+    "mean": 520782662.9592,
+    "median": 18.0,
     "min": {
      "v": 0,
      "t": "0",
@@ -1488,6 +1488,38 @@
     "gained": 0,
     "neutral": 0,
     "net": -805000000
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "headlines": {
+    "count": 5,
+    "numbers": 2,
+    "mean": 14.5,
+    "median": 14.5,
+    "min": {
+     "v": 14,
+     "t": "14",
+     "title": "Top van regering komt zondag opnieuw bijeen, vanaf 14 uur",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/top-van-regering-komt-zondag-opnieuw-bijeen-vanaf-14-uur~1793247532380/"
+    },
+    "max": {
+     "v": 15,
+     "t": "15",
+     "title": "Microsoft-storing verstoort alarmmeldingen in Phantasialand: 15 hotelgasten krijgen gezondheidsklachten",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/outlookstoring-phantasialand-zwembad-chloor/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
