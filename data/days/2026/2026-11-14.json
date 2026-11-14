@@ -231,6 +231,110 @@
    "first_seen": "2026-11-14T15:31:23+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Hoe kwetsbaar is het Belgische luchtverkeer? \"We zijn niet afhankelijk van diskettes\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/vliegverkeer-vs-kan-dat-ook-in-belgie-skeyes-luchtverkeer-expert/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Helft van onze muzikanten gestrand\": luchtvaartproblemen verstoren Amerikaanse tour Belgisch muziekensemble",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/vox-luminis-luchtvaartproblemen-vs/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Thomas De Graeve op Reagan Airport: \"Verbijsterend dat ze hier nog met Windows 95, floppydisks en koperdraad werken\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/luchtverkeer-verenigde-staten-thomas-de-graeve-windows-95/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 95,
+     "t": "95"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Filipijnse zangeres Carmelle wint eerste Aziatische editie van het Songfestival met ode aan Filipijnse vrouwen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/songfestival-azie/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Waarom stuurt Europa 7 vertegenwoordigers naar vredesonderhandelingen over Oekraïne? \"Dit is een cadeau voor Rusland\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/steven-van-hecke-over-europese-delegatie-naar-vredesgesprekken-o/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Pakawi Park krijgt massale steun op actiedag: \"Maar negatieve berichtgeving heeft ons geld gekost\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/pakawi-knalt-steunactie-buurtbewoners/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Facebook kreeg toegang tot beelden die gebruikers nooit deelden: 805 miljoen euro boete",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/boete-van-800-miljoen-euro-voor-facebook-in-italie/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 805000000,
+     "t": "805 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 805000000,
+     "t": "805 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Facebook kreeg toegang tot beelden die gebruikers nooit deelden: 805 miljoen euro boete"
+    }
+   ]
+  },
+  {
+   "title": "Kinderen van gezin dat in Italië in de bossen leefde, mogen niet terug naar ouders, oordeelt rechter",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/geen-reuenie-voor-gezin-dat-met-kinderen-afgezonderd-in-de-itali/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Duurzamer eten op school of in het woonzorgcentrum? Vlaamse overheid heeft handleiding klaar",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/duurzame-catering-richtlijnen-agentschap/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Politie en gemeente Kortenberg houden 2e bewonersoverleg na 3 explosies in dezelfde straat",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/kortenberg-explosie-bewonersoverleg-tweede-keer-ongerustheid-pol/",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
   }
  ],
  "articles": [
@@ -2458,6 +2562,478 @@
    "published": "2026-11-14T15:25:50+01:00",
    "first_seen": "2026-11-14T15:31:23+01:00",
    "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.oLqMvN4YY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/duurzame-catering-richtlijnen-agentschap/",
+   "title": "Duurzamer eten op school of in het woonzorgcentrum? Vlaamse overheid heeft handleiding klaar",
+   "published": "2026-11-14T15:34:50+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8b1KZLa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/geen-reuenie-voor-gezin-dat-met-kinderen-afgezonderd-in-de-itali/",
+   "title": "Kinderen van gezin dat in Italië in de bossen leefde, mogen niet terug naar ouders, oordeelt rechter",
+   "published": "2026-11-14T15:55:43+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APQ6NJyG8",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/luchtverkeer-verenigde-staten-thomas-de-graeve-windows-95/",
+   "title": "Thomas De Graeve op Reagan Airport:\n\"Verbijsterend dat ze hier nog met Windows 95, floppydisks en koperdraad\nwerken\"",
+   "published": "2026-11-14T16:04:06+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 95,
+     "t": "95"
+    },
+    {
+     "v": 95,
+     "t": "95"
+    },
+    {
+     "v": 3500,
+     "t": "3.500"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2001,
+     "t": "2001"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 95,
+     "t": "95"
+    },
+    {
+     "v": 50000000000,
+     "t": "50 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 43000000000,
+     "t": "50 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "investeren",
+     "how": "sentence",
+     "ctx": "Hij wil daarvoor 50 miljard dollar investeren en vraagt het Congres opnieuw om bijkomende middelen."
+    }
+   ]
+  },
+  {
+   "id": "p.QAbDlj5Zo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/kortenberg-explosie-bewonersoverleg-tweede-keer-ongerustheid-pol/",
+   "title": "Politie en gemeente Kortenberg houden 2e bewonersoverleg na 3 explosies in dezelfde straat",
+   "published": "2026-11-14T16:12:24+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.XEVDoVnje",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/ellen-meulebeke-uit-programma-kristel-overleden-begrafenis/",
+   "title": "Honderden mensen nemen afscheid van inspecteur Ellen uit VRT-programma Kristel",
+   "published": "2026-11-14T16:36:22+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.aDeQ54KKw",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/pakawi-knalt-steunactie-buurtbewoners/",
+   "title": "Pakawi Park krijgt massale steun op actiedag: \"Maar negatieve berichtgeving heeft ons geld gekost\"",
+   "published": "2026-11-14T17:10:15+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.DYMDAZ4BN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/vliegverkeer-vs-kan-dat-ook-in-belgie-skeyes-luchtverkeer-expert/",
+   "title": "Na grote storing in VS: hoe kwetsbaar is het Belgische luchtverkeer? \"We zijn niet afhankelijk van diskettes\"",
+   "published": "2026-11-14T17:16:03+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 95,
+     "t": "95"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 95,
+     "t": "95"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43pOObenk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/boete-van-800-miljoen-euro-voor-facebook-in-italie/",
+   "title": "Facebook kreeg toegang tot beelden die gebruikers nooit deelden: 805 miljoen euro boete",
+   "published": "2026-11-14T17:49:30+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 805000000,
+     "t": "805 miljoen"
+    },
+    {
+     "v": 805000000,
+     "t": "805 miljoen"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 25000000000,
+     "t": "25 miljard"
+    },
+    {
+     "v": 18000000000,
+     "t": "18 miljard"
+    },
+    {
+     "v": 16300000000,
+     "t": "16,3 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 805000000,
+     "t": "805 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Facebook kreeg toegang tot beelden die gebruikers nooit deelden: 805 miljoen euro boete"
+    },
+    {
+     "eur": 21500000000,
+     "t": "25 miljard dollar",
+     "cur": "USD",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Vorige maand kreeg het bedrijf in de Amerikaanse staat New Mexico nog een boete van 25 miljard dollar omdat het Facebook-gebruikers zou hebben misleid over de manier waarop hun persoonsgegevens werden verwerkt."
+    },
+    {
+     "eur": 15480000000,
+     "t": "18 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "waarde",
+     "how": "sentence",
+     "ctx": "\"Deze zomer trof topman Mark Zuckerberg ook een schikking ter waarde van ongeveer 18 miljard dollar (16,3 miljard euro, red.) om een rechtszaak over de vermeende verslavende werking van Facebook en Instagram te vermijden\", zegt Vandeputte."
+    }
+   ]
+  },
+  {
+   "id": "p.5waBPM6PJ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/hans-van-alphen-wordt-voorzitter-van-atletiekvereniging-toekomst/",
+   "title": "Nieuwe zaal voor werpsporten geopend bij Atletiekvereniging Toekomst in Heusden-Zolder, tienkamper Hans van Alphen wordt nieuwe voorzitter",
+   "published": "2026-11-14T18:07:13+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 698,
+     "t": "698"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pBPjMRp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/songfestival-azie/",
+   "title": "Filipijnse zangeres Carmelle wint eerste\nAziatische editie van het Songfestival met ode aan Filipijnse vrouwen",
+   "published": "2026-11-14T19:30:24+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 211,
+     "t": "211"
+    },
+    {
+     "v": 170,
+     "t": "170"
+    },
+    {
+     "v": 164,
+     "t": "164"
+    },
+    {
+     "v": 152,
+     "t": "152"
+    },
+    {
+     "v": 139,
+     "t": "139"
+    },
+    {
+     "v": 126,
+     "t": "126"
+    },
+    {
+     "v": 113,
+     "t": "113"
+    },
+    {
+     "v": 94,
+     "t": "94"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 61,
+     "t": "61"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJDDD3Pa",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/vox-luminis-luchtvaartproblemen-vs/",
+   "title": "\"Helft van onze muzikanten gestrand in verkeerde staat\": luchtvaartproblemen in VS verstoren Amerikaanse tour Belgisch muziekensemble",
+   "published": "2026-11-14T19:46:38+01:00",
+   "first_seen": "2026-11-14T20:27:48+01:00",
+   "numbers": [
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 1,
+     "t": "Eén"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
    "money": []
   }
  ]

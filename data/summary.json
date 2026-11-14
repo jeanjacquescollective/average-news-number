@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-14T15:31:23+01:00",
+ "updated_at": "2026-11-14T20:27:48+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,9 +389,9 @@
     }
    },
    "articles": {
-    "count": 105,
-    "numbers": 1219,
-    "mean": 8971247.1292,
+    "count": 106,
+    "numbers": 1245,
+    "mean": 8783905.0952,
     "median": 28,
     "min": {
      "v": -8,
@@ -1441,10 +1441,10 @@
   {
    "date": "2026-11-14",
    "headlines": {
-    "count": 26,
-    "numbers": 10,
-    "mean": 26.6,
-    "median": 19.0,
+    "count": 36,
+    "numbers": 15,
+    "mean": 53666691.5333,
+    "median": 10,
     "min": {
      "v": 1,
      "t": "1",
@@ -1452,17 +1452,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/songfestival-azie-aziatische-editie-bangkok-eurovision/"
     },
     "max": {
-     "v": 78,
-     "t": "78",
-     "title": "Man (78) aangehouden bij Broeders van Liefde in Bierbeek voor rol in Rwandese genocide: voor het eerst proces in Vlaanderen op komst",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/verdachte-van-genocide-in-rwanda-opgepakt-in-bierbeek/"
+     "v": 805000000,
+     "t": "805 miljoen",
+     "title": "Facebook kreeg toegang tot beelden die gebruikers nooit deelden: 805 miljoen euro boete",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/boete-van-800-miljoen-euro-voor-facebook-in-italie/"
     }
    },
    "articles": {
-    "count": 44,
-    "numbers": 402,
-    "mean": 371844059.7254,
-    "median": 18.0,
+    "count": 55,
+    "numbers": 483,
+    "mean": 539112470.26,
+    "median": 18,
     "min": {
      "v": 0,
      "t": "0",
@@ -1477,11 +1477,17 @@
     }
    },
    "money": {
-    "count": 0,
-    "lost": 0,
+    "count": 1,
+    "lost": 805000000,
+    "biggest_lost": {
+     "eur": 805000000,
+     "t": "805 miljoen euro",
+     "title": "Facebook kreeg toegang tot beelden die gebruikers nooit deelden: 805 miljoen euro boete",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/boete-van-800-miljoen-euro-voor-facebook-in-italie/"
+    },
     "gained": 0,
     "neutral": 0,
-    "net": 0
+    "net": -805000000
    }
   }
  ]
