@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-14T02:03:33+01:00",
+ "updated_at": "2026-11-14T08:35:01+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 138,
-    "numbers": 1682,
-    "mean": 496402879.4087,
-    "median": 18.0,
+    "count": 139,
+    "numbers": 1723,
+    "mean": 505310302.6829,
+    "median": 18,
     "min": {
      "v": -30,
      "t": "-30",
@@ -1441,26 +1441,40 @@
   {
    "date": "2026-11-14",
    "headlines": {
-    "count": 2,
-    "numbers": 1,
-    "mean": 32.0,
-    "median": 32,
+    "count": 13,
+    "numbers": 6,
+    "mean": 30.1667,
+    "median": 30.0,
     "min": {
-     "v": 32,
-     "t": "32",
-     "title": "Tanker botst tegen cruiseschip in New Orleans: alle passagiers gered van gekapseisd vaartuig, 32 mensen naar ziekenhuis gebracht",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/cruisschip-tanker-new-orleans-mississippi-river/"
+     "v": 1,
+     "t": "1",
+     "title": "\"Bedoeling is dat het geld oplevert\": 1e Aziatische editie van Songfestival vindt vandaag plaats",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/songfestival-azie-aziatische-editie-bangkok-eurovision/"
     },
     "max": {
-     "v": 32,
-     "t": "32",
-     "title": "Tanker botst tegen cruiseschip in New Orleans: alle passagiers gered van gekapseisd vaartuig, 32 mensen naar ziekenhuis gebracht",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/cruisschip-tanker-new-orleans-mississippi-river/"
+     "v": 78,
+     "t": "78",
+     "title": "Man (78) aangehouden bij Broeders van Liefde in Bierbeek voor rol in Rwandese genocide: voor het eerst proces in Vlaanderen op komst",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/verdachte-van-genocide-in-rwanda-opgepakt-in-bierbeek/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 10,
+    "numbers": 120,
+    "mean": 123120.9025,
+    "median": 12.0,
+    "min": {
+     "v": 0,
+     "t": "0",
+     "title": "\"Bedoeling is dat het geld oplevert\": 1e Aziatische editie van Songfestival vindt vandaag plaats",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/songfestival-azie-aziatische-editie-bangkok-eurovision/"
+    },
+    "max": {
+     "v": 9400000,
+     "t": "9,4 miljoen",
+     "title": "Cuba bereidt zich voor op mogelijke Amerikaanse aanval, zegt president",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/cuba-bereidt-zich-voor-op-mogelijke-amerikaanse-aanval-zegt-pre/"
+    }
    },
    "money": {
     "count": 0,

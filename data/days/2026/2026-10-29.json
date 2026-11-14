@@ -4099,6 +4099,199 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/opnieuw-geen-doorbraak-bij-kernkabinet-top-van-regering-komt-zo~1793247532380/",
+   "title": "LIVE Opnieuw geen doorbraak bij kernkabinet, top van regering komt zondag pas opnieuw bijeen",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-14T08:35:01+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 9000000000,
+     "t": "9 miljard"
+    },
+    {
+     "v": 1000000000,
+     "t": "miljard"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 2035,
+     "t": "2035"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2000000000,
+     "t": "2 miljard"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1.1,
+     "t": "1,1"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 1100000000,
+     "t": "1,1 miljard"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    },
+    {
+     "v": 1100000000,
+     "t": "1,1 miljard"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1500000000,
+     "t": "1,5 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "gevonden",
+     "how": "sentence",
+     "ctx": "\"Vooruit vindt dat 1,5 miljard euro moet gevonden worden bij de sterkste schouders."
+    },
+    {
+     "eur": 1100000000,
+     "t": "1,1 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "Premier",
+     "how": "article",
+     "ctx": "Terwijl Bouchez dat in strijd vindt met het regeerakkoord, waarin werd afgesproken dat zo'n inspanning maximaal 1,1 miljard euro mag bedragen."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",
