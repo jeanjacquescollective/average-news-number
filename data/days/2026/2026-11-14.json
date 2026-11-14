@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-14",
+ "headlines": [
+  {
+   "title": "Alle vliegtuigen in VS moeten aan de grond blijven door technische storing",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/vliegtuigen-aan-de-grond-vs/",
+   "first_seen": "2026-11-14T02:03:33+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Tanker botst tegen cruiseschip in New Orleans: alle passagiers gered van gekapseisd vaartuig, 32 mensen naar ziekenhuis gebracht",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/cruisschip-tanker-new-orleans-mississippi-river/",
+   "first_seen": "2026-11-14T02:03:33+01:00",
+   "numbers": [
+    {
+     "v": 32,
+     "t": "32"
+    }
+   ],
+   "money": []
+  }
+ ],
+ "articles": []
+}

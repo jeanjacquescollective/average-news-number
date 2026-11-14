@@ -5000,6 +5000,70 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.M9mAxXvNy",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/cruisschip-tanker-new-orleans-mississippi-river/",
+   "title": "Tanker botst tegen cruiseschip in New Orleans: alle passagiers gered van gekapseisd vaartuig, 32 mensen naar ziekenhuis gebracht",
+   "published": "2026-11-13T21:48:16+01:00",
+   "first_seen": "2026-11-14T02:03:33+01:00",
+   "numbers": [
+    {
+     "v": 32,
+     "t": "32"
+    },
+    {
+     "v": 129,
+     "t": "129"
+    },
+    {
+     "v": 32,
+     "t": "32"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 129,
+     "t": "129"
+    },
+    {
+     "v": 32,
+     "t": "32"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.WkjeKOJdB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/vliegtuigen-aan-de-grond-vs/",
+   "title": "Alle vliegtuigen in VS moeten aan de grond blijven door technische storing bij luchtverkeersleidingscentra",
+   "published": "2026-11-13T22:34:27+01:00",
+   "first_seen": "2026-11-14T02:03:33+01:00",
+   "numbers": [
+    {
+     "v": 7000,
+     "t": "7.000"
+    },
+    {
+     "v": 3100,
+     "t": "3.100"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2001,
+     "t": "2001"
+    }
+   ],
+   "money": []
   }
  ]
 }
