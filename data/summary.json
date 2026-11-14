@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-14T08:35:01+01:00",
+ "updated_at": "2026-11-14T15:31:23+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 85,
-    "numbers": 1805,
-    "mean": 20269560.9783,
+    "count": 86,
+    "numbers": 1945,
+    "mean": 18819876.7377,
     "median": 29,
     "min": {
      "v": -24,
@@ -1441,10 +1441,10 @@
   {
    "date": "2026-11-14",
    "headlines": {
-    "count": 13,
-    "numbers": 6,
-    "mean": 30.1667,
-    "median": 30.0,
+    "count": 26,
+    "numbers": 10,
+    "mean": 26.6,
+    "median": 19.0,
     "min": {
      "v": 1,
      "t": "1",
@@ -1459,10 +1459,10 @@
     }
    },
    "articles": {
-    "count": 10,
-    "numbers": 120,
-    "mean": 123120.9025,
-    "median": 12.0,
+    "count": 44,
+    "numbers": 402,
+    "mean": 371844059.7254,
+    "median": 18.0,
     "min": {
      "v": 0,
      "t": "0",
@@ -1470,10 +1470,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/songfestival-azie-aziatische-editie-bangkok-eurovision/"
     },
     "max": {
-     "v": 9400000,
-     "t": "9,4 miljoen",
-     "title": "Cuba bereidt zich voor op mogelijke Amerikaanse aanval, zegt president",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/cuba-bereidt-zich-voor-op-mogelijke-amerikaanse-aanval-zegt-pre/"
+     "v": 140000000000,
+     "t": "140 miljard",
+     "title": "Huang is weg, leve Huang? Ook zoon, dochter én schoonzoon van ontslagen CEO maken carrière bij chipreus Nvidia",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/crisis-bij-nvidia-toont-hoezeer-de-familie-huang-verweven-is-met/"
     }
    },
    "money": {

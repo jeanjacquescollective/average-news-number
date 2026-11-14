@@ -120,6 +120,117 @@
    "first_seen": "2026-11-14T08:35:01+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Zelensky: \"VS stelt Oekraïne NAVO-lidmaatschap voor in ruil voor de Donbas\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/zelensky-vs-stelt-oekraine-navolidmaatschap-voor-in-ruil-voor~1793644191149/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Begraven in bos of verstopt in boerderijen: Hongaarse speurders vinden voor miljoenen euro's aan smeergeld",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/begraven-in-bos-of-verstopt-in-boerderijen-hongaarse-speurders/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Huang is weg, leve Huang? Ook zoon, dochter én schoonzoon van ontslagen CEO maken carrière bij chipreus Nvidia",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/crisis-bij-nvidia-toont-hoezeer-de-familie-huang-verweven-is-met/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Laatste rustplaats (met stevig prijskaartje): Barcelona verhuurt in Camp Nou urnen naast het veld",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/camp-nou-urnes/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Hoe privécollectie van een scheepskapitein uitgroeide tot omstreden dierenpark: het hobbelige parcours van Pakawi in Olmen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/pakawi-park-olmen-geschiedenis-dierenpark-ontstaan/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Controleorgaan waarschuwt voor mogelijk misbruik bij opvolger van geflopte i-Police",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/problemen-opvolger-i-police-focus-digitaal-politie/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Vlaamse jeugdauteur en illustrator Leo Timmers haalt top 10 prentenboeken van New York Times: \"Er gaat niets boven prenten maken op papier\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/leo-timmers-kiki-en-ik-beste-kinderboeken-wereldwijd-nyt/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "De gevaarlijke trend die het voetbal overspoelt en ook Rode Duivels treft: wat is het sluwe plan achter virale spookuitspraken?",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/verhaal-fake-quotes-in-het-voetbal/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Nobelprijswinnares Pillay: \"Israëli's, er worden misdaden gepleegd in jullie naam\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/nobelprijswinnares-pillay-israeli-s-er-worden-misdaden-geplee/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Jan Pijnenburg (70), ex-drummer van Nederlandse popgroep Doe Maar, onverwacht overleden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/drummer-doe-maar-jan-pijnenburg-overleden/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 70,
+     "t": "70"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "E19 van Brussel naar Antwerpen weer vrij na ongeval met 3 gewonden: files lossen stilaan op",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/files-e19-ongeval-vrachtwagen/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Gentse regisseur Lukas Dhont maakt met 'Coward' kans op 2 European Film Awards",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/coward-lukas-dhont-european-film-awards/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Trump, Xi en Poetin ontmoeten elkaar donderdag in China in marge van economische top",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/trump-xi-en-poetin-ontmoeten-elkaar-donderdag-in-china/",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
  "articles": [
@@ -375,6 +486,36 @@
     {
      "v": 10,
      "t": "15.10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.xZYmbN34l",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/07/verhaal-fake-quotes-in-het-voetbal/",
+   "title": "De gevaarlijke trend die het voetbal overspoelt en ook Rode Duivels treft: wat is het sluwe plan achter virale spookuitspraken?",
+   "published": "2026-11-14T06:00:00+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 200000,
+     "t": "200.000"
+    },
+    {
+     "v": 45000,
+     "t": "45.000"
+    },
+    {
+     "v": 10,
+     "t": "tien"
+    },
+    {
+     "v": 1000000,
+     "t": "miljoen"
     }
    ],
    "money": []
@@ -720,6 +861,1603 @@
      "t": "61"
     }
    ],
+   "money": []
+  },
+  {
+   "id": "p.nwv1l5o4N",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/schaatsen-ijspiste-oudenaarde/",
+   "title": "Schaatsbaan keert terug naar Winterdorp in Oudenaarde, maar zonder echt ijs",
+   "published": "2026-11-14T08:45:16+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.93pwLkxbv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/sint-kamillus-bierbeek-opening-nieuwe-vleugel-psychiatrisch-cent/",
+   "title": "Nieuw gebouw voor psychiatrisch centrum Sint-Kamillus Bierbeek: \"Meer nood aan geestelijke gezondheidszorg\"",
+   "published": "2026-11-14T08:54:24+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 20800000,
+     "t": "20,8 miljoen"
+    },
+    {
+     "v": 700,
+     "t": "700"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    }
+   ],
+   "money": [
+    {
+     "eur": 20800000,
+     "t": "20,8 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investering",
+     "how": "sentence",
+     "ctx": "De investering bedraagt 20,8 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.aDeQDwj0l",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/eedaflegging-gouverneur-west-vlaanderen-brugge-jurgen-vanlerberg/",
+   "title": "Jurgen Vanlerberghe legt eed af als nieuwe gouverneur van West-Vlaanderen",
+   "published": "2026-11-14T09:02:57+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 62,
+     "t": "62"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pBAM9lJ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/drummer-doe-maar-jan-pijnenburg-overleden/",
+   "title": "Jan Pijnenburg (70), ex-drummer van Nederlandse popgroep Doe Maar, onverwacht overleden",
+   "published": "2026-11-14T09:12:40+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 1982,
+     "t": "1982"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1984,
+     "t": "1984"
+    },
+    {
+     "v": 1982,
+     "t": "1982"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1983,
+     "t": "1983"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2000,
+     "t": "2000"
+    },
+    {
+     "v": 2008,
+     "t": "2008"
+    },
+    {
+     "v": 2012,
+     "t": "2012"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 73,
+     "t": "73"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 1983,
+     "t": "1983"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.LNWbaWvBv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/ray-morton-diabetes-zulte-waregem-essevee/",
+   "title": "Belofte van Zulte Waregem Ray (18) leeft en voetbalt met diabetes: \"Ik leer mijn lichaam nóg beter kennen\"",
+   "published": "2026-11-14T09:24:14+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 600,
+     "t": "600"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ZWKRNqG6E",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/kinderen-krijgen-in-scherpenheuvel-zichem-een-vredesmedaille-tij/",
+   "title": "\"Vrede begint bij kinderen\": Strijdersbond deelt vredesmedailles uit in Zichem",
+   "published": "2026-11-14T09:24:40+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.y310qNR5n",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/nobelprijswinnares-pillay-israeli-s-er-worden-misdaden-geplee/",
+   "title": "Nobelprijswinnares Pillay: \"Israëli's, er worden misdaden gepleegd in jullie naam\"",
+   "published": "2026-11-14T09:31:52+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 85,
+     "t": "85"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 73000,
+     "t": "73.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5DAAkXR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/trump-xi-en-poetin-ontmoeten-elkaar-donderdag-in-china/",
+   "title": "Trump, Xi en Poetin ontmoeten elkaar donderdag in China in marge van economische top",
+   "published": "2026-11-14T09:43:59+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "vier"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.pAxdB6Ln4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/bossenaarmolen-etikhove-restauratie-draaien/",
+   "title": "Nieuwe Bossenaarmolen in Maarkedal krijgt grondige restauratie: \"Opnieuw laten draaien en malen\"",
+   "published": "2026-11-14T09:57:43+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 726000,
+     "t": "726.000"
+    },
+    {
+     "v": 300000,
+     "t": "300.000"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 1939,
+     "t": "1939"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": [
+    {
+     "eur": 726000,
+     "t": "726.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "De restauratie kost 726.000 euro."
+    },
+    {
+     "eur": 300000,
+     "t": "300.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "erfgoedpremie",
+     "how": "sentence",
+     "ctx": "Vlaanderen geeft een erfgoedpremie van 300.000 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.qENexvR9l",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/troostmuur-tienen-begraafplaats-porseleinen-foto-ingewijd/",
+   "title": "Karen plaatst foto van overleden vader op nieuwe  troostmuur in Tienen: \"Tastbare plek dicht bij huis\"",
+   "published": "2026-11-14T10:17:13+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 100,
+     "t": "honderd"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJDaKMbX",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/leo-timmers-kiki-en-ik-beste-kinderboeken-wereldwijd-nyt/",
+   "title": "Vlaamse jeugdauteur en illustrator Leo Timmers haalt top 10 prentenboeken van New York Times: \"Er gaat niets boven prenten maken op papier\"",
+   "published": "2026-11-14T10:41:17+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 1952,
+     "t": "1952"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 1999,
+     "t": "1999"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 43,
+     "t": "43"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lObQV3LEE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/kleine-bunker-vaste-plek-denderleeuw-wereldoorlog/",
+   "title": "Denderleeuw geeft kleine bunker voor spoorwegpersoneel uit Tweede Wereldoorlog vaste plek met infobord",
+   "published": "2026-11-14T11:08:54+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2027,
+     "t": "2027"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.w70WEe46E",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/files-e19-ongeval-vrachtwagen/",
+   "title": "E19 van Brussel naar Antwerpen weer vrij na ongeval met 3 gewonden: files lossen stilaan op",
+   "published": "2026-11-14T11:33:53+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 9,
+     "t": "9.30"
+    },
+    {
+     "v": 30,
+     "t": "9.30"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.M9mb3p5VE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/afgebroken-kerk-in-gehucht-vlamertinge-krijgt-monument/",
+   "title": "Twee jaar na de sloop van de Heilige Familiekerk staat er een monument met de originele klok in Vlamertinge",
+   "published": "2026-11-14T11:35:17+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 350,
+     "t": "350"
+    },
+    {
+     "v": 1960,
+     "t": "1960"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 46,
+     "t": "46"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.XEVDA6K0O",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/crisis-bij-nvidia-toont-hoezeer-de-familie-huang-verweven-is-met/",
+   "title": "Huang is weg, leve Huang? Ook zoon, dochter én schoonzoon van ontslagen CEO maken carrière bij chipreus Nvidia",
+   "published": "2026-11-14T11:49:16+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 2015,
+     "t": "2015"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 1000000,
+     "t": "een miljoen"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 40,
+     "t": "40"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2007,
+     "t": "2007"
+    },
+    {
+     "v": 9000000000,
+     "t": "9 miljard"
+    },
+    {
+     "v": 140000000000,
+     "t": "140 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 860000,
+     "t": "een miljoen dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "investeringsanalist",
+     "how": "article",
+     "ctx": "Vorig jaar kon ze al uitpakken met een salaris van meer dan een miljoen dollar per jaar."
+    },
+    {
+     "eur": 7740000000,
+     "t": "9 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "waard",
+     "how": "sentence",
+     "ctx": "Het is intussen 9 miljard dollar waard."
+    },
+    {
+     "eur": 120400000000,
+     "t": "140 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "investeringsanalist",
+     "how": "article",
+     "ctx": "Want Mills heeft dan wel geen rol binnen Nvidia, maar via trustfondsen is ze wel mede-eigenaar van het overgrote deel van de Nvidia-aandelen van Huang, samen goed voor zo'n 140 miljard dollar."
+    }
+   ]
+  },
+  {
+   "id": "p.6KpOPRw8v",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/judo-doven-ek-brons-herzele/",
+   "title": "Dove judoka uit Herzele verovert brons op EK in Azerbeidzjan",
+   "published": "2026-11-14T11:50:43+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 2016,
+     "t": "2016"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvobV00Ne",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/wijndomein-gloire-de-duras-en-het-hasseltse-evenementenbureau-pa/",
+   "title": "Wijndomein Gloire de Duras uit Sint-Truiden en evenementenbureau Party Constructions uit Hasselt erkend als hofleverancier",
+   "published": "2026-11-14T12:03:02+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 8,
+     "t": "acht"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.OvkDakv1N",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/coward-lukas-dhont-european-film-awards/",
+   "title": "Gentse regisseur Lukas Dhont maakt met 'Coward' kans op 2 European Film Awards",
+   "published": "2026-11-14T12:13:59+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1917,
+     "t": "1917"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN47P10vQ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/witloofbox-verenigingen-particulieren-vlaams-brabant/",
+   "title": "\"Witloof als kerstgeschenk\": Landelijke Gilde Grimbergen biedt witloofbox aan voor particulieren",
+   "published": "2026-11-14T12:15:09+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2010,
+     "t": "2010"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 250000,
+     "t": "250.000"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.y316xB31W",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/waterlek-station-onbereikbaar-deinze-woensdag/",
+   "title": "Station van Deinze al zeker tot woensdag niet bereikbaar met de auto na waterlek",
+   "published": "2026-11-14T12:52:08+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 18,
+     "t": "18"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlYn7wOvY",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/pakawi-park-olmen-geschiedenis-dierenpark-ontstaan/",
+   "title": "Hoe privécollectie van een scheepskapitein uitgroeide tot omstreden dierenpark: het hobbelige parcours van Pakawi in Olmen",
+   "published": "2026-11-14T12:53:36+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1976,
+     "t": "1976"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1976,
+     "t": "1976"
+    },
+    {
+     "v": 1980,
+     "t": "1980"
+    },
+    {
+     "v": 1994,
+     "t": "1994"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 2002,
+     "t": "2002"
+    },
+    {
+     "v": 2007,
+     "t": "2007"
+    },
+    {
+     "v": 37,
+     "t": "37"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.KK8blbd8m",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/begraven-in-bos-of-verstopt-in-boerderijen-hongaarse-speurders/",
+   "title": "Begraven in bos of verstopt in boerderijen: Hongaarse speurders vinden voor miljoenen euro's aan smeergeld",
+   "published": "2026-11-14T13:06:45+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 18000000,
+     "t": "18 miljoen"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 18000000,
+     "t": "18 miljoen"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 30000000,
+     "t": "30 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 18000000,
+     "t": "18 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "ontdekt",
+     "how": "sentence",
+     "ctx": "Bijna 18 miljoen euro aan bankbiljetten, dat hebben Hongaarse speurders ontdekt in een anticorruptieonderzoek naar een minister uit de regering van oud-premier Viktor Orbán."
+    },
+    {
+     "eur": 18000000,
+     "t": "18 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "smeergeld",
+     "how": "title",
+     "ctx": "Alles samen kwamen ze uit op bijna 18 miljoen euro aan cash."
+    },
+    {
+     "eur": 30000000,
+     "t": "30 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "smeergeld",
+     "how": "title",
+     "ctx": "Hij zou zich voor meer dan 30 miljoen euro hebben laten omkopen in ruil voor overheidsopdrachten, onder andere bij de openbaarvervoersmaatschappij."
+    }
+   ]
+  },
+  {
+   "id": "p.QAbDemEW5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/belgische-verdachte-verijdelde-aanslag-bank-of-america-parijs-vr/",
+   "title": "Belgische verdachte van verijdelde aanslag op Bank of America in Parijs vrijgelaten",
+   "published": "2026-11-14T13:21:30+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APQ68yD7w",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/huis-van-de-sint-sinterklaas-sint-niklaas/",
+   "title": "Sinterklaas slaapt 4 weken in Sint-Niklaas: Huis van de Sint verwacht 25.000 kinderen",
+   "published": "2026-11-14T13:36:49+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 25000,
+     "t": "25.000"
+    },
+    {
+     "v": 4,
+     "t": "Vier"
+    },
+    {
+     "v": 25000,
+     "t": "25.000"
+    },
+    {
+     "v": 55,
+     "t": "55"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 25000,
+     "t": "25.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 26000,
+     "t": "26.000"
+    },
+    {
+     "v": 180,
+     "t": "180"
+    },
+    {
+     "v": 1500,
+     "t": "1.500"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.6KpOR7lM4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/grote-collectie-verzamelstukken-wielrenner-rik-van-looy-te-koop/",
+   "title": "Truitjes, affiches en een bidprentje: Izegemse fan zoekt overnemer voor verzameling Rik Van Looy",
+   "published": "2026-11-14T14:03:59+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 81,
+     "t": "81"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 1956,
+     "t": "1956"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 1958,
+     "t": "1958"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 479,
+     "t": "0479"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 54,
+     "t": "54"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.xZYmOW1Je",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/steven-van-hecke-over-europese-delegatie-naar-vredesgesprekken-o/",
+   "title": "Waarom stuurt Europa 7 vertegenwoordigers naar vredesonderhandelingen over Oekraïne? \"Dit is een cadeau voor Rusland\"",
+   "published": "2026-11-14T14:30:10+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJDjDXBm",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/woonproject-bosart-in-genk-ingehuldigd/",
+   "title": "Woonproject Bosart in Genk ingehuldigd: \"Leegstaande site nieuw leven inblazen en tegelijk zorgen voor meer groen\"",
+   "published": "2026-11-14T14:35:50+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.M9mbjjoZd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/gravelroute-druivenstreek-bertem-hoeilaart-huldenberg-overijse-t/",
+   "title": "Gravelroute Druivenstreek: over gemeentegrenzen heen met holle wegen, plateaus en bospaadjes",
+   "published": "2026-11-14T14:37:12+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 93.3,
+     "t": "93,3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lObQGoR5k",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/problemen-opvolger-i-police-focus-digitaal-politie/",
+   "title": "Opvolger van i-Police werkt beter, maar vertoont ernstige\nprivacy- en beveiligingsproblemen",
+   "published": "2026-11-14T14:45:52+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2021,
+     "t": "2021"
+    },
+    {
+     "v": 299000000,
+     "t": "299 miljoen"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 76000000,
+     "t": "76 miljoen"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    }
+   ],
+   "money": [
+    {
+     "eur": 299000000,
+     "t": "299 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "verduistering",
+     "how": "article",
+     "ctx": "Toenmalig minister van Binnenlandse Zaken Annelies Verlinden (CD&V) sloot daarvoor een contract af van 299 miljoen euro met het Franse IT-consultancybedrijf Sopra Steria."
+    },
+    {
+     "eur": 76000000,
+     "t": "76 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "verduistering",
+     "how": "article",
+     "ctx": "In december 2025 trok haar opvolger Quintin (MR) een streep door dat monstercontract, omdat er na jarenlange facturatie, voor in totaal bijna 76 miljoen euro, \"geen enkel tastbaar resultaat\" was."
+    }
+   ]
+  },
+  {
+   "id": "p.bDoqYlQll",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/camp-nou-urnes/",
+   "title": "Laatste rustplaats (met stevig prijskaartje): Barcelona verhuurt in Camp Nou urnen naast het veld",
+   "published": "2026-11-14T15:11:26+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 26000,
+     "t": "26.000"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 10,
+     "t": "tien"
+    },
+    {
+     "v": 2490,
+     "t": "2.490"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 4990,
+     "t": "4.990"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 5990,
+     "t": "5.990"
+    }
+   ],
+   "money": [
+    {
+     "eur": 2490,
+     "t": "2.490 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Een nis voor tien jaar kost 2.490 euro, voor 25 jaar kost het je 4.990 euro en voor 50 jaar moet je 5.990 euro neertellen."
+    },
+    {
+     "eur": 4990,
+     "t": "4.990 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Een nis voor tien jaar kost 2.490 euro, voor 25 jaar kost het je 4.990 euro en voor 50 jaar moet je 5.990 euro neertellen."
+    },
+    {
+     "eur": 5990,
+     "t": "5.990 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Een nis voor tien jaar kost 2.490 euro, voor 25 jaar kost het je 4.990 euro en voor 50 jaar moet je 5.990 euro neertellen."
+    }
+   ]
+  },
+  {
+   "id": "p.8epVmR1Lo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/pvda-jongeren-voeren-actie-in-hasselt-voor-meer-betaalbare-wonin/",
+   "title": "PVDA-jongeren voeren actie in luxueuze woonwijk in Hasselt: \"Hier hadden ook betaalbare woningen kunnen komen\"",
+   "published": "2026-11-14T15:14:37+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 931,
+     "t": "931"
+    },
+    {
+     "v": 487713,
+     "t": "487.713"
+    },
+    {
+     "v": 373746,
+     "t": "373.746"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 700,
+     "t": "700"
+    }
+   ],
+   "money": [
+    {
+     "eur": 931,
+     "t": "931 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeerders",
+     "how": "article",
+     "ctx": "De gemiddelde huurprijs van een appartement ligt nu op 931 euro."
+    },
+    {
+     "eur": 487713,
+     "t": "487.713 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Een eigen huis kost gemiddeld 487.713 euro in Hasselt, een appartement 373.746 euro."
+    },
+    {
+     "eur": 373746,
+     "t": "373.746 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Een eigen huis kost gemiddeld 487.713 euro in Hasselt, een appartement 373.746 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.VLND3vnNZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/reddingsoefeningen-bellewaerde-hoogtewerkers-ieper/",
+   "title": "Meer dan 200 reddingsspecialisten oefenen in gesloten pretpark Bellewaerde",
+   "published": "2026-11-14T15:18:18+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Nv3ajbYq8",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/protestborden-maken-bibliotheeek-brussel-muntpunt-nederlands-ler/",
+   "title": "Van workshop naar straatprotest: protestborden uit Brusselse Muntpunt gaan naar uitleenbibliotheek voor manifestaties",
+   "published": "2026-11-14T15:25:50+01:00",
+   "first_seen": "2026-11-14T15:31:23+01:00",
+   "numbers": [],
    "money": []
   }
  ]
