@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-15T11:40:51+01:00",
+ "updated_at": "2026-11-15T18:26:52+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 141,
-    "numbers": 1811,
-    "mean": 520182036.6211,
+    "count": 142,
+    "numbers": 1813,
+    "mean": 519608200.9591,
     "median": 16,
     "min": {
      "v": -30,
@@ -1493,28 +1493,28 @@
   {
    "date": "2026-11-15",
    "headlines": {
-    "count": 21,
-    "numbers": 11,
-    "mean": 62.7273,
+    "count": 38,
+    "numbers": 17,
+    "mean": 12632.3882,
     "median": 30,
     "min": {
-     "v": 5,
-     "t": "5",
-     "title": "Voor het eerst in 5 jaar neemt China titel weer mee naar huis: Bilibili Gaming wordt wereldkampioen 'League of Legends'",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/chinezen-bilibili-gaming-wereldkampioen-league-of-legends/"
+     "v": 1.6,
+     "t": "1,6",
+     "title": "Colombiaanse politie onderschept 1,6 ton cocaïne, drugs waren onderweg naar Antwerpen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/1-6-ton-cocaine-onderschept-in-colombia-die-onderweg-was-naar-an/"
     },
     "max": {
-     "v": 343,
-     "t": "343",
-     "title": "Politie Luik heeft in oktober 343 mensen gearresteerd, 52 agenten raakten gewond",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/politie-luik-heeft-in-oktober-343-mensen-gearresteerd-52-agente~1792507723130/"
+     "v": 124000,
+     "t": "124.000",
+     "title": "Grote actie tegen overlast in Antwerpen: 54 arrestaties en 124.000 euro cash gevonden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/54-arrestaties-politieactie-in-antwerpen/"
     }
    },
    "articles": {
-    "count": 18,
-    "numbers": 178,
-    "mean": 762922255.1163,
-    "median": 15.5,
+    "count": 48,
+    "numbers": 392,
+    "mean": 346605606.0788,
+    "median": 14.5,
     "min": {
      "v": 0,
      "t": "00.01",
@@ -1529,11 +1529,17 @@
     }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 124000,
+    "biggest_gained": {
+     "eur": 124000,
+     "t": "124.000 euro",
+     "title": "Grote actie tegen overlast in Antwerpen: 54 arrestaties en 124.000 euro cash gevonden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/54-arrestaties-politieactie-in-antwerpen/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 124000
    }
   }
  ]
