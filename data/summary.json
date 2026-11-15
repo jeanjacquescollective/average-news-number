@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-15T00:21:59+01:00",
+ "updated_at": "2026-11-15T11:40:51+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 120,
-    "numbers": 2133,
-    "mean": 125576113.7042,
-    "median": 67.7,
+    "count": 121,
+    "numbers": 2283,
+    "mean": 117332083.1673,
+    "median": 78,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 140,
-    "numbers": 1767,
-    "mean": 512931329.8934,
+    "count": 141,
+    "numbers": 1811,
+    "mean": 520182036.6211,
     "median": 16,
     "min": {
      "v": -30,
@@ -1493,26 +1493,40 @@
   {
    "date": "2026-11-15",
    "headlines": {
-    "count": 5,
-    "numbers": 2,
-    "mean": 14.5,
-    "median": 14.5,
+    "count": 21,
+    "numbers": 11,
+    "mean": 62.7273,
+    "median": 30,
     "min": {
-     "v": 14,
-     "t": "14",
-     "title": "Top van regering komt zondag opnieuw bijeen, vanaf 14 uur",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/top-van-regering-komt-zondag-opnieuw-bijeen-vanaf-14-uur~1793247532380/"
+     "v": 5,
+     "t": "5",
+     "title": "Voor het eerst in 5 jaar neemt China titel weer mee naar huis: Bilibili Gaming wordt wereldkampioen 'League of Legends'",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/chinezen-bilibili-gaming-wereldkampioen-league-of-legends/"
     },
     "max": {
-     "v": 15,
-     "t": "15",
-     "title": "Microsoft-storing verstoort alarmmeldingen in Phantasialand: 15 hotelgasten krijgen gezondheidsklachten",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/outlookstoring-phantasialand-zwembad-chloor/"
+     "v": 343,
+     "t": "343",
+     "title": "Politie Luik heeft in oktober 343 mensen gearresteerd, 52 agenten raakten gewond",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/politie-luik-heeft-in-oktober-343-mensen-gearresteerd-52-agente~1792507723130/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 18,
+    "numbers": 178,
+    "mean": 762922255.1163,
+    "median": 15.5,
+    "min": {
+     "v": 0,
+     "t": "00.01",
+     "title": "Deze gamers nemen deze week verlof om nieuwe GTA VI te spelen: \"Voor de vorige game had je 30 tot 90 uur nodig\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/gamers-nemen-verlof-voor-gta-vi/"
+    },
+    "max": {
+     "v": 100000000000,
+     "t": "100 miljard",
+     "title": "EU blijft leidersrol spelen op COP, maar geen sprake van extra klimaatgeld voor arme landen, zegt eurocommissaris",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/13/wopke-hoekstra-interview-cop31-klimaatconferentie/"
+    }
    },
    "money": {
     "count": 0,
