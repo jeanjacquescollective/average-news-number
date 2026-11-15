@@ -357,6 +357,39 @@
    "first_seen": "2026-11-15T18:26:52+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Les Engagés en MR scherp na afspringen begrotingsgesprekken: \"Vooruit schaadt het proces\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/les-engages-en-mr-scherp-na-afspringen-begrotingsgesprekken-vo~1793247532380/",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Houthi’s op 60 km van regeringsbolwerk Aden, tegenoffensief van regeringstroepen lijkt mislukt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/houthis-jemen-aden/",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 60,
+     "t": "60"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Woning vernield door zware brand in Zwalm: ouder koppel lichtgewond",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/zware-brand-zwalm-sint-denijs-boekel/",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Warmtenetten in Antwerpen op losse schroeven: Fluvius stopt alle toekomstige projecten, stad zoekt andere leverancier",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/fluvius-warmtenetten-antwerpen/",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [],
+   "money": []
   }
  ],
  "articles": [
@@ -2473,6 +2506,319 @@
     {
      "v": 11,
      "t": "11"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.QAbDE8Jb8",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/fluvius-warmtenetten-antwerpen/",
+   "title": "Warmtenetten\nin Antwerpen op losse schroeven: Fluvius stopt alle toekomstige projecten, stad zoekt andere leverancier",
+   "published": "2026-11-15T18:30:00+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 32.9,
+     "t": "32,9"
+    },
+    {
+     "v": 3300000,
+     "t": "3,3 miljoen"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 32900000,
+     "t": "32,9 miljoen"
+    },
+    {
+     "v": 3300000,
+     "t": "3,3 miljoen"
+    },
+    {
+     "v": 90,
+     "t": "90"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 71,
+     "t": "71"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    }
+   ],
+   "money": [
+    {
+     "eur": 3300000,
+     "t": "3,3 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "investeringen",
+     "how": "sentence",
+     "ctx": "Netbeheerder Fluvius stopt met alle toekomstige warmtenetprojecten in Antwerpen en verlaagt de investeringen voor 2027 van 32,9 naar 3,3 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.qENeljGwV",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/crime-festival-2e-editie-de-haan/",
+   "title": "Minder bezoekers voor 2e editie Crime Festival in De Haan door slecht weer: bijna 10.000 in plaats van 15.000",
+   "published": "2026-11-15T18:42:24+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 1500,
+     "t": "1.500"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGk9oy5V0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/italie-supporters-uit-genk-trekken-naar-koning-boudewijstadion/",
+   "title": "Italiaanse Genkenaren trekken naar Koning Boudewijnstadion om te supporteren voor 'hun' ploeg: \"Vanavond zijn we 100 % Italiaan\"",
+   "published": "2026-11-15T19:07:27+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.jGk9oNw7k",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/chiro-lore-antwerpen-renovatie-1-3-miljoen-euro/",
+   "title": "Enige Chiro in Antwerpse binnenstad start renovatie van 1,3 miljoen euro, maar zoekt nog geld: \"Spaghettislag is niet voldoende\"",
+   "published": "2026-11-15T19:10:27+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 1300000,
+     "t": "1,3 miljoen"
+    },
+    {
+     "v": 1300000,
+     "t": "1,3 miljoen"
+    },
+    {
+     "v": 1300000,
+     "t": "1,3 miljoen"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1300000,
+     "t": "1,3 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "krijgt",
+     "how": "article",
+     "ctx": "Enige Chiro in Antwerpse binnenstad start renovatie van 1,3 miljoen euro, maar zoekt nog geld: \"Spaghettislag is niet voldoende\""
+    }
+   ]
+  },
+  {
+   "id": "p.8epVlG15a",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/zware-brand-zwalm-sint-denijs-boekel/",
+   "title": "Woning vernield door zware brand in Zwalm: ouder koppel lichtgewond",
+   "published": "2026-11-15T19:43:13+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.XEVDqPeEJ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/riemst-onthult-monument-voor-bommenwerper-die-in-1944-neerstortt/",
+   "title": "Riemst onthult monument voor Amerikaanse bommenwerper die er in 1944 neerstortte",
+   "published": "2026-11-15T19:58:41+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 1944,
+     "t": "1944"
+    },
+    {
+     "v": 82,
+     "t": "82"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1944,
+     "t": "1944"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLRqXn4om",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/houthis-jemen-aden/",
+   "title": "Houthi’s op 60 km van regeringsbolwerk Aden, tegenoffensief van\nregeringstroepen lijkt mislukt",
+   "published": "2026-11-15T20:29:42+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 2014,
+     "t": "2014"
+    },
+    {
+     "v": 150000,
+     "t": "150.000"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.11pBQZxRp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/rode-duivels-plaatsen-zich-voor-kwartfinale-nations-league-na-ov/",
+   "title": "Rode Duivels plaatsen zich voor kwartfinale Nations League na overtuigende zege tegen Italië",
+   "published": "2026-11-15T22:41:22+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqM7WpkO",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/95-jarige-bewoner-zwaargewond-bij-woningbrand-in-turnhout/",
+   "title": "95-jarige bewoner zwaargewond bij woningbrand in Turnhout",
+   "published": "2026-11-15T22:50:28+01:00",
+   "first_seen": "2026-11-15T23:01:52+01:00",
+   "numbers": [
+    {
+     "v": 95,
+     "t": "95"
+    },
+    {
+     "v": 95,
+     "t": "95"
+    },
+    {
+     "v": 20,
+     "t": "20.40"
+    },
+    {
+     "v": 40,
+     "t": "20.40"
     }
    ],
    "money": []
