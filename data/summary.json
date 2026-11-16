@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-16T02:57:29+01:00",
+ "updated_at": "2026-11-16T10:31:56+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 143,
-    "numbers": 1830,
-    "mean": 526256649.4545,
-    "median": 16.0,
+    "count": 144,
+    "numbers": 1837,
+    "mean": 537860461.9313,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 87,
-    "numbers": 1959,
-    "mean": 18685380.5451,
-    "median": 28,
+    "count": 88,
+    "numbers": 1968,
+    "mean": 18599929.9903,
+    "median": 29.0,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1545,12 +1545,40 @@
   {
    "date": "2026-11-16",
    "headlines": {
-    "count": 2,
-    "numbers": 0
+    "count": 17,
+    "numbers": 5,
+    "mean": 468.8,
+    "median": 69,
+    "min": {
+     "v": 4,
+     "t": "Vier",
+     "title": "Vier kinderen aangereden in Charleroi terwijl ze zebrapad oversteken: bestuurder gezocht door politie",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/ongeval-charleroi/"
+    },
+    "max": {
+     "v": 2050,
+     "t": "2050",
+     "title": "21 Vlaamse gemeenten en steden bundelen krachten om vanaf 2050 te verwarmen zonder fossiele brandstoffen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/genk-hasselt-en-beringen-bundelen-krachten-om-vanaf-2050-te-verw/"
+    }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 18,
+    "numbers": 144,
+    "mean": 134063583.3073,
+    "median": 14.5,
+    "min": {
+     "v": 1,
+     "t": "één",
+     "title": "Allen tegen Vooruit, Vooruit tegen allen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/alleen-tegen-vooruit-vooruit-tegen-allen/"
+    },
+    "max": {
+     "v": 6000000000,
+     "t": "6 miljard",
+     "title": "Allen tegen Vooruit, Vooruit tegen allen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/alleen-tegen-vooruit-vooruit-tegen-allen/"
+    }
    },
    "money": {
     "count": 0,
