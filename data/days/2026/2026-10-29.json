@@ -4836,6 +4836,78 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/vandenbroucke-oubollige-belgicist-die-enkel-frans-spreekt-kri~1793247532380/",
+   "title": "LIVE Vandenbroucke: \"Oubollige Belgicist die enkel Frans spreekt, krijgt meer gedaan dan gematigde socialist met Vlaamse overtuiging\"",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-16T20:50:15+01:00",
+   "numbers": [
+    {
+     "v": 800000000,
+     "t": "800 miljoen"
+    },
+    {
+     "v": 1200000000,
+     "t": "1,2 miljard"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 15000000000,
+     "t": "15 miljard"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1200000000,
+     "t": "1,2 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparingsbedrag",
+     "how": "sentence",
+     "ctx": "Het besparingsbedrag op de index zou op enkele dagen tijd gestegen zijn van 800 miljoen naar 1,2 miljard euro."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

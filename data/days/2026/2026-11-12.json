@@ -2147,6 +2147,32 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/kinderen-basisschool-flx-leopoldsburg-inspecteren-nieuw-schoolge/",
+   "title": "\"De school is supermooi en supergroot\": leerlingen basisschool FLX inspecteren hun nieuwe school in Leopoldsburg",
+   "published": "2026-11-12T12:47:34+01:00",
+   "first_seen": "2026-11-16T20:50:15+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.6KpWnWqlQ",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/amazon-start-met-leveringen-op-dag-van-bestelling-in-en-rond-br/",
    "title": "Amazon start met leveringen op dag van bestelling (in en rond Brussel)",
@@ -3587,6 +3613,76 @@
    "money": []
   },
   {
+   "id": "p.XEVoaMVBe",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/al-meer-dan-1-000-truienaars-hebben-een-brief-geschreven-die-pas/",
+   "title": "'Brieven aan morgen' wordt met een maand verlengd: tot nu toe schreven al 1.000 Truienaren een brief naar zichzelf in 2033",
+   "published": "2026-11-12T16:01:52+01:00",
+   "first_seen": "2026-11-16T20:50:15+01:00",
+   "numbers": [
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 2033,
+     "t": "2033"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2033,
+     "t": "2033"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 2033,
+     "t": "2033"
+    },
+    {
+     "v": 2033,
+     "t": "2033"
+    },
+    {
+     "v": 1000,
+     "t": "1.000"
+    },
+    {
+     "v": 2033,
+     "t": "2033"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.OvkA9O01o",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/exti-bruine-mehdi-slimste-mens/",
    "title": "'Bruine Mehdi' trekt zich terug uit 'De slimste mens', VRT stopt opnames nieuw programma met content creator",
@@ -3911,6 +4007,80 @@
     {
      "v": 23,
      "t": "23"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.pAx5DJMZd",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/e-steps-al-tien-dagen-verboden-in-drugshotspots-maar-daar-valt/",
+   "title": "E-steps al 10 dagen verboden in Brusselse drugshotspots, maar daar valt weinig van te merken",
+   "published": "2026-11-12T17:20:09+01:00",
+   "first_seen": "2026-11-16T20:50:15+01:00",
+   "numbers": [
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 800000,
+     "t": "800.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 80,
+     "t": "80"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 250,
+     "t": "250"
+    },
+    {
+     "v": 315,
+     "t": "315"
     }
    ],
    "money": []

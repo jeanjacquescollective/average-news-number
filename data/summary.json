@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-16T10:31:56+01:00",
+ "updated_at": "2026-11-16T20:50:15+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 144,
-    "numbers": 1837,
-    "mean": 537860461.9313,
-    "median": 16,
+    "count": 145,
+    "numbers": 1850,
+    "mean": 548675496.5507,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 88,
-    "numbers": 1968,
-    "mean": 18599929.9903,
+    "count": 89,
+    "numbers": 1976,
+    "mean": 18524627.4058,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 90,
-    "numbers": 1047,
-    "mean": 20515407.6129,
-    "median": 28,
+    "count": 91,
+    "numbers": 1092,
+    "mean": 19743366.1526,
+    "median": 30.0,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1239,10 +1239,10 @@
     }
    },
    "articles": {
-    "count": 82,
-    "numbers": 790,
-    "mean": 7092324835.3986,
-    "median": 17.0,
+    "count": 83,
+    "numbers": 799,
+    "mean": 7012436325.1426,
+    "median": 17,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1291,10 +1291,10 @@
     }
    },
    "articles": {
-    "count": 57,
-    "numbers": 653,
-    "mean": 4703294.6384,
-    "median": 28,
+    "count": 58,
+    "numbers": 656,
+    "mean": 4681785.6904,
+    "median": 28.0,
     "min": {
      "v": 1,
      "t": "1",
@@ -1343,10 +1343,10 @@
     }
    },
    "articles": {
-    "count": 89,
-    "numbers": 795,
-    "mean": 44702471093.5574,
-    "median": 18,
+    "count": 92,
+    "numbers": 830,
+    "mean": 42817429319.7712,
+    "median": 18.0,
     "min": {
      "v": -10,
      "t": "-10",
@@ -1401,9 +1401,9 @@
     }
    },
    "articles": {
-    "count": 86,
-    "numbers": 808,
-    "mean": 3623268049.5654,
+    "count": 87,
+    "numbers": 820,
+    "mean": 3570244625.3303,
     "median": 20.0,
     "min": {
      "v": 0,
@@ -1459,10 +1459,10 @@
     }
    },
    "articles": {
-    "count": 59,
-    "numbers": 500,
-    "mean": 520782662.9592,
-    "median": 18.0,
+    "count": 61,
+    "numbers": 514,
+    "mean": 506601053.8436,
+    "median": 18.5,
     "min": {
      "v": 0,
      "t": "0",
@@ -1511,10 +1511,10 @@
     }
    },
    "articles": {
-    "count": 58,
-    "numbers": 453,
-    "mean": 300028755.9885,
-    "median": 17,
+    "count": 59,
+    "numbers": 454,
+    "mean": 299367899.7022,
+    "median": 17.0,
     "min": {
      "v": 0,
      "t": "00.01",
@@ -1545,15 +1545,15 @@
   {
    "date": "2026-11-16",
    "headlines": {
-    "count": 17,
-    "numbers": 5,
-    "mean": 468.8,
-    "median": 69,
+    "count": 41,
+    "numbers": 16,
+    "mean": 167.0,
+    "median": 36.5,
     "min": {
-     "v": 4,
-     "t": "Vier",
-     "title": "Vier kinderen aangereden in Charleroi terwijl ze zebrapad oversteken: bestuurder gezocht door politie",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/ongeval-charleroi/"
+     "v": 1,
+     "t": "1",
+     "title": "Boete over foutgeparkeerde wagen in Wilsele ontaardt in vechtpartij: 1 agent gewond",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/agent-lichtgewond-nadat-stoppen-doorslaan-bij-vader-en-zoon-in-l/"
     },
     "max": {
      "v": 2050,
@@ -1563,21 +1563,21 @@
     }
    },
    "articles": {
-    "count": 18,
-    "numbers": 144,
-    "mean": 134063583.3073,
-    "median": 14.5,
+    "count": 79,
+    "numbers": 779,
+    "mean": 38109465.8301,
+    "median": 20,
     "min": {
-     "v": 1,
-     "t": "één",
-     "title": "Allen tegen Vooruit, Vooruit tegen allen",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/alleen-tegen-vooruit-vooruit-tegen-allen/"
+     "v": 0,
+     "t": "0",
+     "title": "Romelu Lukaku stopt onverwacht bij Rode Duivels: \"Ik heb van elk moment genoten\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/romelu-lukaku-stopt-als-rode-duivel/"
     },
     "max": {
-     "v": 6000000000,
-     "t": "6 miljard",
-     "title": "Allen tegen Vooruit, Vooruit tegen allen",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/alleen-tegen-vooruit-vooruit-tegen-allen/"
+     "v": 7000000000,
+     "t": "7 miljard",
+     "title": "EU legt sancties op aan rijkste vrouw van Rusland: maak kennis met Tatiana Kim",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/tatiana-kim-rusland-wildberries-sancties-door-europese-unie-kore/"
     }
    },
    "money": {

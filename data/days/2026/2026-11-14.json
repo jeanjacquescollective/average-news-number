@@ -1739,6 +1739,50 @@
    "money": []
   },
   {
+   "id": "p.LNWbZv71V",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/guy-cudell-plein-in-sint-joost-verzakt-amper-vijf-jaar-na-heraan/",
+   "title": "Guy Cudell-plein in Sint-Joost-ten-Node verzakt amper 5 jaar na heraanleg",
+   "published": "2026-11-14T12:07:49+01:00",
+   "first_seen": "2026-11-16T20:50:15+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1000000,
+     "t": "een miljoen"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 2020,
+     "t": "2020"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1000000,
+     "t": "een miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "De gemeente Sint-Joost en Brussel Mobiliteit trokken voor de vernieuwing van het Guy Cudell-plein destijds bijna een miljoen euro uit."
+    }
+   ]
+  },
+  {
    "id": "p.OvkDakv1N",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/coward-lukas-dhont-european-film-awards/",
    "title": "Gentse regisseur Lukas Dhont maakt met 'Coward' kans op 2 European Film Awards",
@@ -2738,6 +2782,48 @@
     {
      "v": 2,
      "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4qGdAN9",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/kinrooi-eerste-belgische-gemeente-met-harstilstandsapp-verhoogt/",
+   "title": "Kinrooi is eerste Belgische gemeente met hartstilstandsapp: \"Verhoogt overlevingspercentage tot 4 keer\"",
+   "published": "2026-11-14T16:26:19+01:00",
+   "first_seen": "2026-11-16T20:50:15+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 2008,
+     "t": "2008"
+    },
+    {
+     "v": 300000,
+     "t": "300.000"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2008,
+     "t": "2008"
+    },
+    {
+     "v": 300000,
+     "t": "300.000"
+    },
+    {
+     "v": 4,
+     "t": "vier"
     }
    ],
    "money": []
