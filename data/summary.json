@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-17T03:47:40+01:00",
+ "updated_at": "2026-11-17T12:30:31+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 145,
-    "numbers": 1850,
-    "mean": 548675496.5507,
+    "count": 146,
+    "numbers": 1880,
+    "mean": 554416318.9733,
     "median": 16.0,
     "min": {
      "v": -30,
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 89,
-    "numbers": 1976,
-    "mean": 18524627.4058,
-    "median": 29.0,
+    "count": 90,
+    "numbers": 2005,
+    "mean": 18258196.9281,
+    "median": 29,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1591,26 +1591,40 @@
   {
    "date": "2026-11-17",
    "headlines": {
-    "count": 4,
-    "numbers": 1,
-    "mean": 3.0,
-    "median": 3,
+    "count": 24,
+    "numbers": 6,
+    "mean": 675.1667,
+    "median": 4.0,
     "min": {
-     "v": 3,
-     "t": "3",
-     "title": "Voortvluchtige bestuurder meldt zich bij politie na aanrijding 3 kinderen in Couillet",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/voortvluchtige-bestuurder-meldt-zich-bij-politie-na-aanrijding-3/"
+     "v": 2,
+     "t": "2",
+     "title": "Belgisch leger verloor vorig jaar 2 zware scherpschuttersgeweren van speciale eenheden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/belgisch-leger-verloor-vorig-jaar-2-zware-scherpschuttersgeweren/"
     },
     "max": {
-     "v": 3,
-     "t": "3",
-     "title": "Voortvluchtige bestuurder meldt zich bij politie na aanrijding 3 kinderen in Couillet",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/voortvluchtige-bestuurder-meldt-zich-bij-politie-na-aanrijding-3/"
+     "v": 2028,
+     "t": "2028",
+     "title": "Europese Commissie ziet begroting van België wegzakken, alleen Frankrijk dreigt het in 2028 even slecht te doen",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-commissie-ziet-begroting-van-belgie-wegzakken-alleen-f~1793247532380/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 49,
+    "numbers": 419,
+    "mean": 29971140.8743,
+    "median": 19,
+    "min": {
+     "v": 0.4,
+     "t": "0,4",
+     "title": "Trappist van Westvleteren ligt morgen weer in de supermarkt, voor het eerst sinds 2011",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/trappistenbier-west-vleteren-opnieuw-in-supermarkt/"
+    },
+    "max": {
+     "v": 10000000000,
+     "t": "10 miljard",
+     "title": "Geriaters trekken aan alarmbel: \"Artsen geven te verregaande behandelingen aan mensen in hun laatste levensfase\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/volgens-geriaters-opereren-artsen-mensen-in-de-laatste-levensfas/"
+    }
    },
    "money": {
     "count": 0,

@@ -4908,6 +4908,155 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-commissie-ziet-begroting-van-belgie-wegzakken-alleen-f~1793247532380/",
+   "title": "LIVE Europese Commissie ziet begroting van België wegzakken, alleen Frankrijk dreigt het in 2028 even slecht te doen",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-17T12:30:31+01:00",
+   "numbers": [
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 5.5,
+     "t": "5,5"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 5.7,
+     "t": "5,7"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 5.4,
+     "t": "5,4"
+    },
+    {
+     "v": 111.2,
+     "t": "111,2"
+    },
+    {
+     "v": 113.4,
+     "t": "113,4"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 115.8,
+     "t": "115,8"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 253000000,
+     "t": "253 miljoen"
+    },
+    {
+     "v": 800000000,
+     "t": "800 miljoen"
+    },
+    {
+     "v": 1200000000,
+     "t": "1,2 miljard"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 2,
+     "t": "twee"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 15000000000,
+     "t": "15 miljard"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": [
+    {
+     "eur": 253000000,
+     "t": "253 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "financiert",
+     "how": "sentence",
+     "ctx": "\"Als je met geld van de sociale zekerheid en met geld van de belastingbetaler een voordeelpakket van 253 miljoen euro financiert voor topvoetballers, die zeer veel verdienen en veel minder belastingen betalen, dan vind ik dat je mag zeggen: 'Daar kan je sterk op besparen'."
+    },
+    {
+     "eur": 1200000000,
+     "t": "1,2 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "besparingsbedrag",
+     "how": "sentence",
+     "ctx": "Het besparingsbedrag op de index zou op enkele dagen tijd gestegen zijn van 800 miljoen naar 1,2 miljard euro."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",
