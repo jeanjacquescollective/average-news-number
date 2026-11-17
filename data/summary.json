@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-16T20:50:15+01:00",
+ "updated_at": "2026-11-17T03:47:40+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -1563,10 +1563,10 @@
     }
    },
    "articles": {
-    "count": 79,
-    "numbers": 779,
-    "mean": 38109465.8301,
-    "median": 20,
+    "count": 83,
+    "numbers": 809,
+    "mean": 37932361.3951,
+    "median": 19,
     "min": {
      "v": 0,
      "t": "0",
@@ -1579,6 +1579,38 @@
      "title": "EU legt sancties op aan rijkste vrouw van Rusland: maak kennis met Tatiana Kim",
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/tatiana-kim-rusland-wildberries-sancties-door-europese-unie-kore/"
     }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "headlines": {
+    "count": 4,
+    "numbers": 1,
+    "mean": 3.0,
+    "median": 3,
+    "min": {
+     "v": 3,
+     "t": "3",
+     "title": "Voortvluchtige bestuurder meldt zich bij politie na aanrijding 3 kinderen in Couillet",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/voortvluchtige-bestuurder-meldt-zich-bij-politie-na-aanrijding-3/"
+    },
+    "max": {
+     "v": 3,
+     "t": "3",
+     "title": "Voortvluchtige bestuurder meldt zich bij politie na aanrijding 3 kinderen in Couillet",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/voortvluchtige-bestuurder-meldt-zich-bij-politie-na-aanrijding-3/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
    },
    "money": {
     "count": 0,

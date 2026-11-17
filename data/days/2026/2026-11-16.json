@@ -4483,6 +4483,175 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.DYMRjLloN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/britse-zangeres-raye-op-kop-bij-nominaties-voor-grammy-s/",
+   "title": "Vrouwen aan de top bij nominaties Grammy Awards: meeste nominaties voor Raye, nieuwe mijlpaal voor Beyoncé",
+   "published": "2026-11-16T21:13:35+01:00",
+   "first_seen": "2026-11-17T03:47:40+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.M9m1MQ6da",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/kortrijk-gaat-strenger-optreden-tegen-de-verkoop-van-drugsaccess/",
+   "title": "Kortrijk gaat strenger optreden tegen de verkoop van drugsaccessoires in dag- en nachtwinkels",
+   "published": "2026-11-16T21:18:17+01:00",
+   "first_seen": "2026-11-17T03:47:40+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.kQO1bl1OA",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/regering-nederland-valt-niet/",
+   "title": "Vertrouwen hersteld in Nederlandse coalitie: kabinet-Jetten gaat door \"na intensieve gesprekken\"",
+   "published": "2026-11-16T22:19:41+01:00",
+   "first_seen": "2026-11-17T03:47:40+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 1000000000,
+     "t": "1 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1000000000,
+     "t": "1 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "opbrengst",
+     "how": "sentence",
+     "ctx": "Met de opbrengst, ongeveer 1 miljard euro, wilden ze de belasting op arbeid verlagen."
+    }
+   ]
+  },
+  {
+   "id": "p.APQe4vOj6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/voortvluchtige-bestuurder-meldt-zich-bij-politie-na-aanrijding-3/",
+   "title": "Voortvluchtige bestuurder meldt zich bij politie na aanrijding 3 kinderen in Couillet",
+   "published": "2026-11-16T22:52:59+01:00",
+   "first_seen": "2026-11-17T03:47:40+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 7,
+     "t": "7.20"
+    },
+    {
+     "v": 20,
+     "t": "7.20"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
   }
  ]
 }
