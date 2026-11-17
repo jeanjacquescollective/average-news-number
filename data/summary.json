@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-17T12:30:31+01:00",
+ "updated_at": "2026-11-17T20:59:36+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 121,
-    "numbers": 2283,
-    "mean": 117332083.1673,
-    "median": 78,
+    "count": 122,
+    "numbers": 2446,
+    "mean": 109519399.3159,
+    "median": 79.0,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 146,
-    "numbers": 1880,
-    "mean": 554416318.9733,
+    "count": 147,
+    "numbers": 1890,
+    "mean": 551482903.7761,
     "median": 16.0,
     "min": {
      "v": -30,
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 90,
-    "numbers": 2005,
-    "mean": 18258196.9281,
+    "count": 91,
+    "numbers": 2015,
+    "mean": 18167587.6277,
     "median": 29,
     "min": {
      "v": -24,
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 91,
-    "numbers": 1092,
-    "mean": 19743366.1526,
-    "median": 30.0,
+    "count": 92,
+    "numbers": 1101,
+    "mean": 19581978.4084,
+    "median": 30,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1591,28 +1591,28 @@
   {
    "date": "2026-11-17",
    "headlines": {
-    "count": 24,
-    "numbers": 6,
-    "mean": 675.1667,
-    "median": 4.0,
+    "count": 49,
+    "numbers": 19,
+    "mean": 110947.0526,
+    "median": 7,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Belgisch leger verloor vorig jaar 2 zware scherpschuttersgeweren van speciale eenheden",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/belgisch-leger-verloor-vorig-jaar-2-zware-scherpschuttersgeweren/"
+     "v": 1,
+     "t": "1",
+     "title": "Club Brugge en stad sluiten overeenkomst over gronden: bouw nieuw stadion kan vanaf 1 januari echt beginnen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/stadion-club-brugge-erfpachtovereenkomst-goedgekeurd-nieuw-stadi/"
     },
     "max": {
-     "v": 2028,
-     "t": "2028",
-     "title": "Europese Commissie ziet begroting van België wegzakken, alleen Frankrijk dreigt het in 2028 even slecht te doen",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-commissie-ziet-begroting-van-belgie-wegzakken-alleen-f~1793247532380/"
+     "v": 2000000,
+     "t": "2 miljoen",
+     "title": "3 jaar cel met uitstel voor vrouw uit Aarschot die vrienden en familie voor 2 miljoen euro oplicht",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/aarschot-oplichting-eenzame-mensen-geld-vertrouwen/"
     }
    },
    "articles": {
-    "count": 49,
-    "numbers": 419,
-    "mean": 29971140.8743,
-    "median": 19,
+    "count": 97,
+    "numbers": 846,
+    "mean": 472937597.6189,
+    "median": 25.0,
     "min": {
      "v": 0.4,
      "t": "0,4",
@@ -1620,18 +1620,30 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/trappistenbier-west-vleteren-opnieuw-in-supermarkt/"
     },
     "max": {
-     "v": 10000000000,
-     "t": "10 miljard",
-     "title": "Geriaters trekken aan alarmbel: \"Artsen geven te verregaande behandelingen aan mensen in hun laatste levensfase\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/14/volgens-geriaters-opereren-artsen-mensen-in-de-laatste-levensfas/"
+     "v": 168400000000,
+     "t": "168,4 miljard",
+     "title": "Warren Buffett schenkt opnieuw miljarden weg aan goede doel",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/warren-buffett-schenkt-opnieuw-miljarden-weg-aan-goede-doel/"
     }
    },
    "money": {
-    "count": 0,
-    "lost": 0,
-    "gained": 0,
+    "count": 2,
+    "lost": 100000,
+    "biggest_lost": {
+     "eur": 100000,
+     "t": "100.000 euro",
+     "title": "Dieven hijsen 20 koersfietsen via dak naar buiten: voor 100.000 euro gestolen bij winkel in Wevelgem",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/diefstal-koersfietsen-fietsen-wevelgem-100-000-euro-20-fietsen-g/"
+    },
+    "gained": 2000000,
+    "biggest_gained": {
+     "eur": 2000000,
+     "t": "2 miljoen euro",
+     "title": "3 jaar cel met uitstel voor vrouw uit Aarschot die vrienden en familie voor 2 miljoen euro oplicht",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/aarschot-oplichting-eenzame-mensen-geld-vertrouwen/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 1900000
    }
   }
  ]
