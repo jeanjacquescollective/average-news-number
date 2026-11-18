@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-17T20:59:36+01:00",
+ "updated_at": "2026-11-18T03:23:46+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -537,10 +537,10 @@
     "numbers": 0
    },
    "articles": {
-    "count": 106,
-    "numbers": 1788,
-    "mean": 30779915285.916,
-    "median": 27.5,
+    "count": 107,
+    "numbers": 1897,
+    "mean": 29011327960.5135,
+    "median": 27,
     "min": {
      "v": -17.6,
      "t": "-17,6",
@@ -1609,15 +1609,15 @@
     }
    },
    "articles": {
-    "count": 97,
-    "numbers": 846,
-    "mean": 472937597.6189,
-    "median": 25.0,
+    "count": 101,
+    "numbers": 882,
+    "mean": 929940200.8771,
+    "median": 25.5,
     "min": {
-     "v": 0.4,
-     "t": "0,4",
-     "title": "Trappist van Westvleteren ligt morgen weer in de supermarkt, voor het eerst sinds 2011",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/trappistenbier-west-vleteren-opnieuw-in-supermarkt/"
+     "v": -270,
+     "t": "-270",
+     "title": "Hoe datacenters in de ruimte tot nieuwe wapenwedloop leiden: \"Als Musk 1 miljoen nieuwe AI-satellieten bouwt, doet China het ook\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/ai-datacentra-in-de-ruimte-stijn-ilsen/"
     },
     "max": {
      "v": 168400000000,
@@ -1644,6 +1644,52 @@
     },
     "neutral": 0,
     "net": 1900000
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "headlines": {
+    "count": 7,
+    "numbers": 2,
+    "mean": 500001.5,
+    "median": 500001.5,
+    "min": {
+     "v": 3,
+     "t": "3",
+     "title": "Bestuurder die 3 kinderen aanreed in Couillet onder elektronisch toezicht geplaatst",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/couillet-bestuurder-enkelband/"
+    },
+    "max": {
+     "v": 1000000,
+     "t": "1 miljoen",
+     "title": "Hoe datacenters in de ruimte tot nieuwe wapenwedloop leiden: \"Als Musk 1 miljoen nieuwe AI-satellieten bouwt, doet China het ook\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/ai-datacentra-in-de-ruimte-stijn-ilsen/"
+    }
+   },
+   "articles": {
+    "count": 1,
+    "numbers": 17,
+    "mean": 1108.8235,
+    "median": 26,
+    "min": {
+     "v": 1,
+     "t": "één",
+     "title": "Van Chanel-baas Blazy tot topmodel Louise Robert: Belgische mode viert haar sterren tijdens Belgian Fashion Awards",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/belgian-fashion-awards-2026-winnaars/"
+    },
+    "max": {
+     "v": 10000,
+     "t": "10.000",
+     "title": "Van Chanel-baas Blazy tot topmodel Louise Robert: Belgische mode viert haar sterren tijdens Belgian Fashion Awards",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/belgian-fashion-awards-2026-winnaars/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]

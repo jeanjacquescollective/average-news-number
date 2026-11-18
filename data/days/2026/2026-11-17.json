@@ -5312,6 +5312,217 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.93pQE13Vm",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/couillet-bestuurder-enkelband/",
+   "title": "Bestuurder die 3 kinderen aanreed in Couillet onder elektronisch toezicht geplaatst",
+   "published": "2026-11-17T20:59:15+01:00",
+   "first_seen": "2026-11-18T03:23:46+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 7,
+     "t": "7.30"
+    },
+    {
+     "v": 30,
+     "t": "7.30"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APQe0LeJ4",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/nsa-communicatieproblemen/",
+   "title": "Geheime dienst NSA bevestigt tijdelijke communicatieproblemen",
+   "published": "2026-11-17T21:28:38+01:00",
+   "first_seen": "2026-11-18T03:23:46+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.kQO1DkQX7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/ai-datacentra-in-de-ruimte-stijn-ilsen/",
+   "title": "Hoe datacenters in de ruimte tot nieuwe wapenwedloop leiden: \"Als Musk 1 miljoen nieuwe AI-satellieten bouwt, doet China het ook\"",
+   "published": "2026-11-17T21:56:31+01:00",
+   "first_seen": "2026-11-18T03:23:46+01:00",
+   "numbers": [
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": -270,
+     "t": "-270"
+    },
+    {
+     "v": 85,
+     "t": "85"
+    },
+    {
+     "v": 11200,
+     "t": "11.200"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 10000,
+     "t": "10.000"
+    },
+    {
+     "v": 20000,
+     "t": "20.000"
+    },
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.Yb5Q8dDkR",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/nvidia-kwartaalcijfers/",
+   "title": "Nvidia overtreft verwachtingen in derde kwartaal, omzet meer dan verdubbeld",
+   "published": "2026-11-17T22:41:14+01:00",
+   "first_seen": "2026-11-18T03:23:46+01:00",
+   "numbers": [
+    {
+     "v": 115800000000,
+     "t": "115,8 miljard"
+    },
+    {
+     "v": 103,
+     "t": "103"
+    },
+    {
+     "v": 109000000000,
+     "t": "109 miljard"
+    },
+    {
+     "v": 105,
+     "t": "105"
+    },
+    {
+     "v": 65300000000,
+     "t": "65,3 miljard"
+    },
+    {
+     "v": 130000000000,
+     "t": "130 miljard"
+    },
+    {
+     "v": 75,
+     "t": "75"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1993,
+     "t": "1993"
+    },
+    {
+     "v": 2006,
+     "t": "2006"
+    },
+    {
+     "v": 2012,
+     "t": "2012"
+    }
+   ],
+   "money": [
+    {
+     "eur": 99588000000,
+     "t": "115,8 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "nettowinst",
+     "how": "article",
+     "ctx": "De omzet kwam uit op 115,8 miljard dollar, een stijging van 103 procent ten opzichte van dezelfde periode vorig jaar."
+    },
+    {
+     "eur": 56158000000,
+     "t": "65,3 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "nettowinst",
+     "how": "sentence",
+     "ctx": "De nettowinst ging eveneens fors omhoog: die steeg met 105 procent tot 65,3 miljard dollar."
+    },
+    {
+     "eur": 111800000000,
+     "t": "130 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "nettowinst",
+     "how": "article",
+     "ctx": "Ook de prognoses voor het vierde kwartaal zijn hoog: het bedrijf verwacht een omzet van 130 miljard dollar."
+    }
+   ]
   }
  ]
 }
