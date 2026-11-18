@@ -9566,6 +9566,114 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-commissie-wil-oekraine-45-miljard-euro-extra-lenen-in-2~1793644191149/",
+   "title": "LIVE Europese Commissie wil Oekraïne 45 miljard euro extra lenen in 2027",
+   "published": "2026-11-02T19:41:38+01:00",
+   "first_seen": "2026-11-18T11:32:38+01:00",
+   "numbers": [
+    {
+     "v": 45000000000,
+     "t": "45 miljard"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 45000000000,
+     "t": "45 miljard"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 45000000000,
+     "t": "45 miljard"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 25000000000,
+     "t": "25 miljard"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 45000000000,
+     "t": "45 miljard"
+    },
+    {
+     "v": 90000000000,
+     "t": "90 miljard"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 81,
+     "t": "81"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    }
+   ],
+   "money": [
+    {
+     "eur": 45000000000,
+     "t": "45 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "LIVE Europese Commissie wil Oekraïne 45 miljard euro extra lenen in 2027"
+    }
+   ]
+  },
+  {
    "id": "p.vLl59QY0j",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/02/snap-sluit-schikking-met-eisers-en-voorkomt-eerste-juryrechtsza/",
    "title": "Na Meta en TikTok koopt ook Snap proces af over verslavende Snapchat-functies",
