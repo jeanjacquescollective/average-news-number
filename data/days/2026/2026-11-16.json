@@ -473,6 +473,40 @@
    "money": []
   },
   {
+   "id": "p.93pQLx8Xb",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/aarschots-koppel-kan-niet-trouwen-door-lange-wachttijden-gemeent/",
+   "title": "Aarschots koppel kan niet trouwen door lange wachttijden gemeente Molenbeek",
+   "published": "2026-11-16T07:40:00+01:00",
+   "first_seen": "2026-11-18T20:01:45+01:00",
+   "numbers": [
+    {
+     "v": 1988,
+     "t": "1988"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.RaJDeEDb9",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/15/alleen-tegen-vooruit-vooruit-tegen-allen/",
    "title": "Allen tegen Vooruit, Vooruit tegen allen",
@@ -2799,6 +2833,60 @@
    "money": []
   },
   {
+   "id": "p.E1d4v1GeE",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/gambiaanse-bokser-van-waregemse-club-knokt-zich-tot-belgisch-kam/",
+   "title": "Van vluchtelingenkamp in Brussel naar Belgische bokstitel: Marry Corr uit Gambia van boksclub uit Waregem is kampioen",
+   "published": "2026-11-16T15:20:43+01:00",
+   "first_seen": "2026-11-18T20:01:45+01:00",
+   "numbers": [
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 25,
+     "t": "25"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.ZWK7R9ZKV",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/zonaal-veiligheidsplan-politie-antwerpen/",
    "title": "Nieuw veiligheidsplan van Antwerpse politie: extra agenten tegen malafide handelszaken op Kiel en focus op cybercriminaliteit",
@@ -3038,6 +3126,20 @@
     {
      "v": 20,
      "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoWb6j1J",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/politie-doet-extra-controles-rond-wijken-tegen-woninginbraken/",
+   "title": "Extra politiecontroles tegen woninginbraken in Kortrijk, Kuurne en Lendelede",
+   "published": "2026-11-16T15:37:06+01:00",
+   "first_seen": "2026-11-18T20:01:45+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
     }
    ],
    "money": []
@@ -4332,6 +4434,56 @@
     {
      "v": 2029,
      "t": "2029"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.dLRA6k1n3",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/tafelbier-van-brasserie-de-la-senne-wint-onderscheiding-op-de-br/",
+   "title": "Tafelbier van Brasserie de la Senne wint onderscheiding op de Brussels Beer Challenge",
+   "published": "2026-11-16T18:41:49+01:00",
+   "first_seen": "2026-11-18T20:01:45+01:00",
+   "numbers": [
+    {
+     "v": 2.5,
+     "t": "2,5"
+    },
+    {
+     "v": 2.5,
+     "t": "2,5"
+    },
+    {
+     "v": 4,
+     "t": "vier"
+    },
+    {
+     "v": 10,
+     "t": "tien"
+    },
+    {
+     "v": 1745,
+     "t": "1.745"
+    },
+    {
+     "v": 300,
+     "t": "300"
+    },
+    {
+     "v": 76,
+     "t": "76"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 30,
+     "t": "30"
     }
    ],
    "money": []

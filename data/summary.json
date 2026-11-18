@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-18T11:32:38+01:00",
+ "updated_at": "2026-11-18T20:01:45+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 107,
-    "numbers": 1278,
-    "mean": 8557099.9629,
-    "median": 30.0,
+    "count": 108,
+    "numbers": 1311,
+    "mean": 8341712.938,
+    "median": 30,
     "min": {
      "v": -8,
      "t": "-8",
@@ -615,7 +615,7 @@
     }
    },
    "articles": {
-    "count": 147,
+    "count": 148,
     "numbers": 1890,
     "mean": 551482903.7761,
     "median": 16.0,
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 92,
-    "numbers": 1101,
-    "mean": 19581978.4084,
-    "median": 30,
+    "count": 93,
+    "numbers": 1114,
+    "mean": 19353467.6164,
+    "median": 30.0,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1563,9 +1563,9 @@
     }
    },
    "articles": {
-    "count": 83,
-    "numbers": 809,
-    "mean": 37932361.3951,
+    "count": 87,
+    "numbers": 837,
+    "mean": 36663427.6567,
     "median": 19,
     "min": {
      "v": 0,
@@ -1649,15 +1649,15 @@
   {
    "date": "2026-11-18",
    "headlines": {
-    "count": 26,
-    "numbers": 13,
-    "mean": 3461616538.0,
-    "median": 603,
+    "count": 52,
+    "numbers": 23,
+    "mean": 2032044426.6087,
+    "median": 550,
     "min": {
-     "v": 3,
-     "t": "3",
-     "title": "Bestuurder die 3 kinderen aanreed in Couillet onder elektronisch toezicht geplaatst",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/couillet-bestuurder-enkelband/"
+     "v": 1,
+     "t": "1",
+     "title": "Trump, Xi en Poetin schudden hand op APEC-top, gesprek tussen de 3 leiders zal morgen 1 uur duren",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/trump-xi-en-poetin-schudden-hand-op-apectop-gesprek-tussen-de~1794988099032/"
     },
     "max": {
      "v": 45000000000,
@@ -1667,27 +1667,27 @@
     }
    },
    "articles": {
-    "count": 32,
-    "numbers": 273,
-    "mean": 435169.9375,
-    "median": 36,
+    "count": 95,
+    "numbers": 903,
+    "mean": 22624672.4365,
+    "median": 30,
     "min": {
-     "v": 1,
-     "t": "één",
-     "title": "Van Chanel-baas Blazy tot topmodel Louise Robert: Belgische mode viert haar sterren tijdens Belgian Fashion Awards",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/belgian-fashion-awards-2026-winnaars/"
+     "v": 0,
+     "t": "00.01",
+     "title": "Leuven heeft eigen GTA-game dankzij inwoner Philippe: \"Elke flitspaal zit erin\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/gta-leuven-grand-theft-auto-gaming-release/"
     },
     "max": {
-     "v": 50000000,
-     "t": "50 miljoen",
-     "title": "De meest gehate man in het voetbal lijkt doodleuk herverkozen te worden: hoe heeft 'kruimeldief' Gianni Infantino dat toch weer geflikt?",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/verhaal-fifa-verkiezingen-en-gianni-infantino/"
+     "v": 3000000000,
+     "t": "3 miljard",
+     "title": "Ruim maand voor deadline: meer dan helft van oude flatgebouwen heeft geen asbestattest",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/ruim-maand-voor-deadline-meer-dan-helft-van-oude-flatgebouwen-h/"
     }
    },
    "money": {
-    "count": 1,
+    "count": 4,
     "lost": 0,
-    "gained": 45000000000,
+    "gained": 46526001750,
     "biggest_gained": {
      "eur": 45000000000,
      "t": "45 miljard euro",
@@ -1695,7 +1695,7 @@
      "url": "https://www.vrt.be/vrtnws/nl/liveblog/europese-commissie-wil-oekraine-45-miljard-euro-extra-lenen-in-2~1793644191149/"
     },
     "neutral": 0,
-    "net": 45000000000
+    "net": 46526001750
    }
   }
  ]
