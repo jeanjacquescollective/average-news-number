@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-19T09:52:43+01:00",
+ "updated_at": "2026-11-19T18:59:50+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -221,10 +221,10 @@
     }
    },
    "articles": {
-    "count": 122,
-    "numbers": 2446,
-    "mean": 109519399.3159,
-    "median": 79.0,
+    "count": 123,
+    "numbers": 2621,
+    "mean": 102753249.542,
+    "median": 79,
     "min": {
      "v": 0,
      "t": "17.00",
@@ -389,10 +389,10 @@
     }
    },
    "articles": {
-    "count": 108,
-    "numbers": 1311,
-    "mean": 8341712.938,
-    "median": 30,
+    "count": 109,
+    "numbers": 1346,
+    "mean": 8848438.017,
+    "median": 32.0,
     "min": {
      "v": -8,
      "t": "-8",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 149,
-    "numbers": 1893,
-    "mean": 550608921.3639,
-    "median": 16,
+    "count": 150,
+    "numbers": 1896,
+    "mean": 549737704.7188,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 93,
-    "numbers": 2068,
-    "mean": 348939905.2335,
+    "count": 94,
+    "numbers": 2106,
+    "mean": 527828940.4805,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1187,9 +1187,9 @@
     }
    },
    "articles": {
-    "count": 93,
-    "numbers": 1114,
-    "mean": 19353467.6164,
+    "count": 94,
+    "numbers": 1130,
+    "mean": 125274153.5254,
     "median": 30.0,
     "min": {
      "v": 0,
@@ -1198,10 +1198,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/bijna-15-000-fietsers-wachten-op-parkeerplek-fietsboxen-zijn-ni/"
     },
     "max": {
-     "v": 10000000000,
-     "t": "10 miljard",
-     "title": "De schaduwpremier mee aan de regeringstafel",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/08/de-schaduwpremier-mee-aan-de-regeringstafel/"
+     "v": 120000000000,
+     "t": "120 miljard",
+     "title": "LIVE Nieuwe versie van slottekst heeft het niet meer over fossiele brandstoffen, EU wil het \"eerst allemaal bekijken\"",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/nieuwe-versie-van-slottekst-heeft-het-niet-meer-over-fossiele-br~1794235749946/"
     }
    },
    "money": {
@@ -1667,10 +1667,10 @@
     }
    },
    "articles": {
-    "count": 101,
-    "numbers": 996,
-    "mean": 50642665.5548,
-    "median": 30.0,
+    "count": 102,
+    "numbers": 1043,
+    "mean": 77123792.374,
+    "median": 29,
     "min": {
      "v": 0,
      "t": "00.01",
@@ -1701,15 +1701,15 @@
   {
    "date": "2026-11-19",
    "headlines": {
-    "count": 20,
-    "numbers": 6,
-    "mean": 28833906.1667,
-    "median": 18.5,
+    "count": 45,
+    "numbers": 25,
+    "mean": 6920188.4,
+    "median": 13,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Oekraïne valt opnieuw Krimbrug aan, 2 dagen na vorige (grote) aanval",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/oekraine-valt-opnieuw-krimbrug-aan-2-dagen-na-vorige-grote-aa~1793644191149/"
+     "v": 1,
+     "t": "1",
+     "title": "Kinderopvangsector slaat alarm: ruim 1 op de 5 opvangplaatsen bedreigd door besparing minister Demir (N-VA)",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/de-sector-van-kinderopvang-vreest-dat-20-000-kinderopvangplaatse/"
     },
     "max": {
      "v": 173000000,
@@ -1719,10 +1719,10 @@
     }
    },
    "articles": {
-    "count": 28,
-    "numbers": 268,
-    "mean": 50664329466.3235,
-    "median": 28.0,
+    "count": 83,
+    "numbers": 884,
+    "mean": 15365766814.4677,
+    "median": 23.0,
     "min": {
      "v": -2,
      "t": "-2",
@@ -1737,8 +1737,14 @@
     }
    },
    "money": {
-    "count": 1,
-    "lost": 0,
+    "count": 2,
+    "lost": 800,
+    "biggest_lost": {
+     "eur": 800,
+     "t": "800 euro",
+     "title": "Vrouw uit Genk krijgt boete van 800 euro na dodelijk ongeval met fietser en opengezwaaide autodeur",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/vonnis-dodelijk-ongeval-genk/"
+    },
     "gained": 173000000,
     "biggest_gained": {
      "eur": 173000000,
@@ -1747,7 +1753,7 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/schilderij-van-vincent-van-gogh-bloeiende-kastanjebomen-geve/"
     },
     "neutral": 0,
-    "net": 173000000
+    "net": 172999200
    }
   }
  ]
