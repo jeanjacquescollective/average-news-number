@@ -1938,6 +1938,154 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/historische-ontmoeting-tussen-presidenten-xi-trump-en-poetin-is~1794988099032/",
+   "title": "LIVE Historische ontmoeting tussen presidenten Xi, Trump en Poetin is begonnen",
+   "published": "2026-11-18T09:26:52+01:00",
+   "first_seen": "2026-11-19T09:52:43+01:00",
+   "numbers": [
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 1997,
+     "t": "1997"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 38,
+     "t": "38"
+    },
+    {
+     "v": 2006,
+     "t": "2006"
+    },
+    {
+     "v": 2001,
+     "t": "2001"
+    },
+    {
+     "v": 2002,
+     "t": "2002"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 30000000000,
+     "t": "30 miljard"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5.45"
+    },
+    {
+     "v": 45,
+     "t": "5.45"
+    },
+    {
+     "v": 7,
+     "t": "7.30"
+    },
+    {
+     "v": 30,
+     "t": "7.30"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 1989,
+     "t": "1989"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    },
+    {
+     "v": 60,
+     "t": "60"
+    },
+    {
+     "v": 2006,
+     "t": "2006"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 21,
+     "t": "21"
+    }
+   ],
+   "money": [
+    {
+     "eur": 25800000000,
+     "t": "30 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "ontving",
+     "how": "article",
+     "ctx": "Hij verwijst naar de '30 voor 30'-deal, een wederzijdse afspraak om aan beide kanten voor ongeveer 30 miljard dollar aan tarieven te verlagen."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5QYAGXw",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/krapte-op-huurmarkt-doet-kandidaat-huurders-sjoemelen/",
    "title": "Krapte op huurmarkt doet kandidaat-huurders sjoemelen met loonfiches",
