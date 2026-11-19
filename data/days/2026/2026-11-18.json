@@ -5615,6 +5615,356 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.ZWKolX64E",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/brugge-sint-jozefkliniek-herbestemmen-werken-woningen-appartemen/",
+   "title": "Provincie verwerpt beroep van buren en milieuorganisatie: oude Sint-Jozefkliniek in Brugge wordt woonproject met appartementen",
+   "published": "2026-11-18T20:13:14+01:00",
+   "first_seen": "2026-11-19T02:08:17+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "Twee"
+    },
+    {
+     "v": 1909,
+     "t": "1909"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 1996,
+     "t": "1996"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 69,
+     "t": "69"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 29,
+     "t": "29"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoE5lJNy",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/charge-map-cyberaanval/",
+   "title": "Laadplatform Chargemap waarschuwt gebruikers na datalek: mogelijk miljoenen persoonsgegevens gestolen",
+   "published": "2026-11-18T20:57:31+01:00",
+   "first_seen": "2026-11-19T02:08:17+01:00",
+   "numbers": [
+    {
+     "v": 3500000,
+     "t": "3,5 miljoen"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 3500000,
+     "t": "3,5 miljoen"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.w70MQEZ7y",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/sint-genesius-rode-betaalde-al-200-000-euro-in-juridische-strijd/",
+   "title": "Sint-Genesius-Rode betaalde al 200.000 euro in juridische strijd om Villa Dirickz",
+   "published": "2026-11-18T20:58:44+01:00",
+   "first_seen": "2026-11-19T02:08:17+01:00",
+   "numbers": [
+    {
+     "v": 200000,
+     "t": "200.000"
+    },
+    {
+     "v": 1.5,
+     "t": "anderhalf"
+    },
+    {
+     "v": 200000,
+     "t": "200.000"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2300000,
+     "t": "2,3 miljoen"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 1640,
+     "t": "1640"
+    },
+    {
+     "v": 20000,
+     "t": "20.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 200000,
+     "t": "200.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kostte",
+     "how": "article",
+     "ctx": "Sint-Genesius-Rode betaalde al 200.000 euro in juridische strijd om Villa Dirickz"
+    },
+    {
+     "eur": 2300000,
+     "t": "2,3 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kostte",
+     "how": "article",
+     "ctx": "Zo kon ze de villa en het domein langs de Maria Joanalaan voor 2,3 miljoen euro kopen."
+    },
+    {
+     "eur": 20000,
+     "t": "20.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kostte",
+     "how": "article",
+     "ctx": "Per partij vragen we het maximale bedrag van 20.000 euro."
+    }
+   ]
+  },
+  {
+   "id": "p.oLq9yVdBe",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/meer-dan-3-000-boete-na-maand-trajectcontrole-in-halle-buizingen/",
+   "title": "Net geen 3.000 boetes na maand trajectcontrole in Halle: \"Niet de bedoeling\"",
+   "published": "2026-11-18T21:05:28+01:00",
+   "first_seen": "2026-11-19T02:08:17+01:00",
+   "numbers": [
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 3000,
+     "t": "3.000"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 350,
+     "t": "350"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 242000,
+     "t": "242.000"
+    },
+    {
+     "v": 53,
+     "t": "53"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    }
+   ],
+   "money": [
+    {
+     "eur": 242000,
+     "t": "242.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "title",
+     "ctx": "Halle betaalt voor de eerste 2 trajectcontroles op zijn grondgebied 242.000 euro."
+    },
+    {
+     "eur": 53,
+     "t": "53 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boete",
+     "how": "sentence",
+     "ctx": "Een boete bedraagt minstens 53 euro."
+    },
+    {
+     "eur": 11,
+     "t": "11 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "title",
+     "ctx": "\"Wie meer dan 10 kilometer per uur te snel rijdt, betaalt voor elke extra kilometer 11 euro bij."
+    }
+   ]
+  },
+  {
+   "id": "p.y31e7Pm4p",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/ekrem-_mamo_lu-veroordeling/",
+   "title": "Burgemeester van Istanbul Ekrem İmamoğlu veroordeeld tot politiek verbod en nog eens 2 jaar cel",
+   "published": "2026-11-18T21:46:50+01:00",
+   "first_seen": "2026-11-19T02:08:17+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 400,
+     "t": "400"
+    },
+    {
+     "v": 2000,
+     "t": "2.000"
+    },
+    {
+     "v": 142,
+     "t": "142"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 91,
+     "t": "91"
+    }
+   ],
+   "money": []
   }
  ]
 }
