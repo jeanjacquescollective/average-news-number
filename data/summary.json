@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-20T08:45:27+01:00",
+ "updated_at": "2026-11-20T17:26:38+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 152,
-    "numbers": 1904,
-    "mean": 547428801.5529,
-    "median": 16.0,
+    "count": 153,
+    "numbers": 1911,
+    "mean": 545424483.6059,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 96,
-    "numbers": 2206,
-    "mean": 857483138.7597,
+    "count": 97,
+    "numbers": 2280,
+    "mean": 1000705189.9947,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 94,
-    "numbers": 1130,
-    "mean": 125274153.5254,
-    "median": 30.0,
+    "count": 95,
+    "numbers": 1145,
+    "mean": 123633011.2713,
+    "median": 30,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1759,44 +1759,44 @@
   {
    "date": "2026-11-20",
    "headlines": {
-    "count": 23,
-    "numbers": 13,
-    "mean": 23084633.0,
+    "count": 56,
+    "numbers": 31,
+    "mean": 74200531.1774,
     "median": 9,
     "min": {
-     "v": 3,
-     "t": "3",
-     "title": "Russische aanvallen op Kiev na vergeldingsdreigementen Poetin: 3 doden en bruggen beschadigd",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/russische-aanvallen-op-kiev-na-vergeldingsdreigementen-poetin-3~1793644191149/"
+     "v": 1,
+     "t": "1",
+     "title": "2 Russische raketten en 1 drone slaan in op Pools grondgebied: \"Intentionele provocatie\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/polen-rusland-aanval-raket-drone/"
     },
     "max": {
-     "v": 300000000,
-     "t": "300 miljoen",
-     "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/"
+     "v": 2000000000,
+     "t": "2 miljard",
+     "title": "Meningsverschil van meer dan 2 miljard: regering en Engie mijlenver uit elkaar over overname kernreactoren",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/een-meningsverschil-van-meer-dan-twee-miljard-onderhandelinge/"
     }
    },
    "articles": {
-    "count": 18,
-    "numbers": 145,
-    "mean": 8631111.7407,
-    "median": 20,
+    "count": 77,
+    "numbers": 832,
+    "mean": 1655985192.2332,
+    "median": 20.0,
     "min": {
-     "v": 1,
-     "t": "één",
-     "title": "Drie jaar na feminicidewet zijn er nog altijd geen officiële cijfers over moorden op vrouwen",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/femicidecijfers-nog-steeds-wachten/"
+     "v": 0.5,
+     "t": "0,5",
+     "title": "EU en VK draaien Brexit opnieuw stukje terug: soepelere handel in voeding en jongeren zullen vlotter kunnen studeren en werken",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/europese-unie-verenigd-koninkrijk-reset-deal/"
     },
     "max": {
-     "v": 306600000,
-     "t": "306,6 miljoen",
-     "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/"
+     "v": 750000000000,
+     "t": "750 miljard",
+     "title": "Na 1 jaar lobbyen door Trump en Amerikaanse gasbedrijven: belangrijke Europese klimaatwet wordt 2 jaar uitgesteld",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/europa-stelt-methaanwet-voor-2-jaar-uit/"
     }
    },
    "money": {
-    "count": 1,
-    "lost": 300000000,
+    "count": 2,
+    "lost": 300100000,
     "biggest_lost": {
      "eur": 300000000,
      "t": "300 miljoen euro",
@@ -1805,7 +1805,7 @@
     },
     "gained": 0,
     "neutral": 0,
-    "net": -300000000
+    "net": -300100000
    }
   }
  ]
