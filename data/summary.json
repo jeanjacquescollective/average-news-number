@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-20T17:26:38+01:00",
+ "updated_at": "2026-11-20T23:46:32+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 153,
-    "numbers": 1911,
-    "mean": 545424483.6059,
-    "median": 16,
+    "count": 154,
+    "numbers": 1920,
+    "mean": 542868719.9176,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 97,
-    "numbers": 2280,
-    "mean": 1000705189.9947,
+    "count": 98,
+    "numbers": 2354,
+    "mean": 1134922626.2837,
     "median": 29.0,
     "min": {
      "v": -24,
@@ -1187,9 +1187,9 @@
     }
    },
    "articles": {
-    "count": 95,
-    "numbers": 1145,
-    "mean": 123633011.2713,
+    "count": 96,
+    "numbers": 1163,
+    "mean": 121719520.5255,
     "median": 30,
     "min": {
      "v": 0,
@@ -1759,10 +1759,10 @@
   {
    "date": "2026-11-20",
    "headlines": {
-    "count": 56,
-    "numbers": 31,
-    "mean": 74200531.1774,
-    "median": 9,
+    "count": 71,
+    "numbers": 36,
+    "mean": 161117126.1667,
+    "median": 12.0,
     "min": {
      "v": 1,
      "t": "1",
@@ -1770,17 +1770,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/polen-rusland-aanval-raket-drone/"
     },
     "max": {
-     "v": 2000000000,
-     "t": "2 miljard",
-     "title": "Meningsverschil van meer dan 2 miljard: regering en Engie mijlenver uit elkaar over overname kernreactoren",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/een-meningsverschil-van-meer-dan-twee-miljard-onderhandelinge/"
+     "v": 3500000000,
+     "t": "3,5 miljard",
+     "title": "'GTA VI' brengt bij release ongeveer 3,5 miljard euro op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/gta-vi-brengt-in-1-dag-tijd-bijna-3-5-miljard-euro-op/"
     }
    },
    "articles": {
-    "count": 77,
-    "numbers": 832,
-    "mean": 1655985192.2332,
-    "median": 20.0,
+    "count": 91,
+    "numbers": 953,
+    "mean": 1460749044.7954,
+    "median": 20,
     "min": {
      "v": 0.5,
      "t": "0,5",
@@ -1795,7 +1795,7 @@
     }
    },
    "money": {
-    "count": 2,
+    "count": 3,
     "lost": 300100000,
     "biggest_lost": {
      "eur": 300000000,
@@ -1803,9 +1803,15 @@
      "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/"
     },
-    "gained": 0,
+    "gained": 3500000000,
+    "biggest_gained": {
+     "eur": 3500000000,
+     "t": "3,5 miljard euro",
+     "title": "'GTA VI' brengt bij release ongeveer 3,5 miljard euro op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/gta-vi-brengt-in-1-dag-tijd-bijna-3-5-miljard-euro-op/"
+    },
     "neutral": 0,
-    "net": -300100000
+    "net": 3199900000
    }
   }
  ]
