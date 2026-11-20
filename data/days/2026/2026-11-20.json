@@ -131,7 +131,947 @@
    "first_seen": "2026-11-20T01:34:47+01:00",
    "numbers": [],
    "money": []
+  },
+  {
+   "title": "Waterlek op Lambermontlaan in Schaarbeek: tientallen kelders en Colruyt lopen onder water",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/lek-in-waterleiding-op-brusselse-lambermontlaan-in-schaarbeek/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Eerst slechte review, dan aanbod om te wissen: zaakvoerders machteloos bij valse beoordelingen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/valse-google-reviews/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Akkoord over 'fit note': huisarts zal aangeven wat zieke patiënt nog wél kan doen op het werk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/welk-werk-kan-een-patient-doen-ondanks-ziekte-huisartsen-krijge/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Russische aanvallen op Kiev na vergeldingsdreigementen Poetin: 3 doden en bruggen beschadigd",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/russische-aanvallen-op-kiev-na-vergeldingsdreigementen-poetin-3~1793644191149/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 300000000,
+     "t": "300 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 300000000,
+     "t": "300 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "fraude",
+     "how": "sentence",
+     "ctx": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op"
+    }
+   ]
+  },
+  {
+   "title": "Drie jaar na feminicidewet zijn er nog altijd geen officiële cijfers over moorden op vrouwen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/femicidecijfers-nog-steeds-wachten/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "Drie"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Na jaren van winkelen keert de balzaal terug: opnieuw dansfeesten in Antwerpse Stadsfeestzaal",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/stadsfeestzaal-antwerpen-opnieuw-feesten/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Voorzitters Vooruit en N-VA hebben weer contact over begroting",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/voorzitters-vooruit-en-nva-hebben-weer-contact-over-begroting~1793247532380/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Thomas Markle fit genoeg om terecht te staan voor beelden van kindermisbruik",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/psychiatrisch-onderzoek-thomas-markle-kan-terechtstaan/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Jan van Eyck of Vlammen in Halle? Dit zijn onze 5 weekendtips",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/weekendtips-21-22-november-jan-van-eyck-wintergloed-big-bang/",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
   }
  ],
- "articles": []
+ "articles": [
+  {
+   "id": "p.M9mEDw6dp",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/weekendtips-21-22-november-jan-van-eyck-wintergloed-big-bang/",
+   "title": "Jan van Eyck of Vlammen in Halle? Dit zijn onze 5 weekendtips",
+   "published": "2026-11-20T05:11:25+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1438,
+     "t": "1438"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew47DANYq",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/femicidecijfers-nog-steeds-wachten/",
+   "title": "Drie jaar na feminicidewet zijn er nog altijd geen officiële cijfers over moorden op vrouwen",
+   "published": "2026-11-20T05:13:25+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "Drie"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2017,
+     "t": "2017"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 28,
+     "t": "28"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "08"
+    },
+    {
+     "v": 8,
+     "t": "08"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.LNWEP0W9p",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/stadsfeestzaal-antwerpen-opnieuw-feesten/",
+   "title": "Na jaren van winkelen keert de balzaal terug: opnieuw dansfeesten in Antwerpse Stadsfeestzaal",
+   "published": "2026-11-20T05:14:32+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 2000,
+     "t": "2000"
+    },
+    {
+     "v": 2000,
+     "t": "2000"
+    },
+    {
+     "v": 2000,
+     "t": "2000"
+    },
+    {
+     "v": 2007,
+     "t": "2007"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 2007,
+     "t": "2007"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.E1dnmLE7V",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/discrimineert-plopsa-mensen-met-autisme/",
+   "title": "Mensen met autisme mogen (nog altijd) alleen met begeleider prikkelarme wachtrij gebruiken",
+   "published": "2026-11-20T05:15:13+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 2025,
+     "t": "2025"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.GvoD7ENMv",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/12/valse-google-reviews/",
+   "title": "Eerst slechte review, dan aanbod om te wissen: zaakvoerders machteloos bij valse beoordelingen",
+   "published": "2026-11-20T05:16:06+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 103,
+     "t": "103"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 289,
+     "t": "289"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2022,
+     "t": "2022"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 103,
+     "t": "103"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    }
+   ],
+   "money": [
+    {
+     "eur": 289,
+     "t": "289 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "kreeg",
+     "how": "sentence",
+     "ctx": "Een paar dagen later kreeg Van Eeckhaute een e-mail van een firma die voorstelde de negatieve review te verwijderen \"voor 289 euro, exclusief btw\"."
+    }
+   ]
+  },
+  {
+   "id": "p.lOb9pd1Ov",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/wintergloed-brugge-kerstmarkt-reus-ambacht-ijspiste-bar/",
+   "title": "Brugge zet eindejaar in met start van Wintergloed: kerstmarkten, ijspiste én gloednieuwe 'winterreus'",
+   "published": "2026-11-20T06:00:00+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 247,
+     "t": "247"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.QAbQ9ONRo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/roeselare-assisenproces-moord-man-vrouw-messteken/",
+   "title": "Man uit Roeselare staat terecht voor moord op zijn vrouw door 122 messteken",
+   "published": "2026-11-20T06:00:00+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 122,
+     "t": "122"
+    },
+    {
+     "v": 122,
+     "t": "122"
+    },
+    {
+     "v": 56,
+     "t": "56"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJEeQkBm",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/flatwachter-sociale-woningen-thuispunt-gent-overlast-problemen-c/",
+   "title": "Gent stelt 2 extra flatwachters aan rond sociale woningen: \"Ze maken elke dag het verschil\"",
+   "published": "2026-11-20T06:00:00+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 150000,
+     "t": "150.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 150000,
+     "t": "150.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "budget",
+     "how": "article",
+     "ctx": "Gent voorziet jaarlijks 150.000 euro extra."
+    }
+   ]
+  },
+  {
+   "id": "p.w70Mjb0wy",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/vlaanderen-veiligheidsteam-gemeenten-overlast-dendermonde/",
+   "title": "Na vraag om meer ondersteuning: veiligheidsteam en instrumentenkoffer moeten burgemeesters houvast geven bij overlast",
+   "published": "2026-11-20T06:30:00+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 35000,
+     "t": "35.000"
+    },
+    {
+     "v": 15000,
+     "t": "15.000"
+    },
+    {
+     "v": 35000,
+     "t": "35.000"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.bDokN6L0L",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/aalst-praktijkmateriaal-onderwijs/",
+   "title": "Aantal leerlingen in Aalst zonder praktijkmateriaal, werk- en beschermingskledij stijgt fors",
+   "published": "2026-11-20T07:00:00+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 52,
+     "t": "52"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2.7,
+     "t": "2,7"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 62,
+     "t": "62"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 104,
+     "t": "104"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlY0qQXLk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/psychiatrisch-onderzoek-thomas-markle-kan-terechtstaan/",
+   "title": "Thomas Markle fit genoeg om terecht te staan voor beelden van kindermisbruik",
+   "published": "2026-11-20T07:02:14+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 82,
+     "t": "82"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2008,
+     "t": "2008"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.ew4DJdQEP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/",
+   "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
+   "published": "2026-11-20T07:26:37+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 300000000,
+     "t": "300 miljoen"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 306300000,
+     "t": "306,3 miljoen"
+    },
+    {
+     "v": 28500000,
+     "t": "28,5 miljoen"
+    },
+    {
+     "v": 10.7,
+     "t": "10,7"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 306600000,
+     "t": "306,6 miljoen"
+    },
+    {
+     "v": 206800000,
+     "t": "206,8 miljoen"
+    },
+    {
+     "v": 59400000,
+     "t": "59,4 miljoen"
+    },
+    {
+     "v": 28700000,
+     "t": "28,7 miljoen"
+    },
+    {
+     "v": 3000000,
+     "t": "3 miljoen"
+    },
+    {
+     "v": 11800000,
+     "t": "11,8 miljoen"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 10650,
+     "t": "10.650"
+    },
+    {
+     "v": 113197,
+     "t": "113.197"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 300000000,
+     "t": "300 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "fraude",
+     "how": "sentence",
+     "ctx": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op"
+    },
+    {
+     "eur": 28500000,
+     "t": "28,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "fraude",
+     "how": "title",
+     "ctx": "Dat is 28,5 miljoen euro of 10,7 procent meer dan in diezelfde periode 1 jaar eerder."
+    },
+    {
+     "eur": 206800000,
+     "t": "206,8 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "fraude",
+     "how": "title",
+     "ctx": "Zo haalde ze 206,8 miljoen euro aan extra sociale bijdragen op."
+    },
+    {
+     "eur": 59400000,
+     "t": "59,4 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "uitkeringen",
+     "how": "sentence",
+     "ctx": "Ook is sprake van 59,4 miljoen euro aan onterecht betaalde uitkeringen die zijn teruggevorderd of voorkomen."
+    },
+    {
+     "eur": 3000000,
+     "t": "3 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "sentence",
+     "ctx": "En de strijd tegen onterechte facturen van zorgverleners leverde 28,7 miljoen euro op, waarop ook voor 3 miljoen euro aan boetes volgde."
+    },
+    {
+     "eur": 11800000,
+     "t": "11,8 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "boetes",
+     "how": "sentence",
+     "ctx": "In totaal is zo sprake van 11,8 miljoen euro aan opgelegde boetes."
+    }
+   ]
+  },
+  {
+   "id": "p.JN4R8Y7Ea",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/parking-le-bon-bereikbaar-vianenstraat-anpr-camera-turnhout/",
+   "title": "Turnhout maakt parking Le Bon weer beter bereikbaar: \"Handelaars zagen omzet dalen door circulatieplan\"",
+   "published": "2026-11-20T07:36:00+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "één"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.vLl1bwv7j",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/bibliotheek-gevangenis-tongeren-borgloon/",
+   "title": "Gevangenis Tongeren-Borgloon breidt bibliotheek flink uit: collectie wordt filiaal van openbare bib",
+   "published": "2026-11-20T07:40:06+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.oLqDvD7G6",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/lek-in-waterleiding-op-brusselse-lambermontlaan-in-schaarbeek/",
+   "title": "Waterlek op Lambermontlaan in Schaarbeek: tientallen kelders en Colruyt lopen onder water",
+   "published": "2026-11-20T07:44:22+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.LNW89YpVP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/veroordeelde-dief-opgepakt-deurne/",
+   "title": "Antwerpse politie arresteert dief die veroordeeld was tot 5 jaar cel",
+   "published": "2026-11-20T07:50:04+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 33,
+     "t": "33"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJEWw86a",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/fietspad-leopoldplein-hasselt-heraanleg-geel-zand/",
+   "title": "Ergerlijk gele zand op fietspad Leopoldplein in Hasselt verdwijnt: heraanleg begint in 2027",
+   "published": "2026-11-20T07:55:46+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 2027,
+     "t": "2027"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.BlY0v6699",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/scooterbestuurder-levensgevaarlijk-gewond-bij-ongeval-in-anderle/",
+   "title": "Scooterbestuurder levensgevaarlijk gewond bij ongeval in Anderlecht",
+   "published": "2026-11-20T08:01:31+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "03.42"
+    },
+    {
+     "v": 42,
+     "t": "03.42"
+    }
+   ],
+   "money": []
+  }
+ ]
 }

@@ -5182,6 +5182,46 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/voorzitters-vooruit-en-nva-hebben-weer-contact-over-begroting~1793247532380/",
+   "title": "LIVE Voorzitters Vooruit en N-VA hebben weer contact over begroting",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-20T08:45:27+01:00",
+   "numbers": [
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 750000,
+     "t": "750.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 750000,
+     "t": "750.000 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "effectentaks",
+     "how": "sentence",
+     "ctx": "Premier De Wever ziet een mogelijke oplossing in de verlaging van de drempel voor de effectentaks (van 1 miljoen naar 750.000 euro), maar dat zou Vooruit voorlopig nog afketsen."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-20T01:34:47+01:00",
+ "updated_at": "2026-11-20T08:45:27+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 151,
-    "numbers": 1899,
-    "mean": 548869240.7329,
-    "median": 16,
+    "count": 152,
+    "numbers": 1904,
+    "mean": 547428801.5529,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 95,
-    "numbers": 2149,
-    "mean": 698747219.7868,
-    "median": 29,
+    "count": 96,
+    "numbers": 2206,
+    "mean": 857483138.7597,
+    "median": 29.0,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1759,33 +1759,53 @@
   {
    "date": "2026-11-20",
    "headlines": {
-    "count": 13,
-    "numbers": 8,
-    "mean": 12526.125,
-    "median": 22.5,
+    "count": 23,
+    "numbers": 13,
+    "mean": 23084633.0,
+    "median": 9,
     "min": {
-     "v": 4,
-     "t": "4",
-     "title": "Je tiener wil GTA VI spelen, maar is dat wel een goed idee? 4 tips van mediapedagoog voor ouders",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/gta-spelen-kind-tips-ouders-gamen/"
+     "v": 3,
+     "t": "3",
+     "title": "Russische aanvallen op Kiev na vergeldingsdreigementen Poetin: 3 doden en bruggen beschadigd",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/russische-aanvallen-op-kiev-na-vergeldingsdreigementen-poetin-3~1793644191149/"
     },
     "max": {
-     "v": 100000,
-     "t": "100.000",
-     "title": "Nieuw zwembad De Otter in Mechelen loopt leeg: \"100.000 liter weg door leidingbreuk en softwarefout\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/nieuw-buurtzwembad-de-otter-in-mechelen-loopt-leeg-100-000-lit/"
+     "v": 300000000,
+     "t": "300 miljoen",
+     "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 18,
+    "numbers": 145,
+    "mean": 8631111.7407,
+    "median": 20,
+    "min": {
+     "v": 1,
+     "t": "één",
+     "title": "Drie jaar na feminicidewet zijn er nog altijd geen officiële cijfers over moorden op vrouwen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/16/femicidecijfers-nog-steeds-wachten/"
+    },
+    "max": {
+     "v": 306600000,
+     "t": "306,6 miljoen",
+     "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/"
+    }
    },
    "money": {
-    "count": 0,
-    "lost": 0,
+    "count": 1,
+    "lost": 300000000,
+    "biggest_lost": {
+     "eur": 300000000,
+     "t": "300 miljoen euro",
+     "title": "Strijd tegen sociale fraude levert in 9 maanden meer dan 300 miljoen euro op",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/strijd-tegen-sociale-fraude-levert-in-9-maanden-meer-dan-300-mil/"
+    },
     "gained": 0,
     "neutral": 0,
-    "net": 0
+    "net": -300000000
    }
   }
  ]
