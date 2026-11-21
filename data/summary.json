@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-20T23:46:32+01:00",
+ "updated_at": "2026-11-21T12:45:38+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 154,
-    "numbers": 1920,
-    "mean": 542868719.9176,
-    "median": 16.0,
+    "count": 155,
+    "numbers": 1921,
+    "mean": 542586122.9801,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 98,
-    "numbers": 2354,
-    "mean": 1134922626.2837,
-    "median": 29.0,
+    "count": 99,
+    "numbers": 2442,
+    "mean": 1253729685.3316,
+    "median": 28.0,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 96,
-    "numbers": 1163,
-    "mean": 121719520.5255,
-    "median": 30,
+    "count": 97,
+    "numbers": 1168,
+    "mean": 121198462.9308,
+    "median": 30.0,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1812,6 +1812,52 @@
     },
     "neutral": 0,
     "net": 3199900000
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "headlines": {
+    "count": 21,
+    "numbers": 17,
+    "mean": 254.5882,
+    "median": 7,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "4 strandbars en 1 kinderpark minder: Knokke grijpt naar noodplan om toch strandbars te hebben in zomer van 2027",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/knokke-noodplan-strandbars-zomer-2027/"
+    },
+    "max": {
+     "v": 2028,
+     "t": "2028",
+     "title": "1 examen, 1 locatie en geen slaaggrens meer: zo verandert ingangsexamen voor artsen vanaf 2028",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/nieuw-ingangsexamen-2028-arts-tandarts-dierenarts/"
+    }
+   },
+   "articles": {
+    "count": 25,
+    "numbers": 274,
+    "mean": 31053001634.1154,
+    "median": 28.5,
+    "min": {
+     "v": 0.2,
+     "t": "0,2",
+     "title": "Vocht doet batterij digitale watermeter sneller leeglopen: Pidpa plaatst tijdelijk analoge meter in 500 woningen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/drinkwatermaatschappij-pidpa-vervangt-in-500-huizen-digitale-wat/"
+    },
+    "max": {
+     "v": 1985000000000,
+     "t": "1.985 miljard",
+     "title": "Europees president Costa stelt begroting voor die 200 miljard euro kleiner is, 10 procent minder dan wat Commissie voorstelde",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/costa-meerjarenbegroting-200-miljard-euro-korten-uitgaven/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
