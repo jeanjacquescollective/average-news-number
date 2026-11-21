@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-22",
+ "headlines": [
+  {
+   "title": "Het blijft wachten op een slotakkoord in Antalya: \"Complete mislukking nu echt reëel scenario\"",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/het-blijft-wachten-op-een-slotakkoord-in-antalya-complete-misl~1794235749946/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Braziliaanse oud-president Jair Bolsonaro opnieuw op intensieve zorg: \"Ik heb hem nog nooit zo gezien\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/braziliaanse-oud-president-bolsonaro-op-intensieve-zorgen/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Italiaanse juwelenontwerper en zakenman Paolo Bulgari (89) overleden",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/italiaanse-juwelenontwerper-en-zakenman-paolo-bulgari-89-overl/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [
+    {
+     "v": 89,
+     "t": "89"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"Onverantwoord en volledig disproportioneel\": Luchtvaartsector misnoegd over staking luchtverkeersleiders",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/brussels-airlines-betreurt-extreem-late-communicatie-over-stak/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "44 supporters opgepakt voor voetbalmatch tussen KRC Genk en La Louvière",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/44-personen-opgepakt-voor-match-genk-la-louviere/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [
+    {
+     "v": 44,
+     "t": "44"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "'There will be no next time': The Kids geeft allerlaatste concert",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/there-will-be-no-next-time-the-kids-geeft-vanavond-allerlaats/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Verenigd Koninkrijk en Oekraïne gaan samen drones produceren",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/verenigd-koninkrijk-en-oekraine-gaan-samen-drones-produceren~1793644191149/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Bahrein opnieuw het doelwit van Iraanse aanval, brand op industrieterrein",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/bahrein-opnieuw-het-doelwit-van-iraanse-aanval-brand-op-industr~1784611610051/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Pommelien Thijs staat met 'Atlas' opnieuw op nummer 1 in de MNM1000",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/mnm-1-000/",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [
+    {
+     "v": 1,
+     "t": "1"
+    }
+   ],
+   "money": []
+  }
+ ],
+ "articles": [
+  {
+   "id": "p.qEN61Pea0",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/44-personen-opgepakt-voor-match-genk-la-louviere/",
+   "title": "44 supporters opgepakt voor voetbalmatch tussen KRC Genk en La Louvière",
+   "published": "2026-11-22T00:01:23+01:00",
+   "first_seen": "2026-11-22T00:31:46+01:00",
+   "numbers": [
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 17,
+     "t": "17.30"
+    },
+    {
+     "v": 30,
+     "t": "17.30"
+    }
+   ],
+   "money": []
+  }
+ ]
+}

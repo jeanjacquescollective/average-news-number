@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-21T19:17:25+01:00",
+ "updated_at": "2026-11-22T00:31:46+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 100,
-    "numbers": 2448,
-    "mean": 1250656819.6237,
+    "count": 101,
+    "numbers": 2454,
+    "mean": 1247598980.154,
     "median": 28.0,
     "min": {
      "v": -24,
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 98,
-    "numbers": 1182,
-    "mean": 119763799.6084,
-    "median": 30.0,
+    "count": 99,
+    "numbers": 1199,
+    "mean": 118066570.1636,
+    "median": 30,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1835,9 +1835,9 @@
     }
    },
    "articles": {
-    "count": 42,
-    "numbers": 443,
-    "mean": 19210400905.068,
+    "count": 46,
+    "numbers": 481,
+    "mean": 17692739458.9878,
     "median": 21,
     "min": {
      "v": -6,
@@ -1850,6 +1850,52 @@
      "t": "1.985 miljard",
      "title": "Europees president Costa stelt begroting voor die 200 miljard euro kleiner is, 10 procent minder dan wat Commissie voorstelde",
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/costa-meerjarenbegroting-200-miljard-euro-korten-uitgaven/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "headlines": {
+    "count": 9,
+    "numbers": 3,
+    "mean": 44.6667,
+    "median": 44,
+    "min": {
+     "v": 1,
+     "t": "1",
+     "title": "Pommelien Thijs staat met 'Atlas' opnieuw op nummer 1 in de MNM1000",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/mnm-1-000/"
+    },
+    "max": {
+     "v": 89,
+     "t": "89",
+     "title": "Italiaanse juwelenontwerper en zakenman Paolo Bulgari (89) overleden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/italiaanse-juwelenontwerper-en-zakenman-paolo-bulgari-89-overl/"
+    }
+   },
+   "articles": {
+    "count": 1,
+    "numbers": 5,
+    "mean": 35.8,
+    "median": 44,
+    "min": {
+     "v": 17,
+     "t": "17.30",
+     "title": "44 supporters opgepakt voor voetbalmatch tussen KRC Genk en La Louvière",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/44-personen-opgepakt-voor-match-genk-la-louviere/"
+    },
+    "max": {
+     "v": 44,
+     "t": "44",
+     "title": "44 supporters opgepakt voor voetbalmatch tussen KRC Genk en La Louvière",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/44-personen-opgepakt-voor-match-genk-la-louviere/"
     }
    },
    "money": {
