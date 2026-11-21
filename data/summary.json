@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-21T12:45:38+01:00",
+ "updated_at": "2026-11-21T19:17:25+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 155,
-    "numbers": 1921,
-    "mean": 542586122.9801,
-    "median": 16,
+    "count": 156,
+    "numbers": 1924,
+    "mean": 541740094.8117,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 99,
-    "numbers": 2442,
-    "mean": 1253729685.3316,
+    "count": 100,
+    "numbers": 2448,
+    "mean": 1250656819.6237,
     "median": 28.0,
     "min": {
      "v": -24,
@@ -1187,9 +1187,9 @@
     }
    },
    "articles": {
-    "count": 97,
-    "numbers": 1168,
-    "mean": 121198462.9308,
+    "count": 98,
+    "numbers": 1182,
+    "mean": 119763799.6084,
     "median": 30.0,
     "min": {
      "v": 0,
@@ -1817,10 +1817,10 @@
   {
    "date": "2026-11-21",
    "headlines": {
-    "count": 21,
-    "numbers": 17,
-    "mean": 254.5882,
-    "median": 7,
+    "count": 40,
+    "numbers": 23,
+    "mean": 214.8696,
+    "median": 8,
     "min": {
      "v": 1,
      "t": "1",
@@ -1835,15 +1835,15 @@
     }
    },
    "articles": {
-    "count": 25,
-    "numbers": 274,
-    "mean": 31053001634.1154,
-    "median": 28.5,
+    "count": 42,
+    "numbers": 443,
+    "mean": 19210400905.068,
+    "median": 21,
     "min": {
-     "v": 0.2,
-     "t": "0,2",
-     "title": "Vocht doet batterij digitale watermeter sneller leeglopen: Pidpa plaatst tijdelijk analoge meter in 500 woningen",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/drinkwatermaatschappij-pidpa-vervangt-in-500-huizen-digitale-wat/"
+     "v": -6,
+     "t": "-6",
+     "title": "Oppassen voor gladde wegen in Antwerpen en Limburg: KMI kondigt code geel af",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/antwerpen-limburg-glade-wegen/"
     },
     "max": {
      "v": 1985000000000,
