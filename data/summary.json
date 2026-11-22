@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-22T12:57:48+01:00",
+ "updated_at": "2026-11-22T20:30:20+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 157,
-    "numbers": 1926,
-    "mean": 541177540.2844,
+    "count": 158,
+    "numbers": 1950,
+    "mean": 570414330.7337,
     "median": 16.0,
     "min": {
      "v": -30,
@@ -829,7 +829,7 @@
     }
    },
    "articles": {
-    "count": 101,
+    "count": 102,
     "numbers": 2454,
     "mean": 1247598980.154,
     "median": 28.0,
@@ -1187,9 +1187,9 @@
     }
    },
    "articles": {
-    "count": 100,
-    "numbers": 1240,
-    "mean": 210937771.4175,
+    "count": 101,
+    "numbers": 1252,
+    "mean": 208916008.7195,
     "median": 30.0,
     "min": {
      "v": 0,
@@ -1863,10 +1863,10 @@
   {
    "date": "2026-11-22",
    "headlines": {
-    "count": 26,
-    "numbers": 12,
-    "mean": 243.75,
-    "median": 41.0,
+    "count": 40,
+    "numbers": 18,
+    "mean": 164.1667,
+    "median": 12.5,
     "min": {
      "v": 1,
      "t": "1",
@@ -1881,15 +1881,15 @@
     }
    },
    "articles": {
-    "count": 19,
-    "numbers": 171,
-    "mean": 29133.9152,
-    "median": 38,
+    "count": 41,
+    "numbers": 318,
+    "mean": 18664.3994,
+    "median": 20.0,
     "min": {
-     "v": 1,
-     "t": "1",
-     "title": "Pionier van expressionisme mét duister oorlogsverleden:\nDeinze zet kunstenaar Albert Servaes in de kijker",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/albert-servaes-tentoonstelling-mudel-deinze-expressionisme-colla/"
+     "v": -3,
+     "t": "-3",
+     "title": "Opnieuw oppassen voor gladde wegen: KMI kondigt code geel af voor het hele land",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/kmi-waarschuwt-voor-gladheid-vannacht-code-geel-in-heel-het-lan/"
     },
     "max": {
      "v": 4140000,
