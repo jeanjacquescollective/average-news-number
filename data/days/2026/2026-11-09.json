@@ -5242,6 +5242,190 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/eu-verwerpt-akkoord-we-kunnen-geen-beslissing-steunen-die-foss~1794235749946/",
+   "title": "LIVE EU verwerpt akkoord: \"We kunnen geen beslissing steunen die fossiele brandstoffen niet vermeldt\"",
+   "published": "2026-11-09T16:59:08+01:00",
+   "first_seen": "2026-11-22T12:57:48+01:00",
+   "numbers": [
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 2035,
+     "t": "2035"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 120000000000,
+     "t": "120 miljard"
+    },
+    {
+     "v": 2035,
+     "t": "2035"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 0,
+     "t": "00"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 1.5,
+     "t": "1,5"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 2026,
+     "t": "2026"
+    },
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 44,
+     "t": "44"
+    },
+    {
+     "v": 14,
+     "t": "14"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 2035,
+     "t": "2035"
+    },
+    {
+     "v": 35,
+     "t": "35"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2055,
+     "t": "2055"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2030,
+     "t": "2030"
+    },
+    {
+     "v": 1000000,
+     "t": "1 miljoen"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": [
+    {
+     "eur": 103200000000,
+     "t": "120 miljard dollar",
+     "cur": "USD",
+     "dir": "gained",
+     "kw": "steunen",
+     "how": "title",
+     "ctx": "De ontwikkelingslanden vroegen een toezegging van 120 miljard dollar tegen 2035."
+    }
+   ]
+  },
+  {
    "id": "p.LNW9RveQv",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/09/tessenderlo-ham-frauderende-thuisverpleegster/",
    "title": "Thuisverpleegster uit Tessenderlo-Ham staat terecht voor aanrekenen van 572.505 euro aan fictieve prestaties",

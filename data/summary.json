@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-22T00:31:46+01:00",
+ "updated_at": "2026-11-22T12:57:48+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -537,9 +537,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 107,
-    "numbers": 1897,
-    "mean": 29011327960.5135,
+    "count": 108,
+    "numbers": 2007,
+    "mean": 27421270428.9848,
     "median": 27,
     "min": {
      "v": -17.6,
@@ -615,9 +615,9 @@
     }
    },
    "articles": {
-    "count": 156,
-    "numbers": 1924,
-    "mean": 541740094.8117,
+    "count": 157,
+    "numbers": 1926,
+    "mean": 541177540.2844,
     "median": 16.0,
     "min": {
      "v": -30,
@@ -1187,10 +1187,10 @@
     }
    },
    "articles": {
-    "count": 99,
-    "numbers": 1199,
-    "mean": 118066570.1636,
-    "median": 30,
+    "count": 100,
+    "numbers": 1240,
+    "mean": 210937771.4175,
+    "median": 30.0,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -1863,10 +1863,10 @@
   {
    "date": "2026-11-22",
    "headlines": {
-    "count": 9,
-    "numbers": 3,
-    "mean": 44.6667,
-    "median": 44,
+    "count": 26,
+    "numbers": 12,
+    "mean": 243.75,
+    "median": 41.0,
     "min": {
      "v": 1,
      "t": "1",
@@ -1874,28 +1874,28 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/mnm-1-000/"
     },
     "max": {
-     "v": 89,
-     "t": "89",
-     "title": "Italiaanse juwelenontwerper en zakenman Paolo Bulgari (89) overleden",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/italiaanse-juwelenontwerper-en-zakenman-paolo-bulgari-89-overl/"
+     "v": 2027,
+     "t": "2027",
+     "title": "#LikeMe siert jaarlijkse pleister van Rode Kruis: actie start op 15 april 2027",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/rode-kruis-stickers-met-like-me/"
     }
    },
    "articles": {
-    "count": 1,
-    "numbers": 5,
-    "mean": 35.8,
-    "median": 44,
+    "count": 19,
+    "numbers": 171,
+    "mean": 29133.9152,
+    "median": 38,
     "min": {
-     "v": 17,
-     "t": "17.30",
-     "title": "44 supporters opgepakt voor voetbalmatch tussen KRC Genk en La Louvière",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/44-personen-opgepakt-voor-match-genk-la-louviere/"
+     "v": 1,
+     "t": "1",
+     "title": "Pionier van expressionisme mét duister oorlogsverleden:\nDeinze zet kunstenaar Albert Servaes in de kijker",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/19/albert-servaes-tentoonstelling-mudel-deinze-expressionisme-colla/"
     },
     "max": {
-     "v": 44,
-     "t": "44",
-     "title": "44 supporters opgepakt voor voetbalmatch tussen KRC Genk en La Louvière",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/21/44-personen-opgepakt-voor-match-genk-la-louviere/"
+     "v": 4140000,
+     "t": "4,14 miljoen",
+     "title": "#LikeMe siert jaarlijkse pleister van Rode Kruis: actie start op 15 april 2027",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/rode-kruis-stickers-met-like-me/"
     }
    },
    "money": {
