@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-23T09:10:47+01:00",
+ "updated_at": "2026-11-23T21:19:36+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 160,
-    "numbers": 1984,
-    "mean": 595921344.4732,
-    "median": 16.0,
+    "count": 161,
+    "numbers": 1989,
+    "mean": 594423301.9034,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 102,
-    "numbers": 2454,
-    "mean": 1247598980.154,
-    "median": 28.0,
+    "count": 103,
+    "numbers": 2459,
+    "mean": 1245062178.6873,
+    "median": 27,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1909,28 +1909,28 @@
   {
    "date": "2026-11-23",
    "headlines": {
-    "count": 18,
-    "numbers": 11,
-    "mean": 367.2727,
-    "median": 16,
+    "count": 41,
+    "numbers": 22,
+    "mean": 25460734.7727,
+    "median": 18.0,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Kernkabinet komt om 9.30 uur samen over begroting, 2 uur voor afspraak tussen premier en koning",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-komt-om-930-uur-samen-over-begroting-2-uur-voor-af~1793247532380/"
+     "v": 1,
+     "t": "1",
+     "title": "Succesvolle 1e 'Spacewalk' in Antwerpen: meer dan 130.000 geregistreerde bezoekers voor wandeling langs ruimtetuigen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/space-walk-antwerpen-ruimtevaart-ruimtewandeling-replica-juergen/"
     },
     "max": {
-     "v": 1992,
-     "t": "1992",
-     "title": "Extra zetel voor Democraten in het Huis na hertelling in North Carolina, grootste meerderheid voor partij sinds 1992",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/extra-zetel-voor-democraten-in-het-huis-na-hertelling-in-north-c~1792770744209/"
+     "v": 560000000,
+     "t": "560 miljoen",
+     "title": "Duurdere containerparken, trouwboekjes en zwembeurten: hoe stad Antwerpen meer dan 560 miljoen euro wil besparen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/aanpassingen-meerjarenplan-antwerpen-begroting-budgetten/"
     }
    },
    "articles": {
-    "count": 17,
-    "numbers": 190,
-    "mean": 541267160.3095,
-    "median": 23.0,
+    "count": 85,
+    "numbers": 766,
+    "mean": 146096866.4994,
+    "median": 17.5,
     "min": {
      "v": 0,
      "t": "22.00",
@@ -1945,11 +1945,17 @@
     }
    },
    "money": {
-    "count": 0,
+    "count": 1,
     "lost": 0,
-    "gained": 0,
+    "gained": 560000000,
+    "biggest_gained": {
+     "eur": 560000000,
+     "t": "560 miljoen euro",
+     "title": "Duurdere containerparken, trouwboekjes en zwembeurten: hoe stad Antwerpen meer dan 560 miljoen euro wil besparen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/aanpassingen-meerjarenplan-antwerpen-begroting-budgetten/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 560000000
    }
   }
  ]
