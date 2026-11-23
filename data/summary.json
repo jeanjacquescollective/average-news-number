@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-23T01:28:20+01:00",
+ "updated_at": "2026-11-23T09:10:47+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 159,
-    "numbers": 1977,
-    "mean": 598031333.9984,
-    "median": 16,
+    "count": 160,
+    "numbers": 1984,
+    "mean": 595921344.4732,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -1187,9 +1187,9 @@
     }
    },
    "articles": {
-    "count": 101,
-    "numbers": 1252,
-    "mean": 208916008.7195,
+    "count": 102,
+    "numbers": 1268,
+    "mean": 206279851.201,
     "median": 30.0,
     "min": {
      "v": 0,
@@ -1563,10 +1563,10 @@
     }
    },
    "articles": {
-    "count": 87,
-    "numbers": 837,
-    "mean": 36663427.6567,
-    "median": 19,
+    "count": 88,
+    "numbers": 843,
+    "mean": 36402480.5915,
+    "median": 20,
     "min": {
      "v": 0,
      "t": "0",
@@ -1609,9 +1609,9 @@
     }
    },
    "articles": {
-    "count": 101,
-    "numbers": 882,
-    "mean": 929940200.8771,
+    "count": 105,
+    "numbers": 910,
+    "mean": 901326671.4171,
     "median": 25.5,
     "min": {
      "v": -270,
@@ -1667,15 +1667,15 @@
     }
    },
    "articles": {
-    "count": 103,
-    "numbers": 1047,
-    "mean": 76829145.6315,
-    "median": 28,
+    "count": 109,
+    "numbers": 1094,
+    "mean": 73528488.826,
+    "median": 27.0,
     "min": {
      "v": 0,
-     "t": "00.01",
-     "title": "Leuven heeft eigen GTA-game dankzij inwoner Philippe: \"Elke flitspaal zit erin\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/gta-leuven-grand-theft-auto-gaming-release/"
+     "t": "15.00",
+     "title": "Herfstweer zorgt voor ondergelopen straten en omgewaaide bomen in Brussel",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/18/herfstweer-zorgt-voor-ondergelopen-straten-en-omgewaaide-bomen/"
     },
     "max": {
      "v": 30000000000,
@@ -1719,10 +1719,10 @@
     }
    },
    "articles": {
-    "count": 95,
-    "numbers": 967,
-    "mean": 14056606992.5157,
-    "median": 23,
+    "count": 101,
+    "numbers": 1016,
+    "mean": 13378680129.3943,
+    "median": 23.0,
     "min": {
      "v": -2,
      "t": "-2",
@@ -1777,10 +1777,10 @@
     }
    },
    "articles": {
-    "count": 91,
-    "numbers": 953,
-    "mean": 1460749044.7954,
-    "median": 20,
+    "count": 95,
+    "numbers": 982,
+    "mean": 1418374589.0754,
+    "median": 19.1,
     "min": {
      "v": 0.5,
      "t": "0,5",
@@ -1835,9 +1835,9 @@
     }
    },
    "articles": {
-    "count": 46,
-    "numbers": 481,
-    "mean": 17692739458.9878,
+    "count": 47,
+    "numbers": 485,
+    "mean": 17546819958.4229,
     "median": 21,
     "min": {
      "v": -6,
@@ -1881,9 +1881,9 @@
     }
    },
    "articles": {
-    "count": 44,
-    "numbers": 342,
-    "mean": 192611.2427,
+    "count": 45,
+    "numbers": 344,
+    "mean": 191491.5203,
     "median": 20.0,
     "min": {
      "v": -3,
@@ -1909,10 +1909,10 @@
   {
    "date": "2026-11-23",
    "headlines": {
-    "count": 7,
-    "numbers": 6,
-    "mean": 342.8333,
-    "median": 14.5,
+    "count": 18,
+    "numbers": 11,
+    "mean": 367.2727,
+    "median": 16,
     "min": {
      "v": 2,
      "t": "2",
@@ -1927,8 +1927,22 @@
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 17,
+    "numbers": 190,
+    "mean": 541267160.3095,
+    "median": 23.0,
+    "min": {
+     "v": 0,
+     "t": "22.00",
+     "title": "Gezin in Schaarbeek bevangen door CO na gebruik van barbecue als verwarming",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/gezin-bevangen-door-co-in-schaarbeek/"
+    },
+    "max": {
+     "v": 21000000000,
+     "t": "21 miljard",
+     "title": "LIVE Vakbonden komen opnieuw op straat: \"Tegen een regering die hervormen verwart met besparen\"",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/vakbonden-komen-opnieuw-op-straat-tegen-een-regering-die-hervo~1795406722704/"
+    }
    },
    "money": {
     "count": 0,

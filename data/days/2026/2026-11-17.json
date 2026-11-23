@@ -2459,6 +2459,36 @@
    "money": []
   },
   {
+   "id": "p.8epJ1jBoo",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/okra-kortrijk-ijvert-al-jaren-voor-volwaardig-ontmoetingscentrum0/",
+   "title": "Okra Kortrijk ijvert voor volwaardig ontmoetingscentrum: \"We voeren actie want de maat is vol\"",
+   "published": "2026-11-17T11:47:38+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "Vijf"
+    },
+    {
+     "v": 70,
+     "t": "70"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 120,
+     "t": "120"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.VLNW618ZB",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/proces-leuven/",
    "title": "Parket eist 5 jaar cel met uitstel voor twintiger die aanslag op Pride in Leuven beraamd zou hebben: \"Ik wil zeggen dat ik me diep schaam\"",
@@ -2964,6 +2994,40 @@
    "published": "2026-11-17T12:40:09+01:00",
    "first_seen": "2026-11-17T20:59:36+01:00",
    "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.5waPv47pl",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/luchtfabriek-heusden-zolder-xrperience/",
+   "title": "Van sociale tot machinetraining: in Heusden-Zolder ontdekken bedrijven hoe ze personeel opleiden met een XR-bril",
+   "published": "2026-11-17T12:51:31+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 50,
+     "t": "50"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    },
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 50,
+     "t": "50"
+    }
+   ],
    "money": []
   },
   {
@@ -3858,6 +3922,68 @@
     {
      "v": 6.7,
      "t": "6,7"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.APQe58w7o",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/bijna-30-jaar-oud-paard-moet-verhuizen-wegens-ziekte-eigenaar/",
+   "title": "Bijna 30 jaar oud paard Salva moet verhuizen omdat baasje Griet MS heeft",
+   "published": "2026-11-17T15:54:40+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 26,
+     "t": "26"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 3,
+     "t": "drie"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
     }
    ],
    "money": []
@@ -5309,6 +5435,32 @@
     {
      "v": 69,
      "t": "69"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.bDo7v7bG5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/17/valentijn-despeghel-vooruit-eed-afgelegd-gedeputeerde-jurgen-van/",
+   "title": "Valentijn Despeghel (Vooruit) legt eed af als nieuwe gedeputeerde van West-Vlaanderen",
+   "published": "2026-11-17T20:39:19+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 2019,
+     "t": "2019"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 3202,
+     "t": "3.202"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
     }
    ],
    "money": []

@@ -3830,6 +3830,32 @@
    "money": []
   },
   {
+   "id": "p.QAbOO7XL9",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/vooroordelen-sociale-huurders-beringen/",
+   "title": "Sociale huurders strijden tegen vooroordelen: bewoners van woonwijk Steenveld in Beringen delen hun verhaal",
+   "published": "2026-11-20T14:17:12+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 8,
+     "t": "8"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
    "id": "p.kQONVK1BB",
    "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/belgie-begint-aan-roadmap-voor-snelle-uitstap-uit-fossiele-brand/",
    "title": "\"De kick-off van de uitfasering van fossiele brandstoffen voor België\": minister Crucke kondigt start stappenplan aan",
@@ -4027,6 +4053,88 @@
     {
      "v": 90,
      "t": "90"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.xZYAEXbpZ",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/casino-van-brussel-viage-stapt-opnieuw-naar-raad-van-state/",
+   "title": "Casino van Brussel: Viage stapt opnieuw naar Raad van State",
+   "published": "2026-11-20T15:00:00+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 2010,
+     "t": "2010"
+    },
+    {
+     "v": 15,
+     "t": "vijftien"
+    },
+    {
+     "v": 750000000,
+     "t": "750 miljoen"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    },
+    {
+     "v": 286,
+     "t": "286"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2027,
+     "t": "2027"
+    }
+   ],
+   "money": [
+    {
+     "eur": 750000000,
+     "t": "750 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Het gaat om een concessie van ongeveer 750 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.pAxNEKNnG",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/geen-werfcontainers-in-kuregem-tijdens-eindejaar-ze-zijn-cadea/",
+   "title": "Geen werfcontainers in Kuregem tijdens eindejaar: 'Ze zijn cadeau voor relschoppers'",
+   "published": "2026-11-20T15:05:00+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 31,
+     "t": "31"
     }
    ],
    "money": []
@@ -4998,6 +5106,64 @@
     {
      "v": 21,
      "t": "21"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.43pxjokLk",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/20/herk-de-stad-verstrengt-vuurwerkbeleid-voor-oud-op-nieuw/",
+   "title": "Herk-de-Stad verstrengt vuurwerkbeleid: wie op oudejaarsavond vuurwerk wil afsteken, moet dat vooraf melden",
+   "published": "2026-11-20T17:09:49+01:00",
+   "first_seen": "2026-11-23T09:10:47+01:00",
+   "numbers": [
+    {
+     "v": 11,
+     "t": "11"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 150,
+     "t": "150"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 2,
+     "t": "2"
     }
    ],
    "money": []
