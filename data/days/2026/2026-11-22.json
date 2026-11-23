@@ -2099,6 +2099,151 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.ZWK4aMkeB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/impact-reizigers-staking-luchthavens/",
+   "title": "\"Ze brengen mensen in de problemen die er niets aan kunnen doen\": Eline, Nico en Guido getroffen door staking bij luchtverkeersleider Skeyes",
+   "published": "2026-11-22T20:56:30+01:00",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 31500,
+     "t": "31.500"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 12,
+     "t": "12"
+    },
+    {
+     "v": 4500000,
+     "t": "4,5 miljoen"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 55000000,
+     "t": "55 miljoen"
+    }
+   ],
+   "money": [
+    {
+     "eur": 4500000,
+     "t": "4,5 miljoen euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Deze actie kost de georganiseerde reissector zo'n 4,5 miljoen euro, gaat Van den Bosch verder."
+    },
+    {
+     "eur": 55000000,
+     "t": "55 miljoen euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "kregen",
+     "how": "article",
+     "ctx": "\"Samen met de 10 eerdere stakingen loopt de totale impact daarmee op tot meer dan 55 miljoen euro."
+    }
+   ]
+  },
+  {
+   "id": "p.y31dmnavB",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/grote-brand-in-luikse-aldi-supermarkt/",
+   "title": "Grote brand in Aldi-supermarkt in Luik, parket sluit brandstichting niet uit",
+   "published": "2026-11-22T21:19:23+01:00",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [
+    {
+     "v": 18,
+     "t": "18"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.RaJYpxKL7",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/minstens-24-burgers-onder-wie-zeven-kinderen-gedood-bij-aanval/",
+   "title": "Minstens 24 burgers gedood bij aanval op dorp in Zuid-Soedan, onder wie 7 kinderen",
+   "published": "2026-11-22T23:36:39+01:00",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 2011,
+     "t": "2011"
+    },
+    {
+     "v": 22,
+     "t": "22"
+    },
+    {
+     "v": 24,
+     "t": "24"
+    },
+    {
+     "v": 4,
+     "t": "4"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 17,
+     "t": "17"
+    },
+    {
+     "v": 23,
+     "t": "23"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 400000,
+     "t": "400.000"
+    }
+   ],
+   "money": []
   }
  ]
 }

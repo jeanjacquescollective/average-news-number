@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-23",
+ "headlines": [
+  {
+   "title": "\"Ze brengen mensen in de problemen die er niets aan kunnen doen\": Eline, Nico en Guido getroffen door staking bij luchtverkeersleider Skeyes",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/impact-reizigers-staking-luchthavens/",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Kernkabinet komt om 9.30 uur samen over begroting, 2 uur voor afspraak tussen premier en koning",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-komt-om-930-uur-samen-over-begroting-2-uur-voor-af~1793247532380/",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [
+    {
+     "v": 9,
+     "t": "9.30"
+    },
+    {
+     "v": 30,
+     "t": "9.30"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Extra zetel voor Democraten in het Huis na hertelling in North Carolina, grootste meerderheid voor partij sinds 1992",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/extra-zetel-voor-democraten-in-het-huis-na-hertelling-in-north-c~1792770744209/",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [
+    {
+     "v": 1992,
+     "t": "1992"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Drones treffen nu ook Maltees vrachtschip in Libische haven, na eerdere explosie op Russisch oorlogsschip",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/libie-rusland-schip-aangevallen-drones-oorlogsschip-oekraine/",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Grote brand in Aldi-supermarkt in Luik, parket sluit brandstichting niet uit",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/grote-brand-in-luikse-aldi-supermarkt/",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Partijen van Eisenkot en premier Netanyahu zitten 4 uur lang samen over mogelijke coalitie, maar zonder resultaat",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/partijen-van-eisenkot-en-premier-netanyahu-zitten-4-uur-lang-sam~1793076564841/",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [
+    {
+     "v": 4,
+     "t": "4"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Brandweer Torhout moet nauwelijks 20 meter ver rijden om keukenbrand te blussen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/brandweer-torhout-moet-nauwelijks-20-meter-rijden-om-keukenbrand/",
+   "first_seen": "2026-11-23T01:28:20+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    }
+   ],
+   "money": []
+  }
+ ],
+ "articles": []
+}

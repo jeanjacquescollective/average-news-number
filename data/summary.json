@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-22T20:30:20+01:00",
+ "updated_at": "2026-11-23T01:28:20+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -537,9 +537,9 @@
     "numbers": 0
    },
    "articles": {
-    "count": 108,
-    "numbers": 2007,
-    "mean": 27421270428.9848,
+    "count": 109,
+    "numbers": 2121,
+    "mean": 25947425912.7123,
     "median": 27,
     "min": {
      "v": -17.6,
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 158,
-    "numbers": 1950,
-    "mean": 570414330.7337,
-    "median": 16.0,
+    "count": 159,
+    "numbers": 1977,
+    "mean": 598031333.9984,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -1881,9 +1881,9 @@
     }
    },
    "articles": {
-    "count": 41,
-    "numbers": 318,
-    "mean": 18664.3994,
+    "count": 44,
+    "numbers": 342,
+    "mean": 192611.2427,
     "median": 20.0,
     "min": {
      "v": -3,
@@ -1892,11 +1892,43 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/kmi-waarschuwt-voor-gladheid-vannacht-code-geel-in-heel-het-lan/"
     },
     "max": {
-     "v": 4140000,
-     "t": "4,14 miljoen",
-     "title": "#LikeMe siert jaarlijkse pleister van Rode Kruis: actie start op 15 april 2027",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/rode-kruis-stickers-met-like-me/"
+     "v": 55000000,
+     "t": "55 miljoen",
+     "title": "\"Ze brengen mensen in de problemen die er niets aan kunnen doen\": Eline, Nico en Guido getroffen door staking bij luchtverkeersleider Skeyes",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/22/impact-reizigers-staking-luchthavens/"
     }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "headlines": {
+    "count": 7,
+    "numbers": 6,
+    "mean": 342.8333,
+    "median": 14.5,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "Kernkabinet komt om 9.30 uur samen over begroting, 2 uur voor afspraak tussen premier en koning",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/kernkabinet-komt-om-930-uur-samen-over-begroting-2-uur-voor-af~1793247532380/"
+    },
+    "max": {
+     "v": 1992,
+     "t": "1992",
+     "title": "Extra zetel voor Democraten in het Huis na hertelling in North Carolina, grootste meerderheid voor partij sinds 1992",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/extra-zetel-voor-democraten-in-het-huis-na-hertelling-in-north-c~1792770744209/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
    },
    "money": {
     "count": 0,
