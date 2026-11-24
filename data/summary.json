@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-24T05:54:44+01:00",
+ "updated_at": "2026-11-24T16:40:50+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 161,
-    "numbers": 1989,
-    "mean": 594423301.9034,
-    "median": 16,
+    "count": 162,
+    "numbers": 2006,
+    "mean": 624281131.4047,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 104,
-    "numbers": 2465,
-    "mean": 1242031601.4069,
-    "median": 27,
+    "count": 105,
+    "numbers": 2470,
+    "mean": 1239517934.2041,
+    "median": 27.0,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1961,10 +1961,10 @@
   {
    "date": "2026-11-24",
    "headlines": {
-    "count": 8,
-    "numbers": 3,
-    "mean": 12.1667,
-    "median": 15,
+    "count": 30,
+    "numbers": 8,
+    "mean": 6266.6875,
+    "median": 15.0,
     "min": {
      "v": 1.5,
      "t": "1,5",
@@ -1972,28 +1972,28 @@
      "url": "https://www.vrt.be/vrtnws/nl/liveblog/techbeurs-nasdaq-beleeft-beste-dag-in-15-jaar-na-terugkeer-huan~1776671241366/"
     },
     "max": {
-     "v": 20,
-     "t": "20",
-     "title": "Meer dan 20 doden of vermisten bij Saoedische aanvallen op bussen en vrachtwagens",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/meer-dan-20-doden-of-vermisten-bij-saoedische-aanvallen-op-busse~1784611610051/"
+     "v": 50000,
+     "t": "50.000",
+     "title": "Staking bij UPS in Diegem en Lummen gaat verder: \"Elke dag 50.000 pakjes geblokkeerd\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/ups-pakjes-staking-hinder-pakjesachterstand-geblokkeerd-diegem-l/"
     }
    },
    "articles": {
-    "count": 5,
-    "numbers": 53,
-    "mean": 23540562.9811,
-    "median": 2000,
+    "count": 83,
+    "numbers": 840,
+    "mean": 70855484.5499,
+    "median": 36.5,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Je eigen kerstboom zagen kan in Kempense natuurgebieden: \"Jonge dennen weghalen als vorm van natuurbeheer\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/kerstbomen-zagen-natuurgebieden-beheer-dennenbomen-populair/"
+     "v": 0,
+     "t": "0",
+     "title": "Verbod op wedstrijd met Israëlische ploeg was niet antisemitisch: klachten tegen Leuvense burgemeester verworpen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/leuven-burgemeester-klacht-antisemitisme-israel-palestina-union/"
     },
     "max": {
-     "v": 563800000,
-     "t": "563,8 miljoen",
-     "title": "Oppositiepartijen niet te spreken over Antwerpse besparingen: \"Inwoners kunnen echt niet nog meer betalen\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/reacties-oppositie-besparingen-stad-antwerpen/"
+     "v": 25000000000,
+     "t": "25 miljard",
+     "title": "\"Niet zoveel mogelijkheden om mindere inkomsten op te vangen\": waarom veel steden en gemeenten fors besparen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/waarom-kondigen-veel-steden-en-gemeenten-besparingen-aan-er-zi/"
     }
    },
    "money": {
