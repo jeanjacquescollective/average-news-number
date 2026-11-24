@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-23T21:19:36+01:00",
+ "updated_at": "2026-11-24T05:54:44+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 103,
-    "numbers": 2459,
-    "mean": 1245062178.6873,
+    "count": 104,
+    "numbers": 2465,
+    "mean": 1242031601.4069,
     "median": 27,
     "min": {
      "v": -24,
@@ -1927,10 +1927,10 @@
     }
    },
    "articles": {
-    "count": 85,
-    "numbers": 766,
-    "mean": 146096866.4994,
-    "median": 17.5,
+    "count": 87,
+    "numbers": 775,
+    "mean": 144400260.7826,
+    "median": 18,
     "min": {
      "v": 0,
      "t": "22.00",
@@ -1956,6 +1956,52 @@
     },
     "neutral": 0,
     "net": 560000000
+   }
+  },
+  {
+   "date": "2026-11-24",
+   "headlines": {
+    "count": 8,
+    "numbers": 3,
+    "mean": 12.1667,
+    "median": 15,
+    "min": {
+     "v": 1.5,
+     "t": "1,5",
+     "title": "Techbeurs Nasdaq beleeft beste dag in 1,5 jaar na terugkeer Huang, topman onder luid applaus onthaald bij Nvidia",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/techbeurs-nasdaq-beleeft-beste-dag-in-15-jaar-na-terugkeer-huan~1776671241366/"
+    },
+    "max": {
+     "v": 20,
+     "t": "20",
+     "title": "Meer dan 20 doden of vermisten bij Saoedische aanvallen op bussen en vrachtwagens",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/meer-dan-20-doden-of-vermisten-bij-saoedische-aanvallen-op-busse~1784611610051/"
+    }
+   },
+   "articles": {
+    "count": 5,
+    "numbers": 53,
+    "mean": 23540562.9811,
+    "median": 2000,
+    "min": {
+     "v": 2,
+     "t": "2",
+     "title": "Je eigen kerstboom zagen kan in Kempense natuurgebieden: \"Jonge dennen weghalen als vorm van natuurbeheer\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/kerstbomen-zagen-natuurgebieden-beheer-dennenbomen-populair/"
+    },
+    "max": {
+     "v": 563800000,
+     "t": "563,8 miljoen",
+     "title": "Oppositiepartijen niet te spreken over Antwerpse besparingen: \"Inwoners kunnen echt niet nog meer betalen\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/reacties-oppositie-besparingen-stad-antwerpen/"
+    }
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]

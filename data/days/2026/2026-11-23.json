@@ -4692,6 +4692,62 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.3BwqandLP",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/voetganger-65-in-levensgevaar-na-aanrijding-met-vrachtwagen-in/",
+   "title": "Voetganger (65) in levensgevaar na aanrijding met vrachtwagen in Tienen",
+   "published": "2026-11-23T23:34:26+01:00",
+   "first_seen": "2026-11-24T05:54:44+01:00",
+   "numbers": [
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 19,
+     "t": "19"
+    },
+    {
+     "v": 65,
+     "t": "65"
+    },
+    {
+     "v": 36,
+     "t": "36"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.lObxVWeQn",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/braziliaanse-oud-president-bolsonaro-aan-de-beterhand/",
+   "title": "Braziliaanse oud-president Jair Bolsonaro aan de beterhand na darmobstructie",
+   "published": "2026-11-23T23:53:59+01:00",
+   "first_seen": "2026-11-24T05:54:44+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 71,
+     "t": "71"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    }
+   ],
+   "money": []
   }
  ]
 }
