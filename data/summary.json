@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-24T16:40:50+01:00",
+ "updated_at": "2026-11-25T01:09:07+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 162,
-    "numbers": 2006,
-    "mean": 624281131.4047,
-    "median": 16.0,
+    "count": 163,
+    "numbers": 2029,
+    "mean": 677825506.0265,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 105,
-    "numbers": 2470,
-    "mean": 1239517934.2041,
-    "median": 27.0,
+    "count": 106,
+    "numbers": 2475,
+    "mean": 1237014423.2323,
+    "median": 27,
     "min": {
      "v": -24,
      "t": "-24",
@@ -1979,10 +1979,10 @@
     }
    },
    "articles": {
-    "count": 83,
-    "numbers": 840,
-    "mean": 70855484.5499,
-    "median": 36.5,
+    "count": 111,
+    "numbers": 1064,
+    "mean": 4762831677.1669,
+    "median": 31.0,
     "min": {
      "v": 0,
      "t": "0",
@@ -1990,10 +1990,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/leuven-burgemeester-klacht-antisemitisme-israel-palestina-union/"
     },
     "max": {
-     "v": 25000000000,
-     "t": "25 miljard",
-     "title": "\"Niet zoveel mogelijkheden om mindere inkomsten op te vangen\": waarom veel steden en gemeenten fors besparen",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/waarom-kondigen-veel-steden-en-gemeenten-besparingen-aan-er-zi/"
+     "v": 5000000000000,
+     "t": "5.000 miljard",
+     "title": "\"Meest corrupte Witte Huis ooit\": parlementsleden in VS kritisch over rol van Trump bij terugkeer van Nvidia-topman",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/trump-nvidia-kritiek-van-congres/"
     }
    },
    "money": {
@@ -2002,6 +2002,44 @@
     "gained": 0,
     "neutral": 0,
     "net": 0
+   }
+  },
+  {
+   "date": "2026-11-25",
+   "headlines": {
+    "count": 19,
+    "numbers": 12,
+    "mean": 833401037.75,
+    "median": 179.5,
+    "min": {
+     "v": 3,
+     "t": "Drie",
+     "title": "Drie mannen in K3-jurkjes gaan viraal in Nederland (maar moeten naam aanpassen van Studio 100)",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/k3-met-de-baard-in-de-keel-studio-100-naam-aanpassen/"
+    },
+    "max": {
+     "v": 10000000000,
+     "t": "10 miljard",
+     "title": "Rousseau na overleg: \"Mijn vragen zijn niet beantwoord\", regering gaat op zoek naar méér dan 10 miljard euro",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/rousseau-na-overleg-mijn-vragen-zijn-niet-beantwoord-regerin~1793247532380/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 2,
+    "lost": 0,
+    "gained": 10000108000,
+    "biggest_gained": {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "title": "Rousseau na overleg: \"Mijn vragen zijn niet beantwoord\", regering gaat op zoek naar méér dan 10 miljard euro",
+     "url": "https://www.vrt.be/vrtnws/nl/liveblog/rousseau-na-overleg-mijn-vragen-zijn-niet-beantwoord-regerin~1793247532380/"
+    },
+    "neutral": 0,
+    "net": 10000108000
    }
   }
  ]

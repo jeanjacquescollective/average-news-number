@@ -1,0 +1,216 @@
+{
+ "date": "2026-11-25",
+ "headlines": [
+  {
+   "title": "Rousseau na overleg: \"Mijn vragen zijn niet beantwoord\", regering gaat op zoek naar méér dan 10 miljard euro",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/rousseau-na-overleg-mijn-vragen-zijn-niet-beantwoord-regerin~1793247532380/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Rousseau na overleg: \"Mijn vragen zijn niet beantwoord\", regering gaat op zoek naar méér dan 10 miljard euro"
+    }
+   ]
+  },
+  {
+   "title": "Kleuter loopt weg van naschoolse opvang in Ekeren en wandelt zelf naar huis",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/peuter-loopt-weg-ekeren-naschoolse-opvang/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Vijf klachten, maar toch vrijspraak gevraagd: persmagistraat legt uit hoe justitie zedenzaken afweegt",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/zedenzaak-verkrachting-vrijspraak-justitie-parket-bewijzen-besch/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 5,
+     "t": "Vijf"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Arbeiders moeten 108.000 euro vergoeding betalen voor vondst en verkoop gouden munten in Assebroek",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/arbeiders-assebroek-gouden-munten-schadevergoeding/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 108000,
+     "t": "108.000"
+    }
+   ],
+   "money": [
+    {
+     "eur": 108000,
+     "t": "108.000 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Arbeiders moeten 108.000 euro vergoeding betalen voor vondst en verkoop gouden munten in Assebroek"
+    }
+   ]
+  },
+  {
+   "title": "Lezing van Franse extreemrechtse activist gaat ondanks annulering door aan UGent: studenten barricaderen lokaal",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/ugent-annuleert-lezing-van-xavier-maire-na-advies-van-politie/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "\"Meest corrupte Witte Huis ooit\": parlementsleden in VS kritisch over rol Trump bij terugkeer Nvidia-topman",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/trump-nvidia-kritiek-van-congres/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "AI-agent die je hele leven voor je kan regelen: Muse van Meta komt naar België",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/persoonlijke-ai-agent-van-meta-komt-binnenkort-ook-naar-belgie/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Zangeres Parastoo Ahmadi uit Iran krijgt 74 zweepslagen na optreden zonder hoofddoek",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/iran-zangerers-74-zweepslagen/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 74,
+     "t": "74"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "VS steunt Belgisch-Chileense kandidatuur voor Vollezeeverdrag",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/vs-steunt-belgisch-chileense-kandidatuur-voor-vollezeeverdrag/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "'Moederschepen', kennis en ervaring: hoe Oekraïne schepen van Rusland ver buiten zijn landsgrenzen kan treffen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/oorlog-rusland-oekraine-libie-benghazi-volodymyr-zelensky-putin/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Rusland verloor al meer dan 700.000 militairen in Oekraïne, blijkt uit analyse van gehackte data",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/rusland-dode-militairen-in-oekraine/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 700000,
+     "t": "700.000"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Onbemand toestel uit Rusland dringt luchtruim van Polen binnen",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/onbemand-toestel-uit-rusland-dringt-luchtruim-van-polen-binnen~1793644191149/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Drie mannen in K3-jurkjes gaan viraal in Nederland (maar moeten naam aanpassen van Studio 100)",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/k3-met-de-baard-in-de-keel-studio-100-naam-aanpassen/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "Drie"
+    },
+    {
+     "v": 100,
+     "t": "100"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "\"Ogen van vuur\": Franciscus schrijft in dagboek over ontmoetingen met de duivel en poorten van de hel",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/paus-franciscus-heeft-de-duivel-gezien-christendom-religie-kerk/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Democraten pakken 259e zetel in Huis door heel nipte overwinning in Tennessee, hoogste aantal zetels sinds 1990",
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/democraten-pakken-259e-zetel-in-huis-door-heel-nipte-overwinning~1792770744209/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 259,
+     "t": "259"
+    },
+    {
+     "v": 1990,
+     "t": "1990"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Mariabeeld uit 13e eeuw dat 'Erik de Belg' in 1979 in parochiekerk in Spanje pikte, duikt op in museum in VK",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/middeleeuws-standbeeld-uit-spanje-gestolen-door-belg-duikt-op/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 1979,
+     "t": "1979"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Farhoudi Moghaddam veroordeeld tot 30 jaar cel voor roofmoord op ex-vriendin Tamara Engels in Sint-Niklaas",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/drie-beklaagden-in-zogenaamde-cryptomoord-in-sint-niklaas-schuld/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [
+    {
+     "v": 30,
+     "t": "30"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Plannen om pesticideregels in EU te versoepelen, verontrusten artsen en milieuverenigingen",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/pesticidenomnibus-protest-straatsburg/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Parket vraagt schuldigverklaring voor ex-politiebaas Glenn Audenaert",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/vordering-audenaert-proces/",
+   "first_seen": "2026-11-25T01:09:07+01:00",
+   "numbers": [],
+   "money": []
+  }
+ ],
+ "articles": []
+}
