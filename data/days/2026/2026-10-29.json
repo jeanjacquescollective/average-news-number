@@ -5946,6 +5946,127 @@
    ]
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/ivan-de-vadder-heeft-weinig-hoop-voor-onderhandelingen-bezighe~1793247532380/",
+   "title": "LIVE Ivan De Vadder heeft weinig hoop voor onderhandelingen: \"Bezigheidstherapie voor voorzitters?\"",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-25T09:50:03+01:00",
+   "numbers": [
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 13000000000,
+     "t": "13 miljard"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 18,
+     "t": "18"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 2029,
+     "t": "2029"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 14000000000,
+     "t": "14 miljard"
+    },
+    {
+     "v": 4000000000,
+     "t": "4 miljard"
+    },
+    {
+     "v": 10000000000,
+     "t": "10 miljard"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 14000000000,
+     "t": "14 miljard"
+    },
+    {
+     "v": 14000000000,
+     "t": "14 miljard"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 14000000000,
+     "t": "14 miljard"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 16,
+     "t": "16"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    },
+    {
+     "v": 31,
+     "t": "31"
+    }
+   ],
+   "money": [
+    {
+     "eur": 13000000000,
+     "t": "13 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premier",
+     "how": "article",
+     "ctx": "Op de vraag of de regering nu 13 miljard euro zoekt in plaats van 10 miljard euro eerder, luidt zijn antwoord: \"Het gaat inderdaad over zo'n bedrag, u bent goed geïnformeerd."
+    },
+    {
+     "eur": 10000000000,
+     "t": "10 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premier",
+     "how": "article",
+     "ctx": "Op de vraag of de regering nu 13 miljard euro zoekt in plaats van 10 miljard euro eerder, luidt zijn antwoord: \"Het gaat inderdaad over zo'n bedrag, u bent goed geïnformeerd."
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

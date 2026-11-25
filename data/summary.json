@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-25T01:09:07+01:00",
+ "updated_at": "2026-11-25T09:50:03+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 163,
-    "numbers": 2029,
-    "mean": 677825506.0265,
-    "median": 16,
+    "count": 164,
+    "numbers": 2052,
+    "mean": 725296273.8108,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 106,
-    "numbers": 2475,
-    "mean": 1237014423.2323,
-    "median": 27,
+    "count": 107,
+    "numbers": 2486,
+    "mean": 1231540988.5439,
+    "median": 27.0,
     "min": {
      "v": -24,
      "t": "-24",
@@ -2007,10 +2007,10 @@
   {
    "date": "2026-11-25",
    "headlines": {
-    "count": 19,
-    "numbers": 12,
-    "mean": 833401037.75,
-    "median": 179.5,
+    "count": 37,
+    "numbers": 25,
+    "mean": 400081192.04,
+    "median": 58,
     "min": {
      "v": 3,
      "t": "Drie",
@@ -2025,8 +2025,22 @@
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 35,
+    "numbers": 454,
+    "mean": 61372771.237,
+    "median": 20.0,
+    "min": {
+     "v": 0,
+     "t": "0",
+     "title": "Wat zijn de strafste lokale winkels in de provincie Antwerpen? Van keurslager tot koffiebranderij: \"Wij maken iedereen blij\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/wie-zijn-de-strafste-lokale-handelaars-van-de-provincie-antwerpe/"
+    },
+    "max": {
+     "v": 8019000000,
+     "t": "8,019 miljard",
+     "title": "Van Silicon Valley tot Gaza: Belgische banken investeren miljoenen in techbedrijven die gelinkt worden aan Israëlische oorlogsvoering",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/van-silicon-valley-tot-gaza-belgische-banken-investeren-miljoen/"
+    }
    },
    "money": {
     "count": 2,
