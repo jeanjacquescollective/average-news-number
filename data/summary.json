@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-25T09:50:03+01:00",
+ "updated_at": "2026-11-25T19:59:03+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 164,
-    "numbers": 2052,
-    "mean": 725296273.8108,
-    "median": 16.0,
+    "count": 165,
+    "numbers": 2053,
+    "mean": 724942987.7554,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -2007,15 +2007,15 @@
   {
    "date": "2026-11-25",
    "headlines": {
-    "count": 37,
-    "numbers": 25,
-    "mean": 400081192.04,
-    "median": 58,
+    "count": 62,
+    "numbers": 38,
+    "mean": 263293002.6316,
+    "median": 66.0,
     "min": {
-     "v": 3,
-     "t": "Drie",
-     "title": "Drie mannen in K3-jurkjes gaan viraal in Nederland (maar moeten naam aanpassen van Studio 100)",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/k3-met-de-baard-in-de-keel-studio-100-naam-aanpassen/"
+     "v": 2,
+     "t": "2",
+     "title": "Krijgt Nicky toch haar droomhuis? 'Blind gekocht'-kandidate krijgt in 'Warmste Week'-special een 2e kans",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/23/special-blind-gekocht/"
     },
     "max": {
      "v": 10000000000,
@@ -2025,10 +2025,10 @@
     }
    },
    "articles": {
-    "count": 35,
-    "numbers": 454,
-    "mean": 61372771.237,
-    "median": 20.0,
+    "count": 98,
+    "numbers": 998,
+    "mean": 356109993.696,
+    "median": 25.0,
     "min": {
      "v": 0,
      "t": "0",
@@ -2036,10 +2036,10 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/wie-zijn-de-strafste-lokale-handelaars-van-de-provincie-antwerpe/"
     },
     "max": {
-     "v": 8019000000,
-     "t": "8,019 miljard",
-     "title": "Van Silicon Valley tot Gaza: Belgische banken investeren miljoenen in techbedrijven die gelinkt worden aan Israëlische oorlogsvoering",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/24/van-silicon-valley-tot-gaza-belgische-banken-investeren-miljoen/"
+     "v": 30000000000,
+     "t": "30 miljard",
+     "title": "Waarom de regering nu 13 miljard euro zoekt in plaats van 10 miljard euro",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/waarom-de-federale-regering-plots-13-miljard-euro-in-plaats-van/"
     }
    },
    "money": {
