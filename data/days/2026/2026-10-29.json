@@ -6103,6 +6103,38 @@
    "money": []
   },
   {
+   "id": null,
+   "url": "https://www.vrt.be/vrtnws/nl/liveblog/rob-jetten-bart-de-wever-en-ik-strijden-samen-voor-aanvaardbar~1793247532380/",
+   "title": "LIVE Rob Jetten: \"Bart De Wever en ik strijden samen voor aanvaardbare Europese begroting\"",
+   "published": "2026-10-29T05:28:02+01:00",
+   "first_seen": "2026-11-26T12:02:08+01:00",
+   "numbers": [
+    {
+     "v": 7,
+     "t": "7"
+    },
+    {
+     "v": 1500000000,
+     "t": "1,5 miljard"
+    },
+    {
+     "v": 27,
+     "t": "27"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1500000000,
+     "t": "1,5 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "premier",
+     "how": "article",
+     "ctx": "Moet België straks 1,5 miljard euro per jaar meer betalen aan Europa?"
+    }
+   ]
+  },
+  {
    "id": "p.Yb5bKKm5D",
    "url": "https://www.vrt.be/vrtnws/nl/2026/10/28/lokeren-ondersteunen-jeugdverenigingen-bouw-verbouwingen-lokalen/",
    "title": "Lokeren wil jeugdverenigingen beter helpen bij renovatie en bouw van lokalen: \"Grote nood aan\"",

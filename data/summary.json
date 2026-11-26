@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-26T03:09:29+01:00",
+ "updated_at": "2026-11-26T12:02:08+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 166,
-    "numbers": 2056,
-    "mean": 723885191.5802,
-    "median": 16.0,
+    "count": 167,
+    "numbers": 2059,
+    "mean": 723558986.8493,
+    "median": 16,
     "min": {
      "v": -30,
      "t": "-30",
@@ -2059,33 +2059,53 @@
   {
    "date": "2026-11-26",
    "headlines": {
-    "count": 7,
-    "numbers": 2,
-    "mean": 47.5,
-    "median": 47.5,
+    "count": 31,
+    "numbers": 16,
+    "mean": 93812957.25,
+    "median": 32.5,
     "min": {
-     "v": 30,
-     "t": "30",
-     "title": "Tankwagen met aardolie kantelt en vliegt in brand op drukke ringweg in Egypte: minstens 30 doden",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/egypte-verkeersongeval-met-tankwagen/"
+     "v": 1,
+     "t": "1",
+     "title": "Explosie en brand in appartementsgebouw in Merksem: 1 dode, 3 mensen naar ziekenhuis",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/explosie-merksem-appartement/"
     },
     "max": {
-     "v": 65,
-     "t": "65",
-     "title": "Gitarist Andy Taylor (65) van Britse band Duran Duran overleden aan de gevolgen van prostaatkanker",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/andy-taylor-duran-duran-overleden/"
+     "v": 1500000000,
+     "t": "1,5 miljard",
+     "title": "Moet België straks 1,5 miljard euro per jaar meer betalen aan Europa?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/moet-belgie-vanaf-2028-per-jaar-1-5-miljard-euro-meer-bijdragen/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 37,
+    "numbers": 391,
+    "mean": 41277970699.9242,
+    "median": 30,
+    "min": {
+     "v": 0,
+     "t": "19.00",
+     "title": "Brand in appartementsgebouw in Molenbeek: 4 personen voor verzorging naar ziekenhuis",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/vier-gewonden-bij-appartementsbrand-in-sint-jans-molenbeek/"
+    },
+    "max": {
+     "v": 2200000000000,
+     "t": "2200 miljard",
+     "title": "Moet België straks 1,5 miljard euro per jaar meer betalen aan Europa?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/moet-belgie-vanaf-2028-per-jaar-1-5-miljard-euro-meer-bijdragen/"
+    }
    },
    "money": {
-    "count": 0,
+    "count": 2,
     "lost": 0,
-    "gained": 0,
+    "gained": 1500000035,
+    "biggest_gained": {
+     "eur": 1500000000,
+     "t": "1,5 miljard euro",
+     "title": "Moet België straks 1,5 miljard euro per jaar meer betalen aan Europa?",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/moet-belgie-vanaf-2028-per-jaar-1-5-miljard-euro-meer-bijdragen/"
+    },
     "neutral": 0,
-    "net": 0
+    "net": 1500000035
    }
   }
  ]
