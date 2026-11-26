@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-26T12:02:08+01:00",
+ "updated_at": "2026-11-26T21:07:38+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,7 +615,7 @@
     }
    },
    "articles": {
-    "count": 167,
+    "count": 168,
     "numbers": 2059,
     "mean": 723558986.8493,
     "median": 16,
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 107,
-    "numbers": 2486,
-    "mean": 1231540988.5439,
+    "count": 108,
+    "numbers": 2504,
+    "mean": 1222688197.907,
     "median": 27.0,
     "min": {
      "v": -24,
@@ -2059,10 +2059,10 @@
   {
    "date": "2026-11-26",
    "headlines": {
-    "count": 31,
-    "numbers": 16,
-    "mean": 93812957.25,
-    "median": 32.5,
+    "count": 55,
+    "numbers": 25,
+    "mean": 60160309.0,
+    "median": 35,
     "min": {
      "v": 1,
      "t": "1",
@@ -2077,10 +2077,10 @@
     }
    },
    "articles": {
-    "count": 37,
-    "numbers": 391,
-    "mean": 41277970699.9242,
-    "median": 30,
+    "count": 96,
+    "numbers": 924,
+    "mean": 17477608934.0604,
+    "median": 35.0,
     "min": {
      "v": 0,
      "t": "19.00",
@@ -2095,9 +2095,9 @@
     }
    },
    "money": {
-    "count": 2,
+    "count": 3,
     "lost": 0,
-    "gained": 1500000035,
+    "gained": 1500860035,
     "biggest_gained": {
      "eur": 1500000000,
      "t": "1,5 miljard euro",
@@ -2105,7 +2105,7 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/moet-belgie-vanaf-2028-per-jaar-1-5-miljard-euro-meer-bijdragen/"
     },
     "neutral": 0,
-    "net": 1500000035
+    "net": 1500860035
    }
   }
  ]
