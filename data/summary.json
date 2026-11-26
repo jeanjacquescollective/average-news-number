@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-25T19:59:03+01:00",
+ "updated_at": "2026-11-26T03:09:29+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 165,
-    "numbers": 2053,
-    "mean": 724942987.7554,
-    "median": 16,
+    "count": 166,
+    "numbers": 2056,
+    "mean": 723885191.5802,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -2025,15 +2025,15 @@
     }
    },
    "articles": {
-    "count": 98,
-    "numbers": 998,
-    "mean": 356109993.696,
-    "median": 25.0,
+    "count": 106,
+    "numbers": 1071,
+    "mean": 331837403.4273,
+    "median": 26,
     "min": {
-     "v": 0,
-     "t": "0",
-     "title": "Wat zijn de strafste lokale winkels in de provincie Antwerpen? Van keurslager tot koffiebranderij: \"Wij maken iedereen blij\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/wie-zijn-de-strafste-lokale-handelaars-van-de-provincie-antwerpe/"
+     "v": -10,
+     "t": "-10",
+     "title": "KMI waarschuwt voor gladde wegen in Brussel, Vlaams-Brabant en Oost- en West-Vlaanderen",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/kmi-waarschuwing/"
     },
     "max": {
      "v": 30000000000,
@@ -2054,6 +2054,38 @@
     },
     "neutral": 0,
     "net": 10000108000
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "headlines": {
+    "count": 7,
+    "numbers": 2,
+    "mean": 47.5,
+    "median": 47.5,
+    "min": {
+     "v": 30,
+     "t": "30",
+     "title": "Tankwagen met aardolie kantelt en vliegt in brand op drukke ringweg in Egypte: minstens 30 doden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/egypte-verkeersongeval-met-tankwagen/"
+    },
+    "max": {
+     "v": 65,
+     "t": "65",
+     "title": "Gitarist Andy Taylor (65) van Britse band Duran Duran overleden aan de gevolgen van prostaatkanker",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/andy-taylor-duran-duran-overleden/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 0,
+    "lost": 0,
+    "gained": 0,
+    "neutral": 0,
+    "net": 0
    }
   }
  ]
