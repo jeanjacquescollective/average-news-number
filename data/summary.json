@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-27T03:55:38+01:00",
+ "updated_at": "2026-11-27T12:59:16+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -829,10 +829,10 @@
     }
    },
    "articles": {
-    "count": 108,
-    "numbers": 2504,
-    "mean": 1222688197.907,
-    "median": 27.0,
+    "count": 109,
+    "numbers": 2512,
+    "mean": 1218794297.2273,
+    "median": 26.0,
     "min": {
      "v": -24,
      "t": "-24",
@@ -2111,39 +2111,53 @@
   {
    "date": "2026-11-27",
    "headlines": {
-    "count": 4,
-    "numbers": 2,
-    "mean": 505.07,
-    "median": 505.07,
+    "count": 25,
+    "numbers": 10,
+    "mean": 20113.833,
+    "median": 11.545,
     "min": {
-     "v": 3,
-     "t": "3",
-     "title": "Aandeel Bpost 3 keer minder waard dan prior-zegel, toch blijft CEO optimistisch: \"Beste in pakjesmarkt\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/bpost-chris-peeters-terzake/"
+     "v": -4.9,
+     "t": "-4,9",
+     "title": "Laagste temperatuur van het jaar gemeten in Ukkel met -4,9 graden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/laagste-temperatuur-van-het-jaar-gemeten-in-ukkel/"
     },
     "max": {
-     "v": 1007.14,
-     "t": "1.007,14",
-     "title": "Kerstbal met Jezusfiguurtje voor 1.007,14 euro onder de hamer bij kringwinkel Den Azalee in Sint-Niklaas",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/kerstbal-jezus-1000-euro-azalee-sint-niklaas/"
+     "v": 200000,
+     "t": "200.000",
+     "title": "Marco Borsato krijgt 200.000 euro aan advocaatkosten terug na vrijspraak in zedenzaak",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/marco-borsato-krijgt-helft-van-advocatenkosten-200-000-euro-te/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 41,
+    "numbers": 422,
+    "mean": 483466992.8233,
+    "median": 15.0,
+    "min": {
+     "v": -10,
+     "t": "-10",
+     "title": "Laagste temperatuur van het jaar gemeten in Ukkel met -4,9 graden",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/laagste-temperatuur-van-het-jaar-gemeten-in-ukkel/"
+    },
+    "max": {
+     "v": 204000000000,
+     "t": "204 miljard",
+     "title": "EU-top eindigt zonder akkoord over meerjarenbegroting",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/eu-top-eindigt-zonder-akkoord-over-meerjarenbegroting/"
+    }
    },
    "money": {
-    "count": 1,
+    "count": 2,
     "lost": 0,
-    "gained": 1007.14,
+    "gained": 201007.14,
     "biggest_gained": {
-     "eur": 1007.14,
-     "t": "1.007,14 euro",
-     "title": "Kerstbal met Jezusfiguurtje voor 1.007,14 euro onder de hamer bij kringwinkel Den Azalee in Sint-Niklaas",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/kerstbal-jezus-1000-euro-azalee-sint-niklaas/"
+     "eur": 200000,
+     "t": "200.000 euro",
+     "title": "Marco Borsato krijgt 200.000 euro aan advocaatkosten terug na vrijspraak in zedenzaak",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/marco-borsato-krijgt-helft-van-advocatenkosten-200-000-euro-te/"
     },
     "neutral": 0,
-    "net": 1007.14
+    "net": 201007.14
    }
   }
  ]
