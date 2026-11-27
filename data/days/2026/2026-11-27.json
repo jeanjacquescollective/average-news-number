@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-27",
+ "headlines": [
+  {
+   "title": "Europese Unie begaat \"strategische vergissing\" als ze bespaart op begroting, waarschuwt Macron",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/eu-meerjarenbegroting-macron/",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "title": "Aandeel Bpost 3 keer minder waard dan prior-zegel, toch blijft CEO optimistisch: \"Beste in pakjesmarkt\"",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/bpost-chris-peeters-terzake/",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    }
+   ],
+   "money": []
+  },
+  {
+   "title": "Kerstbal met Jezusfiguurtje voor 1.007,14 euro onder de hamer bij kringwinkel Den Azalee in Sint-Niklaas",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/kerstbal-jezus-1000-euro-azalee-sint-niklaas/",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [
+    {
+     "v": 1007.14,
+     "t": "1.007,14"
+    }
+   ],
+   "money": [
+    {
+     "eur": 1007.14,
+     "t": "1.007,14 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "Kerstbal met Jezusfiguurtje voor 1.007,14 euro onder de hamer bij kringwinkel Den Azalee in Sint-Niklaas"
+    }
+   ]
+  },
+  {
+   "title": "Huisjesmelkers in Nederland dumpen arbeidsmigranten in ondermaatse panden over grens met België",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/overlast-arbeidsmigratie-huisvesting-grensstreek-belgie-nederlan/",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [],
+   "money": []
+  }
+ ],
+ "articles": []
+}

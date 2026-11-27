@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-26T21:07:38+01:00",
+ "updated_at": "2026-11-27T03:55:38+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -2077,10 +2077,10 @@
     }
    },
    "articles": {
-    "count": 96,
-    "numbers": 924,
-    "mean": 17477608934.0604,
-    "median": 35.0,
+    "count": 101,
+    "numbers": 957,
+    "mean": 17088098953.1534,
+    "median": 36,
     "min": {
      "v": 0,
      "t": "19.00",
@@ -2106,6 +2106,44 @@
     },
     "neutral": 0,
     "net": 1500860035
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "headlines": {
+    "count": 4,
+    "numbers": 2,
+    "mean": 505.07,
+    "median": 505.07,
+    "min": {
+     "v": 3,
+     "t": "3",
+     "title": "Aandeel Bpost 3 keer minder waard dan prior-zegel, toch blijft CEO optimistisch: \"Beste in pakjesmarkt\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/bpost-chris-peeters-terzake/"
+    },
+    "max": {
+     "v": 1007.14,
+     "t": "1.007,14",
+     "title": "Kerstbal met Jezusfiguurtje voor 1.007,14 euro onder de hamer bij kringwinkel Den Azalee in Sint-Niklaas",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/kerstbal-jezus-1000-euro-azalee-sint-niklaas/"
+    }
+   },
+   "articles": {
+    "count": 0,
+    "numbers": 0
+   },
+   "money": {
+    "count": 1,
+    "lost": 0,
+    "gained": 1007.14,
+    "biggest_gained": {
+     "eur": 1007.14,
+     "t": "1.007,14 euro",
+     "title": "Kerstbal met Jezusfiguurtje voor 1.007,14 euro onder de hamer bij kringwinkel Den Azalee in Sint-Niklaas",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/kerstbal-jezus-1000-euro-azalee-sint-niklaas/"
+    },
+    "neutral": 0,
+    "net": 1007.14
    }
   }
  ]

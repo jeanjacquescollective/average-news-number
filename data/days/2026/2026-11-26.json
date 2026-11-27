@@ -5750,6 +5750,253 @@
     }
    ],
    "money": []
+  },
+  {
+   "id": "p.11pNDqm6q",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/nieuwe-verkeersmaatregelen-don-boscowijk-halle/",
+   "title": "Schoolbuurt in Halle krijgt knip en eenrichtingsstraten, oppositie vreest dat drukte gewoon verschuift",
+   "published": "2026-11-26T21:07:27+01:00",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [],
+   "money": []
+  },
+  {
+   "id": "p.jGkmRbNkw",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/jan-buyck-schuldig-aan-moord-roeselare-messteken/",
+   "title": "Volksjury is duidelijk: man uit Roeselare schuldig aan moord met 122 messteken op echtgenote",
+   "published": "2026-11-26T21:07:32+01:00",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [
+    {
+     "v": 122,
+     "t": "122"
+    },
+    {
+     "v": 64,
+     "t": "64"
+    },
+    {
+     "v": 56,
+     "t": "56"
+    },
+    {
+     "v": 122,
+     "t": "122"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 1,
+     "t": "1"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 13,
+     "t": "13"
+    },
+    {
+     "v": 122,
+     "t": "122"
+    },
+    {
+     "v": 9,
+     "t": "9"
+    }
+   ],
+   "money": []
+  },
+  {
+   "id": "p.JN40onn68",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/bpost-chris-peeters-terzake/",
+   "title": "Aandeel Bpost 3 keer minder waard dan prior-zegel, toch blijft CEO optimistisch: \"Beste leverancier in pakjesmarkt\"",
+   "published": "2026-11-26T21:13:49+01:00",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [
+    {
+     "v": 3,
+     "t": "3"
+    },
+    {
+     "v": 0.74,
+     "t": "0,74"
+    },
+    {
+     "v": 2013,
+     "t": "2013"
+    },
+    {
+     "v": 15,
+     "t": "15"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 30,
+     "t": "30"
+    },
+    {
+     "v": 2018,
+     "t": "2018"
+    },
+    {
+     "v": 0.74,
+     "t": "0,74"
+    },
+    {
+     "v": 2.52,
+     "t": "2,52"
+    },
+    {
+     "v": 2023,
+     "t": "2023"
+    },
+    {
+     "v": 2024,
+     "t": "2024"
+    },
+    {
+     "v": 25000,
+     "t": "25.000"
+    },
+    {
+     "v": 2,
+     "t": "2"
+    }
+   ],
+   "money": [
+    {
+     "eur": 0.74,
+     "t": "0,74 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "gekelderd",
+     "how": "sentence",
+     "ctx": "Hoewel de beurskoers van Bpost is gekelderd tot 0,74 euro per aandeel, blijft CEO Chris Peeters optimistisch over de toekomst van het postbedrijf."
+    },
+    {
+     "eur": 15,
+     "t": "15 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "waard",
+     "how": "title",
+     "ctx": "Bij de beursgang van Bnode, het moederbedrijf van Bpost, in 2013 noteerde het aandeel op bijna 15 euro."
+    },
+    {
+     "eur": 30,
+     "t": "30 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "waard",
+     "how": "title",
+     "ctx": "5 jaar later flirtte het aandeel met de grens van 30 euro."
+    },
+    {
+     "eur": 0.74,
+     "t": "0,74 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "waard",
+     "how": "title",
+     "ctx": "Vandaag is de prijs van een aandeel 0,74 euro."
+    },
+    {
+     "eur": 2.52,
+     "t": "2,52 euro",
+     "cur": "EUR",
+     "dir": "lost",
+     "kw": "kost",
+     "how": "sentence",
+     "ctx": "Dat is nog geen derde van een prior-postzegel, die los 2,52 euro kost."
+    }
+   ]
+  },
+  {
+   "id": "p.bDodOqww5",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/eu-meerjarenbegroting-macron/",
+   "title": "Europese Unie begaat \"strategische vergissing\" als ze bespaart op begroting, waarschuwt Macron",
+   "published": "2026-11-26T21:49:15+01:00",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [
+    {
+     "v": 2028,
+     "t": "2028"
+    },
+    {
+     "v": 2034,
+     "t": "2034"
+    },
+    {
+     "v": 6,
+     "t": "6"
+    },
+    {
+     "v": 10,
+     "t": "10"
+    },
+    {
+     "v": 204000000000,
+     "t": "204 miljard"
+    }
+   ],
+   "money": [
+    {
+     "eur": 204000000000,
+     "t": "204 miljard euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": "bespaard",
+     "how": "sentence",
+     "ctx": "Onder impuls van Duitsland en 6 andere lidstaten is al ongeveer 10 procent of 204 miljard euro bespaard op de ontwerpbegroting die de Europese Commissie vorig jaar had voorgesteld, en deze groep, met ook België, ijvert momenteel op de top voor verdere besparingen."
+    }
+   ]
+  },
+  {
+   "id": "p.bDodODqbN",
+   "url": "https://www.vrt.be/vrtnws/nl/2026/11/26/overlast-arbeidsmigratie-huisvesting-grensstreek-belgie-nederlan/",
+   "title": "\"Onhoudbaar\": huisjesmelkers in Nederland dumpen arbeidsmigranten in ondermaatse panden over grens met België",
+   "published": "2026-11-26T21:59:53+01:00",
+   "first_seen": "2026-11-27T03:55:38+01:00",
+   "numbers": [
+    {
+     "v": 20,
+     "t": "20"
+    },
+    {
+     "v": 5,
+     "t": "5"
+    },
+    {
+     "v": 500,
+     "t": "500"
+    },
+    {
+     "v": 200,
+     "t": "200"
+    },
+    {
+     "v": 600,
+     "t": "600"
+    }
+   ],
+   "money": [
+    {
+     "eur": 600,
+     "t": "600 euro",
+     "cur": "EUR",
+     "dir": "gained",
+     "kw": null,
+     "how": "default",
+     "ctx": "\"Soms wordt 600 euro per maand per matras gevraagd."
+    }
+   ]
   }
  ]
 }
