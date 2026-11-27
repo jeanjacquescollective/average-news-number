@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-27T12:59:16+01:00",
+ "updated_at": "2026-11-27T22:08:32+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -2111,10 +2111,10 @@
   {
    "date": "2026-11-27",
    "headlines": {
-    "count": 25,
-    "numbers": 10,
-    "mean": 20113.833,
-    "median": 11.545,
+    "count": 43,
+    "numbers": 17,
+    "mean": 1247135.1371,
+    "median": 18,
     "min": {
      "v": -4.9,
      "t": "-4,9",
@@ -2122,17 +2122,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/laagste-temperatuur-van-het-jaar-gemeten-in-ukkel/"
     },
     "max": {
-     "v": 200000,
-     "t": "200.000",
-     "title": "Marco Borsato krijgt 200.000 euro aan advocaatkosten terug na vrijspraak in zedenzaak",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/marco-borsato-krijgt-helft-van-advocatenkosten-200-000-euro-te/"
+     "v": 20000000,
+     "t": "20 miljoen",
+     "title": "Defensie koopt 10 nieuwe onderwaterdrones voor 20 miljoen euro",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/defensie-koopt-tien-nieuwe-onderwaterdrones/"
     }
    },
    "articles": {
-    "count": 41,
-    "numbers": 422,
-    "mean": 483466992.8233,
-    "median": 15.0,
+    "count": 101,
+    "numbers": 935,
+    "mean": 218502906.2786,
+    "median": 19,
     "min": {
      "v": -10,
      "t": "-10",
@@ -2147,17 +2147,17 @@
     }
    },
    "money": {
-    "count": 2,
+    "count": 3,
     "lost": 0,
-    "gained": 201007.14,
+    "gained": 20201007.14,
     "biggest_gained": {
-     "eur": 200000,
-     "t": "200.000 euro",
-     "title": "Marco Borsato krijgt 200.000 euro aan advocaatkosten terug na vrijspraak in zedenzaak",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/marco-borsato-krijgt-helft-van-advocatenkosten-200-000-euro-te/"
+     "eur": 20000000,
+     "t": "20 miljoen euro",
+     "title": "Defensie koopt 10 nieuwe onderwaterdrones voor 20 miljoen euro",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/27/defensie-koopt-tien-nieuwe-onderwaterdrones/"
     },
     "neutral": 0,
-    "net": 201007.14
+    "net": 20201007.14
    }
   }
  ]
