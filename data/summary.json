@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-28T13:09:57+01:00",
+ "updated_at": "2026-11-28T21:18:25+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -615,10 +615,10 @@
     }
    },
    "articles": {
-    "count": 168,
-    "numbers": 2059,
-    "mean": 723558986.8493,
-    "median": 16,
+    "count": 169,
+    "numbers": 2064,
+    "mean": 726651141.4398,
+    "median": 16.0,
     "min": {
      "v": -30,
      "t": "-30",
@@ -829,9 +829,9 @@
     }
    },
    "articles": {
-    "count": 109,
-    "numbers": 2512,
-    "mean": 1218794297.2273,
+    "count": 110,
+    "numbers": 2526,
+    "mean": 1212039313.4699,
     "median": 26.0,
     "min": {
      "v": -24,
@@ -2163,10 +2163,10 @@
   {
    "date": "2026-11-28",
    "headlines": {
-    "count": 23,
-    "numbers": 9,
-    "mean": 10.8333,
-    "median": 4.5,
+    "count": 42,
+    "numbers": 17,
+    "mean": 1502.5,
+    "median": 16,
     "min": {
      "v": 0,
      "t": "Zero",
@@ -2174,17 +2174,17 @@
      "url": "https://www.vrt.be/vrtnws/nl/2026/11/28/coca-cola-waarschuwt-voor-verkeerd-etiket-petflesjes-coca-cola-z/"
     },
     "max": {
-     "v": 36,
-     "t": "36",
-     "title": "Topsporter Freya Aelbrecht (36) moet olympische droom opbergen: \"Ik kan finale openwaterzwemmen niet meer halen\"",
-     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/freya-aelbrecht-moet-olympische-droom-opbergen-ik-kan-finale-va/"
+     "v": 25000,
+     "t": "25.000",
+     "title": "Tim De Roeck (43) uit Gent viert mijlpaal van 25.000 geproefde bieren: \"Zelfs Noord-Korea al afgevinkt\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/28/man-bier-recensies/"
     }
    },
    "articles": {
-    "count": 30,
-    "numbers": 346,
-    "mean": 2767995.0234,
-    "median": 18.0,
+    "count": 49,
+    "numbers": 516,
+    "mean": 2830978.512,
+    "median": 17.5,
     "min": {
      "v": 0,
      "t": "Zero",
