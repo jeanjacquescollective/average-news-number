@@ -2,7 +2,7 @@
  "source": "https://www.vrt.be/vrtnws/nl/",
  "timezone": "Europe/Brussels",
  "tracking_start": "2026-10-16",
- "updated_at": "2026-11-28T04:21:24+01:00",
+ "updated_at": "2026-11-28T13:09:57+01:00",
  "days": [
   {
    "date": "2026-10-16",
@@ -2163,26 +2163,40 @@
   {
    "date": "2026-11-28",
    "headlines": {
-    "count": 2,
-    "numbers": 1,
-    "mean": 2.0,
-    "median": 2,
+    "count": 23,
+    "numbers": 9,
+    "mean": 10.8333,
+    "median": 4.5,
     "min": {
-     "v": 2,
-     "t": "2",
-     "title": "Artsen zonder Grenzen: \"2 collega's gedood bij Israëlische aanval op ziekenhuis in Gaza\"",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/artsen-zonder-grenzen-2-collegas-gedood-bij-israelische-aanva~1787143375321/"
+     "v": 0,
+     "t": "Zero",
+     "title": "Coca-Cola waarschuwt opnieuw voor verkeerd etiket op flesjes Coca-Cola Zero Sugar",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/28/coca-cola-waarschuwt-voor-verkeerd-etiket-petflesjes-coca-cola-z/"
     },
     "max": {
-     "v": 2,
-     "t": "2",
-     "title": "Artsen zonder Grenzen: \"2 collega's gedood bij Israëlische aanval op ziekenhuis in Gaza\"",
-     "url": "https://www.vrt.be/vrtnws/nl/liveblog/artsen-zonder-grenzen-2-collegas-gedood-bij-israelische-aanva~1787143375321/"
+     "v": 36,
+     "t": "36",
+     "title": "Topsporter Freya Aelbrecht (36) moet olympische droom opbergen: \"Ik kan finale openwaterzwemmen niet meer halen\"",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/25/freya-aelbrecht-moet-olympische-droom-opbergen-ik-kan-finale-va/"
     }
    },
    "articles": {
-    "count": 0,
-    "numbers": 0
+    "count": 30,
+    "numbers": 346,
+    "mean": 2767995.0234,
+    "median": 18.0,
+    "min": {
+     "v": 0,
+     "t": "Zero",
+     "title": "Coca-Cola waarschuwt opnieuw voor verkeerd etiket op flesjes Coca-Cola Zero Sugar",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/28/coca-cola-waarschuwt-voor-verkeerd-etiket-petflesjes-coca-cola-z/"
+    },
+    "max": {
+     "v": 560000000,
+     "t": "560 miljoen",
+     "title": "Dokters van de Wereld vreest meer straatdoden door beperking Antwerpse winteropvang",
+     "url": "https://www.vrt.be/vrtnws/nl/2026/11/28/dokters-van-de-wereld-vreest-meer-straatdoden-door-beperking-ant/"
+    }
    },
    "money": {
     "count": 0,
